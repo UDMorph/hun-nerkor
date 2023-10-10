@@ -1,0 +1,183 @@
+# newdoc id = globv_1
+# sent_id = globv_1_s-1
+# text = Három hónap telt el az újságíró házaspár, Sagar Sarwar és felesége, Meherun Runi meggyilkolása óta.
+1	Három	három	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-1
+2	hónap	hónap	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-2
+3	telt	telik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-3
+4	el	el	ADV	_	_	_	_	_	tokId=w-4
+5	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-5
+6	újságíró	újságíró	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-6
+7	házaspár	házaspár	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-7|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-8
+9	Sagar	Sagar	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-9|NE=name[PER]_1
+10	Sarwar	Sarwar	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-10|NE=name[PER]_1
+11	és	és	CCONJ	_	_	_	_	_	tokId=w-11
+12	felesége	feleség	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-12|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-13
+14	Meherun	Meherun	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-14|NE=name[PER]_2
+15	Runi	Runi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-15|NE=name[PER]_2
+16	meggyilkolása	meggyilkolás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-16
+17	óta	óta	ADP	_	_	_	_	_	tokId=w-17|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-18
+
+# sent_id = globv_1_s-2
+# text = A rendőrségnek a mai napig nem sikerült olyan nyomokat és bizonyítékokat találnia, melyek segítségükre lehetnének az ügy megoldásában.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-19
+2	rendőrségnek	rendőrség	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-20
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-21
+4	mai	mai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-22
+5	napig	nap	NOUN	_	Case=Ter|Number=Sing	_	_	_	tokId=w-23
+6	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-24
+7	sikerült	sikerül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-25
+8	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-26
+9	nyomokat	nyom	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-27
+10	és	és	CCONJ	_	_	_	_	_	tokId=w-28
+11	bizonyítékokat	bizonyíték	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-29
+12	találnia	talál	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	tokId=w-30|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-31
+14	melyek	mely	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-32
+15	segítségükre	segítség	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-33
+16	lehetnének	lesz	VERB	_	Definite=Ind|Mood=Cnd,Pot|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-34
+17	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-35
+18	ügy	ügy	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-36
+19	megoldásában	megoldás	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-37|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-38
+
+# sent_id = globv_1_s-3
+# text = A brutálisan meggyilkolt házaspárra 2012. február 12-én a korai órákban találtak rá a Dhaka Nyugat Rajabazar városrészében lévő lakásukban.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-39
+2	brutálisan	brutális	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-40
+3	meggyilkolt	meggyilkolt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-41
+4	házaspárra	házaspár	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-42
+5	2012.	2012.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-43
+6	február	február	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-44
+7	12-én	12	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-45
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-46
+9	korai	korai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-47
+10	órákban	óra	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-48
+11	találtak	talál	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-49
+12	rá	rá	ADV	_	_	_	_	_	tokId=w-50
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-51
+14	Dhaka	Dhaka	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-52|NE=name[LOC]_3
+15	Nyugat	nyugat	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-53|NE=name[LOC]_3
+16	Rajabazar	Rajabazar	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-54|NE=name[LOC]_3
+17	városrészében	városrész	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-55
+18	lévő	lévő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-56
+19	lakásukban	lakás	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-57|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-58
+
+# sent_id = globv_1_s-4
+# text = A Bangladesi Legfelsőbb Bíróság elégedetlenségét fejezte ki a rendőrség detektívosztálya által irányított nyomozás előrehaladása (vagyis inkább annak hiánya) miatt.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-59
+2	Bangladesi	bangladesi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-60|NE=name[ORG]_4
+3	Legfelsőbb	felső	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-61|NE=name[ORG]_4
+4	Bíróság	bíróság	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-62|NE=name[ORG]_4
+5	elégedetlenségét	elégedetlenség	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-63
+6	fejezte	fejez	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-64
+7	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-65
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-66
+9	rendőrség	rendőrség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-67
+10	detektívosztálya	detektívosztály	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-68
+11	által	által	ADP	_	_	_	_	_	tokId=w-69
+12	irányított	irányított	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-70
+13	nyomozás	nyomozás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-71
+14	előrehaladása	előrehaladás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-72
+15	(	(	PUNCT	_	_	_	_	_	tokId=w-73|SpaceAfter=No
+16	vagyis	vagyis	CCONJ	_	_	_	_	_	tokId=w-74
+17	inkább	inkább	ADV	_	_	_	_	_	tokId=w-75
+18	annak	az	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-76
+19	hiánya	hiány	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-77|SpaceAfter=No
+20	)	)	PUNCT	_	_	_	_	_	tokId=w-78
+21	miatt	miatt	ADP	_	_	_	_	_	tokId=w-79|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-80
+
+# sent_id = globv_1_s-5
+# text = Az ügyet azóta átvette a bűnellenes és terrorizmusellenes egység, a Gyorsreagálású Zászlóalj.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-81
+2	ügyet	ügy	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-82
+3	azóta	azóta	ADV	_	PronType=Dem	_	_	_	tokId=w-83
+4	átvette	átvesz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-84
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-85
+6	bűnellenes	bűnellenes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-86
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-87
+8	terrorizmusellenes	terrorizmusellenes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-88
+9	egység	egység	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-89|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-90
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-91
+12	Gyorsreagálású	gyorsreagálású	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-92|NE=name[ORG]_5
+13	Zászlóalj	zászlóalj	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-93|NE=name[ORG]_5|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-94
+
+# sent_id = globv_1_s-6
+# text = A holttesteket már exhumálták is, hogy megismételjék a boncolást.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-95
+2	holttesteket	holttest	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-96
+3	már	már	ADV	_	_	_	_	_	tokId=w-97
+4	exhumálták	exhumál	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-98
+5	is	is	ADV	_	_	_	_	_	tokId=w-99|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-100
+7	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-101
+8	megismételjék	megismétel	VERB	_	Definite=Def|Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-102
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-103
+10	boncolást	boncolás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-104|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-105
+
+# sent_id = globv_1_s-7
+# text = Ugyanakkor továbbra sem történt jelentős előrelépés a nyomozásban.
+1	Ugyanakkor	ugyanakkor	CCONJ	_	_	_	_	_	tokId=w-106
+2	továbbra	továbbra	ADV	_	_	_	_	_	tokId=w-107
+3	sem	sem	ADV	_	PronType=Neg	_	_	_	tokId=w-108
+4	történt	történik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-109
+5	jelentős	jelentős	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-110
+6	előrelépés	előrelépés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-111
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-112
+8	nyomozásban	nyomozás	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-113|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-114
+
+# sent_id = globv_1_s-8
+# text = Kezdetben a rendőrség úgy próbálta megakadályozni a bloggerek tiltakozóakcióját, hogy autóikat a tüntetés helyszínére parkolták le és nem adtak engedélyt az elektromos hálózat használatára a rendezvény során.
+1	Kezdetben	kezdet	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-115
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-116
+3	rendőrség	rendőrség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-117
+4	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-118
+5	próbálta	próbál	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-119
+6	megakadályozni	megakadályoz	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-120
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-121
+8	bloggerek	blogger	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-122
+9	tiltakozóakcióját	tiltakozóakció	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-123|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-124
+11	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-125
+12	autóikat	autó	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-126
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-127
+14	tüntetés	tüntetés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-128
+15	helyszínére	helyszín	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-129
+16	parkolták	parkol	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-130
+17	le	le	ADV	_	Degree=Pos	_	_	_	tokId=w-131
+18	és	és	CCONJ	_	_	_	_	_	tokId=w-132
+19	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-133
+20	adtak	ad	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-134
+21	engedélyt	engedély	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-135
+22	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-136
+23	elektromos	elektromos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-137
+24	hálózat	hálózat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-138
+25	használatára	használat	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-139
+26	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-140
+27	rendezvény	rendezvény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-141
+28	során	során	ADP	_	_	_	_	_	tokId=w-142|SpaceAfter=No
+29	.	.	PUNCT	_	_	_	_	_	tokId=w-143
+
+# sent_id = globv_1_s-9
+# text = Később a bloggerek mikrofonok nélkül, énekelve tartották meg a demonstrációt.
+1	Később	később	ADV	_	Degree=Cmp	_	_	_	tokId=w-144
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-145
+3	bloggerek	blogger	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-146
+4	mikrofonok	mikrofon	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-147
+5	nélkül	nélkül	ADP	_	_	_	_	_	tokId=w-148|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-149
+7	énekelve	énekelve	ADV	_	VerbForm=Conv	_	_	_	tokId=w-150
+8	tartották	tart	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-151
+9	meg	meg	PART	_	_	_	_	_	tokId=w-152
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-153
+11	demonstrációt	demonstráció	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-154|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-155
+

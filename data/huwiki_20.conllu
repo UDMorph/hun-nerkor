@@ -1,0 +1,400 @@
+# newdoc id = huwiki_20
+# sent_id = huwiki_20_s-1
+# text = A Marley meg én egy 2008-as amerikai családi film, amelynek forgatókönyvét Scott Frank és Don Roos írta John Grogan azonos című regénye alapján.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-1
+2	Marley	Marley	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-2|NE=name[MISC]_1
+3	meg	meg	CCONJ	_	_	_	_	_	tokId=w-3|NE=name[MISC]_1
+4	én	én	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	tokId=w-4|NE=name[MISC]_1
+5	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-5
+6	2008-as	2008-as	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-6
+7	amerikai	amerikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-7
+8	családi	családi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-8
+9	film	film	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-9|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-10
+11	amelynek	amely	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-11
+12	forgatókönyvét	forgatókönyv	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-12
+13	Scott	Scott	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-13|NE=name[PER]_2
+14	Frank	Frank	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-14|NE=name[PER]_2
+15	és	és	CCONJ	_	_	_	_	_	tokId=w-15
+16	Don	Don	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-16|NE=name[PER]_3
+17	Roos	Roos	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-17|NE=name[PER]_3
+18	írta	ír	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-18
+19	John	John	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-19|NE=name[PER]_4
+20	Grogan	Grogan	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-20|NE=name[PER]_4
+21	azonos	azonos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-21
+22	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-22
+23	regénye	regény	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-23
+24	alapján	alapján	ADP	_	_	_	_	_	tokId=w-24|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-25
+
+# sent_id = huwiki_20_s-2
+# text = A David Frankel rendezte filmet 2008. december 25-én mutatták be az Amerikai Egyesült Államokbanés Kanadában, a film rögtön rekordbevételt ért el a karácsonyi bemutatók között.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-26
+2	David	David	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-27|NE=name[PER]_5
+3	Frankel	Frankel	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-28|NE=name[PER]_5
+4	rendezte	rendezte	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-29
+5	filmet	film	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-30
+6	2008.	2008.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-31
+7	december	december	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-32
+8	25-én	25	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-33
+9	mutatták	mutat	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-34
+10	be	be	ADV	_	Degree=Pos	_	_	_	tokId=w-35
+11	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-36
+12	Amerikai	Amerikai	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-37|NE=name[LOC]_6
+13	Egyesült	Egyesült	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-38|NE=name[LOC]_6
+14	Államokban	Államok	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-39|NE=name[LOC]_6|SpaceAfter=No
+15	és	és	CCONJ	_	_	_	_	_	tokId=w-40
+16	Kanadában	Kanada	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-41|NE=name[LOC]_7|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-42
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-43
+19	film	film	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-44
+20	rögtön	rögtön	ADV	_	_	_	_	_	tokId=w-45
+21	rekordbevételt	rekordbevétel	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-46
+22	ért	ér	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-47
+23	el	el	ADV	_	_	_	_	_	tokId=w-48
+24	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-49
+25	karácsonyi	karácsonyi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-50
+26	bemutatók	bemutató	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-51
+27	között	között	ADP	_	_	_	_	_	tokId=w-52|SpaceAfter=No
+28	.	.	PUNCT	_	_	_	_	_	tokId=w-53
+
+# sent_id = huwiki_20_s-3
+# text = Címszereplője, Marley , egy zsemleszínű labrador retriever kan, „ a világ legrosszabb kutyája ”.
+1	Címszereplője	címszereplő	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-54|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-55
+3	Marley	Marley	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-56|NE=name[PER]_8
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-57
+5	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-58
+6	zsemleszínű	zsemleszínű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-59
+7	labrador	labrador	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-60
+8	retriever	retriever	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-61
+9	kan	kan	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-62|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-63
+11	„	„	PUNCT	_	_	_	_	_	tokId=w-64
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-65
+13	világ	világ	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-66
+14	legrosszabb	rossz	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-67
+15	kutyája	kutya	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-68
+16	”	”	PUNCT	_	_	_	_	_	tokId=w-69|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-70
+
+# sent_id = huwiki_20_s-4
+# text = Egy fiatal amerikai pár kutyát szeretne, hosszas gondolkozás után egy labrador retrieverre esett a választásuk.
+1	Egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-71
+2	fiatal	fiatal	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-72
+3	amerikai	amerikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-73
+4	pár	pár	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-74
+5	kutyát	kutya	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-75
+6	szeretne	szeret	VERB	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-76|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-77
+8	hosszas	hosszas	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-78
+9	gondolkozás	gondolkozás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-79
+10	után	után	ADP	_	_	_	_	_	tokId=w-80
+11	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-81
+12	labrador	labrador	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-82
+13	retrieverre	retriever	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-83
+14	esett	esik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-84
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-85
+16	választásuk	választás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-86|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-87
+
+# sent_id = huwiki_20_s-5
+# text = A tenyésztő az egyik kiskutyát feltűnően olcsón adja, végül rá esik a választásuk.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-88
+2	tenyésztő	tenyésztő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-89
+3	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-90
+4	egyik	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-91
+5	kiskutyát	kiskutya	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-92
+6	feltűnően	feltűnő	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-93
+7	olcsón	olcsó	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-94
+8	adja	ad	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-95|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-96
+10	végül	végül	ADV	_	_	_	_	_	tokId=w-97
+11	rá	rá	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-98
+12	esik	esik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-99
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-100
+14	választásuk	választás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-101|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-102
+
+# sent_id = huwiki_20_s-6
+# text = Csak később derül ki, hogy nem véletlenül volt olyan olcsó.
+1	Csak	csak	ADV	_	_	_	_	_	tokId=w-103
+2	később	később	ADV	_	_	_	_	_	tokId=w-104
+3	derül	derül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-105
+4	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-106|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-107
+6	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-108
+7	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-109
+8	véletlenül	véletlenül	ADV	_	_	_	_	_	tokId=w-110
+9	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-111
+10	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-112
+11	olcsó	olcsó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-113|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-114
+
+# sent_id = huwiki_20_s-7
+# text = Marley egy telhetetlenül falánk, szófogadatlan, hiperaktív kutya lett, akivel az élet egy fedél alatt nem éppen könnyű.
+1	Marley	Marley	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-115|NE=name[PER]_9
+2	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-116
+3	telhetetlenül	telhetetlen	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-117
+4	falánk	falánk	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-118|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-119
+6	szófogadatlan	szófogadatlan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-120|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-121
+8	hiperaktív	hiperaktív	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-122
+9	kutya	kutya	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-123
+10	lett	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-124|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-125
+12	akivel	aki	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-126
+13	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-127
+14	élet	élet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-128
+15	egy	egy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-129
+16	fedél	fedél	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-130
+17	alatt	alatt	ADP	_	_	_	_	_	tokId=w-131
+18	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-132
+19	éppen	éppen	ADV	_	_	_	_	_	tokId=w-133
+20	könnyű	könnyű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-134|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-135
+
+# sent_id = huwiki_20_s-8
+# text = Mindent lever, mindent megrág, széttép, tönkretesz.
+1	Mindent	minden	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-136
+2	lever	lever	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-137|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-138
+4	mindent	minden	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-139
+5	megrág	megrág	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-140|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-141
+7	széttép	széttép	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-142|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-143
+9	tönkretesz	tönkretesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-144|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-145
+
+# sent_id = huwiki_20_s-9
+# text = Amikor a fiataloknak kisbabájuk születik, kiderül, hogy milyen nehéz „ a világ legrosszabb kutyájával ” és egy kisbabával élni egy kis házban.
+1	Amikor	amikor	ADV	_	PronType=Rel	_	_	_	tokId=w-146
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-147
+3	fiataloknak	fiatal	NOUN	_	Case=Dat|Number=Plur	_	_	_	tokId=w-148
+4	kisbabájuk	kisbaba	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-149
+5	születik	születik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-150|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-151
+7	kiderül	kiderül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-152|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-153
+9	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-154
+10	milyen	milyen	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Int	_	_	_	tokId=w-155
+11	nehéz	nehéz	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-156
+12	„	„	PUNCT	_	_	_	_	_	tokId=w-157
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-158
+14	világ	világ	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-159
+15	legrosszabb	rossz	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-160
+16	kutyájával	kutya	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-161
+17	”	”	PUNCT	_	_	_	_	_	tokId=w-162
+18	és	és	CCONJ	_	_	_	_	_	tokId=w-163
+19	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-164
+20	kisbabával	kisbaba	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-165
+21	élni	él	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-166
+22	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-167
+23	kis	kis	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-168
+24	házban	ház	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-169|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-170
+
+# sent_id = huwiki_20_s-10
+# text = Amikor már a következő két baba is világra jön, egyre gyakrabban gondolkoznak azon, hogy meg kellene válniuk a mindent leverő és szétszaggató kutyától, de nem viszi rá őket a lélek.
+1	Amikor	amikor	ADV	_	PronType=Rel	_	_	_	tokId=w-171
+2	már	már	ADV	_	_	_	_	_	tokId=w-172
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-173
+4	következő	következő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-174
+5	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-175
+6	baba	baba	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-176
+7	is	is	ADV	_	_	_	_	_	tokId=w-177
+8	világra	világ	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-178
+9	jön	jön	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-179|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-180
+11	egyre	egyre	ADV	_	_	_	_	_	tokId=w-181
+12	gyakrabban	gyakrabban	ADV	_	_	_	_	_	tokId=w-182
+13	gondolkoznak	gondolkozik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-183
+14	azon	az	PRON	_	Case=Sup|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-184|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-185
+16	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-186
+17	meg	meg	PART	_	_	_	_	_	tokId=w-187
+18	kellene	kell	VERB	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-188
+19	válniuk	válik	VERB	_	Number=Plur|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	tokId=w-189
+20	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-190
+21	mindent	minden	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-191
+22	leverő	leverő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-192
+23	és	és	CCONJ	_	_	_	_	_	tokId=w-193
+24	szétszaggató	szétszaggató	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-194
+25	kutyától	kutya	NOUN	_	Case=Abl|Number=Sing	_	_	_	tokId=w-195|SpaceAfter=No
+26	,	,	PUNCT	_	_	_	_	_	tokId=w-196
+27	de	de	CCONJ	_	_	_	_	_	tokId=w-197
+28	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-198
+29	viszi	visz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-199
+30	rá	rá	ADV	_	_	_	_	_	tokId=w-200
+31	őket	ők	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	_	_	_	tokId=w-201
+32	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-202
+33	lélek	lélek	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-203|SpaceAfter=No
+34	.	.	PUNCT	_	_	_	_	_	tokId=w-204
+
+# sent_id = huwiki_20_s-11
+# text = Utóbb, amikor anyagilag már jobban állnak, egy nagyobb, medencés házba költöznek, ahol sokkal jobban elférnek.
+1	Utóbb	utóbb	ADV	_	_	_	_	_	tokId=w-205|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-206
+3	amikor	amikor	ADV	_	PronType=Rel	_	_	_	tokId=w-207
+4	anyagilag	anyagilag	ADV	_	_	_	_	_	tokId=w-208
+5	már	már	ADV	_	_	_	_	_	tokId=w-209
+6	jobban	jól	ADJ	_	Degree=Cmp	_	_	_	tokId=w-210
+7	állnak	áll	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-211|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-212
+9	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-213
+10	nagyobb	nagy	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-214|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-215
+12	medencés	medencés	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-216
+13	házba	ház	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-217
+14	költöznek	költözik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-218|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-219
+16	ahol	ahol	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-220
+17	sokkal	sokkal	ADV	_	_	_	_	_	tokId=w-221
+18	jobban	jól	ADV	_	Degree=Cmp	_	_	_	tokId=w-222
+19	elférnek	elfér	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-223|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-224
+
+# sent_id = huwiki_20_s-12
+# text = Később onnan is elköltöznek északra, egy erdőben álló régi házba.
+1	Később	később	ADV	_	_	_	_	_	tokId=w-225
+2	onnan	onnan	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-226
+3	is	is	ADV	_	_	_	_	_	tokId=w-227
+4	elköltöznek	elköltözik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-228
+5	északra	észak	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-229|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-230
+7	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-231
+8	erdőben	erdő	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-232
+9	álló	álló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-233
+10	régi	régi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-234
+11	házba	ház	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-235|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-236
+
+# sent_id = huwiki_20_s-13
+# text = Gyorsan telnek az évek, a gyermekek megnőnek, és Marley megöregszik.
+1	Gyorsan	gyors	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-237
+2	telnek	telik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-238
+3	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-239
+4	évek	év	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-240|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-241
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-242
+7	gyermekek	gyermek	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-243
+8	megnőnek	megnő	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-244|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-245
+10	és	és	CCONJ	_	_	_	_	_	tokId=w-246
+11	Marley	Marley	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-247|NE=name[PER]_10
+12	megöregszik	megöregszik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-248|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-249
+
+# sent_id = huwiki_20_s-14
+# text = Egy nap a túl falánk evéstől gyomorcsavarodást kap.
+1	Egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-250
+2	nap	nap	ADV	_	_	_	_	_	tokId=w-251
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-252
+4	túl	túl	ADV	_	_	_	_	_	tokId=w-253
+5	falánk	falánk	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-254
+6	evéstől	evés	NOUN	_	Case=Abl|Number=Sing	_	_	_	tokId=w-255
+7	gyomorcsavarodást	gyomorcsavarodás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-256
+8	kap	kap	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-257|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-258
+
+# sent_id = huwiki_20_s-15
+# text = Az orvos megmenti az életét, de figyelmezteti őket, a következő esetleg el fogja vinni.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-259
+2	orvos	orvos	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-260
+3	megmenti	megment	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-261
+4	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-262
+5	életét	élet	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-263|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-264
+7	de	de	CCONJ	_	_	_	_	_	tokId=w-265
+8	figyelmezteti	figyelmeztet	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-266
+9	őket	ők	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	_	_	_	tokId=w-267|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-268
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-269
+12	következő	következő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-270
+13	esetleg	esetleg	ADV	_	_	_	_	_	tokId=w-271
+14	el	el	ADV	_	_	_	_	_	tokId=w-272
+15	fogja	fog	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-273
+16	vinni	visz	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-274|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-275
+
+# sent_id = huwiki_20_s-16
+# text = Pár hónap múlva ismét bekövetkezik a baj.
+1	Pár	pár	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-276
+2	hónap	hónap	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-277
+3	múlva	múlva	ADP	_	_	_	_	_	tokId=w-278
+4	ismét	ismét	ADV	_	_	_	_	_	tokId=w-279
+5	bekövetkezik	bekövetkezik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-280
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-281
+7	baj	baj	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-282|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-283
+
+# sent_id = huwiki_20_s-17
+# text = Marley a falánk evéstől újra megbetegszik, egyre rosszabbul van, majd elmegy az erdőbe meghalni.
+1	Marley	Marley	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-284|NE=name[PER]_11
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-285
+3	falánk	falánk	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-286
+4	evéstől	evés	NOUN	_	Case=Abl|Number=Sing	_	_	_	tokId=w-287
+5	újra	újra	ADV	_	_	_	_	_	tokId=w-288
+6	megbetegszik	megbetegszik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-289|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-290
+8	egyre	egyre	ADV	_	_	_	_	_	tokId=w-291
+9	rosszabbul	rossz	ADJ	_	Case=Ess|Degree=Cmp|Number=Sing	_	_	_	tokId=w-292
+10	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-293|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-294
+12	majd	majd	CCONJ	_	_	_	_	_	tokId=w-295
+13	elmegy	elmegy	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-296
+14	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-297
+15	erdőbe	erdő	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-298
+16	meghalni	meghal	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-299|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-300
+
+# sent_id = huwiki_20_s-18
+# text = A gazdája megtalálja, és rögtön orvoshoz viszi, de a kezelés ellenére a kutya nem lesz jobban, végül az állatorvos kénytelen elaltatni.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-301
+2	gazdája	gazda	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-302
+3	megtalálja	megtalál	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-303|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-304
+5	és	és	CCONJ	_	_	_	_	_	tokId=w-305
+6	rögtön	rögtön	ADV	_	_	_	_	_	tokId=w-306
+7	orvoshoz	orvos	NOUN	_	Case=All|Number=Sing	_	_	_	tokId=w-307
+8	viszi	visz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-308|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-309
+10	de	de	CCONJ	_	_	_	_	_	tokId=w-310
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-311
+12	kezelés	kezelés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-312
+13	ellenére	ellenére	ADP	_	_	_	_	_	tokId=w-313
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-314
+15	kutya	kutya	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-315
+16	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-316
+17	lesz	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-317
+18	jobban	jól	ADJ	_	Degree=Cmp	_	_	_	tokId=w-318|SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	tokId=w-319
+20	végül	végül	ADV	_	_	_	_	_	tokId=w-320
+21	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-321
+22	állatorvos	állatorvos	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-322
+23	kénytelen	kénytelen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-323
+24	elaltatni	elaltat	VERB	_	VerbForm=Inf|Voice=Cau	_	_	_	tokId=w-324|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-325
+
+# sent_id = huwiki_20_s-19
+# text = Halálakor döbbennek rá, hogy „ a világ legrosszabb kutyája ” valójában egy csodálatos társ volt.
+1	Halálakor	halál	NOUN	_	Case=Tem|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-326
+2	döbbennek	döbben	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-327
+3	rá	rá	ADV	_	_	_	_	_	tokId=w-328|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-329
+5	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-330
+6	„	„	PUNCT	_	_	_	_	_	tokId=w-331
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-332
+8	világ	világ	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-333
+9	legrosszabb	rossz	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-334
+10	kutyája	kutya	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-335
+11	”	”	PUNCT	_	_	_	_	_	tokId=w-336
+12	valójában	valójában	ADV	_	_	_	_	_	tokId=w-337
+13	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-338
+14	csodálatos	csodálatos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-339
+15	társ	társ	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-340
+16	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-341|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-342
+

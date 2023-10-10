@@ -1,0 +1,671 @@
+# newdoc id = w355
+# sent_id = w355_s-1
+# text = Minden adatot kizárólag a felhasználó tulajdonos jóváhagyásával kezelünk.
+1	Minden	minden	DET	_	Definite=Ind|PronType=Tot	_	_	_	tokId=w-1
+2	adatot	adat	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-2
+3	kizárólag	kizárólag	ADV	_	_	_	_	_	tokId=w-3
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-4
+5	felhasználó	felhasználó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-5
+6	tulajdonos	tulajdonos	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-6
+7	jóváhagyásával	jóváhagyás	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-7
+8	kezelünk	kezel	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-8|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-9
+
+# sent_id = w355_s-2
+# text = Üzleti, szakmai partnerek elérhetőségei
+1	Üzleti	üzleti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-10|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-11
+3	szakmai	szakmai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-12
+4	partnerek	partner	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-13
+5	elérhetőségei	elérhetőség	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-14
+
+# sent_id = w355_s-3
+# text = Üzleti / szakmai kapcsolataim során jogos érdek alapján kezelem a partnereim vezetőinek, dolgozóinak, kapcsolattartóinak személyes adatait: nevet, telefonszámot, email címet.
+1	Üzleti	üzleti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-15
+2	/	/	X	_	_	_	_	_	tokId=w-16
+3	szakmai	szakmai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-17
+4	kapcsolataim	kapcsolat	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=1	_	_	_	tokId=w-18
+5	során	során	ADP	_	_	_	_	_	tokId=w-19
+6	jogos	jogos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-20
+7	érdek	érdek	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-21
+8	alapján	alapján	ADP	_	_	_	_	_	tokId=w-22
+9	kezelem	kezel	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-23
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-24
+11	partnereim	partner	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=1	_	_	_	tokId=w-25
+12	vezetőinek	vezető	NOUN	_	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-26|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-27
+14	dolgozóinak	dolgozó	NOUN	_	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-28|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-29
+16	kapcsolattartóinak	kapcsolattartó	NOUN	_	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-30
+17	személyes	személyes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-31
+18	adatait	adat	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-32|SpaceAfter=No
+19	:	:	PUNCT	_	_	_	_	_	tokId=w-33
+20	nevet	név	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-34|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-35
+22	telefonszámot	telefonszám	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-36|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-37
+24	email	email	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-38
+25	címet	cím	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-39|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-40
+
+# sent_id = w355_s-4
+# text = 6. Szerződés és jogi kötelezettség
+1	6.	6.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-41
+2	Szerződés	szerződés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-42
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-43
+4	jogi	jogi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-44
+5	kötelezettség	kötelezettség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-45
+
+# sent_id = w355_s-5
+# text = A számlázási adatok vezetése és a számla kiállítása jogszabályban előírt kötelezettségem.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-46
+2	számlázási	számlázási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-47
+3	adatok	adat	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-48
+4	vezetése	vezetés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-49
+5	és	és	CCONJ	_	_	_	_	_	tokId=w-50
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-51
+7	számla	számla	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-52
+8	kiállítása	kiállítás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-53
+9	jogszabályban	jogszabály	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-54
+10	előírt	előírt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-55
+11	kötelezettségem	kötelezettség	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	_	_	_	tokId=w-56|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-57
+
+# sent_id = w355_s-6
+# text = Vállalkozásom alapvetően jogi személyekkel köt szerződést, mégis előfordulhat, hogy szerződéseimbe személyes adatok is kerülnek, például a kapcsolattartó neve, telefonszáma, e-mail címe, vagy a jogi személy képviselőjének a neve.
+1	Vállalkozásom	vállalkozás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	_	_	_	tokId=w-58
+2	alapvetően	alapvető	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-59
+3	jogi	jogi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-60
+4	személyekkel	személy	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-61
+5	köt	köt	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-62
+6	szerződést	szerződés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-63|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-64
+8	mégis	mégis	ADV	_	_	_	_	_	tokId=w-65
+9	előfordulhat	előfordul	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-66|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-67
+11	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-68
+12	szerződéseimbe	szerződés	NOUN	_	Case=Ill|Number=Plur|Number[psor]=Sing|Person[psor]=1	_	_	_	tokId=w-69
+13	személyes	személyes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-70
+14	adatok	adat	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-71
+15	is	is	ADV	_	_	_	_	_	tokId=w-72
+16	kerülnek	kerül	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-73|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-74
+18	például	például	ADV	_	_	_	_	_	tokId=w-75
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-76
+20	kapcsolattartó	kapcsolattartó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-77
+21	neve	név	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-78|SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-79
+23	telefonszáma	telefonszám	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-80|SpaceAfter=No
+24	,	,	PUNCT	_	_	_	_	_	tokId=w-81
+25	e-mail	e-mail	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-82
+26	címe	cím	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-83|SpaceAfter=No
+27	,	,	PUNCT	_	_	_	_	_	tokId=w-84
+28	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-85
+29	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-86
+30	jogi	jogi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-87
+31	személy	személy	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-88
+32	képviselőjének	képviselő	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-89
+33	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-90
+34	neve	név	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-91|SpaceAfter=No
+35	.	.	PUNCT	_	_	_	_	_	tokId=w-92
+
+# sent_id = w355_s-7
+# text = Az adatok tárolásának időtartama
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-93
+2	adatok	adat	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-94
+3	tárolásának	tárolás	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-95
+4	időtartama	időtartam	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-96
+
+# sent_id = w355_s-8
+# text = kapcsolatfelvételi űrlap (név, email cím) – érintett általi visszavonásig
+1	kapcsolatfelvételi	kapcsolatfelvételi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-97
+2	űrlap	űrlap	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-98
+3	(	(	PUNCT	_	_	_	_	_	tokId=w-99|SpaceAfter=No
+4	név	név	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-100|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-101
+6	email	email	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-102
+7	cím	cím	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-103|SpaceAfter=No
+8	)	)	PUNCT	_	_	_	_	_	tokId=w-104
+9	–	–	X	_	_	_	_	_	tokId=w-105
+10	érintett	érintett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-106
+11	általi	általi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-107
+12	visszavonásig	visszavonás	NOUN	_	Case=Ter|Number=Sing	_	_	_	tokId=w-108
+
+# sent_id = w355_s-9
+# text = Hírlevélre feliratkozás (név, email cím) – leiratkozásig
+1	Hírlevélre	hírlevél	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-109
+2	feliratkozás	feliratkozás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-110
+3	(	(	PUNCT	_	_	_	_	_	tokId=w-111|SpaceAfter=No
+4	név	név	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-112|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-113
+6	email	email	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-114
+7	cím	cím	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-115|SpaceAfter=No
+8	)	)	PUNCT	_	_	_	_	_	tokId=w-116
+9	–	–	X	_	_	_	_	_	tokId=w-117
+10	leiratkozásig	leiratkozás	NOUN	_	Case=Ter|Number=Sing	_	_	_	tokId=w-118
+
+# sent_id = w355_s-10
+# text = Számlázási név és cím – jogszabályban előírt ideig, egyéni vállalkozók esetében tárgyév + 5 év
+1	Számlázási	Számlázási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-119
+2	név	név	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-120
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-121
+4	cím	cím	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-122
+5	–	–	X	_	_	_	_	_	tokId=w-123
+6	jogszabályban	jogszabály	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-124
+7	előírt	előírt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-125
+8	ideig	idő	NOUN	_	Case=Ter|Number=Sing	_	_	_	tokId=w-126|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-127
+10	egyéni	egyéni	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-128
+11	vállalkozók	vállalkozó	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-129
+12	esetében	eset	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-130
+13	tárgyév	tárgyév	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-131
+14	+	+	PUNCT	_	_	_	_	_	tokId=w-132
+15	5	5	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-133
+16	év	év	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-134
+
+# sent_id = w355_s-11
+# text = Üzleti partnerek adatai (név, e-mail cím, telefonszám) – üzleti kapcsolat fennálltáig, törlési kérelemig
+1	Üzleti	üzleti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-135
+2	partnerek	partner	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-136
+3	adatai	adat	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-137
+4	(	(	PUNCT	_	_	_	_	_	tokId=w-138|SpaceAfter=No
+5	név	név	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-139|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-140
+7	e-mail	e-mail	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-141
+8	cím	cím	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-142|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-143
+10	telefonszám	telefonszám	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-144|SpaceAfter=No
+11	)	)	PUNCT	_	_	_	_	_	tokId=w-145
+12	–	–	X	_	_	_	_	_	tokId=w-146
+13	üzleti	üzleti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-147
+14	kapcsolat	kapcsolat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-148
+15	fennálltáig	fennállta	NOUN	_	Case=Ter|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-149|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-150
+17	törlési	törlési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-151
+18	kérelemig	kérelem	NOUN	_	Case=Ter|Number=Sing	_	_	_	tokId=w-152
+
+# sent_id = w355_s-12
+# text = Facebook oldal (név, hozzászólás) – oldal törléséig, érintett általi oldalkedvelés visszavonásáig, érintett törlési műveletéig
+1	Facebook	Facebook	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-153|NE=name[MISC]_1
+2	oldal	oldal	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-154
+3	(	(	PUNCT	_	_	_	_	_	tokId=w-155|SpaceAfter=No
+4	név	név	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-156|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-157
+6	hozzászólás	hozzászólás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-158|SpaceAfter=No
+7	)	)	PUNCT	_	_	_	_	_	tokId=w-159
+8	–	–	X	_	_	_	_	_	tokId=w-160
+9	oldal	oldal	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-161
+10	törléséig	törlés	NOUN	_	Case=Ter|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-162|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-163
+12	érintett	érintett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-164
+13	általi	általi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-165
+14	oldalkedvelés	oldalkedvelés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-166
+15	visszavonásáig	visszavonás	NOUN	_	Case=Ter|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-167|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-168
+17	érintett	érintett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-169
+18	törlési	törlési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-170
+19	műveletéig	művelet	NOUN	_	Case=Ter|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-171
+
+# sent_id = w355_s-13
+# text = Regisztrált egyének adatai (név, e-mail cím) a regisztráció törléséig.
+1	Regisztrált	regisztrált	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-172
+2	egyének	egyén	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-173
+3	adatai	adat	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-174
+4	(	(	PUNCT	_	_	_	_	_	tokId=w-175|SpaceAfter=No
+5	név	név	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-176|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-177
+7	e-mail	e-mail	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-178
+8	cím	cím	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-179|SpaceAfter=No
+9	)	)	PUNCT	_	_	_	_	_	tokId=w-180
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-181
+11	regisztráció	regisztráció	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-182
+12	törléséig	törlés	NOUN	_	Case=Ter|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-183|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-184
+
+# sent_id = w355_s-14
+# text = A weboldalról érkező sütik – sütik érvényességi idejéig, ill. amíg a felhasználó nem törli a böngészőjéből azokat
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-185
+2	weboldalról	weboldal	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-186
+3	érkező	érkező	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-187
+4	sütik	süti	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-188
+5	–	–	X	_	_	_	_	_	tokId=w-189
+6	sütik	süti	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-190
+7	érvényességi	érvényességi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-191
+8	idejéig	idő	NOUN	_	Case=Ter|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-192|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-193
+10	ill.	ill.	CCONJ	_	_	_	_	_	tokId=w-194
+11	amíg	amíg	ADV	_	PronType=Rel	_	_	_	tokId=w-195
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-196
+13	felhasználó	felhasználó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-197
+14	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-198
+15	törli	töröl	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-199
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-200
+17	böngészőjéből	böngésző	NOUN	_	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-201
+18	azokat	az	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-202
+
+# sent_id = w355_s-15
+# text = Google Analytics látogatottsági statisztika – 26 hónap 9.
+1	Google	Google	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-203|NE=name[MISC]_2
+2	Analytics	Analytics	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-204|NE=name[MISC]_2
+3	látogatottsági	látogatottsági	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-205
+4	statisztika	statisztika	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-206
+5	–	–	X	_	_	_	_	_	tokId=w-207
+6	26	26	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-208
+7	hónap	hónap	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-209
+8	9	9	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-210|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-211
+
+# sent_id = w355_s-16
+# text = Partnereink
+1	Partnereink	partner	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-212
+
+# sent_id = w355_s-17
+# text = Vállakozásom egyes feladatai ellátása érdekében adatfeldolgozókat vesz igénybe.
+1	Vállakozásom	vállalkozás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	_	_	_	tokId=w-213
+2	egyes	egyes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-214
+3	feladatai	feladat	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-215
+4	ellátása	ellátás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-216
+5	érdekében	érdekében	ADP	_	_	_	_	_	tokId=w-217
+6	adatfeldolgozókat	adatfeldolgozó	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-218
+7	vesz	vesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-219
+8	igénybe	igény	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-220|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-221
+
+# sent_id = w355_s-18
+# text = szolgáltatónk: Webonic Kft. 8000 Székesfehérvár Budai út 14. webonic.hu
+1	szolgáltatónk	szolgáltató	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-222|SpaceAfter=No
+2	:	:	PUNCT	_	_	_	_	_	tokId=w-223
+3	Webonic	Webonic	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-224|NE=name[ORG]_3
+4	Kft.	Kft.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-225|NE=name[ORG]_3
+5	8000	8000	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-226
+6	Székesfehérvár	Székesfehérvár	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-227|NE=name[LOC]_4
+7	Budai	Budai	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-228|NE=name[LOC]_5
+8	út	út	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-229|NE=name[LOC]_5
+9	14.	14	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-230
+10	webonic.hu	webonic.hu	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-231
+
+# sent_id = w355_s-19
+# text = E-mailek fogadása és küldése: Webonic Kft. 8000 Székesfehérvár Budai út
+1	E-mailek	e-mail	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-232
+2	fogadása	fogadás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-233
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-234
+4	küldése	küldés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-235|SpaceAfter=No
+5	:	:	PUNCT	_	_	_	_	_	tokId=w-236
+6	Webonic	Webonic	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-237|NE=name[ORG]_6
+7	Kft.	Kft.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-238|NE=name[ORG]_6
+8	8000	8000	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-239
+9	Székesfehérvár	Székesfehérvár	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-240|NE=name[LOC]_7
+10	Budai	Budai	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-241|NE=name[LOC]_8
+11	út	út	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-242|NE=name[LOC]_8
+
+# sent_id = w355_s-20
+# text = (hozzáférés a felhasználó nevéhez, kommentjéhez.) Google Analytics: Google Inc., Mountain View, California, USA (Hozzáférés a honlap látogatóinak anonimizált, személyhez nem köthető IP címéhez.) 11.
+1	(	(	PUNCT	_	_	_	_	_	tokId=w-243|SpaceAfter=No
+2	hozzáférés	hozzáférés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-244
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-245
+4	felhasználó	felhasználó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-246
+5	nevéhez	név	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-247|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-248
+7	kommentjéhez.	komment	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-249|SpaceAfter=No
+8	)	)	PUNCT	_	_	_	_	_	tokId=w-250
+9	Google	Google	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-251|NE=name[MISC]_9
+10	Analytics	Analytics	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-252|NE=name[MISC]_9|SpaceAfter=No
+11	:	:	PUNCT	_	_	_	_	_	tokId=w-253
+12	Google	Google	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-254|NE=name[ORG]_10
+13	Inc.	Inc.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-255|NE=name[ORG]_10|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-256
+15	Mountain	Mountain	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-257|NE=name[LOC]_11
+16	View	View	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-258|NE=name[LOC]_11|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-259
+18	California	California	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-260|NE=name[LOC]_12|SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	tokId=w-261
+20	USA	USA	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-262|NE=name[LOC]_13
+21	(	(	PUNCT	_	_	_	_	_	tokId=w-263|SpaceAfter=No
+22	Hozzáférés	hozzáférés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-264
+23	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-265
+24	honlap	honlap	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-266
+25	látogatóinak	látogató	NOUN	_	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-267
+26	anonimizált	anonimizált	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-268|SpaceAfter=No
+27	,	,	PUNCT	_	_	_	_	_	tokId=w-269
+28	személyhez	személy	NOUN	_	Case=All|Number=Sing	_	_	_	tokId=w-270
+29	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-271
+30	köthető	köthető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-272
+31	IP	IP	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-273
+32	címéhez	cím	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-274|SpaceAfter=No
+33	.	.	PUNCT	_	_	_	_	_	tokId=w-275|SpaceAfter=No
+34	)	)	PUNCT	_	_	_	_	_	tokId=w-276
+35	11	11	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-277|SpaceAfter=No
+36	.	.	PUNCT	_	_	_	_	_	tokId=w-278
+
+# sent_id = w355_s-21
+# text = Ha a kérelem elektronikus úton került benyújtásra, az információkat széles körben használt elektronikus adom át (.doc, .pdf, .xls, .jpg stb.), kivéve, ha az érintett másképp kéri.
+1	Ha	ha	SCONJ	_	_	_	_	_	tokId=w-279
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-280
+3	kérelem	kérelem	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-281
+4	elektronikus	elektronikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-282
+5	úton	út	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-283
+6	került	kerül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-284
+7	benyújtásra	benyújtás	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-285|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-286
+9	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-287
+10	információkat	információ	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-288
+11	széles	széles	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-289
+12	körben	kör	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-290
+13	használt	használt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-291
+14	elektronikus	elektronikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-292
+15	adom	ad	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-293
+16	át	át	ADV	_	_	_	_	_	tokId=w-294
+17	(	(	PUNCT	_	_	_	_	_	tokId=w-295|SpaceAfter=No
+18	.doc	.doc	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-296|SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	tokId=w-297
+20	.pdf	.pdf	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-298|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-299
+22	.xls	.xls	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-300|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-301
+24	.jpg	.jpg	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-302
+25	stb.	stb.	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-303|SpaceAfter=No
+26	)	)	PUNCT	_	_	_	_	_	tokId=w-304|SpaceAfter=No
+27	,	,	PUNCT	_	_	_	_	_	tokId=w-305
+28	kivéve	kivéve	ADV	_	_	_	_	_	tokId=w-306|SpaceAfter=No
+29	,	,	PUNCT	_	_	_	_	_	tokId=w-307
+30	ha	ha	SCONJ	_	_	_	_	_	tokId=w-308
+31	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-309
+32	érintett	érintett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-310
+33	másképp	másképp	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-311
+34	kéri	kér	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-312|SpaceAfter=No
+35	.	.	PUNCT	_	_	_	_	_	tokId=w-313
+
+# sent_id = w355_s-22
+# text = A másolat igénylésére vonatkozó jog nem érintheti hátrányosan mások jogait és szabadságait.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-314
+2	másolat	másolat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-315
+3	igénylésére	igénylés	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-316
+4	vonatkozó	vonatkozó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-317
+5	jog	jog	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-318
+6	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-319
+7	érintheti	érint	VERB	_	Definite=Def|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-320
+8	hátrányosan	hátrányos	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-321
+9	mások	más	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Ind|Person=3|PronType=Ind	_	_	_	tokId=w-322
+10	jogait	jog	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-323
+11	és	és	CCONJ	_	_	_	_	_	tokId=w-324
+12	szabadságait	szabadság	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-325|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-326
+
+# sent_id = w355_s-23
+# text = Ebben az esetben a személyes adatokat nem kezelhetem tovább, kivéve, ha bizonyítom, hogy azt olyan kényszerítő erejű jogos okok indokolják, amelyek elsőbbséget élveznek ügyfelem / megbízóm érdekeivel, jogaival és szabadságaival szemben, vagy amelyek jogi igények előterjesztéséhez, érvényesítéséhez vagy védelméhez kapcsolódnak.
+1	Ebben	ez	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-327
+2	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-328
+3	esetben	eset	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-329
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-330
+5	személyes	személyes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-331
+6	adatokat	adat	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-332
+7	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-333
+8	kezelhetem	kezel	VERB	_	Definite=Def|Mood=Pot|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-334
+9	tovább	tovább	ADV	_	_	_	_	_	tokId=w-335|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-336
+11	kivéve	kivéve	ADV	_	_	_	_	_	tokId=w-337|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-338
+13	ha	ha	SCONJ	_	_	_	_	_	tokId=w-339
+14	bizonyítom	bizonyít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-340|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-341
+16	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-342
+17	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-343
+18	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-344
+19	kényszerítő	kényszerítő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-345
+20	erejű	erejű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-346
+21	jogos	jogos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-347
+22	okok	ok	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-348
+23	indokolják	indokol	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-349|SpaceAfter=No
+24	,	,	PUNCT	_	_	_	_	_	tokId=w-350
+25	amelyek	amely	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-351
+26	elsőbbséget	elsőbbség	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-352
+27	élveznek	élvez	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-353
+28	ügyfelem	ügyfél	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	_	_	_	tokId=w-354
+29	/	/	X	_	_	_	_	_	tokId=w-355
+30	megbízóm	megbízó	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	_	_	_	tokId=w-356
+31	érdekeivel	érdek	NOUN	_	Case=Ins|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-357|SpaceAfter=No
+32	,	,	PUNCT	_	_	_	_	_	tokId=w-358
+33	jogaival	jog	NOUN	_	Case=Ins|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-359
+34	és	és	CCONJ	_	_	_	_	_	tokId=w-360
+35	szabadságaival	szabadság	NOUN	_	Case=Ins|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-361
+36	szemben	szemben	ADP	_	_	_	_	_	tokId=w-362|SpaceAfter=No
+37	,	,	PUNCT	_	_	_	_	_	tokId=w-363
+38	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-364
+39	amelyek	amely	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-365
+40	jogi	jogi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-366
+41	igények	igény	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-367
+42	előterjesztéséhez	előterjesztés	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-368|SpaceAfter=No
+43	,	,	PUNCT	_	_	_	_	_	tokId=w-369
+44	érvényesítéséhez	érvényesítés	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-370
+45	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-371
+46	védelméhez	védelem	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-372
+47	kapcsolódnak	kapcsolódik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-373|SpaceAfter=No
+48	.	.	PUNCT	_	_	_	_	_	tokId=w-374
+
+# sent_id = w355_s-24
+# text = Eladó akkor fogadja el a megrendelést, ha Vevő a megrendeléshez szükséges valamennyi információt helyesen Eladó rendelkezésére bocsátotta a regisztráció során vagy a megrendelés időpontjában.
+1	Eladó	eladó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-375
+2	akkor	akkor	ADV	_	PronType=Dem	_	_	_	tokId=w-376
+3	fogadja	fogad	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-377
+4	el	el	ADV	_	_	_	_	_	tokId=w-378
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-379
+6	megrendelést	megrendelés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-380|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-381
+8	ha	ha	SCONJ	_	_	_	_	_	tokId=w-382
+9	Vevő	vevő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-383
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-384
+11	megrendeléshez	megrendelés	NOUN	_	Case=All|Number=Sing	_	_	_	tokId=w-385
+12	szükséges	szükséges	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-386
+13	valamennyi	valamennyi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind	_	_	_	tokId=w-387
+14	információt	információ	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-388
+15	helyesen	helyes	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-389
+16	Eladó	eladó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-390
+17	rendelkezésére	rendelkezés	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-391
+18	bocsátotta	bocsát	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-392
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-393
+20	regisztráció	regisztráció	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-394
+21	során	során	ADP	_	_	_	_	_	tokId=w-395
+22	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-396
+23	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-397
+24	megrendelés	megrendelés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-398
+25	időpontjában	időpont	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-399|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-400
+
+# sent_id = w355_s-25
+# text = Eladó vállalja, hogy hiányzó vagy hibás megrendelésszám esetén kísérletet tesz a megrendelés azonosítására, de az azonosítás sikertelensége esetén Eladót semmilyen felelősség sem terheli.
+1	Eladó	eladó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-401
+2	vállalja	vállal	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-402|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-403
+4	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-404
+5	hiányzó	hiányzó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-405
+6	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-406
+7	hibás	hibás	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-407
+8	megrendelésszám	megrendelésszám	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-408
+9	esetén	esetén	ADP	_	_	_	_	_	tokId=w-409
+10	kísérletet	kísérlet	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-410
+11	tesz	tesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-411
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-412
+13	megrendelés	megrendelés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-413
+14	azonosítására	azonosítás	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-414|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-415
+16	de	de	CCONJ	_	_	_	_	_	tokId=w-416
+17	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-417
+18	azonosítás	azonosítás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-418
+19	sikertelensége	sikertelenség	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-419
+20	esetén	esetén	ADP	_	_	_	_	_	tokId=w-420
+21	Eladót	eladó	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-421
+22	semmilyen	semmilyen	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-422
+23	felelősség	felelősség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-423
+24	sem	sem	ADV	_	PronType=Neg	_	_	_	tokId=w-424
+25	terheli	terhel	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-425|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-426
+
+# sent_id = w355_s-26
+# text = 3. Személyes átvétel
+1	3.	3.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-427
+2	Személyes	személyes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-428
+3	átvétel	átvétel	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-429
+
+# sent_id = w355_s-27
+# text = – termék értékesítésére irányuló szerződés esetében a termék kézhezvételének napjától számított tizennégy nap elteltéig, legfeljebb azonban a termék kézhezvételének napjától számított három hónap elteltéig,
+1	–	–	X	_	_	_	_	_	tokId=w-430
+2	termék	termék	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-431
+3	értékesítésére	értékesítés	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-432
+4	irányuló	irányuló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-433
+5	szerződés	szerződés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-434
+6	esetében	eset	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-435
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-436
+8	termék	termék	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-437
+9	kézhezvételének	kézhezvétel	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-438
+10	napjától	nap	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-439
+11	számított	számított	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-440
+12	tizennégy	tizennégy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-441
+13	nap	nap	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-442
+14	elteltéig	eltelte	NOUN	_	Case=Ter|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-443|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-444
+16	legfeljebb	legfeljebb	ADV	_	_	_	_	_	tokId=w-445
+17	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-446
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-447
+19	termék	termék	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-448
+20	kézhezvételének	kézhezvétel	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-449
+21	napjától	nap	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-450
+22	számított	számított	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-451
+23	három	három	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-452
+24	hónap	hónap	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-453
+25	elteltéig	eltelte	NOUN	_	Case=Ter|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-454|SpaceAfter=No
+26	,	,	PUNCT	_	_	_	_	_	tokId=w-455
+
+# sent_id = w355_s-28
+# text = A Vevő viseli az elállási jog gyakorlása miatt a termék visszaszolgáltatásával kapcsolatban felmerült költségeket.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-456
+2	Vevő	vevő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-457
+3	viseli	visel	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-458
+4	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-459
+5	elállási	elállási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-460
+6	jog	jog	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-461
+7	gyakorlása	gyakorlás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-462
+8	miatt	miatt	ADP	_	_	_	_	_	tokId=w-463
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-464
+10	termék	termék	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-465
+11	visszaszolgáltatásával	visszaszolgáltatás	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-466
+12	kapcsolatban	kapcsolat	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-467
+13	felmerült	felmerült	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-468
+14	költségeket	költség	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-469|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-470
+
+# sent_id = w355_s-29
+# text = Ennek megfelelően tudatában van annak, hogy az Interneten keresztül rendelkezésre bocsátott információk hitelessége, helyessége és teljessége nem garantálható.
+1	Ennek	ez	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-471
+2	megfelelően	megfelelő	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-472
+3	tudatában	tudat	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-473
+4	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-474
+5	annak	az	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-475|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-476
+7	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-477
+8	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-478
+9	Interneten	internet	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-479
+10	keresztül	keresztül	ADP	_	_	_	_	_	tokId=w-480
+11	rendelkezésre	rendelkezés	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-481
+12	bocsátott	bocsátott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-482
+13	információk	információ	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-483
+14	hitelessége	hitelesség	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-484|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-485
+16	helyessége	helyesség	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-486
+17	és	és	CCONJ	_	_	_	_	_	tokId=w-487
+18	teljessége	teljesség	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-488
+19	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-489
+20	garantálható	garantálható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-490|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-491
+
+# sent_id = w355_s-30
+# text = Az ennek elmulasztásából eredő többletköltségeket és károkat Vevő viseli.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-492
+2	ennek	ez	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-493
+3	elmulasztásából	elmulasztás	NOUN	_	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-494
+4	eredő	eredő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-495
+5	többletköltségeket	többletköltség	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-496
+6	és	és	CCONJ	_	_	_	_	_	tokId=w-497
+7	károkat	kár	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-498
+8	Vevő	vevő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-499
+9	viseli	visel	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-500|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-501
+
+# sent_id = w355_s-31
+# text = Vevő elfogadja, hogy egyes – a webáruházban ennek megfelelően feltüntetett – termékekre és szolgáltatásokra vonatkozó megrendeléseket nem Eladó teljesíti, hanem az ezekre a termékekre és szolgáltatásokra vonatkozó megrendeléseket harmadik személyek felé közvetíti, a megrendelés elfogadása és Vevő erről történő értesítése a harmadik személy feladata.
+1	Vevő	vevő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-502
+2	elfogadja	elfogad	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-503|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-504
+4	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-505
+5	egyes	egyes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-506
+6	–	–	X	_	_	_	_	_	tokId=w-507
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-508
+8	webáruházban	webáruház	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-509
+9	ennek	ez	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-510
+10	megfelelően	megfelelő	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-511
+11	feltüntetett	feltüntetett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-512
+12	–	–	X	_	_	_	_	_	tokId=w-513
+13	termékekre	termék	NOUN	_	Case=Sbl|Number=Plur	_	_	_	tokId=w-514
+14	és	és	CCONJ	_	_	_	_	_	tokId=w-515
+15	szolgáltatásokra	szolgáltatás	NOUN	_	Case=Sbl|Number=Plur	_	_	_	tokId=w-516
+16	vonatkozó	vonatkozó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-517
+17	megrendeléseket	megrendelés	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-518
+18	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-519
+19	Eladó	eladó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-520
+20	teljesíti	teljesít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-521|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-522
+22	hanem	hanem	CCONJ	_	_	_	_	_	tokId=w-523
+23	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-524
+24	ezekre	ez	PRON	_	Case=Sbl|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-525
+25	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-526
+26	termékekre	termék	NOUN	_	Case=Sbl|Number=Plur	_	_	_	tokId=w-527
+27	és	és	CCONJ	_	_	_	_	_	tokId=w-528
+28	szolgáltatásokra	szolgáltatás	NOUN	_	Case=Sbl|Number=Plur	_	_	_	tokId=w-529
+29	vonatkozó	vonatkozó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-530
+30	megrendeléseket	megrendelés	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-531
+31	harmadik	harmadik	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-532
+32	személyek	személy	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-533
+33	felé	felé	ADP	_	_	_	_	_	tokId=w-534
+34	közvetíti	közvetít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-535|SpaceAfter=No
+35	,	,	PUNCT	_	_	_	_	_	tokId=w-536
+36	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-537
+37	megrendelés	megrendelés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-538
+38	elfogadása	elfogadás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-539
+39	és	és	CCONJ	_	_	_	_	_	tokId=w-540
+40	Vevő	vevő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-541
+41	erről	ez	PRON	_	Case=Del|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-542
+42	történő	történő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-543
+43	értesítése	értesítés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-544
+44	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-545
+45	harmadik	harmadik	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-546
+46	személy	személy	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-547
+47	feladata	feladat	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-548|SpaceAfter=No
+48	.	.	PUNCT	_	_	_	_	_	tokId=w-549
+
+# sent_id = w355_s-32
+# text = A 2N-nél tisztában vannak vele, hogy az ügyfelek mára már mindent a számítógépjükről, okostelefonjukról, tabletjükről szeretnének irányítani, és persze azonnal.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-550
+2	2N-nél	2N	PROPN	_	Case=Ade|Number=Sing	_	_	_	tokId=w-551|NE=name[ORG]_14
+3	tisztában	tiszta	ADJ	_	Case=Ine|Degree=Pos|Number=Sing	_	_	_	tokId=w-552
+4	vannak	van	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-553
+5	vele	vele	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-554|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-555
+7	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-556
+8	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-557
+9	ügyfelek	ügyfél	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-558
+10	mára	ma	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-559
+11	már	már	ADV	_	_	_	_	_	tokId=w-560
+12	mindent	minden	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-561
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-562
+14	számítógépjükről	számítógép	NOUN	_	Case=Del|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-563|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-564
+16	okostelefonjukról	okostelefon	NOUN	_	Case=Del|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-565|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-566
+18	tabletjükről	tablet	NOUN	_	Case=Del|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-567
+19	szeretnének	szeret	VERB	_	Definite=Ind|Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-568
+20	irányítani	irányít	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-569|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-570
+22	és	és	CCONJ	_	_	_	_	_	tokId=w-571
+23	persze	persze	ADV	_	_	_	_	_	tokId=w-572
+24	azonnal	azonnal	ADV	_	_	_	_	_	tokId=w-573|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-574
+

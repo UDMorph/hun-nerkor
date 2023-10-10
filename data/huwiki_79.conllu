@@ -1,0 +1,415 @@
+# newdoc id = huwiki_79
+# sent_id = huwiki_79_s-1
+# text = A Rémautó Stephen King amerikai író 2002-ben megjelent regénye.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-1
+2	Rémautó	Rémautó	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-2|NE=name[MISC]_1
+3	Stephen	Stephen	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-3|NE=name[PER]_2
+4	King	King	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-4|NE=name[PER]_2
+5	amerikai	amerikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-5
+6	író	író	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-6
+7	2002-ben	2002	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-7
+8	megjelent	megjelent	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-8
+9	regénye	regény	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-9|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-10
+
+# sent_id = huwiki_79_s-2
+# text = Magyarul először az Európa Könyvkiadónál jelent meg a regény, Bihari György fordításában, 2003-ban.
+1	Magyarul	magyar	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-11
+2	először	először	ADV	_	_	_	_	_	tokId=w-12
+3	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-13
+4	Európa	Európa	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-14|NE=name[ORG]_3
+5	Könyvkiadónál	Könyvkiadó	PROPN	_	Case=Ade|Number=Sing	_	_	_	tokId=w-15|NE=name[ORG]_3
+6	jelent	jelenik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-16
+7	meg	meg	PART	_	_	_	_	_	tokId=w-17
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-18
+9	regény	regény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-19|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-20
+11	Bihari	Bihari	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-21|NE=name[PER]_4
+12	György	György	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-22|NE=name[PER]_4
+13	fordításában	fordítás	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-23|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-24
+15	2003-ban	2003	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-25|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-26
+
+# sent_id = huwiki_79_s-3
+# text = 2001 júliusában Curt Wilcox rendőrtiszt életét veszti egy autóbalesetben a Statlernevű fiktív nyugat-pennsylvaniai városban.
+1	2001	2001	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-27
+2	júliusában	július	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-28
+3	Curt	Curt	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-29|NE=name[PER]_5
+4	Wilcox	Wilcox	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-30|NE=name[PER]_5
+5	rendőrtiszt	rendőrtiszt	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-31
+6	életét	élet	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-32
+7	veszti	veszt	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-33
+8	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-34
+9	autóbalesetben	autóbaleset	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-35
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-36
+11	Statler	Statler	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-37|NE=name[LOC]_6|SpaceAfter=No
+12	nevű	nevű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-38
+13	fiktív	fiktív	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-39
+14	nyugat-pennsylvaniai	nyugat-pennsylvaniai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-40
+15	városban	város	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-41|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-42
+
+# sent_id = huwiki_79_s-4
+# text = Tizennyolc éves fiának, Nednek, egy évvel később hat volt kolléga és barát, Shirley, Sandy, Arky, Eddie , Huddie és Phil elmesél egy történetet.
+1	Tizennyolc	tizennyolc	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-43
+2	éves	éves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-44
+3	fiának	fia	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-45|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-46
+5	Nednek	Ned	PROPN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-47|NE=name[PER]_7|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-48
+7	egy	egy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-49
+8	évvel	év	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-50
+9	később	később	ADV	_	_	_	_	_	tokId=w-51
+10	hat	hat	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-52
+11	volt	van	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-53
+12	kolléga	kolléga	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-54
+13	és	és	CCONJ	_	_	_	_	_	tokId=w-55
+14	barát	barát	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-56|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-57
+16	Shirley	Shirley	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-58|NE=name[PER]_8|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-59
+18	Sandy	Sandy	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-60|NE=name[PER]_9|SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	tokId=w-61
+20	Arky	Arky	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-62|NE=name[PER]_10|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-63
+22	Eddie	Eddie	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-64|NE=name[PER]_11
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-65
+24	Huddie	Huddie	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-66|NE=name[PER]_12
+25	és	és	CCONJ	_	_	_	_	_	tokId=w-67
+26	Phil	Phil	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-68|NE=name[PER]_13
+27	elmesél	elmesél	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-69
+28	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-70
+29	történetet	történet	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-71|SpaceAfter=No
+30	.	.	PUNCT	_	_	_	_	_	tokId=w-72
+
+# sent_id = huwiki_79_s-5
+# text = Egy történetet a gyerek édesapjáról, és egy titokzatos kocsiról, egy Buick 8 Roadmasterről, amely még mindig a rendőrség egyik fészerében áll.
+1	Egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-73
+2	történetet	történet	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-74
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-75
+4	gyerek	gyerek	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-76
+5	édesapjáról	édesapa	NOUN	_	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-77|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-78
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-79
+8	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-80
+9	titokzatos	titokzatos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-81
+10	kocsiról	kocsi	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-82|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-83
+12	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-84
+13	Buick	Buick	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-85|NE=name[MISC]_14
+14	8	8	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-86|NE=name[MISC]_14
+15	Roadmasterről	Roadmaster	PROPN	_	Case=Del|Number=Sing	_	_	_	tokId=w-87|NE=name[MISC]_14|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-88
+17	amely	amely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-89
+18	még	még	ADV	_	_	_	_	_	tokId=w-90
+19	mindig	mindig	ADV	_	_	_	_	_	tokId=w-91
+20	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-92
+21	rendőrség	rendőrség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-93
+22	egyik	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-94
+23	fészerében	fészer	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-95
+24	áll	áll	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-96|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-97
+
+# sent_id = huwiki_79_s-6
+# text = A történetnek látszólag semmi köze Curt Wilcoxhalálához, annál inkább más furcsa történésekhez.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-98
+2	történetnek	történet	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-99
+3	látszólag	látszólag	ADV	_	_	_	_	_	tokId=w-100
+4	semmi	semmi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-101
+5	köze	köz	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-102
+6	Curt	Curt	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-103|NE=name[PER]_15
+7	Wilcox	Wilcox	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-104|NE=name[PER]_15|SpaceAfter=No
+8	halálához	halál	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-105|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-106
+10	annál	annál	ADV	_	_	_	_	_	tokId=w-107
+11	inkább	inkább	ADV	_	_	_	_	_	tokId=w-108
+12	más	más	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-109
+13	furcsa	furcsa	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-110
+14	történésekhez	történés	NOUN	_	Case=All|Number=Plur	_	_	_	tokId=w-111|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-112
+
+# sent_id = huwiki_79_s-7
+# text = Időről időre valaki vagy valami majdhogynem nyomtalanul eltűnik Statlerből .
+1	Időről	idő	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-113
+2	időre	idő	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-114
+3	valaki	valaki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind	_	_	_	tokId=w-115
+4	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-116
+5	valami	valami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind	_	_	_	tokId=w-117
+6	majdhogynem	majdhogynem	ADV	_	_	_	_	_	tokId=w-118
+7	nyomtalanul	nyomtalan	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-119
+8	eltűnik	eltűnik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-120
+9	Statlerből	Statler	PROPN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-121|NE=name[LOC]_16
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-122
+
+# sent_id = huwiki_79_s-8
+# text = Ennis Rafferty, a pennsylvaniai rendőrség egyik tagja is köztük van.
+1	Ennis	Ennis	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-123|NE=name[PER]_17
+2	Rafferty	Rafferty	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-124|NE=name[PER]_17|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-125
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-126
+5	pennsylvaniai	pennsylvaniai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-127
+6	rendőrség	rendőrség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-128
+7	egyik	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-129
+8	tagja	tag	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-130
+9	is	is	ADV	_	_	_	_	_	tokId=w-131
+10	köztük	közt	ADP	_	_	_	_	_	tokId=w-132
+11	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-133|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-134
+
+# sent_id = huwiki_79_s-9
+# text = De vannak dolgok, amik váratlanul feltűnnek a Buick környezetében: dolgok, amelyek a jelek szerint egy másik világból származnak.
+1	De	de	CCONJ	_	_	_	_	_	tokId=w-135
+2	vannak	van	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-136
+3	dolgok	dolog	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-137|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-138
+5	amik	ami	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-139
+6	váratlanul	váratlan	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-140
+7	feltűnnek	feltűnik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-141
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-142
+9	Buick	Buick	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-143|NE=name[MISC]_18
+10	környezetében	környezet	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-144|SpaceAfter=No
+11	:	:	PUNCT	_	_	_	_	_	tokId=w-145
+12	dolgok	dolog	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-146|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-147
+14	amelyek	amely	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-148
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-149
+16	jelek	jel	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-150
+17	szerint	szerint	ADP	_	_	_	_	_	tokId=w-151
+18	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-152
+19	másik	másik	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-153
+20	világból	világ	NOUN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-154
+21	származnak	származik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-155|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-156
+
+# sent_id = huwiki_79_s-10
+# text = Például valami, ami úgy néz ki, mint egy denevér, valami, ami hasonlít egy nagyméretű halra, és valami sárgás-rózsaszínű, ami semmilyen élőlényre sem hasonlít.
+1	Például	például	ADV	_	_	_	_	_	tokId=w-157
+2	valami	valami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind	_	_	_	tokId=w-158|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-159
+4	ami	ami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-160
+5	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-161
+6	néz	néz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-162
+7	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-163|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-164
+9	mint	mint	SCONJ	_	_	_	_	_	tokId=w-165
+10	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-166
+11	denevér	denevér	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-167|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-168
+13	valami	valami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind	_	_	_	tokId=w-169|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-170
+15	ami	ami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-171
+16	hasonlít	hasonlít	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-172
+17	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-173
+18	nagyméretű	nagyméretű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-174
+19	halra	hal	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-175|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-176
+21	és	és	CCONJ	_	_	_	_	_	tokId=w-177
+22	valami	valami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind	_	_	_	tokId=w-178
+23	sárgás-rózsaszínű	sárgás-rózsaszínű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-179|SpaceAfter=No
+24	,	,	PUNCT	_	_	_	_	_	tokId=w-180
+25	ami	ami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-181
+26	semmilyen	semmilyen	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-182
+27	élőlényre	élőlény	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-183
+28	sem	sem	ADV	_	PronType=Neg	_	_	_	tokId=w-184
+29	hasonlít	hasonlít	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-185|SpaceAfter=No
+30	.	.	PUNCT	_	_	_	_	_	tokId=w-186
+
+# sent_id = huwiki_79_s-11
+# text = Ned Wilcox meghallgatja a hat rendőr által elmesélt történetet, és válaszokat akar.
+1	Ned	Ned	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-187|NE=name[PER]_19
+2	Wilcox	Wilcox	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-188|NE=name[PER]_19
+3	meghallgatja	meghallgat	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-189
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-190
+5	hat	hat	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-191
+6	rendőr	rendőr	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-192
+7	által	által	ADP	_	_	_	_	_	tokId=w-193
+8	elmesélt	elmesélt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-194
+9	történetet	történet	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-195|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-196
+11	és	és	CCONJ	_	_	_	_	_	tokId=w-197
+12	válaszokat	válasz	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-198
+13	akar	akar	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-199|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-200
+
+# sent_id = huwiki_79_s-12
+# text = Nem csupán válaszokat az autóval kapcsolatos kérdéseire, de – mindenekelőtt – válaszokat az édesapja halálával kapcsolatosakra.
+1	Nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-201
+2	csupán	csupán	ADV	_	_	_	_	_	tokId=w-202
+3	válaszokat	válasz	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-203
+4	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-204
+5	autóval	autó	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-205
+6	kapcsolatos	kapcsolatos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-206
+7	kérdéseire	kérdés	NOUN	_	Case=Sbl|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-207|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-208
+9	de	de	CCONJ	_	_	_	_	_	tokId=w-209
+10	–	–	X	_	_	_	_	_	tokId=w-210
+11	mindenekelőtt	mindenekelőtt	ADV	_	_	_	_	_	tokId=w-211
+12	–	–	X	_	_	_	_	_	tokId=w-212
+13	válaszokat	válasz	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-213
+14	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-214
+15	édesapja	édesapa	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-215
+16	halálával	halál	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-216
+17	kapcsolatosakra	kapcsolatos	ADJ	_	Case=Sbl|Degree=Pos|Number=Plur	_	_	_	tokId=w-217|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-218
+
+# sent_id = huwiki_79_s-13
+# text = Mert, végül is, mégiscsak úgy néz ki, hogy van összefüggés a Buick megjelenése és Curt halála között.
+1	Mert	mert	SCONJ	_	_	_	_	_	tokId=w-219|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-220
+3	végül	végül	ADV	_	_	_	_	_	tokId=w-221
+4	is	is	ADV	_	_	_	_	_	tokId=w-222|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-223
+6	mégiscsak	mégiscsak	ADV	_	_	_	_	_	tokId=w-224
+7	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-225
+8	néz	néz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-226
+9	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-227|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-228
+11	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-229
+12	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-230
+13	összefüggés	összefüggés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-231
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-232
+15	Buick	Buick	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-233|NE=name[MISC]_20
+16	megjelenése	megjelenés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-234
+17	és	és	CCONJ	_	_	_	_	_	tokId=w-235
+18	Curt	Curt	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-236|NE=name[PER]_21
+19	halála	halál	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-237
+20	között	között	ADP	_	_	_	_	_	tokId=w-238|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-239
+
+# sent_id = huwiki_79_s-14
+# text = Kielégítő válaszokat azonban egyik rendőr sem tud neki adni.
+1	Kielégítő	kielégítő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-240
+2	válaszokat	válasz	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-241
+3	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-242
+4	egyik	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-243
+5	rendőr	rendőr	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-244
+6	sem	sem	ADV	_	PronType=Neg	_	_	_	tokId=w-245
+7	tud	tud	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-246
+8	neki	ő	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-247
+9	adni	ad	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-248|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-249
+
+# sent_id = huwiki_79_s-15
+# text = Elmondják a történetet a maga nyers formájában – ez minden, amit tehetnek.
+1	Elmondják	elmond	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-250
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-251
+3	történetet	történet	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-252
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-253
+5	maga	maga	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	tokId=w-254
+6	nyers	nyers	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-255
+7	formájában	forma	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-256
+8	–	–	X	_	_	_	_	_	tokId=w-257
+9	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-258
+10	minden	minden	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-259|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-260
+12	amit	ami	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-261
+13	tehetnek	tesz	VERB	_	Definite=Ind|Mood=Pot|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-262|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-263
+
+# sent_id = huwiki_79_s-16
+# text = Ha vannak egyáltalán válaszok vagy következtetések, azokat Nednek kell levonnia.
+1	Ha	ha	SCONJ	_	_	_	_	_	tokId=w-264
+2	vannak	van	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-265
+3	egyáltalán	egyáltalán	ADV	_	_	_	_	_	tokId=w-266
+4	válaszok	válasz	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-267
+5	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-268
+6	következtetések	következtetés	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-269|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-270
+8	azokat	az	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-271
+9	Nednek	Ned	PROPN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-272|NE=name[PER]_22
+10	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-273
+11	levonnia	levon	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	tokId=w-274|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-275
+
+# sent_id = huwiki_79_s-17
+# text = A Rémautó azért számít különleges regénynek Stephen King pályafutásában, mert a véletlen úgy hozta, hogy a könyv első vázlatát saját, majdhogynem végzetes 1999-es balesete előtt írta.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-276
+2	Rémautó	Rémautó	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-277|NE=name[MISC]_23
+3	azért	azért	ADV	_	PronType=Dem	_	_	_	tokId=w-278
+4	számít	számít	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-279
+5	különleges	különleges	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-280
+6	regénynek	regény	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-281
+7	Stephen	Stephen	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-282|NE=name[PER]_24
+8	King	King	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-283|NE=name[PER]_24
+9	pályafutásában	pályafutás	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-284|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-285
+11	mert	mert	SCONJ	_	_	_	_	_	tokId=w-286
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-287
+13	véletlen	véletlen	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-288
+14	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-289
+15	hozta	hoz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-290|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-291
+17	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-292
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-293
+19	könyv	könyv	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-294
+20	első	első	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-295
+21	vázlatát	vázlat	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-296
+22	saját	saját	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-297|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-298
+24	majdhogynem	majdhogynem	ADV	_	_	_	_	_	tokId=w-299
+25	végzetes	végzetes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-300
+26	1999-es	1999-es	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-301
+27	balesete	baleset	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-302
+28	előtt	előtt	ADP	_	_	_	_	_	tokId=w-303
+29	írta	ír	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-304|SpaceAfter=No
+30	.	.	PUNCT	_	_	_	_	_	tokId=w-305
+
+# sent_id = huwiki_79_s-18
+# text = Curt balesetének részletei pedig megdöbbentő hasonlóságokat mutatnak a sajátjával.
+1	Curt	Curt	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-306|NE=name[PER]_25
+2	balesetének	baleset	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-307
+3	részletei	részlet	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-308
+4	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-309
+5	megdöbbentő	megdöbbentő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-310
+6	hasonlóságokat	hasonlóság	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-311
+7	mutatnak	mutat	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-312
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-313
+9	sajátjával	saját	ADJ	_	Case=Ins|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-314|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-315
+
+# sent_id = huwiki_79_s-19
+# text = Erről a könyv utószavából értesülünk.
+1	Erről	ez	PRON	_	Case=Del|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-316
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-317
+3	könyv	könyv	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-318
+4	utószavából	utószó	NOUN	_	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-319
+5	értesülünk	értesül	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-320|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-321
+
+# sent_id = huwiki_79_s-20
+# text = A regény szerkezete részben emlékeztet az író Az című művére, hiszen ahhoz hasonlóan váltogatja a jelenben történő és múltban lezajlódott eseményeket, és a szereplők különböző szemszögből mesélik el az eseményeket.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-322
+2	regény	regény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-323
+3	szerkezete	szerkezet	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-324
+4	részben	részben	ADV	_	_	_	_	_	tokId=w-325
+5	emlékeztet	emlékeztet	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-326
+6	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-327
+7	író	író	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-328
+8	Az	Az	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-329|NE=name[MISC]_26
+9	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-330
+10	művére	mű	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-331|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-332
+12	hiszen	hiszen	CCONJ	_	_	_	_	_	tokId=w-333
+13	ahhoz	az	PRON	_	Case=All|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-334
+14	hasonlóan	hasonló	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-335
+15	váltogatja	váltogat	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-336
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-337
+17	jelenben	jelen	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-338
+18	történő	történő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-339
+19	és	és	CCONJ	_	_	_	_	_	tokId=w-340
+20	múltban	múlt	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-341
+21	lezajlódott	lezajlódott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-342
+22	eseményeket	esemény	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-343|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-344
+24	és	és	CCONJ	_	_	_	_	_	tokId=w-345
+25	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-346
+26	szereplők	szereplő	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-347
+27	különböző	különböző	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-348
+28	szemszögből	szemszög	NOUN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-349
+29	mesélik	mesél	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-350
+30	el	el	ADV	_	_	_	_	_	tokId=w-351
+31	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-352
+32	eseményeket	esemény	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-353|SpaceAfter=No
+33	.	.	PUNCT	_	_	_	_	_	tokId=w-354
+

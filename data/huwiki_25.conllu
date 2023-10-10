@@ -1,0 +1,493 @@
+# newdoc id = huwiki_25
+# sent_id = huwiki_25_s-1
+# text = Sharon Yvonne Stone Golden Globe-díjas amerikai színésznő, producer, a 90-es évek szexszimbóluma.
+1	Sharon	Sharon	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-1|NE=name[PER]_1
+2	Yvonne	Yvonne	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-2|NE=name[PER]_1
+3	Stone	Stone	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-3|NE=name[PER]_1
+4	Golden	Golden	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-4
+5	Globe-díjas	Globe-díjas	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-5
+6	amerikai	amerikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-6
+7	színésznő	színésznő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-7|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-8
+9	producer	producer	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-9|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-10
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-11
+12	90-es	90-es	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-12
+13	évek	év	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-13
+14	szexszimbóluma	szexszimbólum	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-14|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-15
+
+# sent_id = huwiki_25_s-2
+# text = Édesanyja, Dorothy takarítónő volt, édesapja, Joseph pedig gyári munkás.
+1	Édesanyja	édesanya	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-16|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-17
+3	Dorothy	Dorothy	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-18|NE=name[PER]_2
+4	takarítónő	takarítónő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-19
+5	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-20|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-21
+7	édesapja	édesapa	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-22|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-23
+9	Joseph	Joseph	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-24|NE=name[PER]_3
+10	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-25
+11	gyári	gyári	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-26
+12	munkás	munkás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-27|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-28
+
+# sent_id = huwiki_25_s-3
+# text = Három testvére van: bátyja Michael színész, húga, Kellyés öccse, Patrick .
+1	Három	három	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-29
+2	testvére	testvér	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-30
+3	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-31|SpaceAfter=No
+4	:	:	PUNCT	_	_	_	_	_	tokId=w-32
+5	bátyja	báty	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-33
+6	Michael	Michael	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-34|NE=name[PER]_4
+7	színész	színész	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-35|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-36
+9	húga	húg	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-37|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-38
+11	Kelly	Kelly	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-39|NE=name[PER]_5|SpaceAfter=No
+12	és	és	CCONJ	_	_	_	_	_	tokId=w-40
+13	öccse	öcs	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-41|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-42
+15	Patrick	Patrick	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-43|NE=name[PER]_6
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-44
+
+# sent_id = huwiki_25_s-4
+# text = Édesanyja mindenképpen azt szerette volna, hogy lánya értelmiségi legyen, nem kétkezi munkás.
+1	Édesanyja	édesanya	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-45
+2	mindenképpen	mindenképpen	ADV	_	_	_	_	_	tokId=w-46
+3	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-47
+4	szerette	szeret	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-48
+5	volna	van	AUX	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-49|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-50
+7	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-51
+8	lánya	lány	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-52
+9	értelmiségi	értelmiségi	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-53
+10	legyen	lesz	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-54|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-55
+12	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-56
+13	kétkezi	kétkezi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-57
+14	munkás	munkás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-58|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-59
+
+# sent_id = huwiki_25_s-5
+# text = 17 évesen megnyerte a Miss Pennsylvania szépségversenyt.
+1	17	17	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-60
+2	évesen	éves	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-61
+3	megnyerte	megnyer	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-62
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-63
+5	Miss	miss	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-64|NE=name[MISC]_7
+6	Pennsylvania	Pennsylvania	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-65|NE=name[MISC]_7
+7	szépségversenyt	szépségverseny	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-66|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-67
+
+# sent_id = huwiki_25_s-6
+# text = Első filmszerepét 1980-ban kapta, Woody Allen Csillagporos emlékek című filmjében.
+1	Első	első	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-68
+2	filmszerepét	filmszerep	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-69
+3	1980-ban	1980	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-70
+4	kapta	kap	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-71|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-72
+6	Woody	Woody	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-73|NE=name[PER]_8
+7	Allen	Allen	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-74|NE=name[PER]_8
+8	Csillagporos	Csillagporos	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-75|NE=name[MISC]_9
+9	emlékek	emlék	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-76|NE=name[MISC]_9
+10	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-77
+11	filmjében	film	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-78|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-79
+
+# sent_id = huwiki_25_s-7
+# text = 1987-ben felbukkant a Rendőrakadémia 4-ben, majd különböző filmekben játszott kisebb-nagyobb szerepeket.
+1	1987-ben	1987	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-80
+2	felbukkant	felbukkan	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-81
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-82
+4	Rendőrakadémia	rendőrakadémia	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-83|NE=name[MISC]_10
+5	4-ben	4	NUM	_	Case=Ine|NumType=Card|Number=Sing	_	_	_	tokId=w-84|NE=name[MISC]_10|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-85
+7	majd	majd	ADV	_	_	_	_	_	tokId=w-86
+8	különböző	különböző	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-87
+9	filmekben	film	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-88
+10	játszott	játszik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-89
+11	kisebb-nagyobb	kisebb-nagyobb	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-90
+12	szerepeket	szerep	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-91|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-92
+
+# sent_id = huwiki_25_s-8
+# text = 1990-ben jelentős alakítása volt Total Recall – Az emlékmás című sci-fiben.
+1	1990-ben	1990	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-93
+2	jelentős	jelentős	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-94
+3	alakítása	alakítás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-95
+4	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-96
+5	Total	Total	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-97|NE=name[MISC]_11
+6	Recall	Recall	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-98|NE=name[MISC]_11
+7	–	–	PUNCT	_	_	_	_	_	tokId=w-99|NE=name[MISC]_11
+8	Az	az	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-100|NE=name[MISC]_11
+9	emlékmás	emlékmás	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-101|NE=name[MISC]_11
+10	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-102
+11	sci-fiben	sci-fi	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-103|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-104
+
+# sent_id = huwiki_25_s-9
+# text = Az igazi nagy áttörést azonban az 1992-es Elemi ösztön című erotikus thriller hozta meg neki, amiben egy biszexuális írónőt játszik, aki macska-egér játékot kezd egy San Franciscó-i zsaruval (Michael Douglas).
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-105
+2	igazi	igazi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-106
+3	nagy	nagy	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-107
+4	áttörést	áttörés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-108
+5	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-109
+6	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-110
+7	1992-es	1992-es	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-111
+8	Elemi	Elemi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-112|NE=name[MISC]_12
+9	ösztön	ösztön	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-113|NE=name[MISC]_12
+10	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-114
+11	erotikus	erotikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-115
+12	thriller	thriller	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-116
+13	hozta	hoz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-117
+14	meg	meg	PART	_	_	_	_	_	tokId=w-118
+15	neki	ő	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-119|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-120
+17	amiben	ami	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-121
+18	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-122
+19	biszexuális	biszexuális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-123
+20	írónőt	írónő	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-124
+21	játszik	játszik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-125|SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-126
+23	aki	aki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-127
+24	macska-egér	macska-egér	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-128
+25	játékot	játék	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-129
+26	kezd	kezd	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-130
+27	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-131
+28	San	San	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-132
+29	Franciscó-i	Francisco	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-133
+30	zsaruval	zsaru	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-134
+31	(	(	PUNCT	_	_	_	_	_	tokId=w-135
+32	Michael	Michael	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-136|NE=name[PER]_13
+33	Douglas	Douglas	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-137|NE=name[PER]_13|SpaceAfter=No
+34	)	)	PUNCT	_	_	_	_	_	tokId=w-138|SpaceAfter=No
+35	.	.	PUNCT	_	_	_	_	_	tokId=w-139
+
+# sent_id = huwiki_25_s-10
+# text = A film elsöprő sikere azonnal a kilencvenes évek egyik szexszimbólumává emelte.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-140
+2	film	film	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-141
+3	elsöprő	elsöprő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-142
+4	sikere	siker	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-143
+5	azonnal	azonnal	ADV	_	_	_	_	_	tokId=w-144
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-145
+7	kilencvenes	kilencvenes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-146
+8	évek	év	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-147
+9	egyik	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-148
+10	szexszimbólumává	szexszimbólum	NOUN	_	Case=Tra|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-149
+11	emelte	emel	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-150|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-151
+
+# sent_id = huwiki_25_s-11
+# text = Innen számítható a világkarrierje, legismertebb filmjei ezekből az időkből a szintén erotikus beütésű Sliver című thriller 1993-ból, az 1994-es A specialista című akciófilm, az 1995-ös Gyorsabb a halálnál című akció-western és a szintén 1995-ös Casino című bűnügyi film, melyért Oscar-díjra is jelölték.
+1	Innen	innen	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-152
+2	számítható	számítható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-153
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-154
+4	világkarrierje	világkarrier	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-155|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-156
+6	legismertebb	ismert	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-157
+7	filmjei	film	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-158
+8	ezekből	ez	PRON	_	Case=Ela|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-159
+9	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-160
+10	időkből	idő	NOUN	_	Case=Ela|Number=Plur	_	_	_	tokId=w-161
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-162
+12	szintén	szintén	ADV	_	_	_	_	_	tokId=w-163
+13	erotikus	erotikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-164
+14	beütésű	beütésű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-165
+15	Sliver	Sliver	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-166|NE=name[MISC]_14
+16	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-167
+17	thriller	thriller	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-168
+18	1993-ból	1993	NUM	_	Case=Ela|Number=Sing|NumType=Card	_	_	_	tokId=w-169|SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	tokId=w-170
+20	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-171
+21	1994-es	1994-es	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-172
+22	A	a	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-173|NE=name[MISC]_15
+23	specialista	specialista	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-174|NE=name[MISC]_15
+24	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-175
+25	akciófilm	akciófilm	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-176|SpaceAfter=No
+26	,	,	PUNCT	_	_	_	_	_	tokId=w-177
+27	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-178
+28	1995-ös	1995-ös	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-179
+29	Gyorsabb	Gyorsabb	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-180|NE=name[MISC]_16
+30	a	a	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-181|NE=name[MISC]_16
+31	halálnál	halálnál	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-182|NE=name[MISC]_16
+32	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-183
+33	akció-western	akció-western	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-184
+34	és	és	CCONJ	_	_	_	_	_	tokId=w-185
+35	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-186
+36	szintén	szintén	ADV	_	_	_	_	_	tokId=w-187
+37	1995-ös	1995-ös	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-188
+38	Casino	Casino	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-189|NE=name[MISC]_17
+39	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-190
+40	bűnügyi	bűnügyi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-191
+41	film	film	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-192|SpaceAfter=No
+42	,	,	PUNCT	_	_	_	_	_	tokId=w-193
+43	melyért	mely	PRON	_	Case=Cau|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-194
+44	Oscar-díjra	Oscar-díj	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-195|NE=name[MISC]_18
+45	is	is	ADV	_	_	_	_	_	tokId=w-196
+46	jelölték	jelöl	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-197|SpaceAfter=No
+47	.	.	PUNCT	_	_	_	_	_	tokId=w-198
+
+# sent_id = huwiki_25_s-12
+# text = 1996-ban kissé megtorpant a karrierje, az ez évben készült Az ördög háromszöge című thrillere és Az utolsó tánc című drámája már nem vonzotta annyira a mozinézőket.
+1	1996-ban	1996	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-199
+2	kissé	kissé	ADV	_	_	_	_	_	tokId=w-200
+3	megtorpant	megtorpan	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-201
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-202
+5	karrierje	karrier	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-203|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-204
+7	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-205
+8	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-206
+9	évben	év	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-207
+10	készült	készül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-208
+11	Az	Az	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-209|NE=name[MISC]_19
+12	ördög	ördög	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-210|NE=name[MISC]_19
+13	háromszöge	háromszöge	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-211|NE=name[MISC]_19
+14	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-212
+15	thrillere	thriller	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-213
+16	és	és	CCONJ	_	_	_	_	_	tokId=w-214
+17	Az	Az	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-215|NE=name[MISC]_20
+18	utolsó	utolsó	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-216|NE=name[MISC]_20
+19	tánc	tánc	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-217|NE=name[MISC]_20
+20	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-218
+21	drámája	dráma	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-219
+22	már	már	ADV	_	_	_	_	_	tokId=w-220
+23	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-221
+24	vonzotta	vonz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-222
+25	annyira	annyira	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-223
+26	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-224
+27	mozinézőket	mozinéző	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-225|SpaceAfter=No
+28	.	.	PUNCT	_	_	_	_	_	tokId=w-226
+
+# sent_id = huwiki_25_s-13
+# text = Következő filmjét csak két évvel később, 1998-ban mutatták be, ez volt A gömb című sci-fi, amely szintén leszerepelt a kasszáknál.
+1	Következő	következő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-227
+2	filmjét	film	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-228
+3	csak	csak	ADV	_	_	_	_	_	tokId=w-229
+4	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-230
+5	évvel	év	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-231
+6	később	későn	ADV	_	Degree=Cmp	_	_	_	tokId=w-232|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-233
+8	1998-ban	1998	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-234
+9	mutatták	mutat	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-235
+10	be	be	ADV	_	Degree=Pos	_	_	_	tokId=w-236|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-237
+12	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-238
+13	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-239
+14	A	A	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-240|NE=name[MISC]_21
+15	gömb	gömb	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-241|NE=name[MISC]_21
+16	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-242
+17	sci-fi	sci-fi	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-243|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-244
+19	amely	amely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-245
+20	szintén	szintén	ADV	_	_	_	_	_	tokId=w-246
+21	leszerepelt	leszerepel	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-247
+22	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-248
+23	kasszáknál	kassza	NOUN	_	Case=Ade|Number=Plur	_	_	_	tokId=w-249|SpaceAfter=No
+24	.	.	PUNCT	_	_	_	_	_	tokId=w-250
+
+# sent_id = huwiki_25_s-14
+# text = Ettől kezdve hullámzó sikerű filmekben szerepelt, bár az abban az évben bemutatott Az Óriás és az 1999-es A múzsa csókja című filmekben nyújtott szerepeiért Golden Globe-díjra jelölték.
+1	Ettől	ez	PRON	_	Case=Abl|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-251
+2	kezdve	kezdve	ADP	_	_	_	_	_	tokId=w-252
+3	hullámzó	hullámzó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-253
+4	sikerű	sikerű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-254
+5	filmekben	film	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-255
+6	szerepelt	szerepel	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-256|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-257
+8	bár	bár	SCONJ	_	_	_	_	_	tokId=w-258
+9	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-259
+10	abban	az	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-260
+11	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-261
+12	évben	év	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-262
+13	bemutatott	bemutatott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-263
+14	Az	Az	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-264|NE=name[MISC]_22
+15	Óriás	óriás	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-265|NE=name[MISC]_22
+16	és	és	CCONJ	_	_	_	_	_	tokId=w-266
+17	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-267
+18	1999-es	1999-es	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-268
+19	A	A	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-269|NE=name[MISC]_23
+20	múzsa	múzsa	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-270|NE=name[MISC]_23
+21	csókja	csók	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-271|NE=name[MISC]_23
+22	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-272
+23	filmekben	film	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-273
+24	nyújtott	nyújtott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-274
+25	szerepeiért	szerep	NOUN	_	Case=Cau|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-275
+26	Golden	Golden	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-276|NE=name[MISC]_24
+27	Globe-díjra	Globe-díjra	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-277|NE=name[MISC]_24
+28	jelölték	jelöl	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-278|SpaceAfter=No
+29	.	.	PUNCT	_	_	_	_	_	tokId=w-279
+
+# sent_id = huwiki_25_s-15
+# text = Ettől függetlenül ezektől az időktől kezdve nemigen lehetett emlékezetes vagy sikeres filmekben látni.
+1	Ettől	ez	PRON	_	Case=Abl|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-280
+2	függetlenül	független	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-281
+3	ezektől	ez	PRON	_	Case=Abl|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-282
+4	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-283
+5	időktől	idő	NOUN	_	Case=Abl|Number=Plur	_	_	_	tokId=w-284
+6	kezdve	kezdve	ADP	_	_	_	_	_	tokId=w-285
+7	nemigen	nemigen	ADV	_	_	_	_	_	tokId=w-286
+8	lehetett	lehet	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-287
+9	emlékezetes	emlékezetes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-288
+10	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-289
+11	sikeres	sikeres	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-290
+12	filmekben	film	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-291
+13	látni	lát	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-292|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-293
+
+# sent_id = huwiki_25_s-16
+# text = Két kivételt emlékezetesség szempontjából talán a 2004-es A Macskanő című kalandfilm, és a 2006-os Elemi ösztön 2 jelentenek, mely utóbbi a nagy sikerű filmjének folytatásaként próbált meg ismét sztárt csinálni belőle, de mindkét film épp hogy rossz minőségével, és a kritikusok bírálataival lett közismert, s a mozipénztáraknál is megbuktak, a színésznő az Elemi ösztön folytatásáért pedig még az Arany Málna díjat is megkapta.
+1	Két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-294
+2	kivételt	kivétel	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-295
+3	emlékezetesség	emlékezetesség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-296
+4	szempontjából	szempont	NOUN	_	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-297
+5	talán	talán	ADV	_	_	_	_	_	tokId=w-298
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-299
+7	2004-es	2004-es	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-300
+8	A	a	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-301|NE=name[MISC]_25
+9	Macskanő	macskanő	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-302|NE=name[MISC]_25
+10	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-303
+11	kalandfilm	kalandfilm	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-304|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-305
+13	és	és	CCONJ	_	_	_	_	_	tokId=w-306
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-307
+15	2006-os	2006-os	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-308
+16	Elemi	elemi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-309|NE=name[MISC]_26
+17	ösztön	ösztön	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-310|NE=name[MISC]_26
+18	2	2	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-311|NE=name[MISC]_26
+19	jelentenek	jelent	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-312|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-313
+21	mely	mely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-314
+22	utóbbi	utóbbi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-315
+23	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-316
+24	nagy	nagy	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-317
+25	sikerű	sikerű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-318
+26	filmjének	film	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-319
+27	folytatásaként	folytatás	NOUN	_	Case=Ess|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-320
+28	próbált	próbál	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-321
+29	meg	meg	PART	_	_	_	_	_	tokId=w-322
+30	ismét	ismét	ADV	_	_	_	_	_	tokId=w-323
+31	sztárt	sztár	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-324
+32	csinálni	csinál	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-325
+33	belőle	belőle	PRON	_	Case=Ela|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-326|SpaceAfter=No
+34	,	,	PUNCT	_	_	_	_	_	tokId=w-327
+35	de	de	CCONJ	_	_	_	_	_	tokId=w-328
+36	mindkét	mindkét	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-329
+37	film	film	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-330
+38	épp	épp	ADV	_	_	_	_	_	tokId=w-331
+39	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-332
+40	rossz	rossz	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-333
+41	minőségével	minőség	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-334|SpaceAfter=No
+42	,	,	PUNCT	_	_	_	_	_	tokId=w-335
+43	és	és	CCONJ	_	_	_	_	_	tokId=w-336
+44	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-337
+45	kritikusok	kritikus	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-338
+46	bírálataival	bírálat	NOUN	_	Case=Ins|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-339
+47	lett	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-340
+48	közismert	közismert	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-341|SpaceAfter=No
+49	,	,	PUNCT	_	_	_	_	_	tokId=w-342
+50	s	s	CCONJ	_	_	_	_	_	tokId=w-343
+51	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-344
+52	mozipénztáraknál	mozipénztár	NOUN	_	Case=Ade|Number=Plur	_	_	_	tokId=w-345
+53	is	is	ADV	_	_	_	_	_	tokId=w-346
+54	megbuktak	megbukik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-347|SpaceAfter=No
+55	,	,	PUNCT	_	_	_	_	_	tokId=w-348
+56	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-349
+57	színésznő	színésznő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-350
+58	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-351
+59	Elemi	Elemi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-352|NE=name[MISC]_27
+60	ösztön	ösztön	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-353|NE=name[MISC]_27
+61	folytatásáért	folytatás	NOUN	_	Case=Cau|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-354
+62	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-355
+63	még	még	ADV	_	_	_	_	_	tokId=w-356
+64	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-357
+65	Arany	Arany	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-358|NE=name[MISC]_28
+66	Málna	málna	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-359|NE=name[MISC]_28
+67	díjat	díj	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-360|NE=name[MISC]_28
+68	is	is	ADV	_	_	_	_	_	tokId=w-361
+69	megkapta	megkap	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-362|SpaceAfter=No
+70	.	.	PUNCT	_	_	_	_	_	tokId=w-363
+
+# sent_id = huwiki_25_s-17
+# text = Azóta tévésorozatokban és különböző filmekben bukkant fel itt-ott.
+1	Azóta	azóta	ADV	_	PronType=Dem	_	_	_	tokId=w-364
+2	tévésorozatokban	tévésorozat	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-365
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-366
+4	különböző	különböző	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-367
+5	filmekben	film	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-368
+6	bukkant	bukkan	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-369
+7	fel	fel	ADV	_	Degree=Pos	_	_	_	tokId=w-370
+8	itt-ott	itt-ott	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-371|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-372
+
+# sent_id = huwiki_25_s-18
+# text = 1984-ben Michael Greenburg televíziós producer felesége lett, de három év múlva elváltak.
+1	1984-ben	1984	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-373
+2	Michael	Michael	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-374|NE=name[PER]_29
+3	Greenburg	Greenburg	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-375|NE=name[PER]_29
+4	televíziós	televíziós	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-376
+5	producer	producer	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-377
+6	felesége	feleség	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-378
+7	lett	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-379|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-380
+9	de	de	CCONJ	_	_	_	_	_	tokId=w-381
+10	három	három	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-382
+11	év	év	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-383
+12	múlva	múlva	ADP	_	_	_	_	_	tokId=w-384
+13	elváltak	elválik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-385|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-386
+
+# sent_id = huwiki_25_s-19
+# text = Ezután csak 1998-ban ment nőül Phil Bronstein szerkesztőhöz, de ez a házasság is válással végződött hat évvel később.
+1	Ezután	ezután	ADV	_	_	_	_	_	tokId=w-387
+2	csak	csak	ADV	_	_	_	_	_	tokId=w-388
+3	1998-ban	1998	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-389
+4	ment	megy	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-390
+5	nőül	nő	NOUN	_	Case=Ess|Number=Sing	_	_	_	tokId=w-391
+6	Phil	Phil	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-392|NE=name[PER]_30
+7	Bronstein	Bronstein	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-393|NE=name[PER]_30
+8	szerkesztőhöz	szerkesztő	NOUN	_	Case=All|Number=Sing	_	_	_	tokId=w-394|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-395
+10	de	de	CCONJ	_	_	_	_	_	tokId=w-396
+11	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-397
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-398
+13	házasság	házasság	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-399
+14	is	is	ADV	_	_	_	_	_	tokId=w-400
+15	válással	válás	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-401
+16	végződött	végződik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-402
+17	hat	hat	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-403
+18	évvel	év	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-404
+19	később	későn	ADV	_	Degree=Cmp	_	_	_	tokId=w-405|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-406
+
+# sent_id = huwiki_25_s-20
+# text = Három adoptált fia van.
+1	Három	három	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-407
+2	adoptált	adoptált	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-408
+3	fia	fia	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-409
+4	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-410|SpaceAfter=No
+5	.	.	PUNCT	_	_	_	_	_	tokId=w-411
+
+# sent_id = huwiki_25_s-21
+# text = 2001-ben stroke-ot kapott, amiből tökéletesen felgyógyult, de betegsége „ szexcsillag ” voltának mégis sokat ártott.
+1	2001-ben	2001	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-412
+2	stroke-ot	stroke	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-413
+3	kapott	kap	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-414|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-415
+5	amiből	ami	PRON	_	Case=Ela|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-416
+6	tökéletesen	tökéletes	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-417
+7	felgyógyult	felgyógyul	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-418|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-419
+9	de	de	CCONJ	_	_	_	_	_	tokId=w-420
+10	betegsége	betegség	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-421
+11	„	„	PUNCT	_	_	_	_	_	tokId=w-422
+12	szexcsillag	szexcsillag	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-423
+13	”	”	PUNCT	_	_	_	_	_	tokId=w-424
+14	voltának	volta	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-425
+15	mégis	mégis	ADV	_	_	_	_	_	tokId=w-426
+16	sokat	sok	NUM	_	Case=Acc|Number=Sing|NumType=Card	_	_	_	tokId=w-427
+17	ártott	árt	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-428|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-429
+

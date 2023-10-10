@@ -1,0 +1,353 @@
+# newdoc id = w98
+# sent_id = w98_s-1
+# text = A magyar történelem egyik legismertebb eseményét, a Muhi csatát 770 éve, 1241. április 11-12.-én vívták.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-1
+2	magyar	magyar	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-2
+3	történelem	történelem	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-3
+4	egyik	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-4
+5	legismertebb	ismert	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-5
+6	eseményét	esemény	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-6|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-7
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-8
+9	Muhi	muhi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-9
+10	csatát	csata	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-10
+11	770	770	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-11
+12	éve	év	ADV	_	_	_	_	_	tokId=w-12|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-13
+14	1241.	1241.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-14
+15	április	április	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-15
+16	11-12.-én	11-12	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-16
+17	vívták	vív	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-17|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-18
+
+# sent_id = w98_s-2
+# text = „ Ölelkező párt temettek a templomban ”, „ A sólyi Rómeó és Júlia ” ilyen és ehhez hasonló címekkel jelentek meg a sajtóhírek 2009 januárjában, egy különös kettős temetkezésről, amelyet a Veszprém megyei Sóly református templom feltárásakor találtunk.
+1	„	„	PUNCT	_	_	_	_	_	tokId=w-19
+2	Ölelkező	Ölelkező	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPres	_	_	_	tokId=w-20|NE=name[MISC]_1
+3	párt	párt	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-21|NE=name[MISC]_1
+4	temettek	temettek	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-22|NE=name[MISC]_1
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-23|NE=name[MISC]_1
+6	templomban	templomban	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-24|NE=name[MISC]_1
+7	”	”	PUNCT	_	_	_	_	_	tokId=w-25|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-26
+9	„	„	PUNCT	_	_	_	_	_	tokId=w-27
+10	A	A	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-28|NE=name[MISC]_2
+11	sólyi	sólyi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-29|NE=name[MISC]_2
+12	Rómeó	Rómeó	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-30|NE=name[MISC]_2
+13	és	és	CCONJ	_	_	_	_	_	tokId=w-31|NE=name[MISC]_2
+14	Júlia	Júlia	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-32|NE=name[MISC]_2
+15	”	”	PUNCT	_	_	_	_	_	tokId=w-33
+16	ilyen	ilyen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-34
+17	és	és	CCONJ	_	_	_	_	_	tokId=w-35
+18	ehhez	ez	PRON	_	Case=All|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-36
+19	hasonló	hasonló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-37
+20	címekkel	cím	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-38
+21	jelentek	jelenik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-39
+22	meg	meg	PART	_	_	_	_	_	tokId=w-40
+23	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-41
+24	sajtóhírek	sajtóhír	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-42
+25	2009	2009	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-43
+26	januárjában	január	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-44|SpaceAfter=No
+27	,	,	PUNCT	_	_	_	_	_	tokId=w-45
+28	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-46
+29	különös	különös	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-47
+30	kettős	kettős	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-48
+31	temetkezésről	temetkezés	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-49|SpaceAfter=No
+32	,	,	PUNCT	_	_	_	_	_	tokId=w-50
+33	amelyet	amely	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-51
+34	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-52
+35	Veszprém	Veszprém	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-53
+36	megyei	megyei	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-54
+37	Sóly	Sóly	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-55|NE=name[LOC]_3
+38	református	református	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-56
+39	templom	templom	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-57
+40	feltárásakor	feltárás	NOUN	_	Case=Tem|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-58
+41	találtunk	talál	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-59|SpaceAfter=No
+42	.	.	PUNCT	_	_	_	_	_	tokId=w-60
+
+# sent_id = w98_s-3
+# text = A Pest Megyei Múzeumok Igazgatóságának régészei a 4-es számú főút ceglédi szakaszát kutatták az adott év áprilisától novemberig.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-61
+2	Pest	Pest	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-62|NE=name[ORG]_4
+3	Megyei	Megyei	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-63|NE=name[ORG]_4
+4	Múzeumok	Múzeumok	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-64|NE=name[ORG]_4
+5	Igazgatóságának	Igazgatósága	PROPN	_	Case=Gen|Number=Sing	_	_	_	tokId=w-65|NE=name[ORG]_4
+6	régészei	régész	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-66
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-67
+8	4-es	4-es	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-68
+9	számú	számú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-69
+10	főút	főút	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-70
+11	ceglédi	ceglédi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-71
+12	szakaszát	szakasz	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-72
+13	kutatták	kutat	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-73
+14	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-74
+15	adott	adott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-75
+16	év	év	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-76
+17	áprilisától	április	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-77
+18	novemberig	november	NOUN	_	Case=Ter|Number=Sing	_	_	_	tokId=w-78|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-79
+
+# sent_id = w98_s-4
+# text = Alig egy hétig látható az Országházban az a kiállítás, amely elsősorban az elmúlt tíz év nagy építkezéseihez kapcsolódó ásatásokon előkerült legjelentősebb tárgyakból válogat.
+1	Alig	alig	ADV	_	_	_	_	_	tokId=w-80
+2	egy	egy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-81
+3	hétig	hét	NOUN	_	Case=Ter|Number=Sing	_	_	_	tokId=w-82
+4	látható	látható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-83
+5	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-84
+6	Országházban	Országház	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-85|NE=name[LOC]_5
+7	az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-86
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-87
+9	kiállítás	kiállítás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-88|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-89
+11	amely	amely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-90
+12	elsősorban	elsősorban	ADV	_	_	_	_	_	tokId=w-91
+13	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-92
+14	elmúlt	elmúlt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-93
+15	tíz	tíz	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-94
+16	év	év	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-95
+17	nagy	nagy	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-96
+18	építkezéseihez	építkezés	NOUN	_	Case=All|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-97
+19	kapcsolódó	kapcsolódó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-98
+20	ásatásokon	ásatás	NOUN	_	Case=Sup|Number=Plur	_	_	_	tokId=w-99
+21	előkerült	előkerült	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-100
+22	legjelentősebb	jelentős	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-101
+23	tárgyakból	tárgy	NOUN	_	Case=Ela|Number=Plur	_	_	_	tokId=w-102
+24	válogat	válogat	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-103|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-104
+
+# sent_id = w98_s-5
+# text = Nem aprózzák el Észak-Rajna-Vesztfáliában a teutoburgi ütközet kétezer éves évfordulóját, amelynek során a germán törzsek Arminius herceg vezetésével Augustus császár három teljes legioját semmisítették meg egy hatalmas, több napos rajtaütésben.
+1	Nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-105
+2	aprózzák	apróz	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-106
+3	el	el	ADV	_	_	_	_	_	tokId=w-107
+4	Észak-Rajna-Vesztfáliában	Észak-Rajna-Vesztfália	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-108|NE=name[LOC]_6
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-109
+6	teutoburgi	teutoburgi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-110
+7	ütközet	ütközet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-111
+8	kétezer	kétezer	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-112
+9	éves	éves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-113
+10	évfordulóját	évforduló	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-114|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-115
+12	amelynek	amely	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-116
+13	során	során	ADP	_	_	_	_	_	tokId=w-117
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-118
+15	germán	germán	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-119
+16	törzsek	törzs	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-120
+17	Arminius	Arminius	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-121|NE=name[PER]_7
+18	herceg	herceg	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-122
+19	vezetésével	vezetés	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-123
+20	Augustus	Augustus	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-124|NE=name[PER]_8
+21	császár	császár	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-125
+22	három	három	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-126
+23	teljes	teljes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-127
+24	legioját	legio	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-128
+25	semmisítették	semmisít	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-129
+26	meg	meg	PART	_	_	_	_	_	tokId=w-130
+27	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-131
+28	hatalmas	hatalmas	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-132|SpaceAfter=No
+29	,	,	PUNCT	_	_	_	_	_	tokId=w-133
+30	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-134
+31	napos	napos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-135
+32	rajtaütésben	rajtaütés	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-136|SpaceAfter=No
+33	.	.	PUNCT	_	_	_	_	_	tokId=w-137
+
+# sent_id = w98_s-6
+# text = Egy épülő biatorbágyi lakópark területén, a Kulturális Örökségvédelmi Szakszolgálat megelőző régészeti feltárásán, csaknem pontosan egy év eltéréssel, 2007-ben és 2008-ban két római kori éremkincs került elő.
+1	Egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-138
+2	épülő	épülő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-139
+3	biatorbágyi	biatorbágyi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-140
+4	lakópark	lakópark	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-141
+5	területén	terület	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-142|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-143
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-144
+8	Kulturális	Kulturális	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-145|NE=name[ORG]_9
+9	Örökségvédelmi	Örökségvédelmi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-146|NE=name[ORG]_9
+10	Szakszolgálat	Szakszolgálat	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-147|NE=name[ORG]_9
+11	megelőző	megelőző	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-148
+12	régészeti	régészeti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-149
+13	feltárásán	feltárás	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-150|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-151
+15	csaknem	csaknem	ADV	_	_	_	_	_	tokId=w-152
+16	pontosan	pontos	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-153
+17	egy	egy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-154
+18	év	év	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-155
+19	eltéréssel	eltérés	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-156|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-157
+21	2007-ben	2007	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-158
+22	és	és	CCONJ	_	_	_	_	_	tokId=w-159
+23	2008-ban	2008	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-160
+24	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-161
+25	római	római	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-162
+26	kori	kori	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-163
+27	éremkincs	éremkincs	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-164
+28	került	kerül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-165
+29	elő	elő	ADV	_	Degree=Pos	_	_	_	tokId=w-166|SpaceAfter=No
+30	.	.	PUNCT	_	_	_	_	_	tokId=w-167
+
+# sent_id = w98_s-7
+# text = Két művész és egy régész együttműködéséből született az a ma este, a Margitszigeten nyíló művészeti kiállítás, amely kortárs nyilvános tereket vizsgál a régészet szemszögéből.
+1	Két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-168
+2	művész	művész	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-169
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-170
+4	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-171
+5	régész	régész	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-172
+6	együttműködéséből	együttműködés	NOUN	_	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-173
+7	született	születik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-174
+8	az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-175
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-176
+10	ma	ma	ADV	_	_	_	_	_	tokId=w-177
+11	este	este	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-178|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-179
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-180
+14	Margitszigeten	Margitsziget	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-181|NE=name[LOC]_10
+15	nyíló	nyíló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-182
+16	művészeti	művészeti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-183
+17	kiállítás	kiállítás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-184|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-185
+19	amely	amely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-186
+20	kortárs	kortárs	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-187
+21	nyilvános	nyilvános	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-188
+22	tereket	tér	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-189
+23	vizsgál	vizsgál	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-190
+24	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-191
+25	régészet	régészet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-192
+26	szemszögéből	szemszög	NOUN	_	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-193|SpaceAfter=No
+27	.	.	PUNCT	_	_	_	_	_	tokId=w-194
+
+# sent_id = w98_s-8
+# text = Az Országgyűlésáltal 2011. november 15-én elfogadott törvénymódosítással új fogalom, az elfedés került be a kulturális örökség védelméről szóló törvénybe.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-195
+2	Országgyűlés	Országgyűlés	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-196|NE=name[ORG]_11|SpaceAfter=No
+3	által	által	ADP	_	_	_	_	_	tokId=w-197
+4	2011.	2011.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-198
+5	november	november	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-199
+6	15-én	15	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-200
+7	elfogadott	elfogadott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-201
+8	törvénymódosítással	törvénymódosítás	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-202
+9	új	új	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-203
+10	fogalom	fogalom	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-204|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-205
+12	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-206
+13	elfedés	elfedés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-207
+14	került	kerül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-208
+15	be	be	ADV	_	Degree=Pos	_	_	_	tokId=w-209
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-210
+17	kulturális	kulturális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-211
+18	örökség	örökség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-212
+19	védelméről	védelem	NOUN	_	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-213
+20	szóló	szóló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-214
+21	törvénybe	törvény	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-215|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-216
+
+# sent_id = w98_s-9
+# text = - A jó hír az, hogy holnap mindenki dupla fejadagot kap, a rossz az, hogy a kapitány vízisíelni akar!
+1	-	-	X	_	_	_	_	_	tokId=w-217
+2	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-218
+3	jó	jó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-219
+4	hír	hír	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-220
+5	az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-221|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-222
+7	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-223
+8	holnap	holnap	ADV	_	_	_	_	_	tokId=w-224
+9	mindenki	mindenki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-225
+10	dupla	dupla	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-226
+11	fejadagot	fejadag	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-227
+12	kap	kap	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-228|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-229
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-230
+15	rossz	rossz	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-231
+16	az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-232|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-233
+18	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-234
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-235
+20	kapitány	kapitány	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-236
+21	vízisíelni	vízisíel	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-237
+22	akar	akar	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-238|SpaceAfter=No
+23	!	!	PUNCT	_	_	_	_	_	tokId=w-239
+
+# sent_id = w98_s-10
+# text = „ A legszerényebb számítások szerint India , Kína és Arábia 100 millió sestertiust visz el a birodalmunktól minden évben – ennyibe kerülnek nekünk a luxuscikkek és az asszonyaink! ” – sóhajtott fel a Kr.u. 1. század derekán az idősebb Plinius .
+1	„	„	PUNCT	_	_	_	_	_	tokId=w-240
+2	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-241
+3	legszerényebb	szerény	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-242
+4	számítások	számítás	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-243
+5	szerint	szerint	ADP	_	_	_	_	_	tokId=w-244
+6	India	India	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-245|NE=name[LOC]_12
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-246
+8	Kína	Kína	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-247|NE=name[LOC]_13
+9	és	és	CCONJ	_	_	_	_	_	tokId=w-248
+10	Arábia	Arábia	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-249|NE=name[LOC]_14
+11	100	100	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-250
+12	millió	millió	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-251
+13	sestertiust	sestertius	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-252
+14	visz	visz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-253
+15	el	el	ADV	_	_	_	_	_	tokId=w-254
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-255
+17	birodalmunktól	birodalom	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-256
+18	minden	minden	DET	_	Definite=Ind|PronType=Tot	_	_	_	tokId=w-257
+19	évben	év	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-258
+20	–	–	X	_	_	_	_	_	tokId=w-259
+21	ennyibe	ennyi	PRON	_	Case=Ill|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-260
+22	kerülnek	kerül	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-261
+23	nekünk	mi	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	tokId=w-262
+24	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-263
+25	luxuscikkek	luxuscikk	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-264
+26	és	és	CCONJ	_	_	_	_	_	tokId=w-265
+27	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-266
+28	asszonyaink	asszony	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-267|SpaceAfter=No
+29	!	!	PUNCT	_	_	_	_	_	tokId=w-268
+30	”	”	PUNCT	_	_	_	_	_	tokId=w-269
+31	–	–	X	_	_	_	_	_	tokId=w-270
+32	sóhajtott	sóhajt	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-271
+33	fel	fel	ADV	_	Degree=Pos	_	_	_	tokId=w-272
+34	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-273
+35	Kr.	Kr.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-274|NE=name[PER]_15|SpaceAfter=No
+36	u.	u.	ADP	_	_	_	_	_	tokId=w-275
+37	1.	1.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-276
+38	század	század	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-277
+39	derekán	derék	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-278
+40	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-279
+41	idősebb	idősebb	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-280
+42	Plinius	Plinius	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-281|NE=name[PER]_16
+43	.	.	PUNCT	_	_	_	_	_	tokId=w-282
+
+# sent_id = w98_s-11
+# text = A közelmúltban két, egymással rokon, ritkaság számba menő avar kori lelet került napvilágra az ELTE Régészettudományi Intézetének Szolnok és Tolna megyei ásatásain, amelyek a kora középkori ötvösség emberalakotta tárgyai felé fordították a figyelmemet.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-283
+2	közelmúltban	közelmúlt	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-284
+3	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-285|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-286
+5	egymással	egymás	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Rcp	_	_	_	tokId=w-287
+6	rokon	rokon	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-288|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-289
+8	ritkaság	ritkaság	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-290
+9	számba	számba	ADP	_	_	_	_	_	tokId=w-291
+10	menő	menő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-292
+11	avar	avar	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-293
+12	kori	kori	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-294
+13	lelet	lelet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-295
+14	került	kerül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-296
+15	napvilágra	napvilág	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-297
+16	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-298
+17	ELTE	ELTE	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-299|NE=name[ORG]_17
+18	Régészettudományi	Régészettudományi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-300|NE=name[ORG]_17
+19	Intézetének	Intézet	PROPN	_	Case=Gen|Number=Sing	_	_	_	tokId=w-301|NE=name[ORG]_17
+20	Szolnok	Szolnok	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-302
+21	és	és	CCONJ	_	_	_	_	_	tokId=w-303
+22	Tolna	Tolna	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-304
+23	megyei	megyei	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-305
+24	ásatásain	ásatás	NOUN	_	Case=Sup|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-306|SpaceAfter=No
+25	,	,	PUNCT	_	_	_	_	_	tokId=w-307
+26	amelyek	amely	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-308
+27	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-309
+28	kora	kora	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-310
+29	középkori	középkori	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-311
+30	ötvösség	ötvösség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-312
+31	emberalakotta	emberalkotta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-313
+32	tárgyai	tárgy	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-314
+33	felé	felé	ADP	_	_	_	_	_	tokId=w-315
+34	fordították	fordít	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-316
+35	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-317
+36	figyelmemet	figyelem	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=1	_	_	_	tokId=w-318|SpaceAfter=No
+37	.	.	PUNCT	_	_	_	_	_	tokId=w-319
+

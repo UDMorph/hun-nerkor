@@ -1,0 +1,76 @@
+# newdoc id = w400
+# sent_id = w400_s-1
+# text = Fájdalommal és végtelen szomorúsággal tudajuk, hogy VAS FERENCNÉ szül.
+1	Fájdalommal	fájdalom	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-1
+2	és	és	CCONJ	_	_	_	_	_	tokId=w-2
+3	végtelen	végtelen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-3
+4	szomorúsággal	szomorúság	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-4
+5	tudajuk	tudat	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-5|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-6
+7	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-7
+8	VAS	Vas	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-8|NE=name[PER]_1
+9	FERENCNÉ	Ferencné	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-9|NE=name[PER]_1
+10	szül	szül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-10|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-11
+
+# sent_id = w400_s-2
+# text = Egyúttal köszönetet mondunk mindazoknak, akik utolsó útjára elkísérik.
+1	Egyúttal	egyúttal	ADV	_	_	_	_	_	tokId=w-12
+2	köszönetet	köszönet	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-13
+3	mondunk	mond	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-14
+4	mindazoknak	mindaz	NOUN	_	Case=Dat|Number=Plur	_	_	_	tokId=w-15|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-16
+6	akik	aki	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-17
+7	utolsó	utolsó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-18
+8	útjára	út	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-19
+9	elkísérik	elkísér	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-20|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-21
+
+# sent_id = w400_s-3
+# text = " Elcsitult a szív, mely értünk dobogott, Pihen a kéz, mely értünk dolgozott.
+1	"	"	PUNCT	_	_	_	_	_	tokId=w-22
+2	Elcsitult	elcsitul	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-23
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-24
+4	szív	szív	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-25|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-26
+6	mely	mely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-27
+7	értünk	mi	PRON	_	Case=Cau|Number=Plur|Person=1|PronType=Prs	_	_	_	tokId=w-28
+8	dobogott	dobog	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-29|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-30
+10	Pihen	pihen	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-31
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-32
+12	kéz	kéz	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-33|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-34
+14	mely	mely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-35
+15	értünk	mi	PRON	_	Case=Cau|Number=Plur|Person=1|PronType=Prs	_	_	_	tokId=w-36
+16	dolgozott	dolgozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-37|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-38
+
+# sent_id = w400_s-4
+# text = Mély fájdalommal tudatjuk mindazokkal, akik ismerték és szerették, hogy KONDÁKOR ANTALNÉ szül.
+1	Mély	mély	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-39
+2	fájdalommal	fájdalom	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-40
+3	tudatjuk	tudat	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-41
+4	mindazokkal	mindaz	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-42|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-43
+6	akik	aki	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-44
+7	ismerték	ismer	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-45
+8	és	és	CCONJ	_	_	_	_	_	tokId=w-46
+9	szerették	szeret	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-47|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-48
+11	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-49
+12	KONDÁKOR	KONDÁKOR	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-50|NE=name[PER]_2
+13	ANTALNÉ	Antalné	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-51|NE=name[PER]_2
+14	szül	szül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-52|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-53
+
+# sent_id = w400_s-5
+# text = Temetése 2019. április 26-án, pénteken 14
+1	Temetése	temetés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-54
+2	2019.	2019.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-55
+3	április	április	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-56
+4	26-án	26	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-57|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-58
+6	pénteken	péntek	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-59
+7	14	14	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-60
+

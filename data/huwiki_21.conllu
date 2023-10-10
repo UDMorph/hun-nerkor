@@ -1,0 +1,330 @@
+# newdoc id = huwiki_21
+# sent_id = huwiki_21_s-1
+# text = A sikoly Edvard Munch norvég expresszionista festő leghíresebb festménye.
+1	A	A	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-1|NE=name[MISC]_1
+2	sikoly	sikoly	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-2|NE=name[MISC]_1
+3	Edvard	Edvard	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-3|NE=name[PER]_2
+4	Munch	Munch	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-4|NE=name[PER]_2
+5	norvég	norvég	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-5
+6	expresszionista	expresszionista	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-6
+7	festő	festő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-7
+8	leghíresebb	híres	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-8
+9	festménye	festmény	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-9|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-10
+
+# sent_id = huwiki_21_s-2
+# text = Az alkotás egy festménysorozat részeként készült, melyet Munch 1893 és 1910 közt festett.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-11
+2	alkotás	alkotás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-12
+3	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-13
+4	festménysorozat	festménysorozat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-14
+5	részeként	rész	NOUN	_	Case=Ess|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-15
+6	készült	készül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-16|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-17
+8	melyet	mely	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-18
+9	Munch	Munch	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-19|NE=name[PER]_3
+10	1893	1893	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-20
+11	és	és	CCONJ	_	_	_	_	_	tokId=w-21
+12	1910	1910	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-22
+13	közt	közt	ADP	_	_	_	_	_	tokId=w-23
+14	festett	fest	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-24|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-25
+
+# sent_id = huwiki_21_s-3
+# text = A természet sikolya című sorozat mindegyikén egy halálfélelmet kifejező alak látható a narancsszínű égbolt előtt.
+1	A	A	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-26|NE=name[MISC]_4
+2	természet	természet	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-27|NE=name[MISC]_4
+3	sikolya	sikolya	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-28|NE=name[MISC]_4
+4	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-29
+5	sorozat	sorozat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-30
+6	mindegyikén	mindegyik	PRON	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Tot	_	_	_	tokId=w-31
+7	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-32
+8	halálfélelmet	halálfélelem	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-33
+9	kifejező	kifejező	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-34
+10	alak	alak	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-35
+11	látható	látható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-36
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-37
+13	narancsszínű	narancsszínű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-38
+14	égbolt	égbolt	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-39
+15	előtt	előtt	ADP	_	_	_	_	_	tokId=w-40|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-41
+
+# sent_id = huwiki_21_s-4
+# text = A sikoly hátterében az Oslo-fjordot ábrázolta a művész, melyet Ekebergfelől festett meg Oslóban .
+1	A	A	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-42|NE=name[MISC]_5
+2	sikoly	sikoly	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-43|NE=name[MISC]_5
+3	hátterében	háttér	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-44
+4	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-45
+5	Oslo-fjordot	Oslo-fjord	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-46|NE=name[LOC]_6
+6	ábrázolta	ábrázol	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-47
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-48
+8	művész	művész	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-49|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-50
+10	melyet	mely	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-51
+11	Ekeberg	Ekeberg	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-52|NE=name[LOC]_7|SpaceAfter=No
+12	felől	felől	ADP	_	_	_	_	_	tokId=w-53
+13	festett	fest	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-54
+14	meg	meg	PART	_	_	_	_	_	tokId=w-55
+15	Oslóban	Oslo	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-56|NE=name[LOC]_8
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-57
+
+# sent_id = huwiki_21_s-5
+# text = Edvard Munch négy változatot készített.
+1	Edvard	Edvard	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-58|NE=name[PER]_9
+2	Munch	Munch	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-59|NE=name[PER]_9
+3	négy	négy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-60
+4	változatot	változat	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-61
+5	készített	készít	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-62|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-63
+
+# sent_id = huwiki_21_s-6
+# text = Az oslói Nemzeti Galéria ebből két változatot őriz, ebből az egyik, mely 1893-ban készült, látható a képen.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-64
+2	oslói	oslói	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-65
+3	Nemzeti	Nemzeti	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-66|NE=name[ORG]_10
+4	Galéria	Galéria	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-67|NE=name[ORG]_10
+5	ebből	ez	PRON	_	Case=Ela|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-68
+6	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-69
+7	változatot	változat	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-70
+8	őriz	őriz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-71|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-72
+10	ebből	ez	PRON	_	Case=Ela|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-73
+11	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-74
+12	egyik	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-75|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-76
+14	mely	mely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-77
+15	1893-ban	1893	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-78
+16	készült	készül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-79|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-80
+18	látható	látható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-81
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-82
+20	képen	kép	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-83|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-84
+
+# sent_id = huwiki_21_s-7
+# text = A Munch Múzeum egy másik festett változatot őriz 1910-ből, valamint egy pasztell verziót is 1893-ból.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-85
+2	Munch	Munch	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-86|NE=name[ORG]_11
+3	Múzeum	Múzeum	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-87|NE=name[ORG]_11
+4	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-88
+5	másik	másik	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-89
+6	festett	festett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-90
+7	változatot	változat	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-91
+8	őriz	őriz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-92
+9	1910-ből	1910	NUM	_	Case=Ela|Number=Sing|NumType=Card	_	_	_	tokId=w-93|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-94
+11	valamint	valamint	CCONJ	_	_	_	_	_	tokId=w-95
+12	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-96
+13	pasztell	pasztell	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-97
+14	verziót	verzió	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-98
+15	is	is	ADV	_	_	_	_	_	tokId=w-99
+16	1893-ból	1893	NUM	_	Case=Ela|Number=Sing|NumType=Card	_	_	_	tokId=w-100|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-101
+
+# sent_id = huwiki_21_s-8
+# text = A három változat éveken keresztül nem került át máshová.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-102
+2	három	három	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-103
+3	változat	változat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-104
+4	éveken	év	NOUN	_	Case=Sup|Number=Plur	_	_	_	tokId=w-105
+5	keresztül	keresztül	ADP	_	_	_	_	_	tokId=w-106
+6	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-107
+7	került	kerül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-108
+8	át	át	ADV	_	_	_	_	_	tokId=w-109
+9	máshová	máshová	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-110|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-111
+
+# sent_id = huwiki_21_s-9
+# text = Az 1895-ből származó pasztellképet 2012. május másodikán a Sotheby aukciós ház bocsátotta aukcióba, ahol Leon Black bankár rekordösszegű, 119922500 amerikai dollárt fizetett érte.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-112
+2	1895-ből	1895	NUM	_	Case=Ela|Number=Sing|NumType=Card	_	_	_	tokId=w-113
+3	származó	származó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-114
+4	pasztellképet	pasztellkép	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-115
+5	2012.	2012.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-116
+6	május	május	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-117
+7	másodikán	kettő	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-118
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-119
+9	Sotheby	Sotheby	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-120|NE=name[ORG]_12
+10	aukciós	aukciós	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-121
+11	ház	ház	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-122
+12	bocsátotta	bocsát	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-123
+13	aukcióba	aukció	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-124|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-125
+15	ahol	ahol	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-126
+16	Leon	Leon	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-127|NE=name[PER]_13
+17	Black	Black	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-128|NE=name[PER]_13
+18	bankár	bankár	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-129
+19	rekordösszegű	rekordösszegű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-130|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-131
+21	119922500	119922500	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-132
+22	amerikai	amerikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-133
+23	dollárt	dollár	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-134
+24	fizetett	fizet	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-135
+25	érte	ő	PRON	_	Case=Cau|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-136|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-137
+
+# sent_id = huwiki_21_s-10
+# text = A művész szintén 1895-ben készített a képről egy litográfiát.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-138
+2	művész	művész	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-139
+3	szintén	szintén	ADV	_	_	_	_	_	tokId=w-140
+4	1895-ben	1895	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-141
+5	készített	készít	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-142
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-143
+7	képről	kép	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-144
+8	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-145
+9	litográfiát	litográfia	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-146|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-147
+
+# sent_id = huwiki_21_s-11
+# text = A litográfia másolataiból számos példány fennmaradt.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-148
+2	litográfia	litográfia	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-149
+3	másolataiból	másolat	NOUN	_	Case=Ela|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-150
+4	számos	számos	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-151
+5	példány	példány	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-152
+6	fennmaradt	fennmarad	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-153|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-154
+
+# sent_id = huwiki_21_s-12
+# text = A festményt számos nagystílű műkincstolvaj próbálta megszerezni az idők folyamán, több-kevesebb sikerrel.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-155
+2	festményt	festmény	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-156
+3	számos	számos	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-157
+4	nagystílű	nagystílű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-158
+5	műkincstolvaj	műkincstolvaj	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-159
+6	próbálta	próbál	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-160
+7	megszerezni	megszerez	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-161
+8	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-162
+9	idők	idő	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-163
+10	folyamán	folyamán	ADP	_	_	_	_	_	tokId=w-164|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-165
+12	több-kevesebb	több-kevesebb	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-166
+13	sikerrel	siker	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-167|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-168
+
+# sent_id = huwiki_21_s-13
+# text = 1994-ben a Nemzeti Galériában őrzött példányok egyikét sikerült eltulajdonítania egy tolvajnak.
+1	1994-ben	1994	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-169
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-170
+3	Nemzeti	Nemzeti	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-171|NE=name[LOC]_14
+4	Galériában	Galéria	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-172|NE=name[LOC]_14
+5	őrzött	őrzött	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-173
+6	példányok	példány	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-174
+7	egyikét	egyik	ADJ	_	Case=Acc|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-175
+8	sikerült	sikerül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-176
+9	eltulajdonítania	eltulajdonít	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	tokId=w-177
+10	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-178
+11	tolvajnak	tolvaj	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-179|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-180
+
+# sent_id = huwiki_21_s-14
+# text = Több hónap elteltével került csak elő ezen festmény.
+1	Több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-181
+2	hónap	hónap	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-182
+3	elteltével	elteltével	ADP	_	_	_	_	_	tokId=w-183
+4	került	kerül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-184
+5	csak	csak	ADV	_	_	_	_	_	tokId=w-185
+6	elő	elő	ADV	_	Degree=Pos	_	_	_	tokId=w-186
+7	ezen	ezen	ADV	_	PronType=Art	_	_	_	tokId=w-187
+8	festmény	festmény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-188|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-189
+
+# sent_id = huwiki_21_s-15
+# text = 2004-ben A sikoly és a Madonna című kép két példányát is ellopták, melyek két évvel később kerültek csak elő.
+1	2004-ben	2004	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-190
+2	A	a	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-191|NE=name[MISC]_15
+3	sikoly	sikoly	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-192|NE=name[MISC]_15
+4	és	és	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-193
+5	a	a	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-194
+6	Madonna	Madonna	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-195|NE=name[MISC]_16
+7	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-196
+8	kép	kép	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-197
+9	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-198
+10	példányát	példány	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-199
+11	is	is	ADV	_	_	_	_	_	tokId=w-200
+12	ellopták	ellop	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-201|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-202
+14	melyek	mely	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-203
+15	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-204
+16	évvel	év	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-205
+17	később	később	ADV	_	_	_	_	_	tokId=w-206
+18	kerültek	kerül	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-207
+19	csak	csak	ADV	_	_	_	_	_	tokId=w-208
+20	elő	elő	ADV	_	Degree=Pos	_	_	_	tokId=w-209|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-210
+
+# sent_id = huwiki_21_s-16
+# text = A mű eredeti német címén a Der Schrei der Natur, azaz A természet sikolya címet kapta szerzőjétől.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-211
+2	mű	mű	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-212
+3	eredeti	eredeti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-213
+4	német	német	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-214
+5	címén	cím	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-215
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-216
+7	Der	Der	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-217|NE=name[MISC]_17
+8	Schrei	Schrei	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-218|NE=name[MISC]_17
+9	der	der	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-219|NE=name[MISC]_17
+10	Natur	Natur	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-220|NE=name[MISC]_17|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-221
+12	azaz	azaz	CCONJ	_	_	_	_	_	tokId=w-222
+13	A	a	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-223|NE=name[MISC]_18
+14	természet	természet	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-224|NE=name[MISC]_18
+15	sikolya	sikolya	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-225|NE=name[MISC]_18
+16	címet	cím	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-226
+17	kapta	kap	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-227
+18	szerzőjétől	szerző	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-228|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-229
+
+# sent_id = huwiki_21_s-17
+# text = A norvég skrik szót gyakran sikolyként fordítják, ám jobban hasonlít az angolban használt shriek (sikoly, visítás) szóra.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-230
+2	norvég	norvég	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-231
+3	skrik	skrik	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-232
+4	szót	szó	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-233
+5	gyakran	gyakran	ADV	_	_	_	_	_	tokId=w-234
+6	sikolyként	sikoly	NOUN	_	Case=Ess|Number=Sing	_	_	_	tokId=w-235
+7	fordítják	fordít	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-236|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-237
+9	ám	ám	CCONJ	_	_	_	_	_	tokId=w-238
+10	jobban	jól	ADV	_	Degree=Cmp	_	_	_	tokId=w-239
+11	hasonlít	hasonlít	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-240
+12	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-241
+13	angolban	angol	ADJ	_	Case=Ine|Degree=Pos|Number=Sing	_	_	_	tokId=w-242
+14	használt	használt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-243
+15	shriek	shriek	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-244
+16	(	(	PUNCT	_	_	_	_	_	tokId=w-245|SpaceAfter=No
+17	sikoly	sikoly	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-246|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-247
+19	visítás	visítás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-248|SpaceAfter=No
+20	)	)	PUNCT	_	_	_	_	_	tokId=w-249
+21	szóra	szó	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-250|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-251
+
+# sent_id = huwiki_21_s-18
+# text = Esetenként A kiáltás címen is emlegetik.
+1	Esetenként	esetenként	ADV	_	_	_	_	_	tokId=w-252
+2	A	A	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-253|NE=name[MISC]_19
+3	kiáltás	kiáltás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-254|NE=name[MISC]_19
+4	címen	cím	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-255
+5	is	is	ADV	_	_	_	_	_	tokId=w-256
+6	emlegetik	emleget	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-257|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-258
+
+# sent_id = huwiki_21_s-19
+# text = A híres festmény a Bolondos dallamok – Újra bevetésen című filmben is látható.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-259
+2	híres	híres	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-260
+3	festmény	festmény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-261
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-262
+5	Bolondos	Bolondos	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-263|NE=name[MISC]_20
+6	dallamok	dallamok	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-264|NE=name[MISC]_20
+7	–	–	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-265|NE=name[MISC]_20
+8	Újra	Újra	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-266|NE=name[MISC]_20
+9	bevetésen	bevetés	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-267|NE=name[MISC]_20
+10	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-268
+11	filmben	film	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-269
+12	is	is	ADV	_	_	_	_	_	tokId=w-270
+13	látható	látható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-271|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-272
+

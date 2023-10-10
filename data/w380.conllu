@@ -1,0 +1,614 @@
+# newdoc id = w380
+# sent_id = w380_s-1
+# text = A szervező Zala Megyei Kézilabda SzövetségVersenybizottsága , Fegyelmi Bizottsága indokolt esetben hivatalból is kirendelhet szövetségi ellenőrt a sportszervezetek költségére.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-1
+2	szervező	szervező	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-2
+3	Zala	Zala	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-3|NE=name[ORG]_1
+4	Megyei	Megyei	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-4|NE=name[ORG]_1
+5	Kézilabda	Kézilabda	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-5|NE=name[ORG]_1
+6	Szövetség	Szövetség	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-6|NE=name[ORG]_1
+7	Versenybizottsága	Versenybizottság	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-7|NE=name[ORG]_2
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-8
+9	Fegyelmi	Fegyelmi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-9|NE=name[ORG]_3
+10	Bizottsága	Bizottság	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-10|NE=name[ORG]_3
+11	indokolt	indokolt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-11
+12	esetben	eset	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-12
+13	hivatalból	hivatal	NOUN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-13
+14	is	is	ADV	_	_	_	_	_	tokId=w-14
+15	kirendelhet	kirendel	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-15
+16	szövetségi	szövetségi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-16
+17	ellenőrt	ellenőr	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-17
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-18
+19	sportszervezetek	sportszervezet	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-19
+20	költségére	költség	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-20|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-21
+
+# sent_id = w380_s-2
+# text = Amennyiben a mérkőzés játékvezetői úgy ítélik meg, hogy a két csapat felszerelésének szín összeállítása zavaró, akkor a hazai csapat köteles más színű sportfelszerelésben játszani.
+1	Amennyiben	amennyiben	CCONJ	_	_	_	_	_	tokId=w-22
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-23
+3	mérkőzés	mérkőzés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-24
+4	játékvezetői	játékvezető	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-25
+5	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-26
+6	ítélik	ítél	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-27
+7	meg	meg	PART	_	_	_	_	_	tokId=w-28|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-29
+9	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-30
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-31
+11	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-32
+12	csapat	csapat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-33
+13	felszerelésének	felszerelés	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-34
+14	szín	szín	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-35
+15	összeállítása	összeállítás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-36
+16	zavaró	zavaró	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-37|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-38
+18	akkor	akkor	ADV	_	PronType=Dem	_	_	_	tokId=w-39
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-40
+20	hazai	hazai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-41
+21	csapat	csapat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-42
+22	köteles	köteles	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-43
+23	más	más	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind|Person=3|PronType=Ind	_	_	_	tokId=w-44
+24	színű	színű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-45
+25	sportfelszerelésben	sportfelszerelés	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-46
+26	játszani	játszik	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-47|SpaceAfter=No
+27	.	.	PUNCT	_	_	_	_	_	tokId=w-48
+
+# sent_id = w380_s-3
+# text = A nevezési határidőig leadott érvényes nevezések alapján 6.1.1-nek megfelelően.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-49
+2	nevezési	nevezési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-50
+3	határidőig	határidő	NOUN	_	Case=Ter|Number=Sing	_	_	_	tokId=w-51
+4	leadott	leadott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-52
+5	érvényes	érvényes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-53
+6	nevezések	nevezés	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-54
+7	alapján	alapján	ADP	_	_	_	_	_	tokId=w-55
+8	6.1.1-nek	6.1.1	NUM	_	Case=Dat|Number=Sing|NumType=Card	_	_	_	tokId=w-56
+9	megfelelően	megfelelő	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-57|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-58
+
+# sent_id = w380_s-4
+# text = (Felsőbb osztályban való indulás feltétele 18 mérkőzés lejátszása.
+1	(	(	PUNCT	_	_	_	_	_	tokId=w-59|SpaceAfter=No
+2	Felsőbb	felső	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-60
+3	osztályban	osztály	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-61
+4	való	való	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-62
+5	indulás	indulás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-63
+6	feltétele	feltétel	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-64
+7	18	18	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-65
+8	mérkőzés	mérkőzés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-66
+9	lejátszása	lejátszás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-67|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-68
+
+# sent_id = w380_s-5
+# text = 7. Játékjogosultság, játékengedély:
+1	7.	7.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-69
+2	Játékjogosultság	játékjogosultság	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-70|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-71
+4	játékengedély	játékengedély	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-72|SpaceAfter=No
+5	:	:	PUNCT	_	_	_	_	_	tokId=w-73
+
+# sent_id = w380_s-6
+# text = A játékos játékengedélye egyben a Sporttörvény szerint versenyengedélynek minősül.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-74
+2	játékos	játékos	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-75
+3	játékengedélye	játékengedély	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-76
+4	egyben	egyben	ADV	_	_	_	_	_	tokId=w-77
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-78
+6	Sporttörvény	sporttörvény	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-79|NE=name[MISC]_4
+7	szerint	szerint	ADP	_	_	_	_	_	tokId=w-80
+8	versenyengedélynek	versenyengedély	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-81
+9	minősül	minősül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-82|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-83
+
+# sent_id = w380_s-7
+# text = 8. Játékosok szerepeltetése:
+1	8.	8.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-84
+2	Játékosok	játékos	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-85
+3	szerepeltetése	szerepeltetés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-86|SpaceAfter=No
+4	:	:	PUNCT	_	_	_	_	_	tokId=w-87
+
+# sent_id = w380_s-8
+# text = A Zala Megyei Kézilabda Szövetség által szervezett bajnoki mérkőzéseken, az a játékos vagy hivatalos személy, akivel szemben a mérkőzés játékvezetői írásos jelentést tettek (feljelentettek), a mérkőzést követő hivatalos szövetségi napon köteles a fegyelmi tárgyaláson, a szervező Zala Megyei Kézilabda Szövetség Fegyelmi Bizottsága előtt megjelenni, a Kézilabda Igazolványával – ha edző, Edzői Igazolványával – és a mérkőzés után elkészített játékvezetői jelentéssel.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-88
+2	Zala	Zala	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-89|NE=name[ORG]_5
+3	Megyei	Megyei	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-90|NE=name[ORG]_5
+4	Kézilabda	Kézilabda	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-91|NE=name[ORG]_5
+5	Szövetség	Szövetség	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-92|NE=name[ORG]_5
+6	által	által	ADP	_	_	_	_	_	tokId=w-93
+7	szervezett	szervezett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-94
+8	bajnoki	bajnoki	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-95
+9	mérkőzéseken	mérkőzés	NOUN	_	Case=Sup|Number=Plur	_	_	_	tokId=w-96|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-97
+11	az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-98
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-99
+13	játékos	játékos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-100
+14	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-101
+15	hivatalos	hivatalos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-102
+16	személy	személy	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-103|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-104
+18	akivel	aki	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-105
+19	szemben	szemben	ADP	_	_	_	_	_	tokId=w-106
+20	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-107
+21	mérkőzés	mérkőzés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-108
+22	játékvezetői	játékvezető	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-109
+23	írásos	írásos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-110
+24	jelentést	jelentés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-111
+25	tettek	tesz	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-112
+26	(	(	PUNCT	_	_	_	_	_	tokId=w-113|SpaceAfter=No
+27	feljelentettek	feljelent	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-114|SpaceAfter=No
+28	)	)	PUNCT	_	_	_	_	_	tokId=w-115|SpaceAfter=No
+29	,	,	PUNCT	_	_	_	_	_	tokId=w-116
+30	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-117
+31	mérkőzést	mérkőzés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-118
+32	követő	követő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-119
+33	hivatalos	hivatalos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-120
+34	szövetségi	szövetségi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-121
+35	napon	nap	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-122
+36	köteles	köteles	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-123
+37	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-124
+38	fegyelmi	fegyelmi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-125
+39	tárgyaláson	tárgyalás	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-126|SpaceAfter=No
+40	,	,	PUNCT	_	_	_	_	_	tokId=w-127
+41	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-128
+42	szervező	szervező	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-129
+43	Zala	Zala	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-130|NE=name[ORG]_6
+44	Megyei	Megyei	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-131|NE=name[ORG]_6
+45	Kézilabda	Kézilabda	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-132|NE=name[ORG]_6
+46	Szövetség	Szövetség	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-133|NE=name[ORG]_6
+47	Fegyelmi	Fegyelmi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-134|NE=name[ORG]_7
+48	Bizottsága	Bizottság	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-135|NE=name[ORG]_7
+49	előtt	előtt	ADP	_	_	_	_	_	tokId=w-136
+50	megjelenni	megjelenik	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-137|SpaceAfter=No
+51	,	,	PUNCT	_	_	_	_	_	tokId=w-138
+52	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-139
+53	Kézilabda	kézilabda	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-140
+54	Igazolványával	igazolvány	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-141
+55	–	–	X	_	_	_	_	_	tokId=w-142
+56	ha	ha	SCONJ	_	_	_	_	_	tokId=w-143
+57	edző	edző	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-144|SpaceAfter=No
+58	,	,	PUNCT	_	_	_	_	_	tokId=w-145
+59	Edzői	edzői	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-146
+60	Igazolványával	igazolvány	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-147
+61	–	–	X	_	_	_	_	_	tokId=w-148
+62	és	és	CCONJ	_	_	_	_	_	tokId=w-149
+63	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-150
+64	mérkőzés	mérkőzés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-151
+65	után	után	ADP	_	_	_	_	_	tokId=w-152
+66	elkészített	elkészített	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-153
+67	játékvezetői	játékvezetői	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-154
+68	jelentéssel	jelentés	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-155|SpaceAfter=No
+69	.	.	PUNCT	_	_	_	_	_	tokId=w-156
+
+# sent_id = w380_s-9
+# text = ♦ Sérülés, ápolás: ha sérülés miatt meg kell szakítani a játékot, kizárólag a játékvezető adhat engedélyt arra, hogy a pályán ápolhatják -e a sportolót.
+1	♦	♦	PUNCT	_	_	_	_	_	tokId=w-157
+2	Sérülés	sérülés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-158|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-159
+4	ápolás	ápolás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-160|SpaceAfter=No
+5	:	:	PUNCT	_	_	_	_	_	tokId=w-161
+6	ha	ha	SCONJ	_	_	_	_	_	tokId=w-162
+7	sérülés	sérülés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-163
+8	miatt	miatt	ADP	_	_	_	_	_	tokId=w-164
+9	meg	meg	PART	_	_	_	_	_	tokId=w-165
+10	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-166
+11	szakítani	szakít	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-167
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-168
+13	játékot	játék	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-169|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-170
+15	kizárólag	kizárólag	ADV	_	_	_	_	_	tokId=w-171
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-172
+17	játékvezető	játékvezető	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-173
+18	adhat	ad	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-174
+19	engedélyt	engedély	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-175
+20	arra	az	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-176|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-177
+22	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-178
+23	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-179
+24	pályán	pálya	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-180
+25	ápolhatják	ápol	VERB	_	Definite=Def|Mood=Pot|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-181
+26	-e	-e	ADV	_	PronType=Int	_	_	_	tokId=w-182
+27	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-183
+28	sportolót	sportoló	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-184|SpaceAfter=No
+29	.	.	PUNCT	_	_	_	_	_	tokId=w-185
+
+# sent_id = w380_s-10
+# text = A KUSzSz azonban megcélozza azokat az intézményeket és felnőtteket is, akik közvetlen és közvetett módon hatással vannak az ifjúság sporttevékenységére.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-186
+2	KUSzSz	KUSzSz	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-187|NE=name[MISC]_8
+3	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-188
+4	megcélozza	megcéloz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-189
+5	azokat	az	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-190
+6	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-191
+7	intézményeket	intézmény	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-192
+8	és	és	CCONJ	_	_	_	_	_	tokId=w-193
+9	felnőtteket	felnőtt	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-194
+10	is	is	ADV	_	_	_	_	_	tokId=w-195|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-196
+12	akik	aki	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-197
+13	közvetlen	közvetlen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-198
+14	és	és	CCONJ	_	_	_	_	_	tokId=w-199
+15	közvetett	közvetett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-200
+16	módon	mód	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-201
+17	hatással	hatás	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-202
+18	vannak	van	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-203
+19	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-204
+20	ifjúság	ifjúság	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-205
+21	sporttevékenységére	sporttevékenység	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-206|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-207
+
+# sent_id = w380_s-11
+# text = A szülő joga, hogy megismerje a Kézilabda Utánpótlás Szurkolói Szabályzatot és tájékoztatást kapjon az abban foglaltakról.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-208
+2	szülő	szülő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-209
+3	joga	jog	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-210|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-211
+5	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-212
+6	megismerje	megismer	VERB	_	Definite=Def|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-213
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-214
+8	Kézilabda	Kézilabda	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-215|NE=name[MISC]_9
+9	Utánpótlás	Utánpótlás	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-216|NE=name[MISC]_9
+10	Szurkolói	Szurkolói	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-217|NE=name[MISC]_9
+11	Szabályzatot	Szabályzat	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-218|NE=name[MISC]_9
+12	és	és	CCONJ	_	_	_	_	_	tokId=w-219
+13	tájékoztatást	tájékoztatás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-220
+14	kapjon	kap	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-221
+15	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-222
+16	abban	az	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-223
+17	foglaltakról	foglalt	ADJ	_	Case=Del|Degree=Pos|Number=Plur	_	_	_	tokId=w-224|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-225
+
+# sent_id = w380_s-12
+# text = A szülőkre, hozzátartozókra vonatkozó kívánalmak
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-226
+2	szülőkre	szülő	NOUN	_	Case=Sbl|Number=Plur	_	_	_	tokId=w-227|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-228
+4	hozzátartozókra	hozzátartozó	NOUN	_	Case=Sbl|Number=Plur	_	_	_	tokId=w-229
+5	vonatkozó	vonatkozó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-230
+6	kívánalmak	kívánalom	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-231
+
+# sent_id = w380_s-13
+# text = 9. Elfogadom, hogy a játékvezetőkkel szembeni becsmérlő és trágár kritika rosszat tesz a sportnak, mint ahogy a rossz játékvezetés is rosszat tesz a sportnak.
+1	9.	9.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-232
+2	Elfogadom	elfogad	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-233|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-234
+4	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-235
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-236
+6	játékvezetőkkel	játékvezető	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-237
+7	szembeni	szembeni	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-238
+8	becsmérlő	becsmérlő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-239
+9	és	és	CCONJ	_	_	_	_	_	tokId=w-240
+10	trágár	trágár	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-241
+11	kritika	kritika	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-242
+12	rosszat	rossz	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	_	_	_	tokId=w-243
+13	tesz	tesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-244
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-245
+15	sportnak	sport	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-246|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-247
+17	mint	mint	SCONJ	_	_	_	_	_	tokId=w-248
+18	ahogy	ahogy	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-249
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-250
+20	rossz	rossz	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-251
+21	játékvezetés	játékvezetés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-252
+22	is	is	ADV	_	_	_	_	_	tokId=w-253
+23	rosszat	rossz	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	_	_	_	tokId=w-254
+24	tesz	tesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-255
+25	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-256
+26	sportnak	sport	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-257|SpaceAfter=No
+27	.	.	PUNCT	_	_	_	_	_	tokId=w-258
+
+# sent_id = w380_s-14
+# text = 8. Ismerj el minden jó teljesítményt, akár a saját, akár az ellenfél csapata volt a sikeres.
+1	8.	8.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-259
+2	Ismerj	ismer	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-260
+3	el	el	ADV	_	_	_	_	_	tokId=w-261
+4	minden	minden	DET	_	Definite=Ind|PronType=Tot	_	_	_	tokId=w-262
+5	jó	jó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-263
+6	teljesítményt	teljesítmény	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-264|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-265
+8	akár	akár	CCONJ	_	_	_	_	_	tokId=w-266
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-267
+10	saját	saját	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-268|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-269
+12	akár	akár	CCONJ	_	_	_	_	_	tokId=w-270
+13	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-271
+14	ellenfél	ellenfél	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-272
+15	csapata	csapat	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-273
+16	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-274
+17	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-275
+18	sikeres	sikeres	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-276|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-277
+
+# sent_id = w380_s-15
+# text = Az átképzést és vizsgáztatást részben elektronikus úton fogjuk megoldani, az oktató szoftver fejlesztése folyamatban van, ezzel kapcsolatban további információt mindenkinek időben fogunk adni.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-278
+2	átképzést	átképzés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-279
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-280
+4	vizsgáztatást	vizsgáztatás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-281
+5	részben	részben	ADV	_	_	_	_	_	tokId=w-282
+6	elektronikus	elektronikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-283
+7	úton	út	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-284
+8	fogjuk	fog	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-285
+9	megoldani	megold	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-286|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-287
+11	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-288
+12	oktató	oktató	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-289
+13	szoftver	szoftver	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-290
+14	fejlesztése	fejlesztés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-291
+15	folyamatban	folyamat	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-292
+16	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-293|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-294
+18	ezzel	ez	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-295
+19	kapcsolatban	kapcsolat	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-296
+20	további	további	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-297
+21	információt	információ	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-298
+22	mindenkinek	mindenki	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-299
+23	időben	időben	ADV	_	_	_	_	_	tokId=w-300
+24	fogunk	fog	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-301
+25	adni	ad	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-302|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-303
+
+# sent_id = w380_s-16
+# text = A következő lépéseket kell megtenni az adott felületen: 1.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-304
+2	következő	következő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-305
+3	lépéseket	lépés	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-306
+4	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-307
+5	megtenni	megtesz	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-308
+6	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-309
+7	adott	adott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-310
+8	felületen	felület	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-311|SpaceAfter=No
+9	:	:	PUNCT	_	_	_	_	_	tokId=w-312
+10	1	1	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-313|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-314
+
+# sent_id = w380_s-17
+# text = Az ismeretanyag folyamatos bővülése és a sporttudomány állandó fejlődése miatt, adott korcsoportok esetében irányított ingereket kell behozni a képzésbe.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-315
+2	ismeretanyag	ismeretanyag	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-316
+3	folyamatos	folyamatos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-317
+4	bővülése	bővülés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-318
+5	és	és	CCONJ	_	_	_	_	_	tokId=w-319
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-320
+7	sporttudomány	sporttudomány	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-321
+8	állandó	állandó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-322
+9	fejlődése	fejlődés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-323
+10	miatt	miatt	ADP	_	_	_	_	_	tokId=w-324|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-325
+12	adott	adott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-326
+13	korcsoportok	korcsoport	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-327
+14	esetében	eset	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-328
+15	irányított	irányított	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-329
+16	ingereket	inger	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-330
+17	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-331
+18	behozni	behoz	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-332
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-333
+20	képzésbe	képzés	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-334|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-335
+
+# sent_id = w380_s-18
+# text = Ma még bizonyára sokan írnak, terveznek spirálfüzetekbe, azonban az adatokat, egészen biztos, hogy az informatikai ismeretükre alapozva, digitálisan tárolják el.
+1	Ma	ma	ADV	_	_	_	_	_	tokId=w-336
+2	még	még	ADV	_	_	_	_	_	tokId=w-337
+3	bizonyára	bizonyára	ADV	_	_	_	_	_	tokId=w-338
+4	sokan	sokan	ADV	_	_	_	_	_	tokId=w-339
+5	írnak	ír	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-340|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-341
+7	terveznek	tervez	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-342
+8	spirálfüzetekbe	spirálfüzet	NOUN	_	Case=Ill|Number=Plur	_	_	_	tokId=w-343|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-344
+10	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-345
+11	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-346
+12	adatokat	adat	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-347|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-348
+14	egészen	egészen	ADV	_	_	_	_	_	tokId=w-349
+15	biztos	biztos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-350|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-351
+17	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-352
+18	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-353
+19	informatikai	informatikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-354
+20	ismeretükre	ismeret	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-355
+21	alapozva	alapozva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-356|SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-357
+23	digitálisan	digitális	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-358
+24	tárolják	tárol	VERB	_	Definite=Def|Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-359
+25	el	el	ADV	_	_	_	_	_	tokId=w-360|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-361
+
+# sent_id = w380_s-19
+# text = A kialakított felület, nemcsak az adott edzőnek, hanem a sportszervezet részére is lehetőséget ad az adatok ellenőrzésére, és olyan információk felvitelére, amire a központi adatbázis nem lesz kíváncsi.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-362
+2	kialakított	kialakított	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-363
+3	felület	felület	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-364|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-365
+5	nemcsak	nemcsak	ADV	_	_	_	_	_	tokId=w-366
+6	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-367
+7	adott	adott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-368
+8	edzőnek	edző	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-369|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-370
+10	hanem	hanem	CCONJ	_	_	_	_	_	tokId=w-371
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-372
+12	sportszervezet	sportszervezet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-373
+13	részére	részére	ADP	_	_	_	_	_	tokId=w-374
+14	is	is	ADV	_	_	_	_	_	tokId=w-375
+15	lehetőséget	lehetőség	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-376
+16	ad	ad	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-377
+17	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-378
+18	adatok	adat	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-379
+19	ellenőrzésére	ellenőrzés	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-380|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-381
+21	és	és	CCONJ	_	_	_	_	_	tokId=w-382
+22	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-383
+23	információk	információ	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-384
+24	felvitelére	felvitel	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-385|SpaceAfter=No
+25	,	,	PUNCT	_	_	_	_	_	tokId=w-386
+26	amire	ami	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-387
+27	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-388
+28	központi	központi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-389
+29	adatbázis	adatbázis	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-390
+30	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-391
+31	lesz	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-392
+32	kíváncsi	kíváncsi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-393|SpaceAfter=No
+33	.	.	PUNCT	_	_	_	_	_	tokId=w-394
+
+# sent_id = w380_s-20
+# text = Tehát a rendszer arra lesz kíváncsi, hogy a gyerekek, melyik edzővel és hol végzik a heti edzéseket. (egy edzőnek két ilyen csapata lehet) 2.
+1	Tehát	tehát	CCONJ	_	_	_	_	_	tokId=w-395
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-396
+3	rendszer	rendszer	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-397
+4	arra	az	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-398
+5	lesz	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-399
+6	kíváncsi	kíváncsi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-400|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-401
+8	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-402
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-403
+10	gyerekek	gyerek	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-404|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-405
+12	melyik	melyik	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Int	_	_	_	tokId=w-406
+13	edzővel	edző	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-407
+14	és	és	CCONJ	_	_	_	_	_	tokId=w-408
+15	hol	hol	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Int	_	_	_	tokId=w-409
+16	végzik	végez	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-410
+17	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-411
+18	heti	heti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-412
+19	edzéseket.	edzés	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-413
+20	(	(	PUNCT	_	_	_	_	_	tokId=w-414|SpaceAfter=No
+21	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-415
+22	edzőnek	edző	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-416
+23	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-417
+24	ilyen	ilyen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-418
+25	csapata	csapat	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-419
+26	lehet	lesz	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-420|SpaceAfter=No
+27	)	)	PUNCT	_	_	_	_	_	tokId=w-421
+28	2	2	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-422|SpaceAfter=No
+29	.	.	PUNCT	_	_	_	_	_	tokId=w-423
+
+# sent_id = w380_s-21
+# text = Minden sportszervezetnek, intézménynek el kell juttatni az MKSZ részére az összes edzéshelyszínt, ahol csapatai edzésileg foglalkoztatva vannak.
+1	Minden	minden	DET	_	Definite=Ind|PronType=Tot	_	_	_	tokId=w-424
+2	sportszervezetnek	sportszervezet	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-425|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-426
+4	intézménynek	intézmény	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-427
+5	el	el	ADV	_	_	_	_	_	tokId=w-428
+6	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-429
+7	juttatni	juttat	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-430
+8	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-431
+9	MKSZ	MKSZ	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-432|NE=name[ORG]_10
+10	részére	részére	ADP	_	_	_	_	_	tokId=w-433
+11	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-434
+12	összes	összes	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-435
+13	edzéshelyszínt	edzéshelyszín	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-436|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-437
+15	ahol	ahol	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-438
+16	csapatai	csapat	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-439
+17	edzésileg	edzésileg	ADV	_	_	_	_	_	tokId=w-440
+18	foglalkoztatva	foglalkoztatva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-441
+19	vannak	van	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-442|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-443
+
+# sent_id = w380_s-22
+# text = Az eddigi nem túl stabil rendszert egy régebbi, és már jól beváltra váltottuk vissza.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-444
+2	eddigi	eddigi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-445
+3	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-446
+4	túl	túl	ADV	_	_	_	_	_	tokId=w-447
+5	stabil	stabil	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-448
+6	rendszert	rendszer	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-449
+7	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-450
+8	régebbi	régi	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-451|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-452
+10	és	és	CCONJ	_	_	_	_	_	tokId=w-453
+11	már	már	ADV	_	_	_	_	_	tokId=w-454
+12	jól	jól	ADV	_	_	_	_	_	tokId=w-455
+13	beváltra	bevált	ADJ	_	Case=Sbl|Degree=Pos|Number=Sing	_	_	_	tokId=w-456
+14	váltottuk	vált	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-457
+15	vissza	vissza	ADV	_	Degree=Pos	_	_	_	tokId=w-458|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-459
+
+# sent_id = w380_s-23
+# text = Fekete hátteret kapott fehér karakterekkel, hogy olvashatóbb, áttekinthetőbb legyen.
+1	Fekete	fekete	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-460
+2	hátteret	háttér	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-461
+3	kapott	kap	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-462
+4	fehér	fehér	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-463
+5	karakterekkel	karakter	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-464|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-465
+7	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-466
+8	olvashatóbb	olvasható	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-467|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-468
+10	áttekinthetőbb	áttekinthető	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-469
+11	legyen	lesz	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-470|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-471
+
+# sent_id = w380_s-24
+# text = gólszerző(k): TOLLÁR JÓZSEF (2), TOLNAI TAMÁS (2) kapus: BACS Zsolt kezdő: HORVÁTH ZSOLT, KUTASI LÁSZLÓ, MATUZ NORBERT, MOLNÁR JÓZSEF, PELCZER ANTAL, RADICS LÁSZLÓ, SZIVA LÁSZLÓ, TOLLÁR JÓZSEF (2), TOLNAI TAMÁS (2), TÓTH-PAJOR Szabolcs csere: DÁVID JÁNOS, FÁBIÁN SÁNDOR, HORVÁTH ISTVÁN, RADICS ZOLTÁN, VARJASKÉRI RÓBERT
+1	gólszerző(k)	gólszerző(k)	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-472|SpaceAfter=No
+2	:	:	PUNCT	_	_	_	_	_	tokId=w-473
+3	TOLLÁR	Tollár	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-474|NE=name[PER]_11
+4	JÓZSEF	József	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-475|NE=name[PER]_11
+5	(	(	PUNCT	_	_	_	_	_	tokId=w-476|SpaceAfter=No
+6	2	2	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-477|SpaceAfter=No
+7	)	)	PUNCT	_	_	_	_	_	tokId=w-478|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-479
+9	TOLNAI	Tolnai	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-480|NE=name[PER]_12
+10	TAMÁS	Tamás	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-481|NE=name[PER]_12
+11	(	(	PUNCT	_	_	_	_	_	tokId=w-482|SpaceAfter=No
+12	2	2	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-483|SpaceAfter=No
+13	)	)	PUNCT	_	_	_	_	_	tokId=w-484
+14	kapus	kapus	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-485|SpaceAfter=No
+15	:	:	PUNCT	_	_	_	_	_	tokId=w-486
+16	BACS	Bacs	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-487|NE=name[PER]_13
+17	Zsolt	Zsolt	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-488|NE=name[PER]_13
+18	kezdő	kezdő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-489|SpaceAfter=No
+19	:	:	PUNCT	_	_	_	_	_	tokId=w-490
+20	HORVÁTH	Horváth	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-491|NE=name[PER]_14
+21	ZSOLT	Zsolt	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-492|NE=name[PER]_14|SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-493
+23	KUTASI	Kutasi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-494|NE=name[PER]_15
+24	LÁSZLÓ	László	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-495|NE=name[PER]_15|SpaceAfter=No
+25	,	,	PUNCT	_	_	_	_	_	tokId=w-496
+26	MATUZ	Matuz	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-497|NE=name[PER]_16
+27	NORBERT	Norbert	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-498|NE=name[PER]_16|SpaceAfter=No
+28	,	,	PUNCT	_	_	_	_	_	tokId=w-499
+29	MOLNÁR	Molnár	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-500|NE=name[PER]_17
+30	JÓZSEF	József	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-501|NE=name[PER]_17|SpaceAfter=No
+31	,	,	PUNCT	_	_	_	_	_	tokId=w-502
+32	PELCZER	Pelczer	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-503|NE=name[PER]_18
+33	ANTAL	Antal	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-504|NE=name[PER]_18|SpaceAfter=No
+34	,	,	PUNCT	_	_	_	_	_	tokId=w-505
+35	RADICS	Radics	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-506|NE=name[PER]_19
+36	LÁSZLÓ	László	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-507|NE=name[PER]_19|SpaceAfter=No
+37	,	,	PUNCT	_	_	_	_	_	tokId=w-508
+38	SZIVA	Szilva	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-509|NE=name[PER]_20
+39	LÁSZLÓ	László	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-510|NE=name[PER]_20|SpaceAfter=No
+40	,	,	PUNCT	_	_	_	_	_	tokId=w-511
+41	TOLLÁR	Tollár	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-512|NE=name[PER]_21
+42	JÓZSEF	József	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-513|NE=name[PER]_21
+43	(	(	PUNCT	_	_	_	_	_	tokId=w-514|SpaceAfter=No
+44	2	2	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-515|SpaceAfter=No
+45	)	)	PUNCT	_	_	_	_	_	tokId=w-516|SpaceAfter=No
+46	,	,	PUNCT	_	_	_	_	_	tokId=w-517
+47	TOLNAI	Tolnai	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-518|NE=name[PER]_22
+48	TAMÁS	Tamás	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-519|NE=name[PER]_22
+49	(	(	PUNCT	_	_	_	_	_	tokId=w-520|SpaceAfter=No
+50	2	2	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-521|SpaceAfter=No
+51	)	)	PUNCT	_	_	_	_	_	tokId=w-522|SpaceAfter=No
+52	,	,	PUNCT	_	_	_	_	_	tokId=w-523
+53	TÓTH-PAJOR	Tóth-Pajor	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-524|NE=name[PER]_23
+54	Szabolcs	Szabolcs	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-525|NE=name[PER]_23
+55	csere	csere	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-526|SpaceAfter=No
+56	:	:	PUNCT	_	_	_	_	_	tokId=w-527
+57	DÁVID	Dávid	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-528|NE=name[PER]_24
+58	JÁNOS	János	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-529|NE=name[PER]_24|SpaceAfter=No
+59	,	,	PUNCT	_	_	_	_	_	tokId=w-530
+60	FÁBIÁN	Fábián	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-531|NE=name[PER]_25
+61	SÁNDOR	Sándor	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-532|NE=name[PER]_25|SpaceAfter=No
+62	,	,	PUNCT	_	_	_	_	_	tokId=w-533
+63	HORVÁTH	Horváth	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-534|NE=name[PER]_26
+64	ISTVÁN	István	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-535|NE=name[PER]_26|SpaceAfter=No
+65	,	,	PUNCT	_	_	_	_	_	tokId=w-536
+66	RADICS	Radics	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-537|NE=name[PER]_27
+67	ZOLTÁN	Zoltán	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-538|NE=name[PER]_27|SpaceAfter=No
+68	,	,	PUNCT	_	_	_	_	_	tokId=w-539
+69	VARJASKÉRI	Varjaskéri	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-540|NE=name[PER]_28
+70	RÓBERT	Róbert	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-541|NE=name[PER]_28
+

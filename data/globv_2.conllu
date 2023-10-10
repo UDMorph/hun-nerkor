@@ -1,0 +1,182 @@
+# newdoc id = globv_2
+# sent_id = globv_2_s-1
+# text = Július közepén a jaroszlavli bíróság reagált a helyi hatóságok kérésére, és elrendelte, hogy a Netis Telekom internetszolgáltató tegyen elérhetetlenné néhány honlapot, köztük Oroszország legnépszerűbb blogszolgáltatóját, a LiveJournalt is.
+1	Július	július	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-1
+2	közepén	közép	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-2
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-3
+4	jaroszlavli	jaroszlavli	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-4
+5	bíróság	bíróság	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-5
+6	reagált	reagál	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-6
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-7
+8	helyi	helyi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-8
+9	hatóságok	hatóság	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-9
+10	kérésére	kérés	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-10|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-11
+12	és	és	CCONJ	_	_	_	_	_	tokId=w-12
+13	elrendelte	elrendel	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-13|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-14
+15	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-15
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-16
+17	Netis	Netis	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-17|NE=name[ORG]_1
+18	Telekom	Telekom	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-18|NE=name[ORG]_1
+19	internetszolgáltató	internetszolgáltató	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-19
+20	tegyen	tesz	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-20
+21	elérhetetlenné	elérhetetlen	ADJ	_	Case=Tra|Degree=Pos|Number=Sing	_	_	_	tokId=w-21
+22	néhány	néhány	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-22
+23	honlapot	honlap	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-23|SpaceAfter=No
+24	,	,	PUNCT	_	_	_	_	_	tokId=w-24
+25	köztük	közt	ADP	_	_	_	_	_	tokId=w-25
+26	Oroszország	Oroszország	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-26|NE=name[LOC]_2
+27	legnépszerűbb	népszerű	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-27
+28	blogszolgáltatóját	blogszolgáltató	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-28|SpaceAfter=No
+29	,	,	PUNCT	_	_	_	_	_	tokId=w-29
+30	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-30
+31	LiveJournalt	LiveJournal	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-31|NE=name[MISC]_3
+32	is	is	ADV	_	_	_	_	_	tokId=w-32|SpaceAfter=No
+33	.	.	PUNCT	_	_	_	_	_	tokId=w-33
+
+# sent_id = globv_2_s-2
+# text = A Jaroszlavli Ügyészi Hivatal munkatársa, Alekszej Kukin szerint az év elején egy gyors ellenőrzés során találtak az LJ-n egy neonáci blogot, és az ahhoz való hozzáférést tiltja a szélsőségek elleni orosz szövetségi törvény.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-34
+2	Jaroszlavli	jaroszlavli	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-35|NE=name[ORG]_4
+3	Ügyészi	ügyészi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-36|NE=name[ORG]_4
+4	Hivatal	hivatal	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-37|NE=name[ORG]_4
+5	munkatársa	munkatárs	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-38|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-39
+7	Alekszej	Alekszej	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-40|NE=name[PER]_5
+8	Kukin	Kukin	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-41|NE=name[PER]_5
+9	szerint	szerint	ADP	_	_	_	_	_	tokId=w-42
+10	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-43
+11	év	év	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-44
+12	elején	eleje	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-45
+13	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-46
+14	gyors	gyors	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-47
+15	ellenőrzés	ellenőrzés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-48
+16	során	során	ADP	_	_	_	_	_	tokId=w-49
+17	találtak	talál	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-50
+18	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-51
+19	LJ-n	LJ	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-52|NE=name[MISC]_6
+20	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-53
+21	neonáci	neonáci	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-54
+22	blogot	blog	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-55|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-56
+24	és	és	CCONJ	_	_	_	_	_	tokId=w-57
+25	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-58
+26	ahhoz	az	PRON	_	Case=All|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-59
+27	való	való	ADP	_	_	_	_	_	tokId=w-60
+28	hozzáférést	hozzáférés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-61
+29	tiltja	tilt	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-62
+30	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-63
+31	szélsőségek	szélsőség	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-64
+32	elleni	elleni	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-65
+33	orosz	orosz	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-66
+34	szövetségi	szövetségi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-67
+35	törvény	törvény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-68|SpaceAfter=No
+36	.	.	PUNCT	_	_	_	_	_	tokId=w-69
+
+# sent_id = globv_2_s-3
+# text = Ugyanez a blog, a pat-index már 2009 októbere óta megtalálható az orosz Igazságügyi Minisztérium szélsőséges anyagokat tartalmazó listáján, mert akkor egy baskortosztáni bíróság hivatalosan szélsőségesnek nyilvánította.
+1	Ugyanez	ugyanez	ADV	_	PronType=Art	_	_	_	tokId=w-70
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-71
+3	blog	blog	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-72|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-73
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-74
+6	pat-index	pat-index	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-75
+7	már	már	ADV	_	_	_	_	_	tokId=w-76
+8	2009	2009	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-77
+9	októbere	október	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-78
+10	óta	óta	ADP	_	_	_	_	_	tokId=w-79
+11	megtalálható	megtalálható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-80
+12	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-81
+13	orosz	orosz	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-82
+14	Igazságügyi	igazságügyi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-83|NE=name[ORG]_7
+15	Minisztérium	minisztérium	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-84|NE=name[ORG]_7
+16	szélsőséges	szélsőséges	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-85
+17	anyagokat	anyag	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-86
+18	tartalmazó	tartalmazó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-87
+19	listáján	lista	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-88|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-89
+21	mert	mert	SCONJ	_	_	_	_	_	tokId=w-90
+22	akkor	akkor	ADV	_	PronType=Dem	_	_	_	tokId=w-91
+23	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-92
+24	baskortosztáni	baskortosztáni	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-93
+25	bíróság	bíróság	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-94
+26	hivatalosan	hivatalos	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-95
+27	szélsőségesnek	szélsőséges	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	tokId=w-96
+28	nyilvánította	nyilvánít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-97|SpaceAfter=No
+29	.	.	PUNCT	_	_	_	_	_	tokId=w-98
+
+# sent_id = globv_2_s-4
+# text = A blogot magát 2008 márciusa óta nem frissítették.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-99
+2	blogot	blog	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-100
+3	magát	maga	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	tokId=w-101
+4	2008	2008	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-102
+5	márciusa	március	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-103
+6	óta	óta	ADP	_	_	_	_	_	tokId=w-104
+7	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-105
+8	frissítették	frissít	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-106|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-107
+
+# sent_id = globv_2_s-5
+# text = A cenzúra vádjára reagálva Alekszej Kukin a riportereknek úgy nyilatkozott, hogy a Netis Telekom túlteljesítette a bíróság ítéletét, mondván, hogy a hatóságok csak egy bizonyos blog szűrését kérték, nem a teljes LiveJournal oldalét.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-108
+2	cenzúra	cenzúra	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-109
+3	vádjára	vád	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-110
+4	reagálva	reagálva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-111
+5	Alekszej	Alekszej	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-112|NE=name[PER]_8
+6	Kukin	Kukin	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-113|NE=name[PER]_8
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-114
+8	riportereknek	riporter	NOUN	_	Case=Dat|Number=Plur	_	_	_	tokId=w-115
+9	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-116
+10	nyilatkozott	nyilatkozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-117|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-118
+12	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-119
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-120
+14	Netis	Netis	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-121|NE=name[ORG]_9
+15	Telekom	Telekom	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-122|NE=name[ORG]_9
+16	túlteljesítette	túlteljesít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-123
+17	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-124
+18	bíróság	bíróság	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-125
+19	ítéletét	ítélet	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-126|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-127
+21	mondván	mond	ADV	_	_	_	_	_	tokId=w-128|SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-129
+23	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-130
+24	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-131
+25	hatóságok	hatóság	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-132
+26	csak	csak	ADV	_	_	_	_	_	tokId=w-133
+27	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-134
+28	bizonyos	bizonyos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-135
+29	blog	blog	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-136
+30	szűrését	szűrés	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-137
+31	kérték	kér	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-138|SpaceAfter=No
+32	,	,	PUNCT	_	_	_	_	_	tokId=w-139
+33	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-140
+34	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-141
+35	teljes	teljes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-142
+36	LiveJournal	LiveJournal	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-143|NE=name[MISC]_10
+37	oldalét	oldal	NOUN	_	Case=Acc|Number=Sing|Number[psed]=Sing	_	_	_	tokId=w-144|SpaceAfter=No
+38	.	.	PUNCT	_	_	_	_	_	tokId=w-145
+
+# sent_id = globv_2_s-6
+# text = A Jaroszlavlban körülbelül 6000 előfizetővel rendelkező Netis Telekomletiltotta a hozzáférést a népszerű blogszolgáltatóhoz, a LiveJournalhoz .
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-146
+2	Jaroszlavlban	Jaroszlavl	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-147|NE=name[LOC]_11
+3	körülbelül	körülbelül	ADV	_	_	_	_	_	tokId=w-148
+4	6000	6000	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-149
+5	előfizetővel	előfizető	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-150
+6	rendelkező	rendelkező	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-151
+7	Netis	Netis	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-152|NE=name[ORG]_12
+8	Telekom	Telekom	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-153|NE=name[ORG]_12|SpaceAfter=No
+9	letiltotta	letilt	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-154
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-155
+11	hozzáférést	hozzáférés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-156
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-157
+13	népszerű	népszerű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-158
+14	blogszolgáltatóhoz	blogszolgáltató	NOUN	_	Case=All|Number=Sing	_	_	_	tokId=w-159|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-160
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-161
+17	LiveJournalhoz	LiveJournal	PROPN	_	Case=All|Number=Sing	_	_	_	tokId=w-162|NE=name[MISC]_13
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-163
+

@@ -1,0 +1,560 @@
+# newdoc id = w371
+# sent_id = w371_s-1
+# text = Az áldozatokra emlékezve most közöljük Zagyva György Gyulaországgyűlési képviselő beszédét, mely 2011. február 14-én hangzott el a magyar Országgyűlésben .
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-1
+2	áldozatokra	áldozat	NOUN	_	Case=Sbl|Number=Plur	_	_	_	tokId=w-2
+3	emlékezve	emlékezve	ADV	_	VerbForm=Conv	_	_	_	tokId=w-3
+4	most	most	ADV	_	_	_	_	_	tokId=w-4
+5	közöljük	közöl	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-5
+6	Zagyva	Zagyva	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-6|NE=name[PER]_1
+7	György	György	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-7|NE=name[PER]_1
+8	Gyula	Gyula	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-8|NE=name[PER]_1|SpaceAfter=No
+9	országgyűlési	országgyűlési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-9
+10	képviselő	képviselő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-10
+11	beszédét	beszéd	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-11|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-12
+13	mely	mely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-13
+14	2011.	2011.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-14
+15	február	február	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-15
+16	14-én	14	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-16
+17	hangzott	hangzik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-17
+18	el	el	ADV	_	_	_	_	_	tokId=w-18
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-19
+20	magyar	magyar	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-20
+21	Országgyűlésben	Országgyűlés	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-21|NE=name[ORG]_2
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-22
+
+# sent_id = w371_s-2
+# text = November 25-én volt 58 éve, hogy az Aranycsapat néven világhírűvé vált magyar labdarúgó válogatott az évszázad mérkőzésén 6:3 arányban legyőzte Londonban a világ legjobbjainak tartott angolokat.
+1	November	november	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-23
+2	25-én	25	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-24
+3	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-25
+4	58	58	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-26
+5	éve	év	ADV	_	_	_	_	_	tokId=w-27|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-28
+7	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-29
+8	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-30
+9	Aranycsapat	Aranycsapat	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-31|NE=name[MISC]_3
+10	néven	név	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-32
+11	világhírűvé	világhírű	ADJ	_	Case=Tra|Degree=Pos|Number=Sing	_	_	_	tokId=w-33
+12	vált	vált	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-34
+13	magyar	magyar	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-35
+14	labdarúgó	labdarúgó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-36
+15	válogatott	válogatott	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-37
+16	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-38
+17	évszázad	évszázad	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-39
+18	mérkőzésén	mérkőzés	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-40
+19	6:3	6:3	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-41
+20	arányban	arány	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-42
+21	legyőzte	legyőz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-43
+22	Londonban	London	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-44|NE=name[LOC]_4
+23	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-45
+24	világ	világ	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-46
+25	legjobbjainak	jó	ADJ	_	Case=Dat|Degree=Sup|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-47
+26	tartott	tartott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-48
+27	angolokat	angol	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	_	_	_	tokId=w-49|SpaceAfter=No
+28	.	.	PUNCT	_	_	_	_	_	tokId=w-50
+
+# sent_id = w371_s-3
+# text = Az Aranycsapat elhunyt és még élő tagjai iránti tiszteletünk jeleként útjára indítunk egy sorozatot, melyben a legendás futballisták életének sokak által nem ismert részleteit tárjuk fel olvasóink előtt.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-51
+2	Aranycsapat	Aranycsapat	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-52|NE=name[PER]_5
+3	elhunyt	elhunyt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-53
+4	és	és	CCONJ	_	_	_	_	_	tokId=w-54
+5	még	még	ADV	_	_	_	_	_	tokId=w-55
+6	élő	élő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-56
+7	tagjai	tag	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-57
+8	iránti	iránti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-58
+9	tiszteletünk	tisztelet	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-59
+10	jeleként	jel	NOUN	_	Case=Ess|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-60
+11	útjára	út	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-61
+12	indítunk	indít	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-62
+13	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-63
+14	sorozatot	sorozat	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-64|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-65
+16	melyben	mely	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-66
+17	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-67
+18	legendás	legendás	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-68
+19	futballisták	futballista	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-69
+20	életének	élet	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-70
+21	sokak	sok	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-71
+22	által	által	ADP	_	_	_	_	_	tokId=w-72
+23	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-73
+24	ismert	ismert	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-74
+25	részleteit	részlet	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-75
+26	tárjuk	tár	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-76
+27	fel	fel	ADV	_	Degree=Pos	_	_	_	tokId=w-77
+28	olvasóink	olvasó	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-78
+29	előtt	előtt	ADP	_	_	_	_	_	tokId=w-79|SpaceAfter=No
+30	.	.	PUNCT	_	_	_	_	_	tokId=w-80
+
+# sent_id = w371_s-4
+# text = A Dorogi Szénbányákszemélyzetise lett, egészen nyugdíjazásáig.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-81
+2	Dorogi	Dorogi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-82|NE=name[ORG]_6
+3	Szénbányák	Szénbányák	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-83|NE=name[ORG]_6|SpaceAfter=No
+4	személyzetise	személyzetis	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-84
+5	lett	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-85|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-86
+7	egészen	egészen	ADV	_	_	_	_	_	tokId=w-87
+8	nyugdíjazásáig	nyugdíjazás	NOUN	_	Case=Ter|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-88|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-89
+
+# sent_id = w371_s-5
+# text = Mindössze 58 év adatott neki itt a Földön , de ennyi idő alatt több minden történt vele, mint olykor egy egész futballcsapattal összesen.
+1	Mindössze	mindössze	ADV	_	_	_	_	_	tokId=w-90
+2	58	58	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-91
+3	év	év	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-92
+4	adatott	adatik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-93
+5	neki	ő	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-94
+6	itt	itt	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-95
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-96
+8	Földön	föld	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-97|NE=name[LOC]_7
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-98
+10	de	de	CCONJ	_	_	_	_	_	tokId=w-99
+11	ennyi	ennyi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-100
+12	idő	idő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-101
+13	alatt	alatt	ADP	_	_	_	_	_	tokId=w-102
+14	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-103
+15	minden	minden	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-104
+16	történt	történik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-105
+17	vele	vele	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-106|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-107
+19	mint	mint	SCONJ	_	_	_	_	_	tokId=w-108
+20	olykor	olykor	ADV	_	_	_	_	_	tokId=w-109
+21	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-110
+22	egész	egész	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-111
+23	futballcsapattal	futballcsapat	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-112
+24	összesen	összesen	ADV	_	_	_	_	_	tokId=w-113|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-114
+
+# sent_id = w371_s-6
+# text = Lóránt Sebes Gusztáv szövetségi kapitánynak becsületszavát adta, hogy beválogatása estén nem fog disszidálni.
+1	Lóránt	Lóránt	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-115|NE=name[PER]_8
+2	Sebes	Sebes	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-116|NE=name[PER]_8
+3	Gusztáv	Gusztáv	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-117|NE=name[PER]_8
+4	szövetségi	szövetségi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-118
+5	kapitánynak	kapitány	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-119
+6	becsületszavát	becsületszó	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-120
+7	adta	ad	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-121|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-122
+9	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-123
+10	beválogatása	beválogatás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-124
+11	estén	esetén	ADP	_	_	_	_	_	tokId=w-125
+12	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-126
+13	fog	fog	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-127
+14	disszidálni	disszidál	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-128|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-129
+
+# sent_id = w371_s-7
+# text = A labdarúgással felhagyott, edző lett.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-130
+2	labdarúgással	labdarúgás	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-131
+3	felhagyott	felhagy	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-132|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-133
+5	edző	edző	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-134
+6	lett	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-135|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-136
+
+# sent_id = w371_s-8
+# text = Tudták mindketten, hogy a pályán szükségük van egymásra, ám Kocsis Sándor Puskás mögött mindig elnyomottnak, kellően el nem ismertnek érezte magát, emiatt kicsit mindig sértett is volt, néha okkal, többségében ok nélkül.
+1	Tudták	tud	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-137
+2	mindketten	mindkettő	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-138|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-139
+4	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-140
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-141
+6	pályán	pálya	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-142
+7	szükségük	szükség	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-143
+8	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-144
+9	egymásra	egymás	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Rcp	_	_	_	tokId=w-145|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-146
+11	ám	ám	CCONJ	_	_	_	_	_	tokId=w-147
+12	Kocsis	Kocsis	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-148|NE=name[PER]_9
+13	Sándor	Sándor	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-149|NE=name[PER]_9
+14	Puskás	Puskás	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-150|NE=name[PER]_10
+15	mögött	mögött	ADP	_	_	_	_	_	tokId=w-151
+16	mindig	mindig	ADV	_	_	_	_	_	tokId=w-152
+17	elnyomottnak	elnyomott	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	tokId=w-153|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-154
+19	kellően	kellő	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-155
+20	el	el	ADV	_	_	_	_	_	tokId=w-156
+21	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-157
+22	ismertnek	ismert	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	tokId=w-158
+23	érezte	érez	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-159
+24	magát	maga	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	tokId=w-160|SpaceAfter=No
+25	,	,	PUNCT	_	_	_	_	_	tokId=w-161
+26	emiatt	emiatt	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-162
+27	kicsit	kicsit	ADV	_	_	_	_	_	tokId=w-163
+28	mindig	mindig	ADV	_	_	_	_	_	tokId=w-164
+29	sértett	sértett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-165
+30	is	is	ADV	_	_	_	_	_	tokId=w-166
+31	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-167|SpaceAfter=No
+32	,	,	PUNCT	_	_	_	_	_	tokId=w-168
+33	néha	néha	ADV	_	_	_	_	_	tokId=w-169
+34	okkal	ok	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-170|SpaceAfter=No
+35	,	,	PUNCT	_	_	_	_	_	tokId=w-171
+36	többségében	többség	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-172
+37	ok	ok	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-173
+38	nélkül	nélkül	ADP	_	_	_	_	_	tokId=w-174|SpaceAfter=No
+39	.	.	PUNCT	_	_	_	_	_	tokId=w-175
+
+# sent_id = w371_s-9
+# text = A betegség azonban elhatalmasodott rajta, Ő pedig szép lassan feladta ...
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-176
+2	betegség	betegség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-177
+3	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-178
+4	elhatalmasodott	elhatalmasodik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-179
+5	rajta	rajta	PRON	_	Case=Sup|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-180|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-181
+7	Ő	ő	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-182
+8	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-183
+9	szép	szép	ADV	_	_	_	_	_	tokId=w-184
+10	lassan	lassú	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-185
+11	feladta	felad	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-186
+12	...	...	PUNCT	_	_	_	_	_	tokId=w-187
+
+# sent_id = w371_s-10
+# text = Rosszul lett, kórházba került.
+1	Rosszul	rossz	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-188
+2	lett	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-189|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-190
+4	kórházba	kórház	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-191
+5	került	kerül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-192|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-193
+
+# sent_id = w371_s-11
+# text = Hazaérkezése után Budapesten széltében-hosszában azt terjesztették róla, hogy súlyos betegségben szenved, holott az őt jól ismerő emberek állították, hogy kutya baja nem volt.
+1	Hazaérkezése	hazaérkezés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-194
+2	után	után	ADP	_	_	_	_	_	tokId=w-195
+3	Budapesten	Budapest	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-196|NE=name[LOC]_11
+4	széltében-hosszában	széltében-hosszában	ADV	_	_	_	_	_	tokId=w-197
+5	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-198
+6	terjesztették	terjeszt	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-199
+7	róla	róla	PRON	_	Case=Del|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-200|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-201
+9	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-202
+10	súlyos	súlyos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-203
+11	betegségben	betegség	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-204
+12	szenved	szenved	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-205|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-206
+14	holott	holott	CCONJ	_	_	_	_	_	tokId=w-207
+15	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-208
+16	őt	ő	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-209
+17	jól	jól	ADV	_	_	_	_	_	tokId=w-210
+18	ismerő	ismerő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-211
+19	emberek	ember	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-212
+20	állították	állít	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-213|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-214
+22	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-215
+23	kutya	kutya	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-216
+24	baja	baj	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-217
+25	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-218
+26	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-219|SpaceAfter=No
+27	.	.	PUNCT	_	_	_	_	_	tokId=w-220
+
+# sent_id = w371_s-12
+# text = Az éjszaka folyamán pedig minden olyan dolog megtörtént vele, ami finoman fogalmazva is erős gátja lehetett másnap egy világbajnoki döntő megnyerésének.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-221
+2	éjszaka	éjszaka	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-222
+3	folyamán	folyamán	ADP	_	_	_	_	_	tokId=w-223
+4	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-224
+5	minden	minden	DET	_	Definite=Ind|PronType=Tot	_	_	_	tokId=w-225
+6	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-226
+7	dolog	dolog	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-227
+8	megtörtént	megtörténik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-228
+9	vele	vele	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-229|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-230
+11	ami	ami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-231
+12	finoman	finom	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-232
+13	fogalmazva	fogalmazva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-233
+14	is	is	ADV	_	_	_	_	_	tokId=w-234
+15	erős	erős	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-235
+16	gátja	gát	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-236
+17	lehetett	lehet	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-237
+18	másnap	másnap	ADV	_	_	_	_	_	tokId=w-238
+19	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-239
+20	világbajnoki	világbajnoki	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-240
+21	döntő	döntő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-241
+22	megnyerésének	megnyerés	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-242|SpaceAfter=No
+23	.	.	PUNCT	_	_	_	_	_	tokId=w-243
+
+# sent_id = w371_s-13
+# text = A találkozó izgalmainak hatására szívinfarktust kapott, s orvosai eltiltották az edzősködéstől.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-244
+2	találkozó	találkozó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-245
+3	izgalmainak	izgalom	NOUN	_	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-246
+4	hatására	hatás	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-247
+5	szívinfarktust	szívinfarktus	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-248
+6	kapott	kap	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-249|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-250
+8	s	s	CCONJ	_	_	_	_	_	tokId=w-251
+9	orvosai	orvos	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-252
+10	eltiltották	eltilt	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-253
+11	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-254
+12	edzősködéstől	edzősködés	NOUN	_	Case=Abl|Number=Sing	_	_	_	tokId=w-255|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-256
+
+# sent_id = w371_s-14
+# text = Púpos - feltehetően testtartása miatt volt ez a beceneve - szélvész gyors játékos volt, akinél evidencia volt a labdával való megfelelő bánásmód is.
+1	Púpos	púpos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-257|NE=name[PER]_12
+2	-	-	X	_	_	_	_	_	tokId=w-258
+3	feltehetően	feltehető	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-259
+4	testtartása	testtartás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-260
+5	miatt	miatt	ADP	_	_	_	_	_	tokId=w-261
+6	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-262
+7	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-263
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-264
+9	beceneve	becenév	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-265
+10	-	-	X	_	_	_	_	_	tokId=w-266
+11	szélvész	szélvész	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-267
+12	gyors	gyors	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-268
+13	játékos	játékos	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-269
+14	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-270|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-271
+16	akinél	aki	PRON	_	Case=Ade|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-272
+17	evidencia	evidencia	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-273
+18	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-274
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-275
+20	labdával	labda	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-276
+21	való	való	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-277
+22	megfelelő	megfelelő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-278
+23	bánásmód	bánásmód	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-279
+24	is	is	ADV	_	_	_	_	_	tokId=w-280|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-281
+
+# sent_id = w371_s-15
+# text = Felfogadott a Filmgyárból egy forgatócsoportot, s a játékos édesanyját beöltöztette munkásasszonynak, nem is akármilyennek, hanem sztahanovista élmunkásnak, aki egymaga 300 százalékra teljesíti a munkahelyén a normát ...
+1	Felfogadott	felfogad	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-282
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-283
+3	Filmgyárból	filmgyár	PROPN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-284|NE=name[ORG]_13
+4	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-285
+5	forgatócsoportot	forgatócsoport	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-286|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-287
+7	s	s	CCONJ	_	_	_	_	_	tokId=w-288
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-289
+9	játékos	játékos	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-290
+10	édesanyját	édesanya	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-291
+11	beöltöztette	beöltöztet	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-292
+12	munkásasszonynak	munkásasszony	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-293|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-294
+14	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-295
+15	is	is	ADV	_	_	_	_	_	tokId=w-296
+16	akármilyennek	akármilyen	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Ind	_	_	_	tokId=w-297|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-298
+18	hanem	hanem	CCONJ	_	_	_	_	_	tokId=w-299
+19	sztahanovista	sztahanovista	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-300
+20	élmunkásnak	élmunkás	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-301|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-302
+22	aki	aki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-303
+23	egymaga	egymaga	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-304
+24	300	300	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-305
+25	százalékra	százalék	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-306
+26	teljesíti	teljesít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-307
+27	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-308
+28	munkahelyén	munkahely	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-309
+29	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-310
+30	normát	norma	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-311
+31	...	...	PUNCT	_	_	_	_	_	tokId=w-312
+
+# sent_id = w371_s-16
+# text = Ez már tetszett a pártvezéreknek, így elhárult az akadály, Hidegkuti bekerülhetett a válogatottba.
+1	Ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-313
+2	már	már	ADV	_	_	_	_	_	tokId=w-314
+3	tetszett	tetszik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-315
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-316
+5	pártvezéreknek	pártvezér	NOUN	_	Case=Dat|Number=Plur	_	_	_	tokId=w-317|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-318
+7	így	így	CCONJ	_	_	_	_	_	tokId=w-319
+8	elhárult	elhárul	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-320
+9	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-321
+10	akadály	akadály	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-322|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-323
+12	Hidegkuti	Hidegkuti	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-324|NE=name[PER]_14
+13	bekerülhetett	bekerül	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-325
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-326
+15	válogatottba	válogatott	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-327|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-328
+
+# sent_id = w371_s-17
+# text = Hét itthon töltött évet engedélyezett neki a sors, ezalatt újjáélesztette a komáromi labdarúgást.
+1	Hét	hét	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-329
+2	itthon	itthon	ADV	_	_	_	_	_	tokId=w-330
+3	töltött	töltött	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-331
+4	évet	év	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-332
+5	engedélyezett	engedélyez	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-333
+6	neki	ő	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-334
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-335
+8	sors	sors	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-336|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-337
+10	ezalatt	ezalatt	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-338
+11	újjáélesztette	újjáéleszt	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-339
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-340
+13	komáromi	komáromi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-341
+14	labdarúgást	labdarúgás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-342|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-343
+
+# sent_id = w371_s-18
+# text = A befejező részben Puskás Ferencre emlékezünk.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-344
+2	befejező	befejező	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-345
+3	részben	rész	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-346
+4	Puskás	Puskás	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-347|NE=name[PER]_15
+5	Ferencre	Ferenc	PROPN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-348|NE=name[PER]_15
+6	emlékezünk	emlékezik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-349|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-350
+
+# sent_id = w371_s-19
+# text = A magánéletben egyszerű, egyenes, őszinte, szókimondó, fergeteges humorú ember volt.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-351
+2	magánéletben	magánélet	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-352
+3	egyszerű	egyszerű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-353|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-354
+5	egyenes	egyenes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-355|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-356
+7	őszinte	őszinte	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-357|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-358
+9	szókimondó	szókimondó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-359|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-360
+11	fergeteges	fergeteges	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-361
+12	humorú	humorú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-362
+13	ember	ember	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-363
+14	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-364|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-365
+
+# sent_id = w371_s-20
+# text = 2000-ben Alzheimer kór támadta meg, állapotának gyors romlását a magas színvonalú orvosi ellátás sem volt képes lassítani, s 2006. november 17-én elhunyt.
+1	2000-ben	2000	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-366
+2	Alzheimer	Alzheimer	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-367
+3	kór	kór	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-368
+4	támadta	támad	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-369
+5	meg	meg	PART	_	_	_	_	_	tokId=w-370|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-371
+7	állapotának	állapot	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-372
+8	gyors	gyors	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-373
+9	romlását	romlás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-374
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-375
+11	magas	magas	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-376
+12	színvonalú	színvonalú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-377
+13	orvosi	orvosi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-378
+14	ellátás	ellátás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-379
+15	sem	sem	ADV	_	PronType=Neg	_	_	_	tokId=w-380
+16	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-381
+17	képes	képes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-382
+18	lassítani	lassít	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-383|SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	tokId=w-384
+20	s	s	CCONJ	_	_	_	_	_	tokId=w-385
+21	2006.	2006.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-386
+22	november	november	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-387
+23	17-én	17	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-388
+24	elhunyt	elhuny	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-389|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-390
+
+# sent_id = w371_s-21
+# text = A június 4-én, Trianon évfordulóján született Gyurcsány aztán méltónak is bizonyult saját magához és övéihez, kampányában olyan álláspontot képviselt, melyet addig a történelem során egyetlen ország vezetője sem fogalmazott még meg.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-391
+2	június	június	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-392
+3	4-én	4	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-393|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-394
+5	Trianon	Trianon	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-395|NE=name[MISC]_16
+6	évfordulóján	évforduló	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-396
+7	született	született	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-397
+8	Gyurcsány	Gyurcsány	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-398|NE=name[PER]_17
+9	aztán	aztán	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-399
+10	méltónak	méltó	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	tokId=w-400
+11	is	is	ADV	_	_	_	_	_	tokId=w-401
+12	bizonyult	bizonyul	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-402
+13	saját	saját	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-403
+14	magához	maga	PRON	_	Case=All|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	tokId=w-404
+15	és	és	CCONJ	_	_	_	_	_	tokId=w-405
+16	övéihez	ő	PRON	_	Case=All|Number=Sing|Number[psed]=Plur|Person=3|PronType=Prs	_	_	_	tokId=w-406|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-407
+18	kampányában	kampány	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-408
+19	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-409
+20	álláspontot	álláspont	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-410
+21	képviselt	képvisel	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-411|SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-412
+23	melyet	mely	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-413
+24	addig	addig	ADV	_	PronType=Dem	_	_	_	tokId=w-414
+25	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-415
+26	történelem	történelem	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-416
+27	során	során	ADP	_	_	_	_	_	tokId=w-417
+28	egyetlen	egyetlen	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-418
+29	ország	ország	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-419
+30	vezetője	vezető	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-420
+31	sem	sem	ADV	_	PronType=Neg	_	_	_	tokId=w-421
+32	fogalmazott	fogalmaz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-422
+33	még	még	ADV	_	_	_	_	_	tokId=w-423
+34	meg	meg	PART	_	_	_	_	_	tokId=w-424|SpaceAfter=No
+35	.	.	PUNCT	_	_	_	_	_	tokId=w-425
+
+# sent_id = w371_s-22
+# text = Ekkor szembesültek vele sokan, hogy szabadon választott politikai elit is hazudik, hiszen a drasztikus áremelést még a bejelentés előtt pár órával is tagadta a kormány.
+1	Ekkor	ekkor	ADV	_	PronType=Dem	_	_	_	tokId=w-426
+2	szembesültek	szembesül	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-427
+3	vele	vele	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-428
+4	sokan	sokan	ADV	_	_	_	_	_	tokId=w-429|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-430
+6	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-431
+7	szabadon	szabad	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-432
+8	választott	választott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-433
+9	politikai	politikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-434
+10	elit	elit	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-435
+11	is	is	ADV	_	_	_	_	_	tokId=w-436
+12	hazudik	hazudik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-437|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-438
+14	hiszen	hiszen	CCONJ	_	_	_	_	_	tokId=w-439
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-440
+16	drasztikus	drasztikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-441
+17	áremelést	áremelés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-442
+18	még	még	ADV	_	_	_	_	_	tokId=w-443
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-444
+20	bejelentés	bejelentés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-445
+21	előtt	előtt	ADP	_	_	_	_	_	tokId=w-446
+22	pár	pár	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-447
+23	órával	óra	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-448
+24	is	is	ADV	_	_	_	_	_	tokId=w-449
+25	tagadta	tagad	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-450
+26	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-451
+27	kormány	kormány	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-452|SpaceAfter=No
+28	.	.	PUNCT	_	_	_	_	_	tokId=w-453
+
+# sent_id = w371_s-23
+# text = Ma 91 éve, 1920. május 18-án született a a lengyel származású Boldog II. János Pál pápa
+1	Ma	ma	ADV	_	_	_	_	_	tokId=w-454
+2	91	91	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-455
+3	éve	év	ADV	_	_	_	_	_	tokId=w-456|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-457
+5	1920.	1920.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-458
+6	május	május	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-459
+7	18-án	18	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-460
+8	született	születik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-461
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-462
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-463
+11	lengyel	lengyel	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-464
+12	származású	származású	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-465
+13	Boldog	Boldog	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-466|NE=name[PER]_18
+14	II.	II.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-467|NE=name[PER]_18
+15	János	János	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-468|NE=name[PER]_18
+16	Pál	Pál	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-469|NE=name[PER]_18
+17	pápa	pápa	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-470
+
+# sent_id = w371_s-24
+# text = 1981. május 13-án merényletet kíséreltek meg ellene, a török Ali Agca több pisztolylövéssel életveszélyesen megsebesítette.
+1	1981.	1981.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-471
+2	május	május	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-472
+3	13-án	13	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-473
+4	merényletet	merénylet	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-474
+5	kíséreltek	kísérel	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-475
+6	meg	meg	PART	_	_	_	_	_	tokId=w-476
+7	ellene	ellen	ADP	_	_	_	_	_	tokId=w-477|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-478
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-479
+10	török	török	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-480
+11	Ali	Ali	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-481|NE=name[PER]_19
+12	Agca	Agca	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-482|NE=name[PER]_19
+13	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-483
+14	pisztolylövéssel	pisztolylövés	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-484
+15	életveszélyesen	életveszélyes	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-485
+16	megsebesítette	megsebesít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-486|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-487
+

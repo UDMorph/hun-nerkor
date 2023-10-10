@@ -1,0 +1,141 @@
+# newdoc id = huwiki_8
+# sent_id = huwiki_8_s-1
+# text = A székesfehérvári 20-as busz a Jancsár utca és a Könnyűfémmű megállóhelyek között közlekedik.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-1
+2	székesfehérvári	székesfehérvári	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-2
+3	20-as	20-as	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-3
+4	busz	busz	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-4
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-5
+6	Jancsár	Jancsár	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-6|NE=name[LOC]_1
+7	utca	utca	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-7|NE=name[LOC]_1
+8	és	és	CCONJ	_	_	_	_	_	tokId=w-8
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-9
+10	Könnyűfémmű	könnyűfémmű	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-10|NE=name[LOC]_2
+11	megállóhelyek	megállóhely	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-11
+12	között	között	ADP	_	_	_	_	_	tokId=w-12
+13	közlekedik	közlekedik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-13|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-14
+
+# sent_id = huwiki_8_s-2
+# text = Üzemideje 5.00-tól 22.35-ig tart.
+1	Üzemideje	üzemidő	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-15
+2	5.00-tól	5.00	NUM	_	Case=Abl|Number=Sing|NumType=Card	_	_	_	tokId=w-16
+3	22.35-ig	22.35	NUM	_	Case=Ter|Number=Sing|NumType=Card	_	_	_	tokId=w-17
+4	tart	tart	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-18|SpaceAfter=No
+5	.	.	PUNCT	_	_	_	_	_	tokId=w-19
+
+# sent_id = huwiki_8_s-3
+# text = Munkanapokon reggel 20 percenként, napközben óránként, a délutáni csúcsidőben 30 percenként közlekedik.
+1	Munkanapokon	munkanap	NOUN	_	Case=Sup|Number=Plur	_	_	_	tokId=w-20
+2	reggel	reggel	ADV	_	_	_	_	_	tokId=w-21
+3	20	20	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-22
+4	percenként	perc	ADV	_	_	_	_	_	tokId=w-23|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-24
+6	napközben	napközben	ADV	_	_	_	_	_	tokId=w-25
+7	óránként	óra	ADV	_	_	_	_	_	tokId=w-26|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-27
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-28
+10	délutáni	délutáni	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-29
+11	csúcsidőben	csúcsidő	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-30
+12	30	30	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-31
+13	percenként	perc	ADV	_	_	_	_	_	tokId=w-32
+14	közlekedik	közlekedik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-33|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-34
+
+# sent_id = huwiki_8_s-4
+# text = Hétvégén reggel félóránként, utána óránként közlekedik; 9.35 és 13.25 között nem indul.
+1	Hétvégén	hétvége	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-35
+2	reggel	reggel	ADV	_	_	_	_	_	tokId=w-36
+3	félóránként	félóra	ADV	_	_	_	_	_	tokId=w-37|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-38
+5	utána	utána	ADV	_	_	_	_	_	tokId=w-39
+6	óránként	óra	ADV	_	_	_	_	_	tokId=w-40
+7	közlekedik	közlekedik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-41|SpaceAfter=No
+8	;	;	PUNCT	_	_	_	_	_	tokId=w-42
+9	9.35	9.35	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-43
+10	és	és	CCONJ	_	_	_	_	_	tokId=w-44
+11	13.25	13.25	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-45
+12	között	között	ADP	_	_	_	_	_	tokId=w-46
+13	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-47
+14	indul	indul	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-48|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-49
+
+# sent_id = huwiki_8_s-5
+# text = A viszonylaton többnyire szóló autóbuszok közlekedtek, de előfordultak a csúcsidőben csuklós autóbuszok is.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-50
+2	viszonylaton	viszonylat	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-51
+3	többnyire	többnyire	ADV	_	_	_	_	_	tokId=w-52
+4	szóló	szóló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-53
+5	autóbuszok	autóbusz	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-54
+6	közlekedtek	közlekedik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-55|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-56
+8	de	de	CCONJ	_	_	_	_	_	tokId=w-57
+9	előfordultak	előfordul	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-58
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-59
+11	csúcsidőben	csúcsidő	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-60
+12	csuklós	csuklós	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-61
+13	autóbuszok	autóbusz	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-62
+14	is	is	ADV	_	_	_	_	_	tokId=w-63|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-64
+
+# sent_id = huwiki_8_s-6
+# text = 2016 augusztus elsejétől azonban kizárólag a VT-ARRIVA által üzemeltetett Volvo-Alfa Localo típusú autóbuszok közlekednek a vonalon.
+1	2016	2016	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-65
+2	augusztus	augusztus	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-66
+3	elsejétől	egy	NOUN	_	Case=Abl|Number=Sing	_	_	_	tokId=w-67
+4	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-68
+5	kizárólag	kizárólag	ADV	_	_	_	_	_	tokId=w-69
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-70
+7	VT-ARRIVA	VT-ARRIVA	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-71|NE=name[ORG]_3
+8	által	által	ADP	_	_	_	_	_	tokId=w-72
+9	üzemeltetett	üzemeltetett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-73
+10	Volvo-Alfa	Volvo-Alfa	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-74|NE=name[MISC]_4
+11	Localo	Localo	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-75|NE=name[MISC]_4
+12	típusú	típusú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-76
+13	autóbuszok	autóbusz	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-77
+14	közlekednek	közlekedik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-78
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-79
+16	vonalon	vonal	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-80|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-81
+
+# sent_id = huwiki_8_s-7
+# text = 2012. március 15-én nagy hétvégi menetrendritkításon esett át.
+1	2012.	2012.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-82
+2	március	március	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-83
+3	15-én	15	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-84
+4	nagy	nagy	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-85
+5	hétvégi	hétvégi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-86
+6	menetrendritkításon	menetrendritkítás	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-87
+7	esett	esik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-88
+8	át	át	ADV	_	_	_	_	_	tokId=w-89|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-90
+
+# sent_id = huwiki_8_s-8
+# text = Ettől kezdve szabadnapokon is munkaszüneti napokon érvényes menetrend szerint közlekedik.
+1	Ettől	ez	PRON	_	Case=Abl|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-91
+2	kezdve	kezdve	ADP	_	_	_	_	_	tokId=w-92
+3	szabadnapokon	szabadnap	NOUN	_	Case=Sup|Number=Plur	_	_	_	tokId=w-93
+4	is	is	ADV	_	_	_	_	_	tokId=w-94
+5	munkaszüneti	munkaszüneti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-95
+6	napokon	nap	NOUN	_	Case=Sup|Number=Plur	_	_	_	tokId=w-96
+7	érvényes	érvényes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-97
+8	menetrend	menetrend	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-98
+9	szerint	szerint	ADP	_	_	_	_	_	tokId=w-99
+10	közlekedik	közlekedik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-100|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-101
+
+# sent_id = huwiki_8_s-9
+# text = 2016 augusztusától a VT-ARRIVA Kft. üzemelteti, a KNYKK Zrt. alvállalkozójaként.
+1	2016	2016	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-102
+2	augusztusától	augusztus	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-103
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-104
+4	VT-ARRIVA	VT-ARRIVA	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-105|NE=name[ORG]_5
+5	Kft.	kft.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-106|NE=name[ORG]_5
+6	üzemelteti	üzemeltet	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-107|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-108
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-109
+9	KNYKK	KNYKK	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-110|NE=name[ORG]_6
+10	Zrt.	zrt.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-111|NE=name[ORG]_6
+11	alvállalkozójaként	alvállalkozó	NOUN	_	Case=Ess|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-112|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-113
+

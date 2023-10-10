@@ -1,0 +1,632 @@
+# newdoc id = w302
+# sent_id = w302_s-1
+# text = " Irányváltásra van szüksége Magyarországnak, hogy végre tiszta, megújuló és diverzifikált energiatermelés valósuljon meg.
+1	"	"	PUNCT	_	_	_	_	_	tokId=w-1
+2	Irányváltásra	irányváltás	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-2
+3	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-3
+4	szüksége	szükség	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-4
+5	Magyarországnak	Magyarország	PROPN	_	Case=Gen|Number=Sing	_	_	_	tokId=w-5|NE=name[ORG]_1|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-6
+7	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-7
+8	végre	végre	ADV	_	_	_	_	_	tokId=w-8
+9	tiszta	tiszta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-9|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-10
+11	megújuló	megújuló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-11
+12	és	és	CCONJ	_	_	_	_	_	tokId=w-12
+13	diverzifikált	diverzifikált	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-13
+14	energiatermelés	energiatermelés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-14
+15	valósuljon	valósul	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-15
+16	meg	meg	PART	_	_	_	_	_	tokId=w-16|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-17
+
+# sent_id = w302_s-2
+# text = a hazai vállalkozásoknál foglalkoztatott munkavállalók majd felét alkalmazzák
+1	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-18
+2	hazai	hazai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-19
+3	vállalkozásoknál	vállalkozás	NOUN	_	Case=Ade|Number=Plur	_	_	_	tokId=w-20
+4	foglalkoztatott	foglalkoztatott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-21
+5	munkavállalók	munkavállaló	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-22
+6	majd	majd	ADV	_	_	_	_	_	tokId=w-23
+7	felét	fél	NUM	_	Case=Acc|Number=Sing|Number[psor]=Sing|NumType=Card|Person[psor]=3	_	_	_	tokId=w-24
+8	alkalmazzák	alkalmaz	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-25
+
+# sent_id = w302_s-3
+# text = Az utódlás kérdésében mindezen adatok szimpatikusabban lépnek színre, tudniillik ebben a: a felmérésben szereplő cégtulajdonosok 47%-a észben tartja az utódlást, vagy gondolkodott már erről a kérdésről, 54% már rendelkezik cégtulajdonos / cégvezető utóddal, míg 84%-ra a megkérdezettek közül jellemző a „ családban marad ” filozófia (a cégutódlás ügyét tekintetbe véve).
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-26
+2	utódlás	utódlás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-27
+3	kérdésében	kérdés	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-28
+4	mindezen	mindezen	ADV	_	PronType=Art	_	_	_	tokId=w-29
+5	adatok	adat	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-30
+6	szimpatikusabban	szimpatikus	ADJ	_	Case=Ess|Degree=Cmp|Number=Sing	_	_	_	tokId=w-31
+7	lépnek	lép	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-32
+8	színre	szín	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-33|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-34
+10	tudniillik	tudniillik	CCONJ	_	_	_	_	_	tokId=w-35
+11	ebben	ez	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-36
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-37|SpaceAfter=No
+13	:	:	PUNCT	_	_	_	_	_	tokId=w-38
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-39
+15	felmérésben	felmérés	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-40
+16	szereplő	szereplő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-41
+17	cégtulajdonosok	cégtulajdonos	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-42
+18	47%-a	47	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-43
+19	észben	ész	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-44
+20	tartja	tart	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-45
+21	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-46
+22	utódlást	utódlás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-47|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-48
+24	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-49
+25	gondolkodott	gondolkodik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-50
+26	már	már	ADV	_	_	_	_	_	tokId=w-51
+27	erről	ez	PRON	_	Case=Del|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-52
+28	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-53
+29	kérdésről	kérdés	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-54|SpaceAfter=No
+30	,	,	PUNCT	_	_	_	_	_	tokId=w-55
+31	54%	54	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-56
+32	már	már	ADV	_	_	_	_	_	tokId=w-57
+33	rendelkezik	rendelkezik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-58
+34	cégtulajdonos	cégtulajdonos	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-59
+35	/	/	X	_	_	_	_	_	tokId=w-60
+36	cégvezető	cégvezető	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-61
+37	utóddal	utód	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-62|SpaceAfter=No
+38	,	,	PUNCT	_	_	_	_	_	tokId=w-63
+39	míg	míg	CCONJ	_	_	_	_	_	tokId=w-64
+40	84%-ra	84	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-65
+41	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-66
+42	megkérdezettek	megkérdezett	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-67
+43	közül	közül	ADP	_	_	_	_	_	tokId=w-68
+44	jellemző	jellemző	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-69
+45	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-70
+46	„	„	PUNCT	_	_	_	_	_	tokId=w-71
+47	családban	család	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-72
+48	marad	marad	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-73
+49	”	”	PUNCT	_	_	_	_	_	tokId=w-74
+50	filozófia	filozófia	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-75
+51	(	(	PUNCT	_	_	_	_	_	tokId=w-76|SpaceAfter=No
+52	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-77
+53	cégutódlás	cégutódlás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-78
+54	ügyét	ügy	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-79
+55	tekintetbe	tekintet	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-80
+56	véve	véve	ADV	_	VerbForm=Conv	_	_	_	tokId=w-81|SpaceAfter=No
+57	)	)	PUNCT	_	_	_	_	_	tokId=w-82|SpaceAfter=No
+58	.	.	PUNCT	_	_	_	_	_	tokId=w-83
+
+# sent_id = w302_s-4
+# text = Szerb László a Statisztikai Szemlében vállalkozásnak csupán azon magatartási sorolta be, amelyek a fent említett kreativitás és innováció ismérvei mellett (többek között) még kész felvállalni a piaci tevékenységekkel együtt járó bizonytalanságot, produktív módon vesz részt a különféle tevékenységekben és egyedüli célként nem a bevételnövelést tűzi ki maga elé, hanem kimagasló részt foglal el tervei között az értékteremtés is.
+1	Szerb	Szerb	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-84|NE=name[PER]_2
+2	László	László	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-85|NE=name[PER]_2
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-86
+4	Statisztikai	Statisztikai	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-87|NE=name[MISC]_3
+5	Szemlében	Szemle	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-88|NE=name[MISC]_3
+6	vállalkozásnak	vállalkozás	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-89
+7	csupán	csupán	ADV	_	_	_	_	_	tokId=w-90
+8	azon	azon	ADV	_	PronType=Art	_	_	_	tokId=w-91
+9	magatartási	magatartási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-92
+10	sorolta	sorol	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-93
+11	be	be	ADV	_	Degree=Pos	_	_	_	tokId=w-94|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-95
+13	amelyek	amely	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-96
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-97
+15	fent	fent	ADV	_	_	_	_	_	tokId=w-98
+16	említett	említett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-99
+17	kreativitás	kreativitás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-100
+18	és	és	CCONJ	_	_	_	_	_	tokId=w-101
+19	innováció	innováció	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-102
+20	ismérvei	ismérv	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-103
+21	mellett	mellett	ADP	_	_	_	_	_	tokId=w-104
+22	(	(	PUNCT	_	_	_	_	_	tokId=w-105|SpaceAfter=No
+23	többek	sok	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-106
+24	között	között	ADP	_	_	_	_	_	tokId=w-107|SpaceAfter=No
+25	)	)	PUNCT	_	_	_	_	_	tokId=w-108
+26	még	még	ADV	_	_	_	_	_	tokId=w-109
+27	kész	kész	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-110
+28	felvállalni	felvállal	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-111
+29	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-112
+30	piaci	piaci	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-113
+31	tevékenységekkel	tevékenység	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-114
+32	együtt	együtt	ADP	_	_	_	_	_	tokId=w-115
+33	járó	járó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-116
+34	bizonytalanságot	bizonytalanság	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-117|SpaceAfter=No
+35	,	,	PUNCT	_	_	_	_	_	tokId=w-118
+36	produktív	produktív	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-119
+37	módon	mód	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-120
+38	vesz	vesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-121
+39	részt	rész	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-122
+40	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-123
+41	különféle	különféle	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-124
+42	tevékenységekben	tevékenység	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-125
+43	és	és	CCONJ	_	_	_	_	_	tokId=w-126
+44	egyedüli	egyedüli	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-127
+45	célként	cél	NOUN	_	Case=Ess|Number=Sing	_	_	_	tokId=w-128
+46	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-129
+47	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-130
+48	bevételnövelést	bevételnövelés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-131
+49	tűzi	tűz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-132
+50	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-133
+51	maga	maga	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	tokId=w-134
+52	elé	elé	ADP	_	_	_	_	_	tokId=w-135|SpaceAfter=No
+53	,	,	PUNCT	_	_	_	_	_	tokId=w-136
+54	hanem	hanem	CCONJ	_	_	_	_	_	tokId=w-137
+55	kimagasló	kimagasló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-138
+56	részt	rész	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-139
+57	foglal	foglal	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-140
+58	el	el	ADV	_	_	_	_	_	tokId=w-141
+59	tervei	terv	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-142
+60	között	között	ADP	_	_	_	_	_	tokId=w-143
+61	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-144
+62	értékteremtés	értékteremtés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-145
+63	is	is	ADV	_	_	_	_	_	tokId=w-146|SpaceAfter=No
+64	.	.	PUNCT	_	_	_	_	_	tokId=w-147
+
+# sent_id = w302_s-5
+# text = Az egyik megrendelés kapcsán szükségég volt arra, hogy egy összehasonlító ajánlatot készítsek!
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-148
+2	egyik	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-149
+3	megrendelés	megrendelés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-150
+4	kapcsán	kapcsán	ADP	_	_	_	_	_	tokId=w-151
+5	szükségég	szükség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-152
+6	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-153
+7	arra	az	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-154|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-155
+9	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-156
+10	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-157
+11	összehasonlító	összehasonlító	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-158
+12	ajánlatot	ajánlat	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-159
+13	készítsek	készít	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-160|SpaceAfter=No
+14	!	!	PUNCT	_	_	_	_	_	tokId=w-161
+
+# sent_id = w302_s-6
+# text = A zsaluzat alsó hálójára szerelnénk rá 15 osztástávolsággal!
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-162
+2	zsaluzat	zsaluzat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-163
+3	alsó	alsó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-164
+4	hálójára	háló	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-165
+5	szerelnénk	szerel	VERB	_	Definite=Def|Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-166
+6	rá	rá	ADV	_	_	_	_	_	tokId=w-167
+7	15	15	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-168
+8	osztástávolsággal	osztástávolság	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-169|SpaceAfter=No
+9	!	!	PUNCT	_	_	_	_	_	tokId=w-170
+
+# sent_id = w302_s-7
+# text = A padozat felbontásra kerül, adódik a padlófűtés mint fűtési megoldás egy olcsó, de jó, viszont fenntartható megbízható alsóközép kategóriájú kondenzációs kazánnal, amihez ha később hozzá kell nyúlni akkor lesz egyből alkatrész és elérhető áron.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-171
+2	padozat	padozat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-172
+3	felbontásra	felbontás	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-173
+4	kerül	kerül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-174|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-175
+6	adódik	adódik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-176
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-177
+8	padlófűtés	padlófűtés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-178
+9	mint	mint	ADP	_	_	_	_	_	tokId=w-179
+10	fűtési	fűtési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-180
+11	megoldás	megoldás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-181
+12	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-182
+13	olcsó	olcsó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-183|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-184
+15	de	de	CCONJ	_	_	_	_	_	tokId=w-185
+16	jó	jó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-186|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-187
+18	viszont	viszont	CCONJ	_	_	_	_	_	tokId=w-188
+19	fenntartható	fenntartható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-189
+20	megbízható	megbízható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-190
+21	alsóközép	alsóközép	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-191
+22	kategóriájú	kategóriájú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-192
+23	kondenzációs	kondenzációs	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-193
+24	kazánnal	kazán	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-194|SpaceAfter=No
+25	,	,	PUNCT	_	_	_	_	_	tokId=w-195
+26	amihez	ami	PRON	_	Case=All|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-196
+27	ha	ha	SCONJ	_	_	_	_	_	tokId=w-197
+28	később	később	ADV	_	_	_	_	_	tokId=w-198
+29	hozzá	hozzá	ADV	_	_	_	_	_	tokId=w-199
+30	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-200
+31	nyúlni	nyúl	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-201
+32	akkor	akkor	ADV	_	PronType=Dem	_	_	_	tokId=w-202
+33	lesz	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-203
+34	egyből	egyből	ADV	_	_	_	_	_	tokId=w-204
+35	alkatrész	alkatrész	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-205
+36	és	és	CCONJ	_	_	_	_	_	tokId=w-206
+37	elérhető	elérhető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-207
+38	áron	ár	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-208|SpaceAfter=No
+39	.	.	PUNCT	_	_	_	_	_	tokId=w-209
+
+# sent_id = w302_s-8
+# text = És sokszor elég sok galibát és összezavarást okoznak.
+1	És	és	CCONJ	_	_	_	_	_	tokId=w-210
+2	sokszor	sok	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-211
+3	elég	elég	ADV	_	_	_	_	_	tokId=w-212
+4	sok	sok	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-213
+5	galibát	galiba	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-214
+6	és	és	CCONJ	_	_	_	_	_	tokId=w-215
+7	összezavarást	összezavarás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-216
+8	okoznak	okoz	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-217|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-218
+
+# sent_id = w302_s-9
+# text = Még szerencse, hogy az oldalak egymást másolják ezért egy rossz információ még a mostani új oldalakon is szerepelhet.
+1	Még	még	ADV	_	_	_	_	_	tokId=w-219
+2	szerencse	szerencse	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-220|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-221
+4	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-222
+5	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-223
+6	oldalak	oldal	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-224
+7	egymást	egymás	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rcp	_	_	_	tokId=w-225
+8	másolják	másol	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-226
+9	ezért	ezért	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-227
+10	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-228
+11	rossz	rossz	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-229
+12	információ	információ	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-230
+13	még	még	ADV	_	_	_	_	_	tokId=w-231
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-232
+15	mostani	mostani	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-233
+16	új	új	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-234
+17	oldalakon	oldal	NOUN	_	Case=Sup|Number=Plur	_	_	_	tokId=w-235
+18	is	is	ADV	_	_	_	_	_	tokId=w-236
+19	szerepelhet	szerepel	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-237|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-238
+
+# sent_id = w302_s-10
+# text = Általában egy másik közegből tudjuk ezeket a plusz energia egységeket kivonni.
+1	Általában	általában	ADV	_	_	_	_	_	tokId=w-239
+2	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-240
+3	másik	másik	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-241
+4	közegből	közeg	NOUN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-242
+5	tudjuk	tud	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-243
+6	ezeket	ez	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-244
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-245
+8	plusz	plusz	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-246
+9	energia	energia	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-247
+10	egységeket	egység	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-248
+11	kivonni	kivon	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-249|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-250
+
+# sent_id = w302_s-11
+# text = Mint ahogy az elnevezésük is sugallja kiszívják a hőt bizonyos helyekből, közegekből.
+1	Mint	mint	SCONJ	_	_	_	_	_	tokId=w-251
+2	ahogy	ahogy	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-252
+3	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-253
+4	elnevezésük	elnevezés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-254
+5	is	is	ADV	_	_	_	_	_	tokId=w-255
+6	sugallja	sugall	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-256
+7	kiszívják	kiszív	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-257
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-258
+9	hőt	hő	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-259
+10	bizonyos	bizonyos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-260
+11	helyekből	hely	NOUN	_	Case=Ela|Number=Plur	_	_	_	tokId=w-261|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-262
+13	közegekből	közeg	NOUN	_	Case=Ela|Number=Plur	_	_	_	tokId=w-263|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-264
+
+# sent_id = w302_s-12
+# text = Lehet nyitott vagy zártrendszerű talajszonda.
+1	Lehet	lesz	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-265
+2	nyitott	nyitott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-266
+3	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-267
+4	zártrendszerű	zártrendszerű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-268
+5	talajszonda	talajszonda	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-269|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-270
+
+# sent_id = w302_s-13
+# text = A kínai hőszivattyú azért rossz, mert olcsó, és mert ami kínai és olcsó az nem jó.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-271
+2	kínai	kínai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-272
+3	hőszivattyú	hőszivattyú	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-273
+4	azért	azért	ADV	_	PronType=Dem	_	_	_	tokId=w-274
+5	rossz	rossz	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-275|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-276
+7	mert	mert	SCONJ	_	_	_	_	_	tokId=w-277
+8	olcsó	olcsó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-278|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-279
+10	és	és	CCONJ	_	_	_	_	_	tokId=w-280
+11	mert	mert	SCONJ	_	_	_	_	_	tokId=w-281
+12	ami	ami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-282
+13	kínai	kínai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-283
+14	és	és	CCONJ	_	_	_	_	_	tokId=w-284
+15	olcsó	olcsó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-285
+16	az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-286
+17	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-287
+18	jó	jó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-288|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-289
+
+# sent_id = w302_s-14
+# text = 2. Meeting MD 20 2D 7 kW készülék ára 570 e Ft
+1	2.	2.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-290
+2	Meeting	Meeting	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-291|NE=name[MISC]_4
+3	MD	MD	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-292|NE=name[MISC]_4
+4	20	20	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-293|NE=name[MISC]_4
+5	2D	2D	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-294|NE=name[MISC]_4
+6	7	7	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-295
+7	kW	kW	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-296
+8	készülék	készülék	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-297
+9	ára	ár	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-298
+10	570	570	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-299
+11	e	e	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-300
+12	Ft	Ft	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-301
+
+# sent_id = w302_s-15
+# text = Azt is figyelembe vehettem volna, hogy az egyik inverteres a másik nem.
+1	Azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-302
+2	is	is	ADV	_	_	_	_	_	tokId=w-303
+3	figyelembe	figyelem	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-304
+4	vehettem	vesz	VERB	_	Definite=Def|Mood=Pot|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-305
+5	volna	van	AUX	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-306|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-307
+7	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-308
+8	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-309
+9	egyik	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-310
+10	inverteres	inverteres	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-311
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-312
+12	másik	másik	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-313
+13	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-314|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-315
+
+# sent_id = w302_s-16
+# text = Persze ha kérdésed van, keress nyugodtam az elérhetőségeim valamelyikén!
+1	Persze	persze	ADV	_	_	_	_	_	tokId=w-316
+2	ha	ha	SCONJ	_	_	_	_	_	tokId=w-317
+3	kérdésed	kérdés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	_	_	_	tokId=w-318
+4	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-319|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-320
+6	keress	keres	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-321
+7	nyugodtam	nyugodtan	ADV	_	_	_	_	_	tokId=w-322
+8	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-323
+9	elérhetőségeim	elérhetőség	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=1	_	_	_	tokId=w-324
+10	valamelyikén	valamelyik	PRON	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Ind	_	_	_	tokId=w-325|SpaceAfter=No
+11	!	!	PUNCT	_	_	_	_	_	tokId=w-326
+
+# sent_id = w302_s-17
+# text = - Látszó fűtőrendszer (megfogható, érinthető, lekoszolódik)
+1	-	-	X	_	_	_	_	_	tokId=w-327
+2	Látszó	látszó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-328
+3	fűtőrendszer	fűtőrendszer	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-329
+4	(	(	PUNCT	_	_	_	_	_	tokId=w-330|SpaceAfter=No
+5	megfogható	megfogható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-331|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-332
+7	érinthető	érinthető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-333|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-334
+9	lekoszolódik	lekoszolódik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-335|SpaceAfter=No
+10	)	)	PUNCT	_	_	_	_	_	tokId=w-336
+
+# sent_id = w302_s-18
+# text = Erre a lemezre erősítjük rá műanyag kapcsokkal a padlófűtés csövet.
+1	Erre	ez	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-337
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-338
+3	lemezre	lemez	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-339
+4	erősítjük	erősít	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-340
+5	rá	rá	ADV	_	_	_	_	_	tokId=w-341
+6	műanyag	műanyag	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-342
+7	kapcsokkal	kapocs	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-343
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-344
+9	padlófűtés	padlófűtés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-345
+10	csövet	cső	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-346|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-347
+
+# sent_id = w302_s-19
+# text = - Jól kombinálható más fűtésekkel
+1	-	-	X	_	_	_	_	_	tokId=w-348
+2	Jól	jól	ADV	_	_	_	_	_	tokId=w-349
+3	kombinálható	kombinálható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-350
+4	más	más	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-351
+5	fűtésekkel	fűtés	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-352
+
+# sent_id = w302_s-20
+# text = - Magas vérnyomás, keringési rendellenességek esetén nem mindig jó.
+1	-	-	X	_	_	_	_	_	tokId=w-353
+2	Magas	magas	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-354
+3	vérnyomás	vérnyomás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-355|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-356
+5	keringési	keringési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-357
+6	rendellenességek	rendellenesség	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-358
+7	esetén	esetén	ADP	_	_	_	_	_	tokId=w-359
+8	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-360
+9	mindig	mindig	ADV	_	_	_	_	_	tokId=w-361
+10	jó	jó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-362|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-363
+
+# sent_id = w302_s-21
+# text = - Megbízható, tartós fűtés.
+1	-	-	X	_	_	_	_	_	tokId=w-364
+2	Megbízható	megbízható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-365|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-366
+4	tartós	tartós	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-367
+5	fűtés	fűtés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-368|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-369
+
+# sent_id = w302_s-22
+# text = - Jól szabályozható, jól bővíthető rendszer
+1	-	-	X	_	_	_	_	_	tokId=w-370
+2	Jól	jól	ADV	_	_	_	_	_	tokId=w-371
+3	szabályozható	szabályozható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-372|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-373
+5	jól	jól	ADV	_	_	_	_	_	tokId=w-374
+6	bővíthető	bővíthető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-375
+7	rendszer	rendszer	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-376
+
+# sent_id = w302_s-23
+# text = Száraz gipszkartonos rendszer
+1	Száraz	száraz	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-377
+2	gipszkartonos	gipszkartonos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-378
+3	rendszer	rendszer	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-379
+
+# sent_id = w302_s-24
+# text = Mert igen hőszivattyúkkal foglalkozom, de szerintem egyike vagyok azoknak akik még a klasszikus szakmunkás képzőben szereztek bizonyítványt gáz vezeték és készülékszerelésből.
+1	Mert	mert	SCONJ	_	_	_	_	_	tokId=w-380
+2	igen	igen	INTJ	_	_	_	_	_	tokId=w-381
+3	hőszivattyúkkal	hőszivattyú	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-382
+4	foglalkozom	foglalkozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-383|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-384
+6	de	de	CCONJ	_	_	_	_	_	tokId=w-385
+7	szerintem	szerint	ADP	_	_	_	_	_	tokId=w-386
+8	egyike	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-387
+9	vagyok	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-388
+10	azoknak	az	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-389
+11	akik	aki	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-390
+12	még	még	ADV	_	_	_	_	_	tokId=w-391
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-392
+14	klasszikus	klasszikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-393
+15	szakmunkás	szakmunkás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-394
+16	képzőben	képző	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-395
+17	szereztek	szerez	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-396
+18	bizonyítványt	bizonyítvány	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-397
+19	gáz	gáz	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-398
+20	vezeték	vezeték	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-399
+21	és	és	CCONJ	_	_	_	_	_	tokId=w-400
+22	készülékszerelésből	készülékszerelés	NOUN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-401|SpaceAfter=No
+23	.	.	PUNCT	_	_	_	_	_	tokId=w-402
+
+# sent_id = w302_s-25
+# text = Persze a kJ/m3 átváltható kW(óra)/m3 értékre, de akkor mindenki abba fogja hagyni az olvasást nekem ez a tapasztalatom.
+1	Persze	persze	ADV	_	_	_	_	_	tokId=w-403
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-404
+3	kJ/m3	kJ/m3	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-405
+4	átváltható	átváltható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-406
+5	kW(óra)/m3	kW(óra)/m3	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-407
+6	értékre	érték	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-408|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-409
+8	de	de	CCONJ	_	_	_	_	_	tokId=w-410
+9	akkor	akkor	ADV	_	PronType=Dem	_	_	_	tokId=w-411
+10	mindenki	mindenki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-412
+11	abba	abba	ADV	_	_	_	_	_	tokId=w-413
+12	fogja	fog	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-414
+13	hagyni	hagy	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-415
+14	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-416
+15	olvasást	olvasás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-417
+16	nekem	én	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	_	_	_	tokId=w-418
+17	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-419
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-420
+19	tapasztalatom	tapasztalat	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	_	_	_	tokId=w-421|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-422
+
+# sent_id = w302_s-26
+# text = Ezek egyikén, egy igazi magyar találmányon keresztül mutatjuk be a pellet tulajdonságait.
+1	Ezek	ez	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-423
+2	egyikén	egyik	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-424|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-425
+4	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-426
+5	igazi	igazi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-427
+6	magyar	magyar	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-428
+7	találmányon	találmány	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-429
+8	keresztül	keresztül	ADP	_	_	_	_	_	tokId=w-430
+9	mutatjuk	mutat	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-431
+10	be	be	ADV	_	Degree=Pos	_	_	_	tokId=w-432
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-433
+12	pellet	pellet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-434
+13	tulajdonságait	tulajdonság	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-435|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-436
+
+# sent_id = w302_s-27
+# text = 1990-es évek elején elkezdték az ipari hasznosításra alkalmas fűfélék nemesítését.
+1	1990-es	1990-es	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-437
+2	évek	év	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-438
+3	elején	eleje	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-439
+4	elkezdték	elkezd	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-440
+5	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-441
+6	ipari	ipari	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-442
+7	hasznosításra	hasznosítás	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-443
+8	alkalmas	alkalmas	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-444
+9	fűfélék	fűféle	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-445
+10	nemesítését	nemesítés	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-446|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-447
+
+# sent_id = w302_s-28
+# text = Egy fárasztó nap után nem az öntözés kényszere várja otthon, hanem az üde zöld kert,
+1	Egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-448
+2	fárasztó	fárasztó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-449
+3	nap	nap	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-450
+4	után	után	ADP	_	_	_	_	_	tokId=w-451
+5	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-452
+6	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-453
+7	öntözés	öntözés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-454
+8	kényszere	kényszer	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-455
+9	várja	vár	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-456
+10	otthon	otthon	ADV	_	_	_	_	_	tokId=w-457|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-458
+12	hanem	hanem	CCONJ	_	_	_	_	_	tokId=w-459
+13	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-460
+14	üde	üde	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-461
+15	zöld	zöld	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-462
+16	kert	kert	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-463|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-464
+
+# sent_id = w302_s-29
+# text = Tisztelt Szabó úr!
+1	Tisztelt	tisztelt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-465
+2	Szabó	Szabó	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-466|NE=name[PER]_5
+3	úr	úr	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-467|SpaceAfter=No
+4	!	!	PUNCT	_	_	_	_	_	tokId=w-468
+
+# sent_id = w302_s-30
+# text = Én eddig mindenhol azt hallottam, hogy a falfűtés energiatakarékos, mert pár fokkal alacsonyabb lehet bent a levegő.
+1	Én	én	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	tokId=w-469
+2	eddig	eddig	ADV	_	PronType=Dem	_	_	_	tokId=w-470
+3	mindenhol	mindenhol	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-471
+4	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-472
+5	hallottam	hall	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-473|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-474
+7	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-475
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-476
+9	falfűtés	falfűtés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-477
+10	energiatakarékos	energiatakarékos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-478|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-479
+12	mert	mert	SCONJ	_	_	_	_	_	tokId=w-480
+13	pár	pár	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-481
+14	fokkal	fok	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-482
+15	alacsonyabb	alacsony	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-483
+16	lehet	lesz	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-484
+17	bent	bent	ADV	_	_	_	_	_	tokId=w-485
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-486
+19	levegő	levegő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-487|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-488
+
+# sent_id = w302_s-31
+# text = Tehát a FAL belső hőmérséklete az, ami számít, nem a levegőé!
+1	Tehát	tehát	CCONJ	_	_	_	_	_	tokId=w-489
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-490
+3	FAL	fal	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-491
+4	belső	belső	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-492
+5	hőmérséklete	hőmérséklet	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-493
+6	az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-494|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-495
+8	ami	ami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-496
+9	számít	számít	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-497|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-498
+11	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-499
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-500
+13	levegőé	levegő	NOUN	_	Case=Nom|Number=Sing|Number[psed]=Sing	_	_	_	tokId=w-501|SpaceAfter=No
+14	!	!	PUNCT	_	_	_	_	_	tokId=w-502
+
+# sent_id = w302_s-32
+# text = Tisztelettel: Kabak János
+1	Tisztelettel	tisztelet	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-503|SpaceAfter=No
+2	:	:	PUNCT	_	_	_	_	_	tokId=w-504
+3	Kabak	Kabak	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-505|NE=name[PER]_6
+4	János	János	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-506|NE=name[PER]_6
+
+# sent_id = w302_s-33
+# text = " NAGYOBB TELJESÍTMÉNY A padlófűtéses rendszerek csak 80-100W/m hőleadásra képesek, mert a padló hőmérséklete a láb érzékenysége és egészségügyi okok miatt csak 29°C lehet.
+1	"	"	PUNCT	_	_	_	_	_	tokId=w-507
+2	NAGYOBB	nagy	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-508
+3	TELJESÍTMÉNY	teljesítmény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-509
+4	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-510
+5	padlófűtéses	padlófűtéses	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-511
+6	rendszerek	rendszer	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-512
+7	csak	csak	ADV	_	_	_	_	_	tokId=w-513
+8	80-100W/m	80-100W/m	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-514
+9	hőleadásra	hőleadás	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-515
+10	képesek	képes	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-516|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-517
+12	mert	mert	SCONJ	_	_	_	_	_	tokId=w-518
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-519
+14	padló	padló	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-520
+15	hőmérséklete	hőmérséklet	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-521
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-522
+17	láb	láb	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-523
+18	érzékenysége	érzékenység	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-524
+19	és	és	CCONJ	_	_	_	_	_	tokId=w-525
+20	egészségügyi	egészségügyi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-526
+21	okok	ok	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-527
+22	miatt	miatt	ADP	_	_	_	_	_	tokId=w-528
+23	csak	csak	ADV	_	_	_	_	_	tokId=w-529
+24	29°C	29°C	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-530
+25	lehet	lesz	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-531|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-532
+

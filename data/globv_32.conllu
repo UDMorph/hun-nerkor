@@ -1,0 +1,133 @@
+# newdoc id = globv_32
+# sent_id = globv_32_s-1
+# text = Egyiptomban súlyos problémát jelent a szexuális zaklatás, mely ellen mind több egyiptomi polgár szólal fel.
+1	Egyiptomban	Egyiptom	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-1|NE=name[LOC]_1
+2	súlyos	súlyos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-2
+3	problémát	probléma	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-3
+4	jelent	jelent	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-4
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-5
+6	szexuális	szexuális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-6
+7	zaklatás	zaklatás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-7|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-8
+9	mely	mely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-9
+10	ellen	ellen	ADP	_	_	_	_	_	tokId=w-10
+11	mind	mind	ADV	_	PronType=Tot	_	_	_	tokId=w-11
+12	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-12
+13	egyiptomi	egyiptomi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-13
+14	polgár	polgár	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-14
+15	szólal	szólal	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-15
+16	fel	fel	ADV	_	Degree=Pos	_	_	_	tokId=w-16|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-17
+
+# sent_id = globv_32_s-2
+# text = Július 4-én fiatal egyiptomi férfiak és nők szerveztek egy köztéri tiltakozást Kairo Naszr városrészében, hogy megfogalmazzák üzeneteiket a szexuális zaklatás ellen.
+1	Július	július	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-18
+2	4-én	4	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-19
+3	fiatal	fiatal	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-20
+4	egyiptomi	egyiptomi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-21
+5	férfiak	férfi	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-22
+6	és	és	CCONJ	_	_	_	_	_	tokId=w-23
+7	nők	nő	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-24
+8	szerveztek	szervez	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-25
+9	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-26
+10	köztéri	köztéri	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-27
+11	tiltakozást	tiltakozás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-28
+12	Kairo	Kairo	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-29|NE=name[LOC]_2
+13	Naszr	Naszr	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-30|NE=name[LOC]_2
+14	városrészében	városrész	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-31|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-32
+16	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-33
+17	megfogalmazzák	megfogalmaz	VERB	_	Definite=Def|Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-34
+18	üzeneteiket	üzenet	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-35
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-36
+20	szexuális	szexuális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-37
+21	zaklatás	zaklatás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-38
+22	ellen	ellen	ADP	_	_	_	_	_	tokId=w-39|SpaceAfter=No
+23	.	.	PUNCT	_	_	_	_	_	tokId=w-40
+
+# sent_id = globv_32_s-3
+# text = A forradalom óta az egyiptomiak online és offline is kiálltak a szexuális zaklatás és a nőkkel szembeni, nemi alapú erőszak ellen.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-41
+2	forradalom	forradalom	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-42
+3	óta	óta	ADP	_	_	_	_	_	tokId=w-43
+4	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-44
+5	egyiptomiak	egyiptomi	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-45
+6	online	online	ADV	_	_	_	_	_	tokId=w-46
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-47
+8	offline	offline	ADV	_	_	_	_	_	tokId=w-48
+9	is	is	ADV	_	_	_	_	_	tokId=w-49
+10	kiálltak	kiáll	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-50
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-51
+12	szexuális	szexuális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-52
+13	zaklatás	zaklatás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-53
+14	és	és	CCONJ	_	_	_	_	_	tokId=w-54
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-55
+16	nőkkel	nő	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-56
+17	szembeni	szembeni	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-57|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-58
+19	nemi	nemi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-59
+20	alapú	alapú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-60
+21	erőszak	erőszak	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-61
+22	ellen	ellen	ADP	_	_	_	_	_	tokId=w-62|SpaceAfter=No
+23	.	.	PUNCT	_	_	_	_	_	tokId=w-63
+
+# sent_id = globv_32_s-4
+# text = Júniusban egy menetet, mely a szexuális zaklatás ellen tiltakozott, megtámadtak.
+1	Júniusban	június	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-64
+2	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-65
+3	menetet	menet	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-66|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-67
+5	mely	mely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-68
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-69
+7	szexuális	szexuális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-70
+8	zaklatás	zaklatás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-71
+9	ellen	ellen	ADP	_	_	_	_	_	tokId=w-72
+10	tiltakozott	tiltakozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-73|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-74
+12	megtámadtak	megtámad	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-75|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-76
+
+# sent_id = globv_32_s-5
+# text = A zaklatás és erőszak ellen harcoló kezdeményezések azonban folytatódnak.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-77
+2	zaklatás	zaklatás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-78
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-79
+4	erőszak	erőszak	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-80
+5	ellen	ellen	ADP	_	_	_	_	_	tokId=w-81
+6	harcoló	harcoló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-82
+7	kezdeményezések	kezdeményezés	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-83
+8	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-84
+9	folytatódnak	folytatódik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-85|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-86
+
+# sent_id = globv_32_s-6
+# text = A július 4-én megtartott tiltakozás célja is a zaklatás elleni állásfoglalás demonstrálása volt, illetve, hogy biztonságos utcákat követeljenek mindenki, így a nők számára is.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-87
+2	július	július	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-88
+3	4-én	4	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-89
+4	megtartott	megtartott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-90
+5	tiltakozás	tiltakozás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-91
+6	célja	cél	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-92
+7	is	is	ADV	_	_	_	_	_	tokId=w-93
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-94
+9	zaklatás	zaklatás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-95
+10	elleni	elleni	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-96
+11	állásfoglalás	állásfoglalás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-97
+12	demonstrálása	demonstrálás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-98
+13	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-99|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-100
+15	illetve	illetve	CCONJ	_	_	_	_	_	tokId=w-101|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-102
+17	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-103
+18	biztonságos	biztonságos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-104
+19	utcákat	utca	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-105
+20	követeljenek	követel	VERB	_	Definite=Ind|Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-106
+21	mindenki	mindenki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-107|SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-108
+23	így	így	CCONJ	_	_	_	_	_	tokId=w-109
+24	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-110
+25	nők	nő	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-111
+26	számára	számára	ADP	_	_	_	_	_	tokId=w-112
+27	is	is	ADV	_	_	_	_	_	tokId=w-113|SpaceAfter=No
+28	.	.	PUNCT	_	_	_	_	_	tokId=w-114
+

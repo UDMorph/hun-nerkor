@@ -1,0 +1,556 @@
+# newdoc id = w124
+# sent_id = w124_s-1
+# text = Nekem nem volt olyan könnyű a Super Mario 3D Land8. világa.
+1	Nekem	én	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	_	_	_	tokId=w-1
+2	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-2
+3	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-3
+4	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-4
+5	könnyű	könnyű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-5
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-6
+7	Super	Super	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-7|NE=name[MISC]_1
+8	Mario	Mario	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-8|NE=name[MISC]_1
+9	3D	3D	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-9|NE=name[MISC]_1
+10	Land	Land	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-10|NE=name[MISC]_1|SpaceAfter=No
+11	8.	8.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-11
+12	világa	világ	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-12|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-13
+
+# sent_id = w124_s-2
+# text = Ahogy említettem korábban, vettünk egy új TV-t, mely az én szobámba került.
+1	Ahogy	ahogy	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-14
+2	említettem	említ	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-15
+3	korábban	korábban	ADV	_	_	_	_	_	tokId=w-16|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-17
+5	vettünk	vesz	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-18
+6	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-19
+7	új	új	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-20
+8	TV-t	TV	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-21|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-22
+10	mely	mely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-23
+11	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-24
+12	én	én	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	tokId=w-25
+13	szobámba	szoba	NOUN	_	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=1	_	_	_	tokId=w-26
+14	került	kerül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-27|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-28
+
+# sent_id = w124_s-3
+# text = Eredetileg úgy voltam vele, hogy a tegnapi lemaradásomat akartam behozni (tehát ismét eljutni 117-ig), de annyira belelendültem, hogy akkor már úgy voltam vele, hogy legyen meg az egész.
+1	Eredetileg	eredetileg	ADV	_	_	_	_	_	tokId=w-29
+2	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-30
+3	voltam	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-31
+4	vele	vele	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-32|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-33
+6	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-34
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-35
+8	tegnapi	tegnapi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-36
+9	lemaradásomat	lemaradás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=1	_	_	_	tokId=w-37
+10	akartam	akar	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-38
+11	behozni	behoz	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-39
+12	(	(	PUNCT	_	_	_	_	_	tokId=w-40|SpaceAfter=No
+13	tehát	tehát	CCONJ	_	_	_	_	_	tokId=w-41
+14	ismét	ismét	ADV	_	_	_	_	_	tokId=w-42
+15	eljutni	eljut	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-43
+16	117-ig	117	NUM	_	Case=Ter|Number=Sing|NumType=Card	_	_	_	tokId=w-44|SpaceAfter=No
+17	)	)	PUNCT	_	_	_	_	_	tokId=w-45|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-46
+19	de	de	CCONJ	_	_	_	_	_	tokId=w-47
+20	annyira	annyira	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-48
+21	belelendültem	belelendül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-49|SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-50
+23	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-51
+24	akkor	akkor	ADV	_	PronType=Dem	_	_	_	tokId=w-52
+25	már	már	ADV	_	_	_	_	_	tokId=w-53
+26	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-54
+27	voltam	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-55
+28	vele	vele	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-56|SpaceAfter=No
+29	,	,	PUNCT	_	_	_	_	_	tokId=w-57
+30	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-58
+31	legyen	lesz	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-59
+32	meg	meg	PART	_	_	_	_	_	tokId=w-60
+33	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-61
+34	egész	egész	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-62|SpaceAfter=No
+35	.	.	PUNCT	_	_	_	_	_	tokId=w-63
+
+# sent_id = w124_s-4
+# text = Ez a játék is többedik végigjátszás úgy megy, mint a régi 2D-s Mariók .
+1	Ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-64
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-65
+3	játék	játék	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-66
+4	is	is	ADV	_	_	_	_	_	tokId=w-67
+5	többedik	többedik	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-68
+6	végigjátszás	végigjátszás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-69
+7	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-70
+8	megy	megy	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-71|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-72
+10	mint	mint	SCONJ	_	_	_	_	_	tokId=w-73
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-74
+12	régi	régi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-75
+13	2D-s	2D-s	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-76
+14	Mariók	Mario	PROPN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-77|NE=name[MISC]_2
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-78
+
+# sent_id = w124_s-5
+# text = Szép világ lenne.
+1	Szép	szép	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-79
+2	világ	világ	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-80
+3	lenne	lesz	VERB	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-81|SpaceAfter=No
+4	.	.	PUNCT	_	_	_	_	_	tokId=w-82
+
+# sent_id = w124_s-6
+# text = Nem a politikai mivolta az érdekes most, hanem hogy bejátszanak mindig egy kisfilmet a hét történéseiből.
+1	Nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-83
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-84
+3	politikai	politikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-85
+4	mivolta	mivolta	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-86
+5	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-87
+6	érdekes	érdekes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-88
+7	most	most	ADV	_	_	_	_	_	tokId=w-89|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-90
+9	hanem	hanem	CCONJ	_	_	_	_	_	tokId=w-91
+10	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-92
+11	bejátszanak	bejátszik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-93
+12	mindig	mindig	ADV	_	_	_	_	_	tokId=w-94
+13	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-95
+14	kisfilmet	kisfilm	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-96
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-97
+16	hét	hét	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-98
+17	történéseiből	történés	NOUN	_	Case=Ela|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-99|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-100
+
+# sent_id = w124_s-7
+# text = Nem, nem vagyok nagy titkok tudója, nem lesz az új Mario játék címe Wii U-ra, csak örülök, hogy gyorsan sikerült pótolni a túladott Super Mario World példányomon.
+1	Nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-101|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-102
+3	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-103
+4	vagyok	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-104
+5	nagy	nagy	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-105
+6	titkok	titok	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-106
+7	tudója	tudó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-107|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-108
+9	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-109
+10	lesz	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-110
+11	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-111
+12	új	új	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-112
+13	Mario	Mario	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-113|NE=name[MISC]_3
+14	játék	játék	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-114
+15	címe	cím	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-115
+16	Wii	Wii	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-116|NE=name[MISC]_4
+17	U-ra	U	PROPN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-117|NE=name[MISC]_4|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-118
+19	csak	csak	ADV	_	_	_	_	_	tokId=w-119
+20	örülök	örül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-120|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-121
+22	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-122
+23	gyorsan	gyors	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-123
+24	sikerült	sikerül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-124
+25	pótolni	pótol	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-125
+26	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-126
+27	túladott	túladott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-127
+28	Super	Super	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-128|NE=name[MISC]_5
+29	Mario	Mario	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-129|NE=name[MISC]_5
+30	World	World	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-130|NE=name[MISC]_5
+31	példányomon	példány	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=1	_	_	_	tokId=w-131|SpaceAfter=No
+32	.	.	PUNCT	_	_	_	_	_	tokId=w-132
+
+# sent_id = w124_s-8
+# text = Tegnap a laptopom kijelzője lett hibás minden előjel nélkül, vízszintesen csak minden második pixelt mutat.
+1	Tegnap	tegnap	ADV	_	_	_	_	_	tokId=w-133
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-134
+3	laptopom	laptop	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	_	_	_	tokId=w-135
+4	kijelzője	kijelző	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-136
+5	lett	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-137
+6	hibás	hibás	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-138
+7	minden	minden	DET	_	Definite=Ind|PronType=Tot	_	_	_	tokId=w-139
+8	előjel	előjel	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-140
+9	nélkül	nélkül	ADP	_	_	_	_	_	tokId=w-141|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-142
+11	vízszintesen	vízszintes	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-143
+12	csak	csak	ADV	_	_	_	_	_	tokId=w-144
+13	minden	minden	DET	_	Definite=Ind|PronType=Tot	_	_	_	tokId=w-145
+14	második	második	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-146
+15	pixelt	pixel	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-147
+16	mutat	mutat	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-148|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-149
+
+# sent_id = w124_s-9
+# text = Hazahoztam a Super Mario …
+1	Hazahoztam	hazahoz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-150
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-151
+3	Super	Super	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-152|NE=name[MISC]_6
+4	Mario	Mario	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-153|NE=name[MISC]_6
+5	…	…	PUNCT	_	_	_	_	_	tokId=w-154
+
+# sent_id = w124_s-10
+# text = Végre találtam egy linket, ahol írnak a régi a Super Mario Kalandjai videokazettáról: Super Mario Kalandjai És valóban ez a szöveg volt a VHS hátulján.
+1	Végre	végre	ADV	_	_	_	_	_	tokId=w-155
+2	találtam	talál	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-156
+3	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-157
+4	linket	link	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-158|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-159
+6	ahol	ahol	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-160
+7	írnak	ír	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-161
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-162
+9	régi	régi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-163
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-164
+11	Super	Super	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-165|NE=name[MISC]_7
+12	Mario	Mario	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-166|NE=name[MISC]_7
+13	Kalandjai	Kalandjai	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-167|NE=name[MISC]_7
+14	videokazettáról	videokazetta	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-168|SpaceAfter=No
+15	:	:	PUNCT	_	_	_	_	_	tokId=w-169
+16	Super	Super	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-170|NE=name[MISC]_8
+17	Mario	Mario	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-171|NE=name[MISC]_8
+18	Kalandjai	Kalandjai	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-172|NE=name[MISC]_8
+19	És	és	CCONJ	_	_	_	_	_	tokId=w-173
+20	valóban	valóban	ADV	_	_	_	_	_	tokId=w-174
+21	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-175
+22	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-176
+23	szöveg	szöveg	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-177
+24	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-178
+25	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-179
+26	VHS	VHS	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-180
+27	hátulján	hátulja	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-181|SpaceAfter=No
+28	.	.	PUNCT	_	_	_	_	_	tokId=w-182
+
+# sent_id = w124_s-11
+# text = Nem törekszem világrekordok megdöntésére, ezek az idők egy " sokat gyakorló " Mario rajongói átlagos időit reprezentálja.
+1	Nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-183
+2	törekszem	törekszik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-184
+3	világrekordok	világrekord	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-185
+4	megdöntésére	megdöntés	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-186|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-187
+6	ezek	ez	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-188
+7	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-189
+8	idők	idő	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-190
+9	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-191
+10	"	"	PUNCT	_	_	_	_	_	tokId=w-192
+11	sokat	sok	NUM	_	Case=Acc|Number=Sing|NumType=Card	_	_	_	tokId=w-193
+12	gyakorló	gyakorló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-194
+13	"	"	PUNCT	_	_	_	_	_	tokId=w-195
+14	Mario	Mario	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-196|NE=name[PER]_9
+15	rajongói	rajongó	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-197
+16	átlagos	átlagos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-198
+17	időit	idő	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-199
+18	reprezentálja	reprezentál	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-200|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-201
+
+# sent_id = w124_s-12
+# text = Bár eleinte én nyertem, mert úgy látta, hogy kiismerhetetlen a …
+1	Bár	bár	SCONJ	_	_	_	_	_	tokId=w-202
+2	eleinte	eleinte	ADV	_	_	_	_	_	tokId=w-203
+3	én	én	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	tokId=w-204
+4	nyertem	nyer	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-205|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-206
+6	mert	mert	SCONJ	_	_	_	_	_	tokId=w-207
+7	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-208
+8	látta	lát	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-209|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-210
+10	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-211
+11	kiismerhetetlen	kiismerhetetlen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-212
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-213
+13	…	…	PUNCT	_	_	_	_	_	tokId=w-214
+
+# sent_id = w124_s-13
+# text = A beágyazott videókat nem néztem, az időeredmények is kellően meglepőek …
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-215
+2	beágyazott	beágyazott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-216
+3	videókat	videó	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-217
+4	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-218
+5	néztem	néz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-219|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-220
+7	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-221
+8	időeredmények	időeredmény	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-222
+9	is	is	ADV	_	_	_	_	_	tokId=w-223
+10	kellően	kellő	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-224
+11	meglepőek	meglepő	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-225
+12	…	…	PUNCT	_	_	_	_	_	tokId=w-226
+
+# sent_id = w124_s-14
+# text = Kicsit tartottam az időjárástól, mert tavaly is pont MondoCon-ra romlott le az idő, idénre is pont ezt ígérték, de ez szerencsére nem valósult meg annyira.
+1	Kicsit	kicsit	ADV	_	_	_	_	_	tokId=w-227
+2	tartottam	tart	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-228
+3	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-229
+4	időjárástól	időjárás	NOUN	_	Case=Abl|Number=Sing	_	_	_	tokId=w-230|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-231
+6	mert	mert	SCONJ	_	_	_	_	_	tokId=w-232
+7	tavaly	tavaly	ADV	_	_	_	_	_	tokId=w-233
+8	is	is	ADV	_	_	_	_	_	tokId=w-234
+9	pont	pont	ADV	_	_	_	_	_	tokId=w-235
+10	MondoCon-ra	MondoCon	PROPN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-236|NE=name[MISC]_10
+11	romlott	romlik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-237
+12	le	le	ADV	_	Degree=Pos	_	_	_	tokId=w-238
+13	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-239
+14	idő	idő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-240|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-241
+16	idénre	idénre	ADV	_	_	_	_	_	tokId=w-242
+17	is	is	ADV	_	_	_	_	_	tokId=w-243
+18	pont	pont	ADV	_	_	_	_	_	tokId=w-244
+19	ezt	ez	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-245
+20	ígérték	ígér	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-246|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-247
+22	de	de	CCONJ	_	_	_	_	_	tokId=w-248
+23	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-249
+24	szerencsére	szerencsére	ADV	_	_	_	_	_	tokId=w-250
+25	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-251
+26	valósult	valósul	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-252
+27	meg	meg	PART	_	_	_	_	_	tokId=w-253
+28	annyira	annyira	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-254|SpaceAfter=No
+29	.	.	PUNCT	_	_	_	_	_	tokId=w-255
+
+# sent_id = w124_s-15
+# text = Nem volt 38°C, mint a hét elején (őszintén sajnáltam ... imádom a nagy meleget, nagyon jól …
+1	Nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-256
+2	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-257
+3	38°C	38°C	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-258|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-259
+5	mint	mint	SCONJ	_	_	_	_	_	tokId=w-260
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-261
+7	hét	hét	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-262
+8	elején	eleje	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-263
+9	(	(	PUNCT	_	_	_	_	_	tokId=w-264|SpaceAfter=No
+10	őszintén	őszinte	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-265
+11	sajnáltam	sajnál	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-266
+12	...	...	PUNCT	_	_	_	_	_	tokId=w-267
+13	imádom	imád	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-268
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-269
+15	nagy	nagy	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-270
+16	meleget	meleg	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-271|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-272
+18	nagyon	nagyon	ADV	_	_	_	_	_	tokId=w-273
+19	jól	jól	ADV	_	_	_	_	_	tokId=w-274
+20	…	…	PUNCT	_	_	_	_	_	tokId=w-275
+
+# sent_id = w124_s-16
+# text = Már biztosan lezajlott a zenekvíz (ha csak nem jött közbe semmi ...), ezért kirakom most az eredményt.
+1	Már	már	ADV	_	_	_	_	_	tokId=w-276
+2	biztosan	biztos	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-277
+3	lezajlott	lezajlik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-278
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-279
+5	zenekvíz	zenekvíz	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-280
+6	(	(	PUNCT	_	_	_	_	_	tokId=w-281|SpaceAfter=No
+7	ha	ha	SCONJ	_	_	_	_	_	tokId=w-282
+8	csak	csak	ADV	_	_	_	_	_	tokId=w-283
+9	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-284
+10	jött	jön	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-285
+11	közbe	közbe	ADV	_	_	_	_	_	tokId=w-286
+12	semmi	semmi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-287
+13	...	...	PUNCT	_	_	_	_	_	tokId=w-288|SpaceAfter=No
+14	)	)	PUNCT	_	_	_	_	_	tokId=w-289|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-290
+16	ezért	ezért	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-291
+17	kirakom	kirak	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-292
+18	most	most	ADV	_	_	_	_	_	tokId=w-293
+19	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-294
+20	eredményt	eredmény	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-295|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-296
+
+# sent_id = w124_s-17
+# text = Miután GBA-n sokkal többet ment a Super Mario World, ezért elővettem azt is.
+1	Miután	miután	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-297
+2	GBA-n	GBA	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-298|NE=name[MISC]_11
+3	sokkal	sokkal	ADV	_	_	_	_	_	tokId=w-299
+4	többet	sok	NUM	_	Case=Acc|Number=Sing|NumType=Card	_	_	_	tokId=w-300
+5	ment	megy	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-301
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-302
+7	Super	Super	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-303|NE=name[MISC]_12
+8	Mario	Mario	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-304|NE=name[MISC]_12
+9	World	World	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-305|NE=name[MISC]_12|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-306
+11	ezért	ezért	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-307
+12	elővettem	elővesz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-308
+13	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-309
+14	is	is	ADV	_	_	_	_	_	tokId=w-310|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-311
+
+# sent_id = w124_s-18
+# text = Ezt még anno sikerült megvenni kompletten.
+1	Ezt	ez	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-312
+2	még	még	ADV	_	_	_	_	_	tokId=w-313
+3	anno	anno	ADV	_	_	_	_	_	tokId=w-314
+4	sikerült	sikerül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-315
+5	megvenni	megvesz	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-316
+6	kompletten	komplett	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-317|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-318
+
+# sent_id = w124_s-19
+# text = De én úgy reméltem, hogy továbbra is megúszom a problémákat a Vaterán, bár nem volt felhőtlen a közel 6 éves " karrierem " az aukciós portálon, de tény, hogy amilyen emberekről olvastam, …
+1	De	de	CCONJ	_	_	_	_	_	tokId=w-319
+2	én	én	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	tokId=w-320
+3	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-321
+4	reméltem	remél	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-322|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-323
+6	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-324
+7	továbbra	továbbra	ADV	_	_	_	_	_	tokId=w-325
+8	is	is	ADV	_	_	_	_	_	tokId=w-326
+9	megúszom	megúszik	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-327
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-328
+11	problémákat	probléma	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-329
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-330
+13	Vaterán	Vatera	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-331|NE=name[MISC]_13|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-332
+15	bár	bár	SCONJ	_	_	_	_	_	tokId=w-333
+16	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-334
+17	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-335
+18	felhőtlen	felhőtlen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-336
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-337
+20	közel	közel	ADV	_	_	_	_	_	tokId=w-338
+21	6	6	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-339
+22	éves	éves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-340
+23	"	"	PUNCT	_	_	_	_	_	tokId=w-341
+24	karrierem	karrier	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	_	_	_	tokId=w-342
+25	"	"	PUNCT	_	_	_	_	_	tokId=w-343
+26	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-344
+27	aukciós	aukciós	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-345
+28	portálon	portál	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-346|SpaceAfter=No
+29	,	,	PUNCT	_	_	_	_	_	tokId=w-347
+30	de	de	CCONJ	_	_	_	_	_	tokId=w-348
+31	tény	tény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-349|SpaceAfter=No
+32	,	,	PUNCT	_	_	_	_	_	tokId=w-350
+33	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-351
+34	amilyen	amilyen	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-352
+35	emberekről	ember	NOUN	_	Case=Del|Number=Plur	_	_	_	tokId=w-353
+36	olvastam	olvas	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-354|SpaceAfter=No
+37	,	,	PUNCT	_	_	_	_	_	tokId=w-355
+38	…	…	PUNCT	_	_	_	_	_	tokId=w-356
+
+# sent_id = w124_s-20
+# text = Az 5. fejezetben járunk, ahol elrabolták az ősembereket a Floro Sapiens-ek, …
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-357
+2	5.	5.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-358
+3	fejezetben	fejezet	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-359
+4	járunk	jár	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-360|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-361
+6	ahol	ahol	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-362
+7	elrabolták	elrabol	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-363
+8	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-364
+9	ősembereket	ősember	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-365
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-366
+11	Floro	Floro	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-367
+12	Sapiens-ek	Sapiens	PROPN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-368|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-369
+14	…	…	PUNCT	_	_	_	_	_	tokId=w-370
+
+# sent_id = w124_s-21
+# text = Érdekes, kezd kissé Zeldás lenni azáltal, hogy végig kell menni a pályán, de a vége a pálya eleje körül van.
+1	Érdekes	érdekes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-371|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-372
+3	kezd	kezd	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-373
+4	kissé	kissé	ADV	_	_	_	_	_	tokId=w-374
+5	Zeldás	zeldás	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-375
+6	lenni	lesz	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-376
+7	azáltal	azáltal	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-377|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-378
+9	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-379
+10	végig	végig	ADV	_	_	_	_	_	tokId=w-380
+11	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-381
+12	menni	megy	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-382
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-383
+14	pályán	pálya	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-384|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-385
+16	de	de	CCONJ	_	_	_	_	_	tokId=w-386
+17	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-387
+18	vége	vég	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-388
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-389
+20	pálya	pálya	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-390
+21	eleje	eleje	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-391
+22	körül	körül	ADP	_	_	_	_	_	tokId=w-392
+23	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-393|SpaceAfter=No
+24	.	.	PUNCT	_	_	_	_	_	tokId=w-394
+
+# sent_id = w124_s-22
+# text = Istenem, ilyen nincs!
+1	Istenem	isten	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	_	_	_	tokId=w-395|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-396
+3	ilyen	ilyen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-397
+4	nincs	nincs	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-398|SpaceAfter=No
+5	!	!	PUNCT	_	_	_	_	_	tokId=w-399
+
+# sent_id = w124_s-23
+# text = Nincs még egy ilyen játék, ahol ennyire elvontak lennének a küldetések.
+1	Nincs	nincs	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-400
+2	még	még	ADV	_	_	_	_	_	tokId=w-401
+3	egy	egy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-402
+4	ilyen	ilyen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-403
+5	játék	játék	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-404|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-405
+7	ahol	ahol	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-406
+8	ennyire	ennyire	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-407
+9	elvontak	elvont	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-408
+10	lennének	lesz	VERB	_	Definite=Ind|Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-409
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-410
+12	küldetések	küldetés	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-411|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-412
+
+# sent_id = w124_s-24
+# text = Na vége a Super Paper Mario 4. fejezetének.
+1	Na	na	INTJ	_	_	_	_	_	tokId=w-413
+2	vége	vég	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-414
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-415
+4	Super	Super	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-416|NE=name[MISC]_14
+5	Paper	Paper	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-417|NE=name[MISC]_14
+6	Mario	Mario	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-418|NE=name[MISC]_14
+7	4.	4.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-419
+8	fejezetének	fejezet	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-420|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-421
+
+# sent_id = w124_s-25
+# text = Boldog születésnapot Magyar Anime Társaság!
+1	Boldog	boldog	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-422
+2	születésnapot	születésnap	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-423
+3	Magyar	Magyar	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-424|NE=name[ORG]_15
+4	Anime	Anime	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-425|NE=name[ORG]_15
+5	Társaság	Társaság	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-426|NE=name[ORG]_15|SpaceAfter=No
+6	!	!	PUNCT	_	_	_	_	_	tokId=w-427
+
+# sent_id = w124_s-26
+# text = Nagyon erős.
+1	Nagyon	nagyon	ADV	_	_	_	_	_	tokId=w-428
+2	erős	erős	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-429|SpaceAfter=No
+3	.	.	PUNCT	_	_	_	_	_	tokId=w-430
+
+# sent_id = w124_s-27
+# text = Így esett a választása többek között a GameCube-os Luigi's Mansion-re.
+1	Így	így	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-431
+2	esett	esik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-432
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-433
+4	választása	választás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-434
+5	többek	sok	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-435
+6	között	között	ADP	_	_	_	_	_	tokId=w-436
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-437
+8	GameCube-os	GameCube-os	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-438
+9	Luigi's	Luigi's	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-439|NE=name[MISC]_16
+10	Mansion-re	Mansion	PROPN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-440|NE=name[MISC]_16|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-441
+
+# sent_id = w124_s-28
+# text = Hosszabb távon is fel fogom mérni a Super Tennis-ben elért eredményemet, hogy valóban a pálya sajátossága, hogy milyen eredményt tudok elérni, vagy csak pillanatnyi játéktudásomnak köszönhető.
+1	Hosszabb	hosszú	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-442
+2	távon	táv	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-443
+3	is	is	ADV	_	_	_	_	_	tokId=w-444
+4	fel	fel	ADV	_	Degree=Pos	_	_	_	tokId=w-445
+5	fogom	fog	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-446
+6	mérni	mér	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-447
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-448
+8	Super	Super	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-449|NE=name[MISC]_17
+9	Tennis-ben	Tennis	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-450|NE=name[MISC]_17
+10	elért	elért	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-451
+11	eredményemet	eredmény	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=1	_	_	_	tokId=w-452|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-453
+13	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-454
+14	valóban	valóban	ADV	_	_	_	_	_	tokId=w-455
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-456
+16	pálya	pálya	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-457
+17	sajátossága	sajátosság	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-458|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-459
+19	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-460
+20	milyen	milyen	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Int	_	_	_	tokId=w-461
+21	eredményt	eredmény	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-462
+22	tudok	tud	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-463
+23	elérni	elér	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-464|SpaceAfter=No
+24	,	,	PUNCT	_	_	_	_	_	tokId=w-465
+25	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-466
+26	csak	csak	ADV	_	_	_	_	_	tokId=w-467
+27	pillanatnyi	pillanatnyi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-468
+28	játéktudásomnak	játéktudás	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=1	_	_	_	tokId=w-469
+29	köszönhető	köszönhető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-470|SpaceAfter=No
+30	.	.	PUNCT	_	_	_	_	_	tokId=w-471
+

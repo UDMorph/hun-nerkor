@@ -1,0 +1,429 @@
+# newdoc id = globv_4
+# sent_id = globv_4_s-1
+# text = 2013. január 29-30-án Kína legbefolyásosabb mikroblog platformjának, a Sina Weibónak a tíz vezető blogja egyikén egy sor történelmi fotó jelent meg a Mao-korszak történelmének két változatát bemutatva.
+1	2013.	2013.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-1
+2	január	január	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-2
+3	29-30-án	29-30	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-3
+4	Kína	Kína	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-4|NE=name[LOC]_1
+5	legbefolyásosabb	befolyásos	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-5
+6	mikroblog	mikroblog	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-6
+7	platformjának	platform	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-7|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-8
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-9
+10	Sina	Sina	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-10|NE=name[MISC]_2
+11	Weibónak	Weibó	PROPN	_	Case=Gen|Number=Sing	_	_	_	tokId=w-11|NE=name[MISC]_2
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-12
+13	tíz	tíz	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-13
+14	vezető	vezető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-14
+15	blogja	blog	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-15
+16	egyikén	egyik	ADJ	_	Case=Sup|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-16
+17	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-17
+18	sor	sor	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-18
+19	történelmi	történelmi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-19
+20	fotó	fotó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-20
+21	jelent	jelenik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-21
+22	meg	meg	PART	_	_	_	_	_	tokId=w-22
+23	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-23
+24	Mao-korszak	Mao-korszak	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-24
+25	történelmének	történelem	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-25
+26	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-26
+27	változatát	változat	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-27
+28	bemutatva	bemutatva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-28|SpaceAfter=No
+29	.	.	PUNCT	_	_	_	_	_	tokId=w-29
+
+# sent_id = globv_4_s-2
+# text = A fotókat a mikroblogon @Pongyoung adta közre kollázs formájában.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-30
+2	fotókat	fotó	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-31
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-32
+4	mikroblogon	mikroblog	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-33
+5	@Pongyoung	@Pongyoung	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-34|NE=name[PER]_3
+6	adta	ad	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-35
+7	közre	közre	ADV	_	_	_	_	_	tokId=w-36
+8	kollázs	kollázs	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-37
+9	formájában	forma	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-38|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-39
+
+# sent_id = globv_4_s-3
+# text = A bejegyzést 13362-en retweetelték és 2237 hozzászólás érkezett hozzá egyetlen nap alatt.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-40
+2	bejegyzést	bejegyzés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-41
+3	13362-en	13362	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-42
+4	retweetelték	retweetel	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-43
+5	és	és	CCONJ	_	_	_	_	_	tokId=w-44
+6	2237	2237	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-45
+7	hozzászólás	hozzászólás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-46
+8	érkezett	érkezik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-47
+9	hozzá	ő	PRON	_	Case=All|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-48
+10	egyetlen	egyetlen	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-49
+11	nap	nap	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-50
+12	alatt	alatt	ADP	_	_	_	_	_	tokId=w-51|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-52
+
+# sent_id = globv_4_s-4
+# text = A fényképeket és magyarázatokat eredetileg az ifeng.com történelem szekciója publikálta.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-53
+2	fényképeket	fénykép	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-54
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-55
+4	magyarázatokat	magyarázat	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-56
+5	eredetileg	eredetileg	ADV	_	_	_	_	_	tokId=w-57
+6	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-58
+7	ifeng.com	ifeng.com	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-59|NE=name[ORG]_4
+8	történelem	történelem	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-60
+9	szekciója	szekció	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-61
+10	publikálta	publikál	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-62|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-63
+
+# sent_id = globv_4_s-5
+# text = Hogy segítsük olvasóinkat a kínai történelem két változata közötti különbség felismerésében, a kollázsból 10 fotópárt szerkesztettünk rövid magyarázattal.
+1	Hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-64
+2	segítsük	segít	VERB	_	Definite=Def|Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-65
+3	olvasóinkat	olvasó	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-66
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-67
+5	kínai	kínai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-68
+6	történelem	történelem	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-69
+7	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-70
+8	változata	változat	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-71
+9	közötti	közötti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-72
+10	különbség	különbség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-73
+11	felismerésében	felismerés	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-74|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-75
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-76
+14	kollázsból	kollázs	NOUN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-77
+15	10	10	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-78
+16	fotópárt	fotópár	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-79
+17	szerkesztettünk	szerkeszt	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-80
+18	rövid	rövid	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-81
+19	magyarázattal	magyarázat	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-82|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-83
+
+# sent_id = globv_4_s-6
+# text = Az első képről hiányzó személy Lin Biao, a Kínai Kommunista Párt egyik volt vezetője, akit hazaárulás miatt elítéltek, miután Moszkvába menekülési kísérlete kudarcba fulladt 1971-ben.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-84
+2	első	első	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-85
+3	képről	kép	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-86
+4	hiányzó	hiányzó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-87
+5	személy	személy	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-88
+6	Lin	Lin	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-89|NE=name[PER]_5
+7	Biao	Biao	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-90|NE=name[PER]_5|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-91
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-92
+10	Kínai	kínai	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-93|NE=name[ORG]_6
+11	Kommunista	kommunista	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-94|NE=name[ORG]_6
+12	Párt	párt	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-95|NE=name[ORG]_6
+13	egyik	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-96
+14	volt	van	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-97
+15	vezetője	vezető	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-98|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-99
+17	akit	aki	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-100
+18	hazaárulás	hazaárulás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-101
+19	miatt	miatt	ADP	_	_	_	_	_	tokId=w-102
+20	elítéltek	elítél	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-103|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-104
+22	miután	miután	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-105
+23	Moszkvába	Moszkva	PROPN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-106|NE=name[LOC]_7
+24	menekülési	menekülési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-107
+25	kísérlete	kísérlet	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-108
+26	kudarcba	kudarc	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-109
+27	fulladt	fullad	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-110
+28	1971-ben	1971	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-111|SpaceAfter=No
+29	.	.	PUNCT	_	_	_	_	_	tokId=w-112
+
+# sent_id = globv_4_s-7
+# text = Menekülés közben halt meg repülőgép-szerencsétlenségben.
+1	Menekülés	menekülés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-113
+2	közben	közben	ADP	_	_	_	_	_	tokId=w-114
+3	halt	hal	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-115
+4	meg	meg	PART	_	_	_	_	_	tokId=w-116
+5	repülőgép-szerencsétlenségben	repülőgép-szerencsétlenség	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-117|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-118
+
+# sent_id = globv_4_s-8
+# text = A hiányzó személy Peng Dehuai, aki egy fontos kínai kommunista katonai vezető volt.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-119
+2	hiányzó	hiányzó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-120
+3	személy	személy	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-121
+4	Peng	Peng	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-122|NE=name[PER]_8
+5	Dehuai	Dehuai	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-123|NE=name[PER]_8|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-124
+7	aki	aki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-125
+8	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-126
+9	fontos	fontos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-127
+10	kínai	kínai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-128
+11	kommunista	kommunista	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-129
+12	katonai	katonai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-130
+13	vezető	vezető	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-131
+14	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-132|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-133
+
+# sent_id = globv_4_s-9
+# text = A Kulturális Forradalom idején fogták perbe, börtönben halt meg 1974-ben.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-134
+2	Kulturális	kulturális	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-135|NE=name[MISC]_9
+3	Forradalom	forradalom	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-136|NE=name[MISC]_9
+4	idején	idején	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-137
+5	fogták	fog	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-138
+6	perbe	per	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-139|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-140
+8	börtönben	börtön	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-141
+9	halt	hal	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-142
+10	meg	meg	PART	_	_	_	_	_	tokId=w-143
+11	1974-ben	1974	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-144|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-145
+
+# sent_id = globv_4_s-10
+# text = A kép módosításával kiemelték a korszak két legnagyobb vezetőjét, Maótés Sztálint .
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-146
+2	kép	kép	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-147
+3	módosításával	módosítás	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-148
+4	kiemelték	kiemel	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-149
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-150
+6	korszak	korszak	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-151
+7	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-152
+8	legnagyobb	nagy	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-153
+9	vezetőjét	vezető	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-154|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-155
+11	Maót	Mao	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-156|NE=name[PER]_10|SpaceAfter=No
+12	és	és	CCONJ	_	_	_	_	_	tokId=w-157
+13	Sztálint	Sztálin	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-158|NE=name[PER]_11
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-159
+
+# sent_id = globv_4_s-11
+# text = A nem fontos embereket törölték, hogy kiemeljék a vezető személyét.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-160
+2	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-161
+3	fontos	fontos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-162
+4	embereket	ember	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-163
+5	törölték	töröl	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-164|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-165
+7	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-166
+8	kiemeljék	kiemel	VERB	_	Definite=Def|Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-167
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-168
+10	vezető	vezető	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-169
+11	személyét	személy	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-170|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-171
+
+# sent_id = globv_4_s-12
+# text = A hiányzó személy Peng Zhen, valaha szintén a KKP egyik vezetője.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-172
+2	hiányzó	hiányzó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-173
+3	személy	személy	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-174
+4	Peng	Peng	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-175|NE=name[PER]_12
+5	Zhen	Zhen	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-176|NE=name[PER]_12|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-177
+7	valaha	valaha	ADV	_	_	_	_	_	tokId=w-178
+8	szintén	szintén	ADV	_	_	_	_	_	tokId=w-179
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-180
+10	KKP	KKP	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-181|NE=name[ORG]_13
+11	egyik	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-182
+12	vezetője	vezető	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-183|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-184
+
+# sent_id = globv_4_s-13
+# text = A Kulturális Forradalom idején távolították el, mert Mao nézeteivel ellentétes véleményét hangoztatta az irodalomnak az állammal kapcsolatos szerepéről.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-185
+2	Kulturális	kulturális	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-186|NE=name[MISC]_14
+3	Forradalom	forradalom	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-187|NE=name[MISC]_14
+4	idején	idején	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-188
+5	távolították	távolít	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-189
+6	el	el	ADV	_	_	_	_	_	tokId=w-190|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-191
+8	mert	mert	SCONJ	_	_	_	_	_	tokId=w-192
+9	Mao	Mao	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-193|NE=name[PER]_15
+10	nézeteivel	nézet	NOUN	_	Case=Ins|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-194
+11	ellentétes	ellentétes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-195
+12	véleményét	vélemény	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-196
+13	hangoztatta	hangoztat	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-197
+14	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-198
+15	irodalomnak	irodalom	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-199
+16	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-200
+17	állammal	állam	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-201
+18	kapcsolatos	kapcsolatos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-202
+19	szerepéről	szerep	NOUN	_	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-203|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-204
+
+# sent_id = globv_4_s-14
+# text = Az esernyők és azok hordozói zavarták a színpadképet, ezért törölték őket.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-205
+2	esernyők	esernyő	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-206
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-207
+4	azok	az	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-208
+5	hordozói	hordozó	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-209
+6	zavarták	zavar	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-210
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-211
+8	színpadképet	színpadkép	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-212|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-213
+10	ezért	ez	PRON	_	Case=Cau|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-214
+11	törölték	töröl	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-215
+12	őket	ők	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	_	_	_	tokId=w-216|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-217
+
+# sent_id = globv_4_s-15
+# text = Ez a fotó eredetileg 1927-ben készült értelmiségiek és írók egy csoportjáról.
+1	Ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-218
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-219
+3	fotó	fotó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-220
+4	eredetileg	eredetileg	ADV	_	_	_	_	_	tokId=w-221
+5	1927-ben	1927	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-222
+6	készült	készül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-223
+7	értelmiségiek	értelmiségi	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-224
+8	és	és	CCONJ	_	_	_	_	_	tokId=w-225
+9	írók	író	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-226
+10	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-227
+11	csoportjáról	csoport	NOUN	_	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-228|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-229
+
+# sent_id = globv_4_s-16
+# text = Lin Yutang Tajvanra menekült 1949-ben, majd amikor 1977 márciusában a fotót ismét publikálták, Lin Yutang és Sun Xifu törölve lett a képről.
+1	Lin	Lin	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-230|NE=name[PER]_16
+2	Yutang	Yutang	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-231|NE=name[PER]_16
+3	Tajvanra	Tajvan	PROPN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-232|NE=name[LOC]_17
+4	menekült	menekül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-233
+5	1949-ben	1949	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-234|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-235
+7	majd	majd	ADV	_	_	_	_	_	tokId=w-236
+8	amikor	amikor	ADV	_	PronType=Rel	_	_	_	tokId=w-237
+9	1977	1977	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-238
+10	márciusában	március	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-239
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-240
+12	fotót	fotó	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-241
+13	ismét	ismét	ADV	_	_	_	_	_	tokId=w-242
+14	publikálták	publikál	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-243|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-244
+16	Lin	Lin	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-245|NE=name[PER]_18
+17	Yutang	Yutang	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-246|NE=name[PER]_18
+18	és	és	CCONJ	_	_	_	_	_	tokId=w-247
+19	Sun	Sun	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-248|NE=name[PER]_19
+20	Xifu	Xifu	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-249|NE=name[PER]_19
+21	törölve	törölve	ADV	_	VerbForm=Conv	_	_	_	tokId=w-250
+22	lett	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-251
+23	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-252
+24	képről	kép	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-253|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-254
+
+# sent_id = globv_4_s-17
+# text = Lei Fenget, a Népi Felszabadító Hadsereg egy katonáját mintapolgárként ábrázolták halálát követően.
+1	Lei	Lei	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-255|NE=name[PER]_20
+2	Fenget	Feng	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-256|NE=name[PER]_20|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-257
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-258
+5	Népi	népi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-259|NE=name[ORG]_21
+6	Felszabadító	felszabadító	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-260|NE=name[ORG]_21
+7	Hadsereg	hadsereg	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-261|NE=name[ORG]_21
+8	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-262
+9	katonáját	katona	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-263
+10	mintapolgárként	mintapolgár	NOUN	_	Case=Ess|Number=Sing	_	_	_	tokId=w-264
+11	ábrázolták	ábrázol	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-265
+12	halálát	halál	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-266
+13	követően	követő	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-267|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-268
+
+# sent_id = globv_4_s-18
+# text = Propagandacélokból a hátteret lecserélték örökzöld fenyőfára.
+1	Propagandacélokból	propagandacél	NOUN	_	Case=Ela|Number=Plur	_	_	_	tokId=w-269
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-270
+3	hátteret	háttér	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-271
+4	lecserélték	lecserél	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-272
+5	örökzöld	örökzöld	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-273
+6	fenyőfára	fenyőfa	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-274|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-275
+
+# sent_id = globv_4_s-19
+# text = Sok elvtárs, akik 1937-ben a Vörös Hadsereg táborában Mao Ce-tunggal együtt kaptak kiképzést, eltűntek a képről, amikor azt Mao idején publikálták.
+1	Sok	sok	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-276
+2	elvtárs	elvtárs	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-277|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-278
+4	akik	aki	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-279
+5	1937-ben	1937	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-280
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-281
+7	Vörös	vörös	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-282|NE=name[ORG]_22
+8	Hadsereg	hadsereg	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-283|NE=name[ORG]_22
+9	táborában	tábor	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-284
+10	Mao	Mao	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-285|NE=name[PER]_23
+11	Ce-tunggal	Ce-tung	PROPN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-286|NE=name[PER]_23
+12	együtt	együtt	ADP	_	_	_	_	_	tokId=w-287
+13	kaptak	kap	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-288
+14	kiképzést	kiképzés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-289|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-290
+16	eltűntek	eltűnik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-291
+17	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-292
+18	képről	kép	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-293|SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	tokId=w-294
+20	amikor	amikor	ADV	_	PronType=Rel	_	_	_	tokId=w-295
+21	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-296
+22	Mao	Mao	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-297|NE=name[PER]_24
+23	idején	idején	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-298
+24	publikálták	publikál	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-299|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-300
+
+# sent_id = globv_4_s-20
+# text = Az eredeti fotó csak a Teng Hsziao-ping-korszakban, 1986-ban került felszínre.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-301
+2	eredeti	eredeti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-302
+3	fotó	fotó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-303
+4	csak	csak	ADV	_	_	_	_	_	tokId=w-304
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-305
+6	Teng	Teng	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-306
+7	Hsziao-ping-korszakban	Hsziao-ping-korszak	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-307|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-308
+9	1986-ban	1986	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-309
+10	került	kerül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-310
+11	felszínre	felszín	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-311|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-312
+
+# sent_id = globv_4_s-21
+# text = A hiányzó személy Ren Bishi, a KKP egyik katonai és politikai vezetője.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-313
+2	hiányzó	hiányzó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-314
+3	személy	személy	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-315
+4	Ren	Ren	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-316|NE=name[PER]_25
+5	Bishi	Bishi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-317|NE=name[PER]_25|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-318
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-319
+8	KKP	KKP	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-320|NE=name[ORG]_26
+9	egyik	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-321
+10	katonai	katonai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-322
+11	és	és	CCONJ	_	_	_	_	_	tokId=w-323
+12	politikai	politikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-324
+13	vezetője	vezető	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-325|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-326
+
+# sent_id = globv_4_s-22
+# text = Az 1940-ben készült fényképen Csou En-laj és Mao Ce-tung látható.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-327
+2	1940-ben	1940	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-328
+3	készült	készült	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-329
+4	fényképen	fénykép	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-330
+5	Csou	Csou	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-331|NE=name[PER]_27
+6	En-laj	En-laj	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-332|NE=name[PER]_27
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-333
+8	Mao	Mao	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-334|NE=name[PER]_28
+9	Ce-tung	Ce-tung	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-335|NE=name[PER]_28
+10	látható	látható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-336|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-337
+
+# sent_id = globv_4_s-23
+# text = Renttörölték a képről, mert bírálatok érték amiatt, hogy a kínai felszabadító háború idején kórházban feküdt betegen a Szovjetunióban .
+1	Rent	Ren	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-338|NE=name[PER]_29|SpaceAfter=No
+2	törölték	töröl	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-339
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-340
+4	képről	kép	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-341|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-342
+6	mert	mert	SCONJ	_	_	_	_	_	tokId=w-343
+7	bírálatok	bírálat	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-344
+8	érték	ér	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-345
+9	amiatt	amiatt	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-346|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-347
+11	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-348
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-349
+13	kínai	kínai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-350
+14	felszabadító	felszabadító	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-351
+15	háború	háború	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-352
+16	idején	idején	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-353
+17	kórházban	kórház	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-354
+18	feküdt	fekszik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-355
+19	betegen	beteg	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-356
+20	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-357
+21	Szovjetunióban	Szovjetunió	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-358|NE=name[LOC]_30
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-359
+

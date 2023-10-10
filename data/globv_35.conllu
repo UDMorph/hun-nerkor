@@ -1,0 +1,207 @@
+# newdoc id = globv_35
+# sent_id = globv_35_s-1
+# text = Kína elhatározta, hogy felemeli a szegénységi küszöb szintjét, melyet a jövőben 2300 jüan egy főre eső jövedelemnél fog meghúzni.
+1	Kína	Kína	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-1|NE=name[ORG]_1
+2	elhatározta	elhatároz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-2|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-3
+4	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-4
+5	felemeli	felemel	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-5
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-6
+7	szegénységi	szegénységi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-7
+8	küszöb	küszöb	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-8
+9	szintjét	szint	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-9|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-10
+11	melyet	mely	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-11
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-12
+13	jövőben	jövő	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-13
+14	2300	2300	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-14
+15	jüan	jüan	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-15
+16	egy	egy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-16
+17	főre	fő	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-17
+18	eső	eső	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-18
+19	jövedelemnél	jövedelem	NOUN	_	Case=Ade|Number=Sing	_	_	_	tokId=w-19
+20	fog	fog	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-20
+21	meghúzni	meghúz	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-21|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-22
+
+# sent_id = globv_35_s-2
+# text = Az intézkedésnek köszönhetően a szegénységi küszöb alatt élő lakosság 26,88 millióról 130 millióra növekszik.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-23
+2	intézkedésnek	intézkedés	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-24
+3	köszönhetően	köszönhető	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-25
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-26
+5	szegénységi	szegénységi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-27
+6	küszöb	küszöb	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-28
+7	alatt	alatt	ADP	_	_	_	_	_	tokId=w-29
+8	élő	élő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-30
+9	lakosság	lakosság	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-31
+10	26,88	26,88	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-32
+11	millióról	millió	NUM	_	Case=Del|Number=Sing|NumType=Card	_	_	_	tokId=w-33
+12	130	130	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-34
+13	millióra	millió	NUM	_	Case=Sbl|Number=Sing|NumType=Card	_	_	_	tokId=w-35
+14	növekszik	növekszik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-36|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-37
+
+# sent_id = globv_35_s-3
+# text = Ven Csia-pao miniszterelnök azt hangsúlyozta, a szabályozás célja, hogy a szegények segélyezésekor így több emberrel tervezzenek.
+1	Ven	Ven	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-38|NE=name[PER]_2
+2	Csia-pao	Csia-pao	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-39|NE=name[PER]_2
+3	miniszterelnök	miniszterelnök	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-40
+4	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-41
+5	hangsúlyozta	hangsúlyoz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-42|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-43
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-44
+8	szabályozás	szabályozás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-45
+9	célja	cél	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-46|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-47
+11	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-48
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-49
+13	szegények	szegény	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-50
+14	segélyezésekor	segélyezés	NOUN	_	Case=Tem|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-51
+15	így	így	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-52
+16	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-53
+17	emberrel	ember	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-54
+18	tervezzenek	tervez	VERB	_	Definite=Ind|Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-55|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-56
+
+# sent_id = globv_35_s-4
+# text = De vajon a kínai szegénység valódi viszonyait tükrözi -e ez az új szegénységi küszöb?
+1	De	de	CCONJ	_	_	_	_	_	tokId=w-57
+2	vajon	vajon	ADV	_	_	_	_	_	tokId=w-58
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-59
+4	kínai	kínai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-60
+5	szegénység	szegénység	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-61
+6	valódi	valódi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-62
+7	viszonyait	viszony	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-63
+8	tükrözi	tükröz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-64
+9	-e	-e	ADV	_	PronType=Int	_	_	_	tokId=w-65
+10	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-66
+11	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-67
+12	új	új	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-68
+13	szegénységi	szegénységi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-69
+14	küszöb	küszöb	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-70|SpaceAfter=No
+15	?	?	PUNCT	_	_	_	_	_	tokId=w-71
+
+# sent_id = globv_35_s-5
+# text = A Világbank 2008 óta extrém szegénységben lévőnek tekinti azokat, akik napi kevesebb mint 1,25 dollárból élnek, mérsékelt szegénységben lévőknek pedig, akik napi kevesebb mint 2 dollárból.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-72
+2	Világbank	Világbank	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-73|NE=name[ORG]_3
+3	2008	2008	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-74
+4	óta	óta	ADP	_	_	_	_	_	tokId=w-75
+5	extrém	extrém	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-76
+6	szegénységben	szegénység	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-77
+7	lévőnek	lévő	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	tokId=w-78
+8	tekinti	tekint	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-79
+9	azokat	az	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-80|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-81
+11	akik	aki	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-82
+12	napi	napi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-83
+13	kevesebb	kevesebb	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-84
+14	mint	mint	SCONJ	_	_	_	_	_	tokId=w-85
+15	1,25	1,25	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-86
+16	dollárból	dollár	NOUN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-87
+17	élnek	él	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-88|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-89
+19	mérsékelt	mérsékelt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-90
+20	szegénységben	szegénység	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-91
+21	lévőknek	lévő	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	_	_	_	tokId=w-92
+22	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-93|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-94
+24	akik	aki	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-95
+25	napi	napi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-96
+26	kevesebb	kevesebb	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-97
+27	mint	mint	SCONJ	_	_	_	_	_	tokId=w-98
+28	2	2	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-99
+29	dollárból	dollár	NOUN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-100|SpaceAfter=No
+30	.	.	PUNCT	_	_	_	_	_	tokId=w-101
+
+# sent_id = globv_35_s-6
+# text = Mivel Kína a Big Four országokhoz tartozik a fejlődő világban, az új szegénységi küszöb messze elmarad a nemzetközi sztenderdek mögött.
+1	Mivel	mivel	SCONJ	_	_	_	_	_	tokId=w-102
+2	Kína	Kína	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-103|NE=name[LOC]_4
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-104
+4	Big	Big	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-105|NE=name[ORG]_5
+5	Four	Four	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-106|NE=name[ORG]_5
+6	országokhoz	ország	NOUN	_	Case=All|Number=Plur	_	_	_	tokId=w-107
+7	tartozik	tartozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-108
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-109
+9	fejlődő	fejlődő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-110
+10	világban	világ	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-111|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-112
+12	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-113
+13	új	új	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-114
+14	szegénységi	szegénységi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-115
+15	küszöb	küszöb	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-116
+16	messze	messze	ADV	_	_	_	_	_	tokId=w-117
+17	elmarad	elmarad	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-118
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-119
+19	nemzetközi	nemzetközi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-120
+20	sztenderdek	sztenderd	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-121
+21	mögött	mögött	ADP	_	_	_	_	_	tokId=w-122|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-123
+
+# sent_id = globv_35_s-7
+# text = A Yahoo China egy speciális összeállítást készített, hogy felhívja a figyelmet az ügyre.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-124
+2	Yahoo	Yahoo	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-125|NE=name[ORG]_6
+3	China	China	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-126|NE=name[ORG]_6
+4	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-127
+5	speciális	speciális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-128
+6	összeállítást	összeállítás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-129
+7	készített	készít	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-130|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-131
+9	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-132
+10	felhívja	felhív	VERB	_	Definite=Def|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-133
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-134
+12	figyelmet	figyelem	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-135
+13	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-136
+14	ügyre	ügy	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-137|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-138
+
+# sent_id = globv_35_s-8
+# text = Ebből világosan kiderül, hogy a kínai kormány által jelenleg meghatározott szegénységi küszöb a napi fejenkénti kalóriabevitelen alapul.
+1	Ebből	ez	PRON	_	Case=Ela|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-139
+2	világosan	világos	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-140
+3	kiderül	kiderül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-141|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-142
+5	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-143
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-144
+7	kínai	kínai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-145
+8	kormány	kormány	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-146
+9	által	által	ADP	_	_	_	_	_	tokId=w-147
+10	jelenleg	jelenleg	ADV	_	_	_	_	_	tokId=w-148
+11	meghatározott	meghatározott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-149
+12	szegénységi	szegénységi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-150
+13	küszöb	küszöb	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-151
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-152
+15	napi	napi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-153
+16	fejenkénti	fejenkénti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-154
+17	kalóriabevitelen	kalóriabevitel	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-155
+18	alapul	alapul	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-156|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-157
+
+# sent_id = globv_35_s-9
+# text = Továbbá az is, hogy a küszöböt a kormány segélyezési politikája, nem pedig az emberek valós életkörülményei alapján határozták meg.
+1	Továbbá	továbbá	CCONJ	_	_	_	_	_	tokId=w-158
+2	az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-159
+3	is	is	ADV	_	_	_	_	_	tokId=w-160|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-161
+5	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-162
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-163
+7	küszöböt	küszöb	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-164
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-165
+9	kormány	kormány	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-166
+10	segélyezési	segélyezési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-167
+11	politikája	politika	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-168|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-169
+13	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-170
+14	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-171
+15	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-172
+16	emberek	ember	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-173
+17	valós	valós	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-174
+18	életkörülményei	életkörülmény	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-175
+19	alapján	alapján	ADP	_	_	_	_	_	tokId=w-176
+20	határozták	határoz	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-177
+21	meg	meg	PART	_	_	_	_	_	tokId=w-178|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-179
+

@@ -1,0 +1,315 @@
+# newdoc id = huwiki_42
+# sent_id = huwiki_42_s-1
+# text = Boromir herceg J. R. R. Tolkien A gyűrűk ura című regényének szereplője.
+1	Boromir	Boromir	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-1|NE=name[PER]_1
+2	herceg	herceg	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-2
+3	J.	J.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-3|NE=name[PER]_2
+4	R.	R.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-4|NE=name[PER]_2
+5	R.	R.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-5|NE=name[PER]_2
+6	Tolkien	Tolkien	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-6|NE=name[PER]_2
+7	A	A	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-7|NE=name[MISC]_3
+8	gyűrűk	gyűrűk	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-8|NE=name[MISC]_3
+9	ura	ura	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-9|NE=name[MISC]_3
+10	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-10
+11	regényének	regény	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-11
+12	szereplője	szereplő	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-12|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-13
+
+# sent_id = huwiki_42_s-2
+# text = II. Denethor gondori helytartó és a Dol Amroth-i Finduilas első fiaként született a harmadkor 2978. évében Minas Tirithben.
+1	II.	II.	ADJ	_	Case=Nom|NumType=Ord|Number=Sing	_	_	_	tokId=w-14|NE=name[PER]_4
+2	Denethor	Denethor	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-15|NE=name[PER]_4
+3	gondori	gondori	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-16
+4	helytartó	helytartó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-17
+5	és	és	CCONJ	_	_	_	_	_	tokId=w-18
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-19
+7	Dol	Dol	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-20
+8	Amroth-i	Amroth-i	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-21
+9	Finduilas	Finduilas	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-22|NE=name[PER]_5
+10	első	első	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-23
+11	fiaként	fia	NOUN	_	Case=Ess|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-24
+12	született	születik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-25
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-26
+14	harmadkor	harmadkor	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-27
+15	2978.	2978.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-28
+16	évében	év	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-29
+17	Minas	Minas	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-30|NE=name[LOC]_6
+18	Tirithben	Tirith	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-31|NE=name[LOC]_6|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-32
+
+# sent_id = huwiki_42_s-3
+# text = Testvére Faramir herceg.
+1	Testvére	testvér	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-33
+2	Faramir	Faramir	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-34|NE=name[PER]_7
+3	herceg	herceg	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-35|SpaceAfter=No
+4	.	.	PUNCT	_	_	_	_	_	tokId=w-36
+
+# sent_id = huwiki_42_s-4
+# text = Fiatalkorától katonának nevelték, később Gondor haderejének egyik parancsnoka volt, Gondor helytartójának örököse.
+1	Fiatalkorától	fiatalkor	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-37
+2	katonának	katona	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-38
+3	nevelték	nevel	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-39|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-40
+5	később	később	ADV	_	_	_	_	_	tokId=w-41
+6	Gondor	Gondor	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-42|NE=name[LOC]_8
+7	haderejének	haderő	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-43
+8	egyik	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-44
+9	parancsnoka	parancsnok	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-45
+10	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-46|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-47
+12	Gondor	Gondor	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-48|NE=name[LOC]_9
+13	helytartójának	helytartó	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-49
+14	örököse	örökös	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-50|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-51
+
+# sent_id = huwiki_42_s-5
+# text = Apja őt favorizálta öccse ellenében, ám ez nem szült viszályt a testvérek között, Boromir inkább öccse védelmezője volt.
+1	Apja	apa	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-52
+2	őt	ő	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-53
+3	favorizálta	favorizál	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-54
+4	öccse	öcs	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-55
+5	ellenében	ellenében	ADP	_	_	_	_	_	tokId=w-56|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-57
+7	ám	ám	CCONJ	_	_	_	_	_	tokId=w-58
+8	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-59
+9	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-60
+10	szült	szül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-61
+11	viszályt	viszály	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-62
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-63
+13	testvérek	testvér	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-64
+14	között	között	ADP	_	_	_	_	_	tokId=w-65|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-66
+16	Boromir	Boromir	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-67|NE=name[PER]_10
+17	inkább	inkább	ADV	_	_	_	_	_	tokId=w-68
+18	öccse	öcs	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-69
+19	védelmezője	védelmező	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-70
+20	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-71|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-72
+
+# sent_id = huwiki_42_s-6
+# text = Közösen védték Gondor keleti határát Szauronseregei ellenében.
+1	Közösen	közös	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-73
+2	védték	véd	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-74
+3	Gondor	Gondor	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-75|NE=name[LOC]_11
+4	keleti	keleti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-76
+5	határát	határ	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-77
+6	Szauron	Szauron	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-78|NE=name[PER]_12|SpaceAfter=No
+7	seregei	sereg	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-79
+8	ellenében	ellenében	ADP	_	_	_	_	_	tokId=w-80|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-81
+
+# sent_id = huwiki_42_s-7
+# text = Látomásaik hatására apja 3018-ban őt küldte el Völgyzugolyba , hogy hozza el neki az ellenség „ titkos fegyverét ”, az Egy Gyűrűt.
+1	Látomásaik	látomás	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-82
+2	hatására	hatás	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-83
+3	apja	apa	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-84
+4	3018-ban	3018	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-85
+5	őt	ő	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-86
+6	küldte	küld	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-87
+7	el	el	ADV	_	_	_	_	_	tokId=w-88
+8	Völgyzugolyba	Völgyzugoly	PROPN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-89|NE=name[LOC]_13
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-90
+10	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-91
+11	hozza	hoz	VERB	_	Definite=Def|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-92
+12	el	el	ADV	_	_	_	_	_	tokId=w-93
+13	neki	ő	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-94
+14	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-95
+15	ellenség	ellenség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-96
+16	„	„	PUNCT	_	_	_	_	_	tokId=w-97
+17	titkos	titkos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-98
+18	fegyverét	fegyver	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-99
+19	”	”	PUNCT	_	_	_	_	_	tokId=w-100|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-101
+21	az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-102
+22	Egy	Egy	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-103|NE=name[MISC]_14
+23	Gyűrűt	Gyűrű	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-104|NE=name[MISC]_14|SpaceAfter=No
+24	.	.	PUNCT	_	_	_	_	_	tokId=w-105
+
+# sent_id = huwiki_42_s-8
+# text = Miután 3019-ben Boromir a Gyűrű Szövetségénektagja lett, hűen szolgálta a Gyűrűhordozót , mígnem hatalmába kerítette a Gyűrűereje.
+1	Miután	miután	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-106
+2	3019-ben	3019	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-107
+3	Boromir	Boromir	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-108|NE=name[PER]_15
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-109
+5	Gyűrű	Gyűrű	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-110|NE=name[ORG]_16
+6	Szövetségének	Szövetsége	PROPN	_	Case=Gen|Number=Sing	_	_	_	tokId=w-111|NE=name[ORG]_16|SpaceAfter=No
+7	tagja	tag	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-112
+8	lett	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-113|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-114
+10	hűen	hű	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-115
+11	szolgálta	szolgál	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-116
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-117
+13	Gyűrűhordozót	gyűrűhordozó	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-118|NE=name[PER]_17
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-119
+15	mígnem	mígnem	CCONJ	_	_	_	_	_	tokId=w-120
+16	hatalmába	hatalom	NOUN	_	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-121
+17	kerítette	kerít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-122
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-123
+19	Gyűrű	gyűrű	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-124|NE=name[MISC]_18|SpaceAfter=No
+20	ereje	erő	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-125|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-126
+
+# sent_id = huwiki_42_s-9
+# text = Egy alkalommal rá is támadt Frodóra , hogy erővel elvegye a gyűrűt, ám a hobbit elmenekült előle.
+1	Egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-127
+2	alkalommal	alkalom	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-128
+3	rá	rá	ADV	_	_	_	_	_	tokId=w-129
+4	is	is	ADV	_	_	_	_	_	tokId=w-130
+5	támadt	támad	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-131
+6	Frodóra	Frodó	PROPN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-132|NE=name[PER]_19
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-133
+8	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-134
+9	erővel	erő	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-135
+10	elvegye	elvesz	VERB	_	Definite=Def|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-136
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-137
+12	gyűrűt	gyűrű	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-138|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-139
+14	ám	ám	CCONJ	_	_	_	_	_	tokId=w-140
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-141
+16	hobbit	hobbit	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-142
+17	elmenekült	elmenekül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-143
+18	előle	elől	ADP	_	_	_	_	_	tokId=w-144|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-145
+
+# sent_id = huwiki_42_s-10
+# text = Mikor Amon Hen erdejében egy Uruk-Hai csapat támadt rájuk, Boromir megpróbálta megvédeni Tuk Pippint és Borbak Trufát, ám az orkok legyőzték.
+1	Mikor	mikor	ADV	_	PronType=Rel	_	_	_	tokId=w-146
+2	Amon	Amon	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-147|NE=name[LOC]_20
+3	Hen	Hen	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-148|NE=name[LOC]_20
+4	erdejében	erdő	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-149
+5	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-150
+6	Uruk-Hai	Uruk-Hai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-151
+7	csapat	csapat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-152
+8	támadt	támad	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-153
+9	rájuk	rá	PRON	_	Case=Sbl|Number=Plur|Person=3|PronType=Prs	_	_	_	tokId=w-154|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-155
+11	Boromir	Boromir	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-156|NE=name[PER]_21
+12	megpróbálta	megpróbál	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-157
+13	megvédeni	megvéd	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-158
+14	Tuk	Tuk	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-159|NE=name[PER]_22
+15	Pippint	Pippin	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-160|NE=name[PER]_22
+16	és	és	CCONJ	_	_	_	_	_	tokId=w-161
+17	Borbak	Borbak	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-162|NE=name[PER]_23
+18	Trufát	Trufa	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-163|NE=name[PER]_23|SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	tokId=w-164
+20	ám	ám	CCONJ	_	_	_	_	_	tokId=w-165
+21	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-166
+22	orkok	ork	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-167
+23	legyőzték	legyőz	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-168|SpaceAfter=No
+24	.	.	PUNCT	_	_	_	_	_	tokId=w-169
+
+# sent_id = huwiki_42_s-11
+# text = Boromir nem sokkal később Aragorn kezei között halt meg, akinek felsőbbségét sokáig vitatta.
+1	Boromir	Boromir	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-170|NE=name[PER]_24
+2	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-171
+3	sokkal	sok	NUM	_	Case=Ins|Number=Sing|NumType=Card	_	_	_	tokId=w-172
+4	később	későn	ADV	_	Degree=Cmp	_	_	_	tokId=w-173
+5	Aragorn	Aragorn	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-174|NE=name[PER]_25
+6	kezei	kéz	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-175
+7	között	között	ADP	_	_	_	_	_	tokId=w-176
+8	halt	hal	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-177
+9	meg	meg	PART	_	_	_	_	_	tokId=w-178|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-179
+11	akinek	aki	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-180
+12	felsőbbségét	felsőbbség	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-181
+13	sokáig	sokáig	ADV	_	_	_	_	_	tokId=w-182
+14	vitatta	vitat	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-183|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-184
+
+# sent_id = huwiki_42_s-12
+# text = Holttestét csónakba fektették fegyvereivel és Gondor kürtjével, és leúsztatták a folyón.
+1	Holttestét	holttest	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-185
+2	csónakba	csónak	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-186
+3	fektették	fektet	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-187
+4	fegyvereivel	fegyver	NOUN	_	Case=Ins|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-188
+5	és	és	CCONJ	_	_	_	_	_	tokId=w-189
+6	Gondor	Gondor	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-190|NE=name[LOC]_26
+7	kürtjével	kürt	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-191|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-192
+9	és	és	CCONJ	_	_	_	_	_	tokId=w-193
+10	leúsztatták	leúsztat	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-194
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-195
+12	folyón	folyó	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-196|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-197
+
+# sent_id = huwiki_42_s-13
+# text = Később Faramir megtalálta testvére kettéhasadt kürtjét, és (látomásában vagy a valóságban) a holttestét is.
+1	Később	később	ADV	_	_	_	_	_	tokId=w-198
+2	Faramir	Faramir	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-199|NE=name[PER]_27
+3	megtalálta	megtalál	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-200
+4	testvére	testvér	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-201
+5	kettéhasadt	kettéhasadt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-202
+6	kürtjét	kürt	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-203|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-204
+8	és	és	CCONJ	_	_	_	_	_	tokId=w-205
+9	(	(	PUNCT	_	_	_	_	_	tokId=w-206|SpaceAfter=No
+10	látomásában	látomás	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-207
+11	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-208
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-209
+13	valóságban	valóság	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-210|SpaceAfter=No
+14	)	)	PUNCT	_	_	_	_	_	tokId=w-211
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-212
+16	holttestét	holttest	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-213
+17	is	is	ADV	_	_	_	_	_	tokId=w-214|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-215
+
+# sent_id = huwiki_42_s-14
+# text = Nevének jelentését Tolkien keverékként írja le.
+1	Nevének	név	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-216
+2	jelentését	jelentés	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-217
+3	Tolkien	Tolkien	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-218|NE=name[PER]_28
+4	keverékként	keverék	NOUN	_	Case=Ess|Number=Sing	_	_	_	tokId=w-219
+5	írja	ír	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-220
+6	le	le	ADV	_	Degree=Pos	_	_	_	tokId=w-221|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-222
+
+# sent_id = huwiki_42_s-15
+# text = Ám lehetséges, hogy gondori szokás szerint történelmi nevet kapott, hiszen A szilmarilokbanleírt első korban is élt egy Boromir .
+1	Ám	ám	CCONJ	_	_	_	_	_	tokId=w-223
+2	lehetséges	lehetséges	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-224|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-225
+4	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-226
+5	gondori	gondori	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-227
+6	szokás	szokás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-228
+7	szerint	szerint	ADP	_	_	_	_	_	tokId=w-229
+8	történelmi	történelmi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-230
+9	nevet	név	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-231
+10	kapott	kap	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-232|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-233
+12	hiszen	hiszen	CCONJ	_	_	_	_	_	tokId=w-234
+13	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-235|NE=name[MISC]_29
+14	szilmarilokban	szilmaril	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-236|NE=name[MISC]_29|SpaceAfter=No
+15	leírt	leírt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-237
+16	első	első	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-238
+17	korban	kor	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-239
+18	is	is	ADV	_	_	_	_	_	tokId=w-240
+19	élt	él	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-241
+20	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-242
+21	Boromir	Boromir	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-243|NE=name[PER]_30
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-244
+
+# sent_id = huwiki_42_s-16
+# text = Az a függelék szerint A Fehér Torony Kapitánya címet viselte, Faramir pedig A Fehér Torony Őreként és Kapitány-Generálisként utal rá.
+1	Az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-245
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-246
+3	függelék	függelék	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-247
+4	szerint	szerint	ADP	_	_	_	_	_	tokId=w-248
+5	A	A	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-249|NE=name[MISC]_31
+6	Fehér	Fehér	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-250|NE=name[MISC]_31
+7	Torony	Torony	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-251|NE=name[MISC]_31
+8	Kapitánya	kapitánya	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-252|NE=name[MISC]_31
+9	címet	cím	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-253
+10	viselte	visel	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-254|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-255
+12	Faramir	Faramir	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-256|NE=name[PER]_32
+13	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-257
+14	A	A	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-258
+15	Fehér	Fehér	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-259
+16	Torony	Torony	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-260
+17	Őreként	Őre	PROPN	_	Case=Ess|Number=Sing	_	_	_	tokId=w-261
+18	és	és	CCONJ	_	_	_	_	_	tokId=w-262
+19	Kapitány-Generálisként	kapitány-generális	NOUN	_	Case=Ess|Number=Sing	_	_	_	tokId=w-263
+20	utal	utal	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-264
+21	rá	rá	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-265|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-266
+

@@ -1,0 +1,354 @@
+# newdoc id = globv_17
+# sent_id = globv_17_s-1
+# text = 2012. április 6-án 76 éves korában elhunyt Fang Licsi kínai értelmiségi, aki egy egész generációnyi diákaktivistát inspirált az 1980-as évek során.
+1	2012.	2012.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-1
+2	április	április	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-2
+3	6-án	6	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-3
+4	76	76	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-4
+5	éves	éves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-5
+6	korában	kor	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-6
+7	elhunyt	elhuny	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-7
+8	Fang	Fang	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-8|NE=name[PER]_1
+9	Licsi	Licsi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-9|NE=name[PER]_1
+10	kínai	kínai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-10
+11	értelmiségi	értelmiségi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-11|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-12
+13	aki	aki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-13
+14	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-14
+15	egész	egész	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-15
+16	generációnyi	generációnyi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-16
+17	diákaktivistát	diákaktivista	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-17
+18	inspirált	inspirál	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-18
+19	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-19
+20	1980-as	1980-as	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-20
+21	évek	év	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-21
+22	során	során	ADP	_	_	_	_	_	tokId=w-22|SpaceAfter=No
+23	.	.	PUNCT	_	_	_	_	_	tokId=w-23
+
+# sent_id = globv_17_s-2
+# text = Fang az elmúlt 22 évben száműzetésben élt az Egyesült Államokban.
+1	Fang	Fang	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-24|NE=name[PER]_2
+2	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-25
+3	elmúlt	elmúlt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-26
+4	22	22	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-27
+5	évben	év	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-28
+6	száműzetésben	száműzetés	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-29
+7	élt	él	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-30
+8	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-31
+9	Egyesült	egyesült	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-32|NE=name[LOC]_3
+10	Államokban	Államok	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-33|NE=name[LOC]_3|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-34
+
+# sent_id = globv_17_s-3
+# text = Mintha a száműzetés nem lett volna elég, a kínai hatóságok gyorsan letiltották a haláláról szóló online híreket és a Kínai Kommunista Pártmédiaszócsövei elfelejtettnek nyilvánították Fangot .
+1	Mintha	mintha	CCONJ	_	_	_	_	_	tokId=w-35
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-36
+3	száműzetés	száműzetés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-37
+4	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-38
+5	lett	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-39
+6	volna	van	AUX	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-40
+7	elég	elég	ADV	_	_	_	_	_	tokId=w-41|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-42
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-43
+10	kínai	kínai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-44
+11	hatóságok	hatóság	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-45
+12	gyorsan	gyors	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-46
+13	letiltották	letilt	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-47
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-48
+15	haláláról	halál	NOUN	_	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-49
+16	szóló	szóló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-50
+17	online	online	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-51
+18	híreket	hír	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-52
+19	és	és	CCONJ	_	_	_	_	_	tokId=w-53
+20	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-54
+21	Kínai	kínai	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-55|NE=name[ORG]_4
+22	Kommunista	kommunista	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-56|NE=name[ORG]_4
+23	Párt	párt	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-57|NE=name[ORG]_4|SpaceAfter=No
+24	médiaszócsövei	médiaszócső	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-58
+25	elfelejtettnek	elfelejtett	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	tokId=w-59
+26	nyilvánították	nyilvánít	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-60
+27	Fangot	Fang	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-61|NE=name[PER]_5
+28	.	.	PUNCT	_	_	_	_	_	tokId=w-62
+
+# sent_id = globv_17_s-4
+# text = Az 1936-ban született Fang mindössze 12 évesen csatlakozott a KKP földalatti hálózatához, 1952-ben elkezdte a Pekingi Fizikai Egyetemet, majd miután befejezte, asztrofizikus professzor lett.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-63
+2	1936-ban	1936	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-64
+3	született	született	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-65
+4	Fang	Fang	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-66|NE=name[PER]_6
+5	mindössze	mindössze	ADV	_	_	_	_	_	tokId=w-67
+6	12	12	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-68
+7	évesen	éves	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-69
+8	csatlakozott	csatlakozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-70
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-71
+10	KKP	KKP	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-72|NE=name[ORG]_7
+11	földalatti	földalatti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-73
+12	hálózatához	hálózat	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-74|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-75
+14	1952-ben	1952	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-76
+15	elkezdte	elkezd	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-77
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-78
+17	Pekingi	pekingi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-79|NE=name[ORG]_8
+18	Fizikai	fizikai	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-80|NE=name[ORG]_8
+19	Egyetemet	egyetem	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-81|NE=name[ORG]_8|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-82
+21	majd	majd	ADV	_	_	_	_	_	tokId=w-83
+22	miután	miután	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-84
+23	befejezte	befejez	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-85|SpaceAfter=No
+24	,	,	PUNCT	_	_	_	_	_	tokId=w-86
+25	asztrofizikus	asztrofizikus	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-87
+26	professzor	professzor	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-88
+27	lett	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-89|SpaceAfter=No
+28	.	.	PUNCT	_	_	_	_	_	tokId=w-90
+
+# sent_id = globv_17_s-5
+# text = Generációjának számos értelmiségijéhez hasonlóan véleményei miatt Fangot is üldözték a jobboldalellenes kampány idején az 1950-es években, majd ismét a Kulturális Forradalom idején.
+1	Generációjának	generáció	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-91
+2	számos	számos	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-92
+3	értelmiségijéhez	értelmiségi	ADJ	_	Case=All|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-93
+4	hasonlóan	hasonló	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-94
+5	véleményei	vélemény	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-95
+6	miatt	miatt	ADP	_	_	_	_	_	tokId=w-96
+7	Fangot	Fang	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-97|NE=name[PER]_9
+8	is	is	ADV	_	_	_	_	_	tokId=w-98
+9	üldözték	üldöz	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-99
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-100
+11	jobboldalellenes	jobboldalellenes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-101
+12	kampány	kampány	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-102
+13	idején	idő	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-103
+14	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-104
+15	1950-es	1950-es	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-105
+16	években	év	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-106|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-107
+18	majd	majd	ADV	_	_	_	_	_	tokId=w-108
+19	ismét	ismét	ADV	_	_	_	_	_	tokId=w-109
+20	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-110
+21	Kulturális	kulturális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-111
+22	Forradalom	forradalom	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-112
+23	idején	idő	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-113|SpaceAfter=No
+24	.	.	PUNCT	_	_	_	_	_	tokId=w-114
+
+# sent_id = globv_17_s-6
+# text = 1986-ban Fang nyíltan támogatta a demokratikus diákmozgalmakat, ami miatt kizárták a KKP-ből és a Kínai Tudományos és Technológiai Egyetem alelnöki posztjáról is eltávolították.
+1	1986-ban	1986	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-115
+2	Fang	Fang	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-116|NE=name[PER]_10
+3	nyíltan	nyílt	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-117
+4	támogatta	támogat	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-118
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-119
+6	demokratikus	demokratikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-120
+7	diákmozgalmakat	diákmozgalom	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-121|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-122
+9	ami	ami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-123
+10	miatt	miatt	ADP	_	_	_	_	_	tokId=w-124
+11	kizárták	kizár	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-125
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-126
+13	KKP-ből	KKP	PROPN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-127|NE=name[ORG]_11
+14	és	és	CCONJ	_	_	_	_	_	tokId=w-128
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-129
+16	Kínai	kínai	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-130|NE=name[ORG]_12
+17	Tudományos	tudományos	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-131|NE=name[ORG]_12
+18	és	és	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-132|NE=name[ORG]_12
+19	Technológiai	technológiai	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-133|NE=name[ORG]_12
+20	Egyetem	egyetem	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-134|NE=name[ORG]_12
+21	alelnöki	alelnöki	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-135
+22	posztjáról	poszt	NOUN	_	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-136
+23	is	is	ADV	_	_	_	_	_	tokId=w-137
+24	eltávolították	eltávolít	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-138|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-139
+
+# sent_id = globv_17_s-7
+# text = Mindezek ellenére Fang politikailag aktív maradt és még Teng Hsziao-pingNégy Kardinális Alapelvét is kritizálta, amikor 1988-ban a külföldi médiának adott interjút, majd 1989 januárjában nyílt levélben sürgette Tenget , hogy engedje szabadon az 1978-as Pekingi Tavasz politikai foglyait.
+1	Mindezek	mindez	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-140
+2	ellenére	ellenére	ADP	_	_	_	_	_	tokId=w-141
+3	Fang	Fang	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-142|NE=name[PER]_13
+4	politikailag	politikailag	ADV	_	_	_	_	_	tokId=w-143
+5	aktív	aktív	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-144
+6	maradt	marad	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-145
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-146
+8	még	még	ADV	_	_	_	_	_	tokId=w-147
+9	Teng	Teng	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-148|NE=name[PER]_14
+10	Hsziao-ping	Hsziao-ping	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-149|NE=name[PER]_14|SpaceAfter=No
+11	Négy	négy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-150
+12	Kardinális	kardinális	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-151
+13	Alapelvét	alapelv	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-152
+14	is	is	ADV	_	_	_	_	_	tokId=w-153
+15	kritizálta	kritizál	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-154|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-155
+17	amikor	amikor	ADV	_	PronType=Rel	_	_	_	tokId=w-156
+18	1988-ban	1988	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-157
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-158
+20	külföldi	külföldi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-159
+21	médiának	média	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-160
+22	adott	ad	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-161
+23	interjút	interjú	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-162|SpaceAfter=No
+24	,	,	PUNCT	_	_	_	_	_	tokId=w-163
+25	majd	majd	CCONJ	_	_	_	_	_	tokId=w-164
+26	1989	1989	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-165
+27	januárjában	január	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-166
+28	nyílt	nyílt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-167
+29	levélben	levél	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-168
+30	sürgette	sürget	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-169
+31	Tenget	Teng	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-170|NE=name[PER]_15
+32	,	,	PUNCT	_	_	_	_	_	tokId=w-171
+33	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-172
+34	engedje	enged	VERB	_	Definite=Def|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-173
+35	szabadon	szabad	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-174
+36	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-175
+37	1978-as	1978-as	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-176
+38	Pekingi	pekingi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-177
+39	Tavasz	tavasz	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-178
+40	politikai	politikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-179
+41	foglyait	fogoly	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-180|SpaceAfter=No
+42	.	.	PUNCT	_	_	_	_	_	tokId=w-181
+
+# sent_id = globv_17_s-8
+# text = Az Tienanmen téri mészárlás után Fang és a felesége, Li Suhszien az Egyesült Államok pekingi nagykövetségén kért menedéket, majd vonult száműzetésbe a következő évben.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-182
+2	Tienanmen	Tienanmen	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-183|NE=name[LOC]_16
+3	téri	téri	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-184|NE=name[LOC]_16
+4	mészárlás	mészárlás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-185
+5	után	után	ADP	_	_	_	_	_	tokId=w-186
+6	Fang	Fang	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-187|NE=name[PER]_17
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-188
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-189
+9	felesége	feleség	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-190|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-191
+11	Li	Li	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-192|NE=name[PER]_18
+12	Suhszien	Suhszien	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-193|NE=name[PER]_18
+13	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-194
+14	Egyesült	egyesült	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-195|NE=name[LOC]_19
+15	Államok	Államok	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-196|NE=name[LOC]_19
+16	pekingi	pekingi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-197
+17	nagykövetségén	nagykövetség	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-198
+18	kért	kér	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-199
+19	menedéket	menedék	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-200|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-201
+21	majd	majd	ADV	_	_	_	_	_	tokId=w-202
+22	vonult	vonul	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-203
+23	száműzetésbe	száműzetés	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-204
+24	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-205
+25	következő	következő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-206
+26	évben	év	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-207|SpaceAfter=No
+27	.	.	PUNCT	_	_	_	_	_	tokId=w-208
+
+# sent_id = globv_17_s-9
+# text = Egy tiszteletben álló tanár, aki életét a meggyőződéseinek védelmében élte le, Fang közismert arról, hogy az egyetemi diákok egy egész generációjának nyújtott inspirációt.
+1	Egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-209
+2	tiszteletben	tisztelet	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-210
+3	álló	álló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-211
+4	tanár	tanár	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-212|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-213
+6	aki	aki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-214
+7	életét	élet	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-215
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-216
+9	meggyőződéseinek	meggyőződés	NOUN	_	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-217
+10	védelmében	védelem	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-218
+11	élte	él	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-219
+12	le	le	ADV	_	Degree=Pos	_	_	_	tokId=w-220|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-221
+14	Fang	Fang	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-222|NE=name[PER]_20
+15	közismert	közismert	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-223
+16	arról	az	PRON	_	Case=Del|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-224|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-225
+18	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-226
+19	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-227
+20	egyetemi	egyetemi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-228
+21	diákok	diák	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-229
+22	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-230
+23	egész	egész	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-231
+24	generációjának	generáció	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-232
+25	nyújtott	nyújt	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-233
+26	inspirációt	inspiráció	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-234|SpaceAfter=No
+27	.	.	PUNCT	_	_	_	_	_	tokId=w-235
+
+# sent_id = globv_17_s-10
+# text = Ugyanakkor a kínai hatóságok mégis szívesebben látnák elfeledettnek.
+1	Ugyanakkor	ugyanakkor	CCONJ	_	_	_	_	_	tokId=w-236
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-237
+3	kínai	kínai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-238
+4	hatóságok	hatóság	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-239
+5	mégis	mégis	ADV	_	_	_	_	_	tokId=w-240
+6	szívesebben	szívesen	ADV	_	Degree=Cmp	_	_	_	tokId=w-241
+7	látnák	lát	VERB	_	Definite=Def|Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-242
+8	elfeledettnek	elfeledett	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	tokId=w-243|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-244
+
+# sent_id = globv_17_s-11
+# text = Ahogy halálának híre elterjedt a világ kínaiul beszélő részén, a Fang Licsi nevet blokkolták a kínai interneten, így a netpolgárok csak a Mr. Fang használatával tudják kifejezni együttérzésüket és érzelmeiket.
+1	Ahogy	ahogy	CCONJ	_	_	_	_	_	tokId=w-245
+2	halálának	halál	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-246
+3	híre	hír	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-247
+4	elterjedt	elterjed	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-248
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-249
+6	világ	világ	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-250
+7	kínaiul	kínai	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-251
+8	beszélő	beszélő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-252
+9	részén	rész	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-253|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-254
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-255
+12	Fang	Fang	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-256|NE=name[PER]_21
+13	Licsi	Licsi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-257|NE=name[PER]_21
+14	nevet	név	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-258
+15	blokkolták	blokkol	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-259
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-260
+17	kínai	kínai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-261
+18	interneten	internet	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-262|SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	tokId=w-263
+20	így	így	CCONJ	_	_	_	_	_	tokId=w-264
+21	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-265
+22	netpolgárok	netpolgár	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-266
+23	csak	csak	ADV	_	_	_	_	_	tokId=w-267
+24	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-268
+25	Mr.	Mr.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-269
+26	Fang	Fang	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-270|NE=name[PER]_22
+27	használatával	használat	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-271
+28	tudják	tud	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-272
+29	kifejezni	kifejez	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-273
+30	együttérzésüket	együttérzés	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-274
+31	és	és	CCONJ	_	_	_	_	_	tokId=w-275
+32	érzelmeiket	érzelem	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-276|SpaceAfter=No
+33	.	.	PUNCT	_	_	_	_	_	tokId=w-277
+
+# sent_id = globv_17_s-12
+# text = Ezzel egyidőben Hu Hszicsin, a Global Times főszerkesztője, a KKP egy másik szócsöve engedélyt kapott, hogy a Weibo oldalon használja Fang Licsi teljes nevét, hogy így terjessze azt, hogy Fangmára elfeledetté vált Kínában .
+1	Ezzel	ez	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-278
+2	egyidőben	egyidő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-279
+3	Hu	Hu	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-280|NE=name[PER]_23
+4	Hszicsin	Hszicsin	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-281|NE=name[PER]_23|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-282
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-283
+7	Global	Global	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-284|NE=name[ORG]_24
+8	Times	Times	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-285|NE=name[ORG]_24
+9	főszerkesztője	főszerkesztő	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-286|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-287
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-288
+12	KKP	KKP	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-289|NE=name[ORG]_25
+13	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-290
+14	másik	másik	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-291
+15	szócsöve	szócső	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-292
+16	engedélyt	engedély	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-293
+17	kapott	kap	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-294|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-295
+19	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-296
+20	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-297
+21	Weibo	Weibo	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-298|NE=name[MISC]_26
+22	oldalon	oldal	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-299
+23	használja	használ	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-300
+24	Fang	Fang	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-301|NE=name[PER]_27
+25	Licsi	Licsi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-302|NE=name[PER]_27
+26	teljes	teljes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-303
+27	nevét	név	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-304|SpaceAfter=No
+28	,	,	PUNCT	_	_	_	_	_	tokId=w-305
+29	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-306
+30	így	így	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-307
+31	terjessze	terjeszt	VERB	_	Definite=Def|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-308
+32	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-309|SpaceAfter=No
+33	,	,	PUNCT	_	_	_	_	_	tokId=w-310
+34	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-311
+35	Fang	Fang	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-312|NE=name[PER]_28|SpaceAfter=No
+36	mára	ma	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-313
+37	elfeledetté	elfeledett	ADJ	_	Case=Tra|Degree=Pos|Number=Sing	_	_	_	tokId=w-314
+38	vált	válik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-315
+39	Kínában	Kína	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-316|NE=name[LOC]_29
+40	.	.	PUNCT	_	_	_	_	_	tokId=w-317
+

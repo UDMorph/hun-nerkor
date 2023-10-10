@@ -1,0 +1,648 @@
+# newdoc id = w360
+# sent_id = w360_s-1
+# text = Amennyiben nem preferáljuk a ruhákat, akkor akár egy farmernadrágot is felvehetünk, ha egy alkalmi felsővel és cipővel párosítjuk azt.
+1	Amennyiben	amennyiben	CCONJ	_	_	_	_	_	tokId=w-1
+2	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-2
+3	preferáljuk	preferál	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-3
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-4
+5	ruhákat	ruha	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-5|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-6
+7	akkor	akkor	ADV	_	PronType=Dem	_	_	_	tokId=w-7
+8	akár	akár	ADV	_	_	_	_	_	tokId=w-8
+9	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-9
+10	farmernadrágot	farmernadrág	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-10
+11	is	is	ADV	_	_	_	_	_	tokId=w-11
+12	felvehetünk	felvesz	VERB	_	Definite=Ind|Mood=Pot|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-12|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-13
+14	ha	ha	SCONJ	_	_	_	_	_	tokId=w-14
+15	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-15
+16	alkalmi	alkalmi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-16
+17	felsővel	felső	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-17
+18	és	és	CCONJ	_	_	_	_	_	tokId=w-18
+19	cipővel	cipő	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-19
+20	párosítjuk	párosít	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-20
+21	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-21|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-22
+
+# sent_id = w360_s-2
+# text = Ez utóbbi mindkét nemre egyaránt vonatkozik; az ápoltság alapvető eleme az esti szórakozásnak!
+1	Ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-23
+2	utóbbi	utóbbi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-24
+3	mindkét	mindkét	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-25
+4	nemre	nem	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-26
+5	egyaránt	egyaránt	ADV	_	_	_	_	_	tokId=w-27
+6	vonatkozik	vonatkozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-28|SpaceAfter=No
+7	;	;	PUNCT	_	_	_	_	_	tokId=w-29
+8	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-30
+9	ápoltság	ápoltság	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-31
+10	alapvető	alapvető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-32
+11	eleme	elem	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-33
+12	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-34
+13	esti	esti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-35
+14	szórakozásnak	szórakozás	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-36|SpaceAfter=No
+15	!	!	PUNCT	_	_	_	_	_	tokId=w-37
+
+# sent_id = w360_s-3
+# text = A legjobb születésnapi helyszín az Ypsilon Café Zuglóban található, kellemes hely sok programlehetőség, igény esetén különterem
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-38
+2	legjobb	jó	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-39
+3	születésnapi	születésnapi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-40
+4	helyszín	helyszín	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-41
+5	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-42
+6	Ypsilon	Ypsilon	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-43|NE=name[LOC]_1
+7	Café	café	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-44|NE=name[LOC]_1
+8	Zuglóban	Zugló	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-45|NE=name[LOC]_2
+9	található	található	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-46|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-47
+11	kellemes	kellemes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-48
+12	hely	hely	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-49
+13	sok	sok	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-50
+14	programlehetőség	programlehetőség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-51|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-52
+16	igény	igény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-53
+17	esetén	esetén	ADP	_	_	_	_	_	tokId=w-54
+18	különterem	különterem	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-55
+
+# sent_id = w360_s-4
+# text = Vigyázz, ne ess abba a hibába, hogy valami olyan programmal készülsz, aminek igazából te örülnél!
+1	Vigyázz	vigyáz	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-56|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-57
+3	ne	ne	ADV	_	PronType=Neg	_	_	_	tokId=w-58
+4	ess	esik	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-59
+5	abba	az	PRON	_	Case=Ill|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-60
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-61
+7	hibába	hiba	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-62|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-63
+9	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-64
+10	valami	valami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind	_	_	_	tokId=w-65
+11	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-66
+12	programmal	program	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-67
+13	készülsz	készül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-68|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-69
+15	aminek	ami	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-70
+16	igazából	igazából	ADV	_	_	_	_	_	tokId=w-71
+17	te	te	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	_	_	_	tokId=w-72
+18	örülnél	örül	VERB	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-73|SpaceAfter=No
+19	!	!	PUNCT	_	_	_	_	_	tokId=w-74
+
+# sent_id = w360_s-5
+# text = Kiváló minőségű ételeink további előnyt jelentenek, hiszen a finom ételek a munkamegbeszélés hangulatát is kellemesebbé teszik.
+1	Kiváló	kiváló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-75
+2	minőségű	minőségű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-76
+3	ételeink	étel	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-77
+4	további	további	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-78
+5	előnyt	előny	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-79
+6	jelentenek	jelent	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-80|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-81
+8	hiszen	hiszen	CCONJ	_	_	_	_	_	tokId=w-82
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-83
+10	finom	finom	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-84
+11	ételek	étel	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-85
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-86
+13	munkamegbeszélés	munkamegbeszélés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-87
+14	hangulatát	hangulat	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-88
+15	is	is	ADV	_	_	_	_	_	tokId=w-89
+16	kellemesebbé	kellemes	ADJ	_	Case=Tra|Degree=Cmp|Number=Sing	_	_	_	tokId=w-90
+17	teszik	tesz	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-91|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-92
+
+# sent_id = w360_s-6
+# text = A vacsora étteremben való elfogyasztása azonban leginkább az ételek minőségén és az étterem hangulatán múlik.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-93
+2	vacsora	vacsora	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-94
+3	étteremben	étterem	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-95
+4	való	való	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-96
+5	elfogyasztása	elfogyasztás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-97
+6	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-98
+7	leginkább	inkább	ADV	_	Degree=Sup	_	_	_	tokId=w-99
+8	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-100
+9	ételek	étel	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-101
+10	minőségén	minőség	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-102
+11	és	és	CCONJ	_	_	_	_	_	tokId=w-103
+12	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-104
+13	étterem	étterem	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-105
+14	hangulatán	hangulat	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-106
+15	múlik	múlik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-107|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-108
+
+# sent_id = w360_s-7
+# text = Video disco a tökéletes szombat esti kikapcsolódás
+1	Video	video	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-109
+2	disco	disco	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-110
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-111
+4	tökéletes	tökéletes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-112
+5	szombat	szombat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-113
+6	esti	esti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-114
+7	kikapcsolódás	kikapcsolódás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-115
+
+# sent_id = w360_s-8
+# text = A hétvégi lazításnak számos módja ismeretes és bár mindenki számára más és más program nyújtja a tökéletes kikapcsolódás élményét, azonban abban remélhetőleg mindenki egyetért velünk, hogy alkalmankénti kikapcsolódás nélkül munkahelyünkön és magánéletünkben is unottá, fásulttá válhatunk.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-116
+2	hétvégi	hétvégi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-117
+3	lazításnak	lazítás	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-118
+4	számos	számos	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-119
+5	módja	mód	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-120
+6	ismeretes	ismeretes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-121
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-122
+8	bár	bár	SCONJ	_	_	_	_	_	tokId=w-123
+9	mindenki	mindenki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-124
+10	számára	számára	ADP	_	_	_	_	_	tokId=w-125
+11	más	más	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-126
+12	és	és	CCONJ	_	_	_	_	_	tokId=w-127
+13	más	más	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-128
+14	program	program	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-129
+15	nyújtja	nyújt	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-130
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-131
+17	tökéletes	tökéletes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-132
+18	kikapcsolódás	kikapcsolódás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-133
+19	élményét	élmény	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-134|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-135
+21	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-136
+22	abban	az	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-137
+23	remélhetőleg	remélhetőleg	ADV	_	_	_	_	_	tokId=w-138
+24	mindenki	mindenki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-139
+25	egyetért	egyetért	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-140
+26	velünk	vele	PRON	_	Case=Ins|Number=Plur|Person=1|PronType=Prs	_	_	_	tokId=w-141|SpaceAfter=No
+27	,	,	PUNCT	_	_	_	_	_	tokId=w-142
+28	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-143
+29	alkalmankénti	alkalmankénti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-144
+30	kikapcsolódás	kikapcsolódás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-145
+31	nélkül	nélkül	ADP	_	_	_	_	_	tokId=w-146
+32	munkahelyünkön	munkahely	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-147
+33	és	és	CCONJ	_	_	_	_	_	tokId=w-148
+34	magánéletünkben	magánélet	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-149
+35	is	is	ADV	_	_	_	_	_	tokId=w-150
+36	unottá	unott	ADJ	_	Case=Tra|Degree=Pos|Number=Sing	_	_	_	tokId=w-151|SpaceAfter=No
+37	,	,	PUNCT	_	_	_	_	_	tokId=w-152
+38	fásulttá	fásult	ADJ	_	Case=Tra|Degree=Pos|Number=Sing	_	_	_	tokId=w-153
+39	válhatunk	válik	VERB	_	Definite=Ind|Mood=Pot|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-154|SpaceAfter=No
+40	.	.	PUNCT	_	_	_	_	_	tokId=w-155
+
+# sent_id = w360_s-9
+# text = Találkozhatunk azzal a problémával, hogy bár elhatároztuk, hogy a szombat alkalmával, barátaink körében egy szórakozóhelyen engedjük ki a gőzt, de barátaink zenei ízlése különböző.
+1	Találkozhatunk	találkozik	VERB	_	Definite=Ind|Mood=Pot|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-156
+2	azzal	az	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-157
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-158
+4	problémával	probléma	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-159|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-160
+6	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-161
+7	bár	bár	SCONJ	_	_	_	_	_	tokId=w-162
+8	elhatároztuk	elhatároz	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-163|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-164
+10	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-165
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-166
+12	szombat	szombat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-167
+13	alkalmával	alkalom	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-168|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-169
+15	barátaink	barát	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-170
+16	körében	kör	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-171
+17	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-172
+18	szórakozóhelyen	szórakozóhely	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-173
+19	engedjük	enged	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-174
+20	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-175
+21	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-176
+22	gőzt	gőz	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-177|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-178
+24	de	de	CCONJ	_	_	_	_	_	tokId=w-179
+25	barátaink	barát	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-180
+26	zenei	zenei	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-181
+27	ízlése	ízlés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-182
+28	különböző	különböző	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-183|SpaceAfter=No
+29	.	.	PUNCT	_	_	_	_	_	tokId=w-184
+
+# sent_id = w360_s-10
+# text = Mattító alapozó
+1	Mattító	mattító	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-185
+2	alapozó	alapozó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-186
+
+# sent_id = w360_s-11
+# text = Végre az olajos/kombinált bőrtípus számára is elérhető a megfelelő alapozó.
+1	Végre	végre	ADV	_	_	_	_	_	tokId=w-187
+2	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-188
+3	olajos/kombinált	olajos/kombinált	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-189
+4	bőrtípus	bőrtípus	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-190
+5	számára	számára	ADP	_	_	_	_	_	tokId=w-191
+6	is	is	ADV	_	_	_	_	_	tokId=w-192
+7	elérhető	elérhető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-193
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-194
+9	megfelelő	megfelelő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-195
+10	alapozó	alapozó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-196|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-197
+
+# sent_id = w360_s-12
+# text = Nem jelenthet gondot!
+1	Nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-198
+2	jelenthet	jelent	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-199
+3	gondot	gond	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-200|SpaceAfter=No
+4	!	!	PUNCT	_	_	_	_	_	tokId=w-201
+
+# sent_id = w360_s-13
+# text = Világjáró csomagjával felfedezheti messzi tájak és az ott élő emberek, állatok és növények világát.
+1	Világjáró	világjáró	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-202
+2	csomagjával	csomag	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-203
+3	felfedezheti	felfedez	VERB	_	Definite=Def|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-204
+4	messzi	messzi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-205
+5	tájak	táj	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-206
+6	és	és	CCONJ	_	_	_	_	_	tokId=w-207
+7	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-208
+8	ott	ott	ADV	_	PronType=Dem	_	_	_	tokId=w-209
+9	élő	élő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-210
+10	emberek	ember	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-211|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-212
+12	állatok	állat	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-213
+13	és	és	CCONJ	_	_	_	_	_	tokId=w-214
+14	növények	növény	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-215
+15	világát	világ	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-216|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-217
+
+# sent_id = w360_s-14
+# text = Vagy talán eszébe jut Önnek egy olyan jelenet, melyben a beszélgetőpartner nyíltan agresszívan, sőt talán becsmérlően vagy sértően lép fel. ”
+1	Vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-218
+2	talán	talán	ADV	_	_	_	_	_	tokId=w-219
+3	eszébe	ész	NOUN	_	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-220
+4	jut	jut	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-221
+5	Önnek	ön	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-222
+6	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-223
+7	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-224
+8	jelenet	jelenet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-225|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-226
+10	melyben	mely	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-227
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-228
+12	beszélgetőpartner	beszélgetőpartner	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-229
+13	nyíltan	nyílt	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-230
+14	agresszívan	agresszív	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-231|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-232
+16	sőt	sőt	CCONJ	_	_	_	_	_	tokId=w-233
+17	talán	talán	ADV	_	_	_	_	_	tokId=w-234
+18	becsmérlően	becsmérlő	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-235
+19	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-236
+20	sértően	sértő	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-237
+21	lép	lép	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-238
+22	fel	fel	ADV	_	Degree=Pos	_	_	_	tokId=w-239|SpaceAfter=No
+23	.	.	PUNCT	_	_	_	_	_	tokId=w-240
+24	”	”	PUNCT	_	_	_	_	_	tokId=w-241
+
+# sent_id = w360_s-15
+# text = TERAPEUTA: Erről van szó.
+1	TERAPEUTA	terapeuta	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-242|SpaceAfter=No
+2	:	:	PUNCT	_	_	_	_	_	tokId=w-243
+3	Erről	ez	PRON	_	Case=Del|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-244
+4	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-245
+5	szó	szó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-246|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-247
+
+# sent_id = w360_s-16
+# text = Számítógépezni egy kerekesszékben is tudsz, érted, ugye?
+1	Számítógépezni	számítógépezik	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-248
+2	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-249
+3	kerekesszékben	kerekesszék	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-250
+4	is	is	ADV	_	_	_	_	_	tokId=w-251
+5	tudsz	tud	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-252|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-253
+7	érted	ért	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-254|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-255
+9	ugye	ugye	ADV	_	_	_	_	_	tokId=w-256|SpaceAfter=No
+10	?	?	PUNCT	_	_	_	_	_	tokId=w-257
+
+# sent_id = w360_s-17
+# text = De veled ez valószínűleg úgy van, hogy nemcsak a térded, meg ilyenek, de tényleg az agyad is.
+1	De	de	CCONJ	_	_	_	_	_	tokId=w-258
+2	veled	vele	PRON	_	Case=Ins|Number=Sing|Person=2|PronType=Prs	_	_	_	tokId=w-259
+3	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-260
+4	valószínűleg	valószínűleg	ADV	_	_	_	_	_	tokId=w-261
+5	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-262
+6	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-263|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-264
+8	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-265
+9	nemcsak	nemcsak	ADV	_	_	_	_	_	tokId=w-266
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-267
+11	térded	térd	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	_	_	_	tokId=w-268|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-269
+13	meg	meg	CCONJ	_	_	_	_	_	tokId=w-270
+14	ilyenek	ilyen	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-271|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-272
+16	de	de	CCONJ	_	_	_	_	_	tokId=w-273
+17	tényleg	tényleg	ADV	_	_	_	_	_	tokId=w-274
+18	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-275
+19	agyad	agy	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	_	_	_	tokId=w-276
+20	is	is	ADV	_	_	_	_	_	tokId=w-277|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-278
+
+# sent_id = w360_s-18
+# text = Arról már írtunk, hogy a gamificationt (játékosítást) hogyan és mire használja a HR szakember, a tréner, a cégvezető vagy a marketing vezető.
+1	Arról	az	PRON	_	Case=Del|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-279
+2	már	már	ADV	_	_	_	_	_	tokId=w-280
+3	írtunk	ír	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-281|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-282
+5	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-283
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-284
+7	gamificationt	gamification	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-285
+8	(	(	PUNCT	_	_	_	_	_	tokId=w-286|SpaceAfter=No
+9	játékosítást	játékosítás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-287|SpaceAfter=No
+10	)	)	PUNCT	_	_	_	_	_	tokId=w-288
+11	hogyan	hogyan	ADV	_	PronType=Int	_	_	_	tokId=w-289
+12	és	és	CCONJ	_	_	_	_	_	tokId=w-290
+13	mire	mi	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-291
+14	használja	használ	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-292
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-293
+16	HR	HR	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-294
+17	szakember	szakember	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-295|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-296
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-297
+20	tréner	tréner	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-298|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-299
+22	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-300
+23	cégvezető	cégvezető	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-301
+24	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-302
+25	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-303
+26	marketing	marketing	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-304
+27	vezető	vezető	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-305|SpaceAfter=No
+28	.	.	PUNCT	_	_	_	_	_	tokId=w-306
+
+# sent_id = w360_s-19
+# text = Challenging coaching
+1	Challenging	Challenging	X	_	_	_	_	_	tokId=w-307
+2	coaching	coaching	X	_	_	_	_	_	tokId=w-308
+
+# sent_id = w360_s-20
+# text = Kihívásfókoszú támogatás a gyakorlatban
+1	Kihívásfókoszú	kihívásfókuszó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-309
+2	támogatás	támogatás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-310
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-311
+4	gyakorlatban	gyakorlat	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-312
+
+# sent_id = w360_s-21
+# text = lépjünk túl a hagyományos coachingon: a FACTS modell
+1	lépjünk	lép	VERB	_	Definite=Ind|Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-313
+2	túl	túl	ADV	_	_	_	_	_	tokId=w-314
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-315
+4	hagyományos	hagyományos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-316
+5	coachingon	coaching	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-317|SpaceAfter=No
+6	:	:	PUNCT	_	_	_	_	_	tokId=w-318
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-319
+8	FACTS	FACTS	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-320
+9	modell	modell	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-321
+
+# sent_id = w360_s-22
+# text = Hogyan válhat a coach elragadó történetmesélővé?
+1	Hogyan	hogyan	ADV	_	PronType=Int	_	_	_	tokId=w-322
+2	válhat	válik	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-323
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-324
+4	coach	coach	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-325
+5	elragadó	elragadó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-326
+6	történetmesélővé	történetmesélő	NOUN	_	Case=Tra|Number=Sing	_	_	_	tokId=w-327|SpaceAfter=No
+7	?	?	PUNCT	_	_	_	_	_	tokId=w-328
+
+# sent_id = w360_s-23
+# text = PR és kommunikáció területén is szerzett tapasztalatokat pályafutásának hosszú évei során ipari, politikai és kulturális közegben egyaránt, valamint újságíróként is tevékenykedik.
+1	PR	PR	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-329
+2	és	és	CCONJ	_	_	_	_	_	tokId=w-330
+3	kommunikáció	kommunikáció	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-331
+4	területén	terület	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-332
+5	is	is	ADV	_	_	_	_	_	tokId=w-333
+6	szerzett	szerzett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-334
+7	tapasztalatokat	tapasztalat	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-335
+8	pályafutásának	pályafutás	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-336
+9	hosszú	hosszú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-337
+10	évei	év	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-338
+11	során	során	ADP	_	_	_	_	_	tokId=w-339
+12	ipari	ipari	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-340|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-341
+14	politikai	politikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-342
+15	és	és	CCONJ	_	_	_	_	_	tokId=w-343
+16	kulturális	kulturális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-344
+17	közegben	közeg	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-345
+18	egyaránt	egyaránt	ADV	_	_	_	_	_	tokId=w-346|SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	tokId=w-347
+20	valamint	valamint	CCONJ	_	_	_	_	_	tokId=w-348
+21	újságíróként	újságíró	NOUN	_	Case=Ess|Number=Sing	_	_	_	tokId=w-349
+22	is	is	ADV	_	_	_	_	_	tokId=w-350
+23	tevékenykedik	tevékenykedik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-351|SpaceAfter=No
+24	.	.	PUNCT	_	_	_	_	_	tokId=w-352
+
+# sent_id = w360_s-24
+# text = ► A könyv szerkezete egy coaching ülés felépítését követi, annak 4 szakasza szerint csoportosítja a gyakorlatokat:
+1	►	►	PUNCT	_	_	_	_	_	tokId=w-353
+2	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-354
+3	könyv	könyv	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-355
+4	szerkezete	szerkezet	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-356
+5	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-357
+6	coaching	coaching	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-358
+7	ülés	ülés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-359
+8	felépítését	felépítés	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-360
+9	követi	követ	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-361|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-362
+11	annak	az	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-363
+12	4	4	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-364
+13	szakasza	szakasz	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-365
+14	szerint	szerint	ADP	_	_	_	_	_	tokId=w-366
+15	csoportosítja	csoportosít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-367
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-368
+17	gyakorlatokat	gyakorlat	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-369|SpaceAfter=No
+18	:	:	PUNCT	_	_	_	_	_	tokId=w-370
+
+# sent_id = w360_s-25
+# text = 25 könyve jelent meg eddig 12 nyelven, ebből fél tucat Spiegel-bestseller.
+1	25	25	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-371
+2	könyve	könyv	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-372
+3	jelent	jelenik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-373
+4	meg	meg	PART	_	_	_	_	_	tokId=w-374
+5	eddig	eddig	ADV	_	PronType=Dem	_	_	_	tokId=w-375
+6	12	12	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-376
+7	nyelven	nyelv	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-377|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-378
+9	ebből	ez	PRON	_	Case=Ela|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-379
+10	fél	fél	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-380
+11	tucat	tucat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-381
+12	Spiegel-bestseller	Spiegel-bestseller	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-382|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-383
+
+# sent_id = w360_s-26
+# text = Ajánlom mindenkinek akit érdekel a téma aztán már csak csinálni kell!
+1	Ajánlom	ajánl	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-384
+2	mindenkinek	mindenki	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-385
+3	akit	aki	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-386
+4	érdekel	érdekel	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-387
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-388
+6	téma	téma	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-389
+7	aztán	aztán	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-390
+8	már	már	ADV	_	_	_	_	_	tokId=w-391
+9	csak	csak	ADV	_	_	_	_	_	tokId=w-392
+10	csinálni	csinál	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-393
+11	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-394|SpaceAfter=No
+12	!	!	PUNCT	_	_	_	_	_	tokId=w-395
+
+# sent_id = w360_s-27
+# text = Belle Vernonban, Pennsylvaniában él.
+1	Belle	Belle	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-396|NE=name[LOC]_3
+2	Vernonban	Vernon	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-397|NE=name[LOC]_3|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-398
+4	Pennsylvaniában	Pennsylvania	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-399|NE=name[LOC]_4
+5	él	él	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-400|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-401
+
+# sent_id = w360_s-28
+# text = A coaching technikák jó használhatók célkitűzések megfogalmazásában, karriertervezésben, munkatársak motivációjáról való beszélgetésben, teljesítménynövelésben, továbbá számos olyan területen, melyben a vezető fejlesztő szakemberként is fellép.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-402
+2	coaching	coaching	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-403
+3	technikák	technika	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-404
+4	jó	jó	ADV	_	_	_	_	_	tokId=w-405
+5	használhatók	használható	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-406
+6	célkitűzések	célkitűzés	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-407
+7	megfogalmazásában	megfogalmazás	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-408|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-409
+9	karriertervezésben	karriertervezés	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-410|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-411
+11	munkatársak	munkatárs	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-412
+12	motivációjáról	motiváció	NOUN	_	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-413
+13	való	való	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-414
+14	beszélgetésben	beszélgetés	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-415|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-416
+16	teljesítménynövelésben	teljesítménynövelés	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-417|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-418
+18	továbbá	továbbá	CCONJ	_	_	_	_	_	tokId=w-419
+19	számos	számos	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-420
+20	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-421
+21	területen	terület	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-422|SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-423
+23	melyben	mely	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-424
+24	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-425
+25	vezető	vezető	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-426
+26	fejlesztő	fejlesztő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-427
+27	szakemberként	szakember	NOUN	_	Case=Ess|Number=Sing	_	_	_	tokId=w-428
+28	is	is	ADV	_	_	_	_	_	tokId=w-429
+29	fellép	fellép	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-430|SpaceAfter=No
+30	.	.	PUNCT	_	_	_	_	_	tokId=w-431
+
+# sent_id = w360_s-29
+# text = Olyan eszközökkel ismerkedhetünk meg, mint a támogatás/kihívás mátrix, mely a kihívás és a támogatás tényleges egyensúlyában létrejövő optimális teljesítményt szemlélteti (gyakorlati példával).
+1	Olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-432
+2	eszközökkel	eszköz	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-433
+3	ismerkedhetünk	ismerkedik	VERB	_	Definite=Ind|Mood=Pot|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-434
+4	meg	meg	PART	_	_	_	_	_	tokId=w-435|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-436
+6	mint	mint	SCONJ	_	_	_	_	_	tokId=w-437
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-438
+8	támogatás/kihívás	támogatás/kihívás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-439
+9	mátrix	mátrix	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-440|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-441
+11	mely	mely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-442
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-443
+13	kihívás	kihívás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-444
+14	és	és	CCONJ	_	_	_	_	_	tokId=w-445
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-446
+16	támogatás	támogatás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-447
+17	tényleges	tényleges	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-448
+18	egyensúlyában	egyensúly	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-449
+19	létrejövő	létrejövő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-450
+20	optimális	optimális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-451
+21	teljesítményt	teljesítmény	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-452
+22	szemlélteti	szemléltet	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-453
+23	(	(	PUNCT	_	_	_	_	_	tokId=w-454|SpaceAfter=No
+24	gyakorlati	gyakorlati	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-455
+25	példával	példa	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-456|SpaceAfter=No
+26	)	)	PUNCT	_	_	_	_	_	tokId=w-457|SpaceAfter=No
+27	.	.	PUNCT	_	_	_	_	_	tokId=w-458
+
+# sent_id = w360_s-30
+# text = Elmélyedhetünk a komfortzónán kívüli párbeszéd témájában is, melyben az áttöréshez vezető út ugyan nehéz, de transzformatív lehet.
+1	Elmélyedhetünk	elmélyed	VERB	_	Definite=Ind|Mood=Pot|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-459
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-460
+3	komfortzónán	komfortzóna	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-461
+4	kívüli	kívüli	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-462
+5	párbeszéd	párbeszéd	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-463
+6	témájában	téma	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-464
+7	is	is	ADV	_	_	_	_	_	tokId=w-465|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-466
+9	melyben	mely	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-467
+10	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-468
+11	áttöréshez	áttörés	NOUN	_	Case=All|Number=Sing	_	_	_	tokId=w-469
+12	vezető	vezető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-470
+13	út	út	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-471
+14	ugyan	ugyan	ADV	_	_	_	_	_	tokId=w-472
+15	nehéz	nehéz	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-473|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-474
+17	de	de	CCONJ	_	_	_	_	_	tokId=w-475
+18	transzformatív	transzformatív	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-476
+19	lehet	lesz	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-477|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-478
+
+# sent_id = w360_s-31
+# text = Ez nemcsak azt mutatja meg, hogy mi az ember legfőbb hajtóereje a munkában, de azt is, hogy jelenleg hogy érzi magát a munkahelyen, vagy az adott helyzetben és milyen szinten vannak ezek a motivátorok, kielégítőek -e vagy sem.
+1	Ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-479
+2	nemcsak	nemcsak	ADV	_	_	_	_	_	tokId=w-480
+3	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-481
+4	mutatja	mutat	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-482
+5	meg	meg	PART	_	_	_	_	_	tokId=w-483|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-484
+7	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-485
+8	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Int	_	_	_	tokId=w-486
+9	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-487
+10	ember	ember	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-488
+11	legfőbb	fő	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-489
+12	hajtóereje	hajtóerő	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-490
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-491
+14	munkában	munka	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-492|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-493
+16	de	de	CCONJ	_	_	_	_	_	tokId=w-494
+17	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-495
+18	is	is	ADV	_	_	_	_	_	tokId=w-496|SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	tokId=w-497
+20	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-498
+21	jelenleg	jelenleg	ADV	_	_	_	_	_	tokId=w-499
+22	hogy	hogy	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Int	_	_	_	tokId=w-500
+23	érzi	érez	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-501
+24	magát	maga	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	tokId=w-502
+25	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-503
+26	munkahelyen	munkahely	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-504|SpaceAfter=No
+27	,	,	PUNCT	_	_	_	_	_	tokId=w-505
+28	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-506
+29	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-507
+30	adott	adott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-508
+31	helyzetben	helyzet	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-509
+32	és	és	CCONJ	_	_	_	_	_	tokId=w-510
+33	milyen	milyen	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Int	_	_	_	tokId=w-511
+34	szinten	szint	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-512
+35	vannak	van	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-513
+36	ezek	ez	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-514
+37	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-515
+38	motivátorok	motivátoro	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-516|SpaceAfter=No
+39	,	,	PUNCT	_	_	_	_	_	tokId=w-517
+40	kielégítőek	kielégítő	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-518
+41	-e	-e	ADV	_	PronType=Int	_	_	_	tokId=w-519
+42	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-520
+43	sem	sem	ADV	_	PronType=Neg	_	_	_	tokId=w-521|SpaceAfter=No
+44	.	.	PUNCT	_	_	_	_	_	tokId=w-522
+
+# sent_id = w360_s-32
+# text = A hatékonyságáról, kimozdító erejéről ismert megoldásközpontú munkában ők az érzékeny személyességet, test lélek és elme egységének türelmes és szelíd, holisztikus tiszteletét nagy személyes hitelességgel képviselik.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-523
+2	hatékonyságáról	hatékonyság	NOUN	_	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-524|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-525
+4	kimozdító	kimozdító	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-526
+5	erejéről	erő	NOUN	_	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-527
+6	ismert	ismert	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-528
+7	megoldásközpontú	megoldásközpontú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-529
+8	munkában	munka	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-530
+9	ők	ők	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	_	_	_	tokId=w-531
+10	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-532
+11	érzékeny	érzékeny	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-533
+12	személyességet	személyesség	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-534|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-535
+14	test	test	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-536
+15	lélek	lélek	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-537
+16	és	és	CCONJ	_	_	_	_	_	tokId=w-538
+17	elme	elme	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-539
+18	egységének	egység	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-540
+19	türelmes	türelmes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-541
+20	és	és	CCONJ	_	_	_	_	_	tokId=w-542
+21	szelíd	szelíd	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-543|SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-544
+23	holisztikus	holisztikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-545
+24	tiszteletét	tisztelet	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-546
+25	nagy	nagy	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-547
+26	személyes	személyes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-548
+27	hitelességgel	hitelesség	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-549
+28	képviselik	képvisel	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-550|SpaceAfter=No
+29	.	.	PUNCT	_	_	_	_	_	tokId=w-551
+

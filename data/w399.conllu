@@ -1,0 +1,117 @@
+# newdoc id = w399
+# sent_id = w399_s-1
+# text = vadászbakancsokat, túracipőket, teljesítménytúrára tervezett cipőket és kényelmes utcai cipőket is.
+1	vadászbakancsokat	vadászbakancs	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-1|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-2
+3	túracipőket	túracipő	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-3|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-4
+5	teljesítménytúrára	teljesítménytúra	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-5
+6	tervezett	tervezett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-6
+7	cipőket	cipő	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-7
+8	és	és	CCONJ	_	_	_	_	_	tokId=w-8
+9	kényelmes	kényelmes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-9
+10	utcai	utcai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-10
+11	cipőket	cipő	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-11
+12	is	is	ADV	_	_	_	_	_	tokId=w-12|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-13
+
+# sent_id = w399_s-2
+# text = A fizetés a teljes vételárnak a Z Kft. bankszámláján történő jóváírásakor minősül teljesítettnek.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-14
+2	fizetés	fizetés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-15
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-16
+4	teljes	teljes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-17
+5	vételárnak	vételár	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-18
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-19
+7	Z	Z&Z	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-20|NE=name[ORG]_1
+8	Kft.	Kft.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-21|NE=name[ORG]_1
+9	bankszámláján	bankszámla	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-22
+10	történő	történő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-23
+11	jóváírásakor	jóváírás	NOUN	_	Case=Tem|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-24
+12	minősül	minősül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-25
+13	teljesítettnek	teljesített	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	tokId=w-26|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-27
+
+# sent_id = w399_s-3
+# text = A Z Kft. a Szerződésben foglalt áruk tekintetében a tulajdonjogát a vételár és a kapcsolódó egyéb járulékos követeléseinek teljes kiegyenlítéséig fenntartja és jogosult az árukat elszállítani, amennyiben Megrendelő 30 napot meghaladó fizetési késedelembe esik.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-28
+2	Z	Z&Z	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-29|NE=name[ORG]_2
+3	Kft.	Kft.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-30|NE=name[ORG]_2
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-31
+5	Szerződésben	szerződés	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-32
+6	foglalt	foglalt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-33
+7	áruk	áru	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-34
+8	tekintetében	tekintetében	ADP	_	_	_	_	_	tokId=w-35
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-36
+10	tulajdonjogát	tulajdonjog	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-37
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-38
+12	vételár	vételár	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-39
+13	és	és	CCONJ	_	_	_	_	_	tokId=w-40
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-41
+15	kapcsolódó	kapcsolódó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-42
+16	egyéb	egyéb	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind|Person=3|PronType=Ind	_	_	_	tokId=w-43
+17	járulékos	járulékos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-44
+18	követeléseinek	követelés	NOUN	_	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-45
+19	teljes	teljes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-46
+20	kiegyenlítéséig	kiegyenlítés	NOUN	_	Case=Ter|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-47
+21	fenntartja	fenntart	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-48
+22	és	és	CCONJ	_	_	_	_	_	tokId=w-49
+23	jogosult	jogosult	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-50
+24	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-51
+25	árukat	áru	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-52
+26	elszállítani	elszállít	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-53|SpaceAfter=No
+27	,	,	PUNCT	_	_	_	_	_	tokId=w-54
+28	amennyiben	amennyiben	CCONJ	_	_	_	_	_	tokId=w-55
+29	Megrendelő	megrendelő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-56
+30	30	30	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-57
+31	napot	nap	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-58
+32	meghaladó	meghaladó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-59
+33	fizetési	fizetési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-60
+34	késedelembe	késedelem	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-61
+35	esik	esik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-62|SpaceAfter=No
+36	.	.	PUNCT	_	_	_	_	_	tokId=w-63
+
+# sent_id = w399_s-4
+# text = Amennyiben a Megrendelőnek a Z Kft.-vel szemben határidőn túli fizetési kötelezettsége keletkezik, a Megrendelő jogosult a Z Kft.-vel szemben a Szerződésből vagy más jogviszonyból eredő fizetési kötelezettségébe a Megrendelő lejárt tartozását beszámítani, és erről a Megrendelőt egyidejűleg tájékoztatni.
+1	Amennyiben	amennyiben	CCONJ	_	_	_	_	_	tokId=w-64
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-65
+3	Megrendelőnek	megrendelő	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-66
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-67
+5	Z	Z&Z	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-68|NE=name[ORG]_3
+6	Kft.-vel	Kft.	PROPN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-69|NE=name[ORG]_3
+7	szemben	szemben	ADP	_	_	_	_	_	tokId=w-70
+8	határidőn	határidő	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-71
+9	túli	túli	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-72
+10	fizetési	fizetési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-73
+11	kötelezettsége	kötelezettség	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-74
+12	keletkezik	keletkezik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-75|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-76
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-77
+15	Megrendelő	megrendelő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-78
+16	jogosult	jogosult	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-79
+17	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-80
+18	Z	Z&Z	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-81|NE=name[ORG]_4
+19	Kft.-vel	Kft.	PROPN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-82|NE=name[ORG]_4
+20	szemben	szemben	ADP	_	_	_	_	_	tokId=w-83
+21	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-84
+22	Szerződésből	szerződés	NOUN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-85
+23	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-86
+24	más	más	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind|Person=3|PronType=Ind	_	_	_	tokId=w-87
+25	jogviszonyból	jogviszony	NOUN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-88
+26	eredő	eredő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-89
+27	fizetési	fizetési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-90
+28	kötelezettségébe	kötelezettség	NOUN	_	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-91
+29	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-92
+30	Megrendelő	megrendelő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-93
+31	lejárt	lejárt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-94
+32	tartozását	tartozás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-95
+33	beszámítani	beszámít	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-96|SpaceAfter=No
+34	,	,	PUNCT	_	_	_	_	_	tokId=w-97
+35	és	és	CCONJ	_	_	_	_	_	tokId=w-98
+36	erről	ez	PRON	_	Case=Del|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-99
+37	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-100
+38	Megrendelőt	megrendelő	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-101
+39	egyidejűleg	egyidejűleg	ADV	_	_	_	_	_	tokId=w-102
+40	tájékoztatni	tájékoztat	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-103|SpaceAfter=No
+41	.	.	PUNCT	_	_	_	_	_	tokId=w-104
+

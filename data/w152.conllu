@@ -1,0 +1,600 @@
+# newdoc id = w152
+# sent_id = w152_s-1
+# text = Végezetül egy képcsokor hat Inovellről.
+1	Végezetül	végezetül	ADV	_	_	_	_	_	tokId=w-1
+2	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-2
+3	képcsokor	képcsokor	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-3
+4	hat	hat	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-4
+5	Inovellről	Inovell	PROPN	_	Case=Del|Number=Sing	_	_	_	tokId=w-5|NE=name[MISC]_1|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-6
+
+# sent_id = w152_s-2
+# text = A viszonylatra delegált buszok (5 darab + 2 darab tartalék) kaptak egy kisebb-nagyobb figyelemfelkeltő matricázást.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-7
+2	viszonylatra	viszonylat	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-8
+3	delegált	delegált	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-9
+4	buszok	busz	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-10
+5	(	(	PUNCT	_	_	_	_	_	tokId=w-11|SpaceAfter=No
+6	5	5	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-12
+7	darab	darab	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-13
+8	+	+	PUNCT	_	_	_	_	_	tokId=w-14
+9	2	2	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-15
+10	darab	darab	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-16
+11	tartalék	tartalék	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-17|SpaceAfter=No
+12	)	)	PUNCT	_	_	_	_	_	tokId=w-18
+13	kaptak	kap	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-19
+14	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-20
+15	kisebb-nagyobb	kisebb-nagyobb	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-21
+16	figyelemfelkeltő	figyelemfelkeltő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-22
+17	matricázást	matricázás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-23|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-24
+
+# sent_id = w152_s-3
+# text = A járat eddigi rövid pályafutása alatt viszont már fordult elő, hogy máshol bukkant fel a reptéri matricás csuklós.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-25
+2	járat	járat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-26
+3	eddigi	eddigi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-27
+4	rövid	rövid	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-28
+5	pályafutása	pályafutás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-29
+6	alatt	alatt	ADP	_	_	_	_	_	tokId=w-30
+7	viszont	viszont	CCONJ	_	_	_	_	_	tokId=w-31
+8	már	már	ADV	_	_	_	_	_	tokId=w-32
+9	fordult	fordul	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-33
+10	elő	elő	ADV	_	Degree=Pos	_	_	_	tokId=w-34|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-35
+12	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-36
+13	máshol	máshol	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-37
+14	bukkant	bukkan	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-38
+15	fel	fel	ADV	_	Degree=Pos	_	_	_	tokId=w-39
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-40
+17	reptéri	reptéri	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-41
+18	matricás	matricás	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-42
+19	csuklós	csuklós	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-43|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-44
+
+# sent_id = w152_s-4
+# text = A jelenlegi matricázás egyik nagy hiányossága, hogy a homlokfalon semmi nem hirdeti (a kijelzőt kivéve), hogy reptéri expresszjáratról van szó.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-45
+2	jelenlegi	jelenlegi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-46
+3	matricázás	matricázás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-47
+4	egyik	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-48
+5	nagy	nagy	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-49
+6	hiányossága	hiányosság	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-50|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-51
+8	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-52
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-53
+10	homlokfalon	homlokfal	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-54
+11	semmi	semmi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-55
+12	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-56
+13	hirdeti	hirdet	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-57
+14	(	(	PUNCT	_	_	_	_	_	tokId=w-58|SpaceAfter=No
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-59
+16	kijelzőt	kijelző	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-60
+17	kivéve	kivéve	ADV	_	_	_	_	_	tokId=w-61|SpaceAfter=No
+18	)	)	PUNCT	_	_	_	_	_	tokId=w-62|SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	tokId=w-63
+20	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-64
+21	reptéri	reptéri	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-65
+22	expresszjáratról	expresszjárat	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-66
+23	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-67
+24	szó	szó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-68|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-69
+
+# sent_id = w152_s-5
+# text = Az utastér megjelenése és kialakítása.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-70
+2	utastér	utastér	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-71
+3	megjelenése	megjelenés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-72
+4	és	és	CCONJ	_	_	_	_	_	tokId=w-73
+5	kialakítása	kialakítás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-74|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-75
+
+# sent_id = w152_s-6
+# text = Jóval nagyobb darabokat építettek be a 200E-re szánt Volvo 7700A-kba.
+1	Jóval	jóval	ADV	_	_	_	_	_	tokId=w-76
+2	nagyobb	nagy	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-77
+3	darabokat	darab	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-78
+4	építettek	épít	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-79
+5	be	be	ADV	_	Degree=Pos	_	_	_	tokId=w-80
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-81
+7	200E-re	200E	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-82
+8	szánt	szánt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-83
+9	Volvo	Volvo	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-84|NE=name[MISC]_2
+10	7700A-kba	7700A	PROPN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-85|NE=name[MISC]_2|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-86
+
+# sent_id = w152_s-7
+# text = 2012-ben kíséreltem meg először felderíteni, de azonfelül, hogy láttam a buszt (ami az esetek 99%-ában az 5-ös út mellett állt éppen, félig az árokban) sok más nem derült ki.
+1	2012-ben	2012	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-87
+2	kíséreltem	kísérel	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-88
+3	meg	meg	PART	_	_	_	_	_	tokId=w-89
+4	először	először	ADV	_	_	_	_	_	tokId=w-90
+5	felderíteni	felderít	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-91|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-92
+7	de	de	CCONJ	_	_	_	_	_	tokId=w-93
+8	azonfelül	azonfelül	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-94|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-95
+10	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-96
+11	láttam	lát	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-97
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-98
+13	buszt	busz	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-99
+14	(	(	PUNCT	_	_	_	_	_	tokId=w-100|SpaceAfter=No
+15	ami	ami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-101
+16	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-102
+17	esetek	eset	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-103
+18	99%-ában	99%	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-104
+19	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-105
+20	5-ös	5-ös	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-106
+21	út	út	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-107
+22	mellett	mellett	ADP	_	_	_	_	_	tokId=w-108
+23	állt	áll	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-109
+24	éppen	éppen	ADV	_	_	_	_	_	tokId=w-110|SpaceAfter=No
+25	,	,	PUNCT	_	_	_	_	_	tokId=w-111
+26	félig	félig	ADV	_	_	_	_	_	tokId=w-112
+27	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-113
+28	árokban	árok	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-114|SpaceAfter=No
+29	)	)	PUNCT	_	_	_	_	_	tokId=w-115
+30	sok	sok	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-116
+31	más	más	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind|Person=3|PronType=Ind	_	_	_	tokId=w-117
+32	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-118
+33	derült	derül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-119
+34	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-120|SpaceAfter=No
+35	.	.	PUNCT	_	_	_	_	_	tokId=w-121
+
+# sent_id = w152_s-8
+# text = Menetrend például sehol nem volt elérhető (sem online, sem a megállókban – utóbbiak sincsenek túlzottan hirdetve).
+1	Menetrend	menetrend	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-122
+2	például	például	ADV	_	_	_	_	_	tokId=w-123
+3	sehol	sehol	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-124
+4	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-125
+5	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-126
+6	elérhető	elérhető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-127
+7	(	(	PUNCT	_	_	_	_	_	tokId=w-128|SpaceAfter=No
+8	sem	sem	CCONJ	_	_	_	_	_	tokId=w-129
+9	online	online	ADV	_	_	_	_	_	tokId=w-130|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-131
+11	sem	sem	CCONJ	_	_	_	_	_	tokId=w-132
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-133
+13	megállókban	megálló	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-134
+14	–	–	X	_	_	_	_	_	tokId=w-135
+15	utóbbiak	utóbbi	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-136
+16	sincsenek	sincs	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-137
+17	túlzottan	túlzott	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-138
+18	hirdetve	hirdetve	ADV	_	VerbForm=Conv	_	_	_	tokId=w-139|SpaceAfter=No
+19	)	)	PUNCT	_	_	_	_	_	tokId=w-140|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-141
+
+# sent_id = w152_s-9
+# text = A központi állomástól nem messze egy lakóház (!) alatt haladnak át a villamosok.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-142
+2	központi	központi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-143
+3	állomástól	állomás	NOUN	_	Case=Abl|Number=Sing	_	_	_	tokId=w-144
+4	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-145
+5	messze	messze	ADV	_	_	_	_	_	tokId=w-146
+6	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-147
+7	lakóház	lakóház	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-148
+8	(	(	PUNCT	_	_	_	_	_	tokId=w-149|SpaceAfter=No
+9	!	!	PUNCT	_	_	_	_	_	tokId=w-150|SpaceAfter=No
+10	)	)	PUNCT	_	_	_	_	_	tokId=w-151
+11	alatt	alatt	ADP	_	_	_	_	_	tokId=w-152
+12	haladnak	halad	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-153
+13	át	át	ADV	_	_	_	_	_	tokId=w-154
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-155
+15	villamosok	villamos	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-156|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-157
+
+# sent_id = w152_s-10
+# text = A jegy- és bérletrendszer az országosan (!) használt OV-chipkaart itt is.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-158
+2	jegy-	jegy	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-159
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-160
+4	bérletrendszer	bérletrendszer	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-161
+5	az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-162
+6	országosan	országos	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-163
+7	(	(	PUNCT	_	_	_	_	_	tokId=w-164|SpaceAfter=No
+8	!	!	PUNCT	_	_	_	_	_	tokId=w-165|SpaceAfter=No
+9	)	)	PUNCT	_	_	_	_	_	tokId=w-166
+10	használt	használt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-167
+11	OV-chipkaart	OV-chipkaart	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-168
+12	itt	itt	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-169
+13	is	is	ADV	_	_	_	_	_	tokId=w-170|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-171
+
+# sent_id = w152_s-11
+# text = A szabályozás bevezetése óta ez 8 évben volt maximálva (tehát 8. évét betöltve az autóbuszra nem volt megújítható a T100 minősítés).
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-172
+2	szabályozás	szabályozás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-173
+3	bevezetése	bevezetés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-174
+4	óta	óta	ADP	_	_	_	_	_	tokId=w-175
+5	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-176
+6	8	8	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-177
+7	évben	év	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-178
+8	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-179
+9	maximálva	maximálva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-180
+10	(	(	PUNCT	_	_	_	_	_	tokId=w-181|SpaceAfter=No
+11	tehát	tehát	CCONJ	_	_	_	_	_	tokId=w-182
+12	8.	8.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-183
+13	évét	év	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-184
+14	betöltve	betöltve	ADV	_	VerbForm=Conv	_	_	_	tokId=w-185
+15	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-186
+16	autóbuszra	autóbusz	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-187
+17	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-188
+18	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-189
+19	megújítható	megújítható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-190
+20	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-191
+21	T100	T100	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-192
+22	minősítés	minősítés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-193|SpaceAfter=No
+23	)	)	PUNCT	_	_	_	_	_	tokId=w-194|SpaceAfter=No
+24	.	.	PUNCT	_	_	_	_	_	tokId=w-195
+
+# sent_id = w152_s-12
+# text = 2015-ig eltűnt a publikum elől a busz, majd ismételt feltűnésekor már egyből összeköthető volt a Sedulitas-Pro Kft-vel (a külső érdeklődők számára), és innen már sejteni lehetett, hogy elektromos busz lehet a dologból – a Cég portfólióját végigtekintve.
+1	2015-ig	2015	NUM	_	Case=Ter|Number=Sing|NumType=Card	_	_	_	tokId=w-196
+2	eltűnt	eltűnik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-197
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-198
+4	publikum	publikum	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-199
+5	elől	elől	ADP	_	_	_	_	_	tokId=w-200
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-201
+7	busz	busz	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-202|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-203
+9	majd	majd	CCONJ	_	_	_	_	_	tokId=w-204
+10	ismételt	ismételt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-205
+11	feltűnésekor	feltűnés	NOUN	_	Case=Tem|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-206
+12	már	már	ADV	_	_	_	_	_	tokId=w-207
+13	egyből	egyből	ADV	_	_	_	_	_	tokId=w-208
+14	összeköthető	összeköthető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-209
+15	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-210
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-211
+17	Sedulitas-Pro	Sedulitas-Pro	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-212|NE=name[ORG]_3
+18	Kft-vel	Kft.	PROPN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-213|NE=name[ORG]_3
+19	(	(	PUNCT	_	_	_	_	_	tokId=w-214|SpaceAfter=No
+20	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-215
+21	külső	külső	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-216
+22	érdeklődők	érdeklődő	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-217
+23	számára	számára	ADP	_	_	_	_	_	tokId=w-218|SpaceAfter=No
+24	)	)	PUNCT	_	_	_	_	_	tokId=w-219|SpaceAfter=No
+25	,	,	PUNCT	_	_	_	_	_	tokId=w-220
+26	és	és	CCONJ	_	_	_	_	_	tokId=w-221
+27	innen	innen	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-222
+28	már	már	ADV	_	_	_	_	_	tokId=w-223
+29	sejteni	sejt	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-224
+30	lehetett	lehet	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-225|SpaceAfter=No
+31	,	,	PUNCT	_	_	_	_	_	tokId=w-226
+32	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-227
+33	elektromos	elektromos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-228
+34	busz	busz	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-229
+35	lehet	lesz	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-230
+36	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-231
+37	dologból	dolog	NOUN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-232
+38	–	–	X	_	_	_	_	_	tokId=w-233
+39	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-234
+40	Cég	cég	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-235
+41	portfólióját	portfólió	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-236
+42	végigtekintve	végigtekintve	ADV	_	VerbForm=Conv	_	_	_	tokId=w-237|SpaceAfter=No
+43	.	.	PUNCT	_	_	_	_	_	tokId=w-238
+
+# sent_id = w152_s-13
+# text = A meghajtásról egy maximálisan 200 kW-os, háromfázisú szinkron motor gondoskodik, kiegészítő áttételezéssel meghajtva a Rába hidat.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-239
+2	meghajtásról	meghajtás	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-240
+3	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-241
+4	maximálisan	maximális	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-242
+5	200	200	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-243
+6	kW-os	kW-os	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-244|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-245
+8	háromfázisú	háromfázisú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-246
+9	szinkron	szinkron	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-247
+10	motor	motor	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-248
+11	gondoskodik	gondoskodik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-249|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-250
+13	kiegészítő	kiegészítő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-251
+14	áttételezéssel	áttételezés	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-252
+15	meghajtva	meghajtva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-253
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-254
+17	Rába	Rába	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-255|NE=name[MISC]_4
+18	hidat	híd	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-256|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-257
+
+# sent_id = w152_s-14
+# text = A szükséges energiát egy 300 Ah kapacitású akkumulátorcsomag adja, lítium-vasfoszfátban tárolva az energiát, 310 V-os névleges feszültségen.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-258
+2	szükséges	szükséges	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-259
+3	energiát	energia	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-260
+4	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-261
+5	300	300	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-262
+6	Ah	Ah	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-263
+7	kapacitású	kapacitású	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-264
+8	akkumulátorcsomag	akkumulátorcsomag	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-265
+9	adja	ad	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-266|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-267
+11	lítium-vasfoszfátban	lítium-vasfoszfát	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-268
+12	tárolva	tárolva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-269
+13	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-270
+14	energiát	energia	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-271|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-272
+16	310	310	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-273
+17	V-os	V-os	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-274
+18	névleges	névleges	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-275
+19	feszültségen	feszültség	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-276|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-277
+
+# sent_id = w152_s-15
+# text = Reméljük sokat tanulnak is a projekttel és lesz mibe visszaforgatni a megszerzett tapasztalatokat ..
+1	Reméljük	remél	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-278
+2	sokat	sok	NUM	_	Case=Acc|Number=Sing|NumType=Card	_	_	_	tokId=w-279
+3	tanulnak	tanul	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-280
+4	is	is	ADV	_	_	_	_	_	tokId=w-281
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-282
+6	projekttel	projekt	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-283
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-284
+8	lesz	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-285
+9	mibe	ami	PRON	_	Case=Ill|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-286
+10	visszaforgatni	visszaforgat	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-287
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-288
+12	megszerzett	megszerzett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-289
+13	tapasztalatokat	tapasztalat	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-290
+14	..	..	PUNCT	_	_	_	_	_	tokId=w-291
+
+# sent_id = w152_s-16
+# text = Az előző, lőpavilonként szolgált csuklós oldtimer minősítéshez megfelelő korba lépett (már két éve), az esedékes javítások pedig gazdaságilag már nem bizonyultak " kifizetődőnek ", így a BKV Zrt. egy újat készített helyette – házonbelül, a már meglehetősen nagy buszépítési- és felújítási gyakorlattal bíró Kelenföldi Divízióban.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-292
+2	előző	előző	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-293|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-294
+4	lőpavilonként	lőpavilon	NOUN	_	Case=Ess|Number=Sing	_	_	_	tokId=w-295
+5	szolgált	szolgált	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-296
+6	csuklós	csuklós	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-297
+7	oldtimer	oldtimer	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-298
+8	minősítéshez	minősítés	NOUN	_	Case=All|Number=Sing	_	_	_	tokId=w-299
+9	megfelelő	megfelelő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-300
+10	korba	kor	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-301
+11	lépett	lép	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-302
+12	(	(	PUNCT	_	_	_	_	_	tokId=w-303|SpaceAfter=No
+13	már	már	ADV	_	_	_	_	_	tokId=w-304
+14	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-305
+15	éve	év	ADV	_	_	_	_	_	tokId=w-306|SpaceAfter=No
+16	)	)	PUNCT	_	_	_	_	_	tokId=w-307|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-308
+18	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-309
+19	esedékes	esedékes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-310
+20	javítások	javítás	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-311
+21	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-312
+22	gazdaságilag	gazdaságilag	ADV	_	_	_	_	_	tokId=w-313
+23	már	már	ADV	_	_	_	_	_	tokId=w-314
+24	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-315
+25	bizonyultak	bizonyul	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-316
+26	"	"	PUNCT	_	_	_	_	_	tokId=w-317
+27	kifizetődőnek	kifizetődő	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	tokId=w-318
+28	"	"	PUNCT	_	_	_	_	_	tokId=w-319|SpaceAfter=No
+29	,	,	PUNCT	_	_	_	_	_	tokId=w-320
+30	így	így	CCONJ	_	_	_	_	_	tokId=w-321
+31	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-322
+32	BKV	BKV	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-323|NE=name[ORG]_5
+33	Zrt.	Zrt.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-324|NE=name[ORG]_5
+34	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-325
+35	újat	új	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	_	_	_	tokId=w-326
+36	készített	készít	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-327
+37	helyette	helyett	ADP	_	_	_	_	_	tokId=w-328
+38	–	–	X	_	_	_	_	_	tokId=w-329
+39	házonbelül	házonbelül	ADV	_	_	_	_	_	tokId=w-330|SpaceAfter=No
+40	,	,	PUNCT	_	_	_	_	_	tokId=w-331
+41	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-332
+42	már	már	ADV	_	_	_	_	_	tokId=w-333
+43	meglehetősen	meglehetősen	ADV	_	_	_	_	_	tokId=w-334
+44	nagy	nagy	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-335
+45	buszépítési-	buszépítési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-336
+46	és	és	CCONJ	_	_	_	_	_	tokId=w-337
+47	felújítási	felújítási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-338
+48	gyakorlattal	gyakorlat	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-339
+49	bíró	bíró	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-340
+50	Kelenföldi	kelenföldi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-341|NE=name[ORG]_6
+51	Divízióban	divízió	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-342|NE=name[ORG]_6|SpaceAfter=No
+52	.	.	PUNCT	_	_	_	_	_	tokId=w-343
+
+# sent_id = w152_s-17
+# text = Kiugró jelenség volt a többi gép közül, ugyanis a „ hagyományos ” szürke-piros fényezést kapta meg a beavatkozás alkalmával – a 435-ös trolik esetében megszokott fehér-piros helyett.
+1	Kiugró	kiugró	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-344
+2	jelenség	jelenség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-345
+3	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-346
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-347
+5	többi	többi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-348
+6	gép	gép	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-349
+7	közül	közül	ADP	_	_	_	_	_	tokId=w-350|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-351
+9	ugyanis	ugyanis	CCONJ	_	_	_	_	_	tokId=w-352
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-353
+11	„	„	PUNCT	_	_	_	_	_	tokId=w-354
+12	hagyományos	hagyományos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-355
+13	”	”	PUNCT	_	_	_	_	_	tokId=w-356
+14	szürke-piros	szürke-piros	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-357
+15	fényezést	fényezés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-358
+16	kapta	kap	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-359
+17	meg	meg	PART	_	_	_	_	_	tokId=w-360
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-361
+19	beavatkozás	beavatkozás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-362
+20	alkalmával	alkalom	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-363
+21	–	–	X	_	_	_	_	_	tokId=w-364
+22	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-365
+23	435-ös	435-ös	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-366
+24	trolik	troli	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-367
+25	esetében	eset	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-368
+26	megszokott	megszokott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-369
+27	fehér-piros	fehér-piros	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-370
+28	helyett	helyett	ADP	_	_	_	_	_	tokId=w-371|SpaceAfter=No
+29	.	.	PUNCT	_	_	_	_	_	tokId=w-372
+
+# sent_id = w152_s-18
+# text = Ne legyen magyar busz?
+1	Ne	ne	ADV	_	PronType=Neg	_	_	_	tokId=w-373
+2	legyen	lesz	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-374
+3	magyar	magyar	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-375
+4	busz	busz	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-376|SpaceAfter=No
+5	?	?	PUNCT	_	_	_	_	_	tokId=w-377
+
+# sent_id = w152_s-19
+# text = augusztus 29.: két nyílt közbeszerzést írt ki a BKV Zrt.: 75 darab (+ 100%) kulcsra kész, és 75 darab (+ 100%) PKD-konstrukcióban készülő csuklós buszt vásárolna, tehát opciókkal együtt 150 + 150 busszal frissülne a járműpark (cikk1, cikk2).
+1	augusztus	augusztus	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-378
+2	29.	29.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-379|SpaceAfter=No
+3	:	:	PUNCT	_	_	_	_	_	tokId=w-380
+4	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-381
+5	nyílt	nyílt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-382
+6	közbeszerzést	közbeszerzés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-383
+7	írt	ír	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-384
+8	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-385
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-386
+10	BKV	BKV	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-387|NE=name[ORG]_7
+11	Zrt.	Zrt.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-388|NE=name[ORG]_7|SpaceAfter=No
+12	:	:	PUNCT	_	_	_	_	_	tokId=w-389
+13	75	75	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-390
+14	darab	darab	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-391
+15	(	(	PUNCT	_	_	_	_	_	tokId=w-392|SpaceAfter=No
+16	+	+	PUNCT	_	_	_	_	_	tokId=w-393
+17	100%	100%	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-394|SpaceAfter=No
+18	)	)	PUNCT	_	_	_	_	_	tokId=w-395
+19	kulcsra	kulcs	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-396
+20	kész	kész	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-397|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-398
+22	és	és	CCONJ	_	_	_	_	_	tokId=w-399
+23	75	75	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-400
+24	darab	darab	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-401
+25	(	(	PUNCT	_	_	_	_	_	tokId=w-402|SpaceAfter=No
+26	+	+	PUNCT	_	_	_	_	_	tokId=w-403
+27	100%	100%	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-404|SpaceAfter=No
+28	)	)	PUNCT	_	_	_	_	_	tokId=w-405
+29	PKD-konstrukcióban	PKD-konstrukció	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-406
+30	készülő	készülő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-407
+31	csuklós	csuklós	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-408
+32	buszt	busz	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-409
+33	vásárolna	vásárol	VERB	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-410|SpaceAfter=No
+34	,	,	PUNCT	_	_	_	_	_	tokId=w-411
+35	tehát	tehát	CCONJ	_	_	_	_	_	tokId=w-412
+36	opciókkal	opció	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-413
+37	együtt	együtt	ADP	_	_	_	_	_	tokId=w-414
+38	150	150	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-415
+39	+	+	PUNCT	_	_	_	_	_	tokId=w-416
+40	150	150	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-417
+41	busszal	busz	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-418
+42	frissülne	frissül	VERB	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-419
+43	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-420
+44	járműpark	járműpark	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-421
+45	(	(	PUNCT	_	_	_	_	_	tokId=w-422|SpaceAfter=No
+46	cikk1	cikk1	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-423|SpaceAfter=No
+47	,	,	PUNCT	_	_	_	_	_	tokId=w-424
+48	cikk2	cikk2	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-425|SpaceAfter=No
+49	)	)	PUNCT	_	_	_	_	_	tokId=w-426|SpaceAfter=No
+50	.	.	PUNCT	_	_	_	_	_	tokId=w-427
+
+# sent_id = w152_s-20
+# text = február 19.: elkészült és bemutatták a csuklós Modulót, melyet a PKD-tenderre szán a MABI-Bus Kft. (cikk).
+1	február	február	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-428
+2	19.	19.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-429|SpaceAfter=No
+3	:	:	PUNCT	_	_	_	_	_	tokId=w-430
+4	elkészült	elkészül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-431
+5	és	és	CCONJ	_	_	_	_	_	tokId=w-432
+6	bemutatták	bemutat	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-433
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-434
+8	csuklós	csuklós	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-435
+9	Modulót	Modulo	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-436|NE=name[MISC]_8|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-437
+11	melyet	mely	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-438
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-439
+13	PKD-tenderre	PKD-tender	PROPN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-440
+14	szán	szán	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-441
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-442
+16	MABI-Bus	MABI-Bus	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-443|NE=name[ORG]_9
+17	Kft.	Kft.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-444|NE=name[ORG]_9
+18	(	(	PUNCT	_	_	_	_	_	tokId=w-445|SpaceAfter=No
+19	cikk	cikk	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-446|SpaceAfter=No
+20	)	)	PUNCT	_	_	_	_	_	tokId=w-447|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-448
+
+# sent_id = w152_s-21
+# text = Felmerült a metrópótlás kiszervezése, és így a hazai buszgyártási témakör „ kikerülése ” (cikk).
+1	Felmerült	felmerül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-449
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-450
+3	metrópótlás	metrópótlás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-451
+4	kiszervezése	kiszervezés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-452|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-453
+6	és	és	CCONJ	_	_	_	_	_	tokId=w-454
+7	így	így	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-455
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-456
+9	hazai	hazai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-457
+10	buszgyártási	buszgyártási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-458
+11	témakör	témakör	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-459
+12	„	„	PUNCT	_	_	_	_	_	tokId=w-460
+13	kikerülése	kikerülés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-461
+14	”	”	PUNCT	_	_	_	_	_	tokId=w-462
+15	(	(	PUNCT	_	_	_	_	_	tokId=w-463|SpaceAfter=No
+16	cikk	cikk	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-464|SpaceAfter=No
+17	)	)	PUNCT	_	_	_	_	_	tokId=w-465|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-466
+
+# sent_id = w152_s-22
+# text = május 12.: döntöttek a nemzeti buszgyártási stratégiáról, ezért elhalasztották a Solaristól való buszbeszerzés tervét (cikk).
+1	május	május	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-467
+2	12.	12.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-468|SpaceAfter=No
+3	:	:	PUNCT	_	_	_	_	_	tokId=w-469
+4	döntöttek	dönt	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-470
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-471
+6	nemzeti	nemzeti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-472
+7	buszgyártási	buszgyártási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-473
+8	stratégiáról	stratégia	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-474|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-475
+10	ezért	ezért	CCONJ	_	_	_	_	_	tokId=w-476
+11	elhalasztották	elhalaszt	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-477
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-478
+13	Solaristól	Solaris	PROPN	_	Case=Abl|Number=Sing	_	_	_	tokId=w-479|NE=name[ORG]_10
+14	való	való	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-480
+15	buszbeszerzés	buszbeszerzés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-481
+16	tervét	terv	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-482
+17	(	(	PUNCT	_	_	_	_	_	tokId=w-483|SpaceAfter=No
+18	cikk	cikk	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-484|SpaceAfter=No
+19	)	)	PUNCT	_	_	_	_	_	tokId=w-485|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-486
+
+# sent_id = w152_s-23
+# text = Kifejezetten örültem, hogy új buszok beszerzése mellett döntöttek, ráadásul köztük hazaira is voksoltak – noha a buszüzemeltetők annyira ki vannak éheztetve, hogy a tisztán külföldi gyártó buszaira is boldogan bólogatnának, csak ne egy 20-30 éves buszt kelljen üzemeltetniük már.
+1	Kifejezetten	kifejezett	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-487
+2	örültem	örül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-488|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-489
+4	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-490
+5	új	új	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-491
+6	buszok	busz	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-492
+7	beszerzése	beszerzés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-493
+8	mellett	mellett	ADP	_	_	_	_	_	tokId=w-494
+9	döntöttek	dönt	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-495|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-496
+11	ráadásul	ráadásul	ADV	_	_	_	_	_	tokId=w-497
+12	köztük	közt	ADP	_	_	_	_	_	tokId=w-498
+13	hazaira	hazai	ADJ	_	Case=Sbl|Degree=Pos|Number=Sing	_	_	_	tokId=w-499
+14	is	is	ADV	_	_	_	_	_	tokId=w-500
+15	voksoltak	voksol	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-501
+16	–	–	X	_	_	_	_	_	tokId=w-502
+17	noha	noha	CCONJ	_	_	_	_	_	tokId=w-503
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-504
+19	buszüzemeltetők	buszüzemeltető	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-505
+20	annyira	annyira	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-506
+21	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-507
+22	vannak	van	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-508
+23	éheztetve	éheztetve	ADV	_	VerbForm=Conv	_	_	_	tokId=w-509|SpaceAfter=No
+24	,	,	PUNCT	_	_	_	_	_	tokId=w-510
+25	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-511
+26	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-512
+27	tisztán	tisztán	ADV	_	_	_	_	_	tokId=w-513
+28	külföldi	külföldi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-514
+29	gyártó	gyártó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-515
+30	buszaira	busz	NOUN	_	Case=Sbl|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-516
+31	is	is	ADV	_	_	_	_	_	tokId=w-517
+32	boldogan	boldog	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-518
+33	bólogatnának	bólogat	VERB	_	Definite=Ind|Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-519|SpaceAfter=No
+34	,	,	PUNCT	_	_	_	_	_	tokId=w-520
+35	csak	csak	ADV	_	_	_	_	_	tokId=w-521
+36	ne	ne	ADV	_	PronType=Neg	_	_	_	tokId=w-522
+37	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-523
+38	20-30	20-30	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-524
+39	éves	éves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-525
+40	buszt	busz	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-526
+41	kelljen	kell	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-527
+42	üzemeltetniük	üzemeltet	VERB	_	Number=Plur|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	tokId=w-528
+43	már	már	ADV	_	_	_	_	_	tokId=w-529|SpaceAfter=No
+44	.	.	PUNCT	_	_	_	_	_	tokId=w-530
+

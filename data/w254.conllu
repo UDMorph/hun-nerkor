@@ -1,0 +1,524 @@
+# newdoc id = w254
+# sent_id = w254_s-1
+# text = A forgalmazó (jelen esetben a Vmilkfactory Kft.) tehát nem köteles jótállást adni, ha a vevő gazdasági vagy szakmai tevékenysége körében vásárol (szerződik).
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-1
+2	forgalmazó	forgalmazó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-2
+3	(	(	PUNCT	_	_	_	_	_	tokId=w-3|SpaceAfter=No
+4	jelen	jelen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-4
+5	esetben	eset	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-5
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-6
+7	Vmilkfactory	Vmilkfactory	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-7|NE=name[ORG]_1
+8	Kft.	Kft.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-8|NE=name[ORG]_1|SpaceAfter=No
+9	)	)	PUNCT	_	_	_	_	_	tokId=w-9
+10	tehát	tehát	CCONJ	_	_	_	_	_	tokId=w-10
+11	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-11
+12	köteles	köteles	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-12
+13	jótállást	jótállás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-13
+14	adni	ad	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-14|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-15
+16	ha	ha	SCONJ	_	_	_	_	_	tokId=w-16
+17	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-17
+18	vevő	vevő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-18
+19	gazdasági	gazdasági	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-19
+20	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-20
+21	szakmai	szakmai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-21
+22	tevékenysége	tevékenység	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-22
+23	körében	kör	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-23
+24	vásárol	vásárol	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-24
+25	(	(	PUNCT	_	_	_	_	_	tokId=w-25|SpaceAfter=No
+26	szerződik	szerződik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-26|SpaceAfter=No
+27	)	)	PUNCT	_	_	_	_	_	tokId=w-27|SpaceAfter=No
+28	.	.	PUNCT	_	_	_	_	_	tokId=w-28
+
+# sent_id = w254_s-2
+# text = A Szolgáltató a megrendelt és házhoz szállítani kért árut szállítási díj ellenében házhoz szállítja saját szállítóeszközzel vagy szállítmányozó cég igénybevételével.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-29
+2	Szolgáltató	szolgáltató	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-30
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-31
+4	megrendelt	megrendelt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-32
+5	és	és	CCONJ	_	_	_	_	_	tokId=w-33
+6	házhoz	ház	NOUN	_	Case=All|Number=Sing	_	_	_	tokId=w-34
+7	szállítani	szállít	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-35
+8	kért	kért	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-36
+9	árut	áru	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-37
+10	szállítási	szállítási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-38
+11	díj	díj	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-39
+12	ellenében	ellenében	ADP	_	_	_	_	_	tokId=w-40
+13	házhoz	ház	NOUN	_	Case=All|Number=Sing	_	_	_	tokId=w-41
+14	szállítja	szállít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-42
+15	saját	saját	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-43
+16	szállítóeszközzel	szállítóeszköz	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-44
+17	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-45
+18	szállítmányozó	szállítmányozó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-46
+19	cég	cég	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-47
+20	igénybevételével	igénybevétel	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-48|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-49
+
+# sent_id = w254_s-3
+# text = Amennyiben az Ügyfél a második rendelés leadásakor jelzi és erre a Szolgáltató visszajelzése alapján még van lehetőség, a Szolgáltató összevonhatja a megrendeléseket, a már elindított csomagok utólagos összevonására azonban már nincs mód.
+1	Amennyiben	amennyiben	CCONJ	_	_	_	_	_	tokId=w-50
+2	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-51
+3	Ügyfél	ügyfél	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-52
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-53
+5	második	második	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-54
+6	rendelés	rendelés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-55
+7	leadásakor	leadás	NOUN	_	Case=Tem|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-56
+8	jelzi	jelez	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-57
+9	és	és	CCONJ	_	_	_	_	_	tokId=w-58
+10	erre	ez	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-59
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-60
+12	Szolgáltató	szolgáltató	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-61
+13	visszajelzése	visszajelzés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-62
+14	alapján	alapján	ADP	_	_	_	_	_	tokId=w-63
+15	még	még	ADV	_	_	_	_	_	tokId=w-64
+16	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-65
+17	lehetőség	lehetőség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-66|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-67
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-68
+20	Szolgáltató	szolgáltató	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-69
+21	összevonhatja	összevon	VERB	_	Definite=Def|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-70
+22	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-71
+23	megrendeléseket	megrendelés	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-72|SpaceAfter=No
+24	,	,	PUNCT	_	_	_	_	_	tokId=w-73
+25	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-74
+26	már	már	ADV	_	_	_	_	_	tokId=w-75
+27	elindított	elindított	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-76
+28	csomagok	csomag	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-77
+29	utólagos	utólagos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-78
+30	összevonására	összevonás	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-79
+31	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-80
+32	már	már	ADV	_	_	_	_	_	tokId=w-81
+33	nincs	nincs	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-82
+34	mód	mód	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-83|SpaceAfter=No
+35	.	.	PUNCT	_	_	_	_	_	tokId=w-84
+
+# sent_id = w254_s-4
+# text = Szolgáltató a rendelés teljesíthetőségét követően lehetőséget biztosít Ügyfélnek – telefonon - a kiszállítási időpont megválasztására, de órára történő kiszállítást a Szolgáltatónak nem áll módjában vállalni.
+1	Szolgáltató	szolgáltató	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-85
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-86
+3	rendelés	rendelés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-87
+4	teljesíthetőségét	teljesíthetőség	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-88
+5	követően	követő	X	_	_	_	_	_	tokId=w-89
+6	lehetőséget	lehetőség	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-90
+7	biztosít	biztosít	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-91
+8	Ügyfélnek	ügyfél	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-92
+9	–	–	X	_	_	_	_	_	tokId=w-93
+10	telefonon	telefon	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-94
+11	-	-	X	_	_	_	_	_	tokId=w-95
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-96
+13	kiszállítási	kiszállítási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-97
+14	időpont	időpont	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-98
+15	megválasztására	megválasztás	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-99|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-100
+17	de	de	CCONJ	_	_	_	_	_	tokId=w-101
+18	órára	óra	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-102
+19	történő	történő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-103
+20	kiszállítást	kiszállítás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-104
+21	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-105
+22	Szolgáltatónak	szolgáltató	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-106
+23	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-107
+24	áll	áll	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-108
+25	módjában	mód	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-109
+26	vállalni	vállal	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-110|SpaceAfter=No
+27	.	.	PUNCT	_	_	_	_	_	tokId=w-111
+
+# sent_id = w254_s-5
+# text = Ha a Szolgáltató a póthatáridőn belül nem teljesít az Ügyfél jogosult a szerződéstől elállni.
+1	Ha	ha	SCONJ	_	_	_	_	_	tokId=w-112
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-113
+3	Szolgáltató	szolgáltató	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-114
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-115
+5	póthatáridőn	póthatáridő	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-116
+6	belül	belül	ADP	_	_	_	_	_	tokId=w-117
+7	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-118
+8	teljesít	teljesít	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-119
+9	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-120
+10	Ügyfél	ügyfél	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-121
+11	jogosult	jogosult	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-122
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-123
+13	szerződéstől	szerződés	NOUN	_	Case=Abl|Number=Sing	_	_	_	tokId=w-124
+14	elállni	eláll	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-125|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-126
+
+# sent_id = w254_s-6
+# text = A határidő betartottnak minősül, ha Fogyasztó a 14 napos határidő letelte előtt elküldi (postára adja vagy az általa megrendelt futárnak átadja) a terméket.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-127
+2	határidő	határidő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-128
+3	betartottnak	betartott	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	tokId=w-129
+4	minősül	minősül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-130|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-131
+6	ha	ha	SCONJ	_	_	_	_	_	tokId=w-132
+7	Fogyasztó	fogyasztó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-133
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-134
+9	14	14	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-135
+10	napos	napos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-136
+11	határidő	határidő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-137
+12	letelte	letelte	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-138
+13	előtt	előtt	ADP	_	_	_	_	_	tokId=w-139
+14	elküldi	elküld	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-140
+15	(	(	PUNCT	_	_	_	_	_	tokId=w-141|SpaceAfter=No
+16	postára	posta	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-142
+17	adja	ad	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-143
+18	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-144
+19	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-145
+20	általa	által	ADP	_	_	_	_	_	tokId=w-146
+21	megrendelt	megrendelt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-147
+22	futárnak	futár	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-148
+23	átadja	átad	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-149|SpaceAfter=No
+24	)	)	PUNCT	_	_	_	_	_	tokId=w-150
+25	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-151
+26	terméket	termék	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-152|SpaceAfter=No
+27	.	.	PUNCT	_	_	_	_	_	tokId=w-153
+
+# sent_id = w254_s-7
+# text = Fogyasztó erre irányuló igényét Szolgáltató ügyfélszolgálata fogadja.
+1	Fogyasztó	fogyasztó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-154
+2	erre	ez	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-155
+3	irányuló	irányuló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-156
+4	igényét	igény	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-157
+5	Szolgáltató	szolgáltató	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-158
+6	ügyfélszolgálata	ügyfélszolgálat	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-159
+7	fogadja	fogad	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-160|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-161
+
+# sent_id = w254_s-8
+# text = elsősorban – választása szerint – kijavítást vagy kicserélést követelhet, kivéve, ha a választott jótállási igény teljesítése lehetetlen, vagy ha az a Szolgáltatónak a másik jótállási igény teljesítésével összehasonlítva aránytalan többletköltséget eredményezne, figyelembe véve a termék hibátlan állapotban képviselt értékét, a szerződésszegés súlyát és a jótállási igény teljesítésével az Ügyfélnek okozott érdeksérelmet.
+1	elsősorban	elsősorban	ADV	_	_	_	_	_	tokId=w-162
+2	–	–	X	_	_	_	_	_	tokId=w-163
+3	választása	választás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-164
+4	szerint	szerint	ADP	_	_	_	_	_	tokId=w-165
+5	–	–	X	_	_	_	_	_	tokId=w-166
+6	kijavítást	kijavítás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-167
+7	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-168
+8	kicserélést	kicserélés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-169
+9	követelhet	követel	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-170|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-171
+11	kivéve	kivéve	ADV	_	_	_	_	_	tokId=w-172|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-173
+13	ha	ha	SCONJ	_	_	_	_	_	tokId=w-174
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-175
+15	választott	választott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-176
+16	jótállási	jótállási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-177
+17	igény	igény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-178
+18	teljesítése	teljesítés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-179
+19	lehetetlen	lehetetlen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-180|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-181
+21	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-182
+22	ha	ha	SCONJ	_	_	_	_	_	tokId=w-183
+23	az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-184
+24	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-185
+25	Szolgáltatónak	szolgáltató	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-186
+26	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-187
+27	másik	másik	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-188
+28	jótállási	jótállási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-189
+29	igény	igény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-190
+30	teljesítésével	teljesítés	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-191
+31	összehasonlítva	összehasonlítva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-192
+32	aránytalan	aránytalan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-193
+33	többletköltséget	többletköltség	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-194
+34	eredményezne	eredményez	VERB	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-195|SpaceAfter=No
+35	,	,	PUNCT	_	_	_	_	_	tokId=w-196
+36	figyelembe	figyelem	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-197
+37	véve	véve	ADV	_	VerbForm=Conv	_	_	_	tokId=w-198
+38	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-199
+39	termék	termék	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-200
+40	hibátlan	hibátlan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-201
+41	állapotban	állapot	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-202
+42	képviselt	képviselt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-203
+43	értékét	érték	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-204|SpaceAfter=No
+44	,	,	PUNCT	_	_	_	_	_	tokId=w-205
+45	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-206
+46	szerződésszegés	szerződésszegés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-207
+47	súlyát	súly	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-208
+48	és	és	CCONJ	_	_	_	_	_	tokId=w-209
+49	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-210
+50	jótállási	jótállási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-211
+51	igény	igény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-212
+52	teljesítésével	teljesítés	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-213
+53	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-214
+54	Ügyfélnek	ügyfél	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-215
+55	okozott	okozott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-216
+56	érdeksérelmet	érdeksérelem	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-217|SpaceAfter=No
+57	.	.	PUNCT	_	_	_	_	_	tokId=w-218
+
+# sent_id = w254_s-9
+# text = E határidő elteltével e jogosultságát elveszti.
+1	E	e	DET	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-219
+2	határidő	határidő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-220
+3	elteltével	elteltével	ADP	_	_	_	_	_	tokId=w-221
+4	e	e	DET	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-222
+5	jogosultságát	jogosultság	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-223
+6	elveszti	elveszt	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-224|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-225
+
+# sent_id = w254_s-10
+# text = a terméket nem üzleti tevékenysége körében gyártotta, illetve hozta forgalomba, vagy
+1	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-226
+2	terméket	termék	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-227
+3	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-228
+4	üzleti	üzleti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-229
+5	tevékenysége	tevékenység	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-230
+6	körében	kör	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-231
+7	gyártotta	gyárt	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-232|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-233
+9	illetve	illetve	CCONJ	_	_	_	_	_	tokId=w-234
+10	hozta	hoz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-235
+11	forgalomba	forgalom	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-236|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-237
+13	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-238
+
+# sent_id = w254_s-11
+# text = Az Ügyfél teljes mértékben és kizárólagosan felelős saját magatartásáért, Szolgáltató ilyen esetben teljes mértékben együttműködik az eljáró hatóságokkal a jogsértések felderítése végett.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-239
+2	Ügyfél	ügyfél	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-240
+3	teljes	teljes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-241
+4	mértékben	mérték	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-242
+5	és	és	CCONJ	_	_	_	_	_	tokId=w-243
+6	kizárólagosan	kizárólagos	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-244
+7	felelős	felelős	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-245
+8	saját	saját	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-246
+9	magatartásáért	magatartás	NOUN	_	Case=Cau|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-247|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-248
+11	Szolgáltató	szolgáltató	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-249
+12	ilyen	ilyen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-250
+13	esetben	eset	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-251
+14	teljes	teljes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-252
+15	mértékben	mérték	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-253
+16	együttműködik	együttműködik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-254
+17	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-255
+18	eljáró	eljáró	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-256
+19	hatóságokkal	hatóság	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-257
+20	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-258
+21	jogsértések	jogsértés	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-259
+22	felderítése	felderítés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-260
+23	végett	végett	ADP	_	_	_	_	_	tokId=w-261|SpaceAfter=No
+24	.	.	PUNCT	_	_	_	_	_	tokId=w-262
+
+# sent_id = w254_s-12
+# text = Amennyiben az Ügyfél a Weboldalon kifogásolható tartalmat észlel, köteles azt haladéktalanul jelezni Szolgáltatónak.
+1	Amennyiben	amennyiben	CCONJ	_	_	_	_	_	tokId=w-263
+2	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-264
+3	Ügyfél	ügyfél	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-265
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-266
+5	Weboldalon	weboldal	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-267
+6	kifogásolható	kifogásolható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-268
+7	tartalmat	tartalom	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-269
+8	észlel	észlel	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-270|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-271
+10	köteles	köteles	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-272
+11	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-273
+12	haladéktalanul	haladéktalan	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-274
+13	jelezni	jelez	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-275
+14	Szolgáltatónak	szolgáltató	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-276|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-277
+
+# sent_id = w254_s-13
+# text = A Weboldal tartalmának, valamint egyes részeinek fizikai vagy más adathordozóra mentése vagy kinyomtatása magáncélú felhasználás céljából vagy a Szolgáltató előzetes írásbeli hozzájárulása esetén engedélyezett.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-278
+2	Weboldal	weboldal	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-279
+3	tartalmának	tartalom	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-280|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-281
+5	valamint	valamint	CCONJ	_	_	_	_	_	tokId=w-282
+6	egyes	egyes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-283
+7	részeinek	rész	NOUN	_	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-284
+8	fizikai	fizikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-285
+9	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-286
+10	más	más	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-287
+11	adathordozóra	adathordozó	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-288
+12	mentése	mentés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-289
+13	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-290
+14	kinyomtatása	kinyomtatás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-291
+15	magáncélú	magáncélú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-292
+16	felhasználás	felhasználás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-293
+17	céljából	céljából	ADP	_	_	_	_	_	tokId=w-294
+18	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-295
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-296
+20	Szolgáltató	szolgáltató	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-297
+21	előzetes	előzetes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-298
+22	írásbeli	írásbeli	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-299
+23	hozzájárulása	hozzájárulás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-300
+24	esetén	esetén	ADP	_	_	_	_	_	tokId=w-301
+25	engedélyezett	engedélyezett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-302|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-303
+
+# sent_id = w254_s-14
+# text = A panasz elbírálását követően a hatóság dönt a fogyasztóvédelmi eljárás lefolytatásáról.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-304
+2	panasz	panasz	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-305
+3	elbírálását	elbírálás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-306
+4	követően	követő	X	_	_	_	_	_	tokId=w-307
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-308
+6	hatóság	hatóság	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-309
+7	dönt	dönt	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-310
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-311
+9	fogyasztóvédelmi	fogyasztóvédelmi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-312
+10	eljárás	eljárás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-313
+11	lefolytatásáról	lefolytatás	NOUN	_	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-314|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-315
+
+# sent_id = w254_s-15
+# text = A Szolgáltató által forgalmazott berendezések „ CE ” jelöléssel rendelkeznek.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-316
+2	Szolgáltató	szolgáltató	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-317
+3	által	által	ADP	_	_	_	_	_	tokId=w-318
+4	forgalmazott	forgalmazott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-319
+5	berendezések	berendezés	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-320
+6	„	„	PUNCT	_	_	_	_	_	tokId=w-321
+7	CE	CE	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-322
+8	”	”	PUNCT	_	_	_	_	_	tokId=w-323
+9	jelöléssel	jelölés	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-324
+10	rendelkeznek	rendelkezik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-325|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-326
+
+# sent_id = w254_s-16
+# text = A süti beállítások igény esetén bármikor megváltoztathatók a böngésző beállításaiban.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-327
+2	süti	süti	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-328
+3	beállítások	beállítás	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-329
+4	igény	igény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-330
+5	esetén	esetén	ADP	_	_	_	_	_	tokId=w-331
+6	bármikor	bármikor	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-332
+7	megváltoztathatók	megváltoztatható	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-333
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-334
+9	böngésző	böngésző	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-335
+10	beállításaiban	beállítás	NOUN	_	Case=Ine|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-336|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-337
+
+# sent_id = w254_s-17
+# text = adatvédelmi tisztviselője: Berkes Gábor ügyvezető
+1	adatvédelmi	adatvédelmi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-338
+2	tisztviselője	tisztviselő	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-339|SpaceAfter=No
+3	:	:	PUNCT	_	_	_	_	_	tokId=w-340
+4	Berkes	Berkes	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-341|NE=name[PER]_2
+5	Gábor	Gábor	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-342|NE=name[PER]_2
+6	ügyvezető	ügyvezető	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-343
+
+# sent_id = w254_s-18
+# text = Amennyiben az érintett felkeresi a www.gasztroaruhaz.hu oldalt, honlapunk cookie-kat („ sütik "), azaz rövid adatfájlokat helyez el a látogató számítógépén.
+1	Amennyiben	amennyiben	CCONJ	_	_	_	_	_	tokId=w-344
+2	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-345
+3	érintett	érintett	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-346
+4	felkeresi	felkeres	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-347
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-348
+6	www.gasztroaruhaz.hu	www.gasztroaruhaz.hu	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-349
+7	oldalt	oldal	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-350|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-351
+9	honlapunk	honlap	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-352
+10	cookie-kat	cookie	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-353
+11	(	(	PUNCT	_	_	_	_	_	tokId=w-354|SpaceAfter=No
+12	„	„	PUNCT	_	_	_	_	_	tokId=w-355
+13	sütik	süti	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-356
+14	"	"	PUNCT	_	_	_	_	_	tokId=w-357|SpaceAfter=No
+15	)	)	PUNCT	_	_	_	_	_	tokId=w-358|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-359
+17	azaz	azaz	CCONJ	_	_	_	_	_	tokId=w-360
+18	rövid	rövid	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-361
+19	adatfájlokat	adatfájl	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-362
+20	helyez	helyez	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-363
+21	el	el	ADV	_	_	_	_	_	tokId=w-364
+22	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-365
+23	látogató	látogató	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-366
+24	számítógépén	számítógép	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-367|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-368
+
+# sent_id = w254_s-19
+# text = A cookie élettartama: 1 év
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-369
+2	cookie	cookie	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-370
+3	élettartama	élettartam	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-371|SpaceAfter=No
+4	:	:	PUNCT	_	_	_	_	_	tokId=w-372
+5	1	1	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-373
+6	év	év	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-374
+
+# sent_id = w254_s-20
+# text = az adatkezelés automatizált módon történik.
+1	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-375
+2	adatkezelés	adatkezelés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-376
+3	automatizált	automatizált	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-377
+4	módon	mód	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-378
+5	történik	történik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-379|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-380
+
+# sent_id = w254_s-21
+# text = E visszaigazoló e-mail a Szolgáltató részéről az Ügyfél által tett ajánlat elfogadásának minősül, mellyel érvényes szerződés jön létre Szolgáltató és az Ügyfél között.
+1	E	e	DET	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-381
+2	visszaigazoló	visszaigazoló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-382
+3	e-mail	e-mail	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-383
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-384
+5	Szolgáltató	szolgáltató	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-385
+6	részéről	részéről	ADP	_	_	_	_	_	tokId=w-386
+7	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-387
+8	Ügyfél	ügyfél	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-388
+9	által	által	ADP	_	_	_	_	_	tokId=w-389
+10	tett	tett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-390
+11	ajánlat	ajánlat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-391
+12	elfogadásának	elfogadás	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-392
+13	minősül	minősül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-393|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-394
+15	mellyel	amely	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-395
+16	érvényes	érvényes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-396
+17	szerződés	szerződés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-397
+18	jön	jön	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-398
+19	létre	létre	ADV	_	_	_	_	_	tokId=w-399
+20	Szolgáltató	szolgáltató	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-400
+21	és	és	CCONJ	_	_	_	_	_	tokId=w-401
+22	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-402
+23	Ügyfél	ügyfél	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-403
+24	között	között	ADP	_	_	_	_	_	tokId=w-404|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-405
+
+# sent_id = w254_s-22
+# text = Ha az Ügyfél rendelését már elküldte a Szolgáltató részére és hibát vesz észre a visszaigazoló e-mailben szereplő adatok tekintetében, azt 24 órán belül jeleznie kell a Szolgáltató felé vagy a jelzést megteheti akkor, amikor a Szolgáltató telefonon felveszi vele a kapcsolatot, a nem kívánt rendelések teljesítésének elkerülése érdekében.
+1	Ha	ha	SCONJ	_	_	_	_	_	tokId=w-406
+2	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-407
+3	Ügyfél	ügyfél	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-408
+4	rendelését	rendelés	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-409
+5	már	már	ADV	_	_	_	_	_	tokId=w-410
+6	elküldte	elküld	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-411
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-412
+8	Szolgáltató	szolgáltató	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-413
+9	részére	részére	ADP	_	_	_	_	_	tokId=w-414
+10	és	és	CCONJ	_	_	_	_	_	tokId=w-415
+11	hibát	hiba	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-416
+12	vesz	vesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-417
+13	észre	észre	ADV	_	_	_	_	_	tokId=w-418
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-419
+15	visszaigazoló	visszaigazoló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-420
+16	e-mailben	e-mail	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-421
+17	szereplő	szereplő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-422
+18	adatok	adat	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-423
+19	tekintetében	tekintetében	ADP	_	_	_	_	_	tokId=w-424|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-425
+21	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-426
+22	24	24	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-427
+23	órán	óra	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-428
+24	belül	belül	ADP	_	_	_	_	_	tokId=w-429
+25	jeleznie	jelez	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	tokId=w-430
+26	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-431
+27	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-432
+28	Szolgáltató	szolgáltató	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-433
+29	felé	felé	ADP	_	_	_	_	_	tokId=w-434
+30	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-435
+31	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-436
+32	jelzést	jelzés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-437
+33	megteheti	megtesz	VERB	_	Definite=Def|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-438
+34	akkor	akkor	ADV	_	PronType=Dem	_	_	_	tokId=w-439|SpaceAfter=No
+35	,	,	PUNCT	_	_	_	_	_	tokId=w-440
+36	amikor	amikor	ADV	_	PronType=Rel	_	_	_	tokId=w-441
+37	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-442
+38	Szolgáltató	szolgáltató	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-443
+39	telefonon	telefon	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-444
+40	felveszi	felvesz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-445
+41	vele	vele	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-446
+42	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-447
+43	kapcsolatot	kapcsolat	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-448|SpaceAfter=No
+44	,	,	PUNCT	_	_	_	_	_	tokId=w-449
+45	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-450
+46	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-451
+47	kívánt	kívánt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-452
+48	rendelések	rendelés	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-453
+49	teljesítésének	teljesítés	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-454
+50	elkerülése	elkerülés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-455
+51	érdekében	érdekében	ADP	_	_	_	_	_	tokId=w-456|SpaceAfter=No
+52	.	.	PUNCT	_	_	_	_	_	tokId=w-457
+

@@ -1,0 +1,635 @@
+# newdoc id = w306
+# sent_id = w306_s-1
+# text = A Rendőrségről szóló 1994. évi XXXIV. törvény 100. §-a (1) bekezdésének a) pontjában, valamint a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény(a továbbiakban: Ftv. ) 22. §-ának (1) bekezdésében, továbbá az 55. § (1) bekezdése tekintetében a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 77. §-a (1) bekezdésének b) pontjában, az 52. § (1) bekezdésének d) pontja és az 55. § (2) és (3) bekezdése tekintetében a szabálysértésekről szóló 1999. évi LXIX. törvény 166. §-ának (1) bekezdésében kapott felhatalmazás alapján a Kormány a következőket rendeli el:
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-1|NE=name[MISC]_1
+2	Rendőrségről	rendőrség	PROPN	_	Case=Del|Number=Sing	_	_	_	tokId=w-2|NE=name[MISC]_1
+3	szóló	szóló	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPres	_	_	_	tokId=w-3|NE=name[MISC]_1
+4	1994.	1994.	ADJ	_	Case=Nom|NumType=Ord|Number=Sing	_	_	_	tokId=w-4|NE=name[MISC]_1
+5	évi	évi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-5|NE=name[MISC]_1
+6	XXXIV.	XXXIV.	ADJ	_	Case=Nom|NumType=Ord|Number=Sing	_	_	_	tokId=w-6|NE=name[MISC]_1
+7	törvény	törvény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-7|NE=name[MISC]_1
+8	100.	100.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-8
+9	§-a	§	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-9
+10	(	(	PUNCT	_	_	_	_	_	tokId=w-10|SpaceAfter=No
+11	1	1	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-11|SpaceAfter=No
+12	)	)	PUNCT	_	_	_	_	_	tokId=w-12
+13	bekezdésének	bekezdés	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-13
+14	a)	a	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-14
+15	pontjában	pont	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-15|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-16
+17	valamint	valamint	CCONJ	_	_	_	_	_	tokId=w-17
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-18|NE=name[MISC]_2
+19	lőfegyverekről	lőfegyver	NOUN	_	Case=Del|Number=Plur	_	_	_	tokId=w-19|NE=name[MISC]_2
+20	és	és	CCONJ	_	_	_	_	_	tokId=w-20|NE=name[MISC]_2
+21	lőszerekről	lőszer	NOUN	_	Case=Del|Number=Plur	_	_	_	tokId=w-21|NE=name[MISC]_2
+22	szóló	szóló	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPres	_	_	_	tokId=w-22|NE=name[MISC]_2
+23	2004.	2004.	ADJ	_	Case=Nom|NumType=Ord|Number=Sing	_	_	_	tokId=w-23|NE=name[MISC]_2
+24	évi	évi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-24|NE=name[MISC]_2
+25	XXIV.	XXIV.	ADJ	_	Case=Nom|NumType=Ord|Number=Sing	_	_	_	tokId=w-25|NE=name[MISC]_2
+26	törvény	törvény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-26|NE=name[MISC]_2|SpaceAfter=No
+27	(	(	PUNCT	_	_	_	_	_	tokId=w-27|SpaceAfter=No
+28	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-28
+29	továbbiakban	további	ADJ	_	Case=Ine|Degree=Pos|Number=Plur	_	_	_	tokId=w-29|SpaceAfter=No
+30	:	:	PUNCT	_	_	_	_	_	tokId=w-30
+31	Ftv.	Ftv.	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-31|NE=name[MISC]_3
+32	)	)	PUNCT	_	_	_	_	_	tokId=w-32
+33	22.	22.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-33
+34	§-ának	§	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-34
+35	(	(	PUNCT	_	_	_	_	_	tokId=w-35|SpaceAfter=No
+36	1	1	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-36|SpaceAfter=No
+37	)	)	PUNCT	_	_	_	_	_	tokId=w-37
+38	bekezdésében	bekezdés	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-38|SpaceAfter=No
+39	,	,	PUNCT	_	_	_	_	_	tokId=w-39
+40	továbbá	továbbá	CCONJ	_	_	_	_	_	tokId=w-40
+41	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-41
+42	55.	55.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-42
+43	§	§	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-43
+44	(	(	PUNCT	_	_	_	_	_	tokId=w-44|SpaceAfter=No
+45	1	1	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-45|SpaceAfter=No
+46	)	)	PUNCT	_	_	_	_	_	tokId=w-46
+47	bekezdése	bekezdés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-47
+48	tekintetében	tekintet	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-48
+49	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-49|NE=name[MISC]_4
+50	nemzetbiztonsági	nemzetbiztonsági	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-50|NE=name[MISC]_4
+51	szolgálatokról	szolgálat	NOUN	_	Case=Del|Number=Plur	_	_	_	tokId=w-51|NE=name[MISC]_4
+52	szóló	szóló	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPres	_	_	_	tokId=w-52|NE=name[MISC]_4
+53	1995.	1995.	ADJ	_	Case=Nom|NumType=Ord|Number=Sing	_	_	_	tokId=w-53|NE=name[MISC]_4
+54	évi	évi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-54|NE=name[MISC]_4
+55	CXXV.	CXXV.	ADJ	_	Case=Nom|NumType=Ord|Number=Sing	_	_	_	tokId=w-55|NE=name[MISC]_4
+56	törvény	törvény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-56|NE=name[MISC]_4
+57	77.	77.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-57
+58	§-a	§	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-58
+59	(	(	PUNCT	_	_	_	_	_	tokId=w-59|SpaceAfter=No
+60	1	1	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-60|SpaceAfter=No
+61	)	)	PUNCT	_	_	_	_	_	tokId=w-61
+62	bekezdésének	bekezdés	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-62
+63	b)	b	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-63
+64	pontjában	pont	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-64|SpaceAfter=No
+65	,	,	PUNCT	_	_	_	_	_	tokId=w-65
+66	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-66
+67	52.	52.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-67
+68	§	§	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-68
+69	(	(	PUNCT	_	_	_	_	_	tokId=w-69|SpaceAfter=No
+70	1	1	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-70|SpaceAfter=No
+71	)	)	PUNCT	_	_	_	_	_	tokId=w-71
+72	bekezdésének	bekezdés	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-72
+73	d)	d	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-73
+74	pontja	pont	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-74
+75	és	és	CCONJ	_	_	_	_	_	tokId=w-75
+76	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-76
+77	55.	55.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-77
+78	§	§	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-78
+79	(	(	PUNCT	_	_	_	_	_	tokId=w-79|SpaceAfter=No
+80	2	2	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-80|SpaceAfter=No
+81	)	)	PUNCT	_	_	_	_	_	tokId=w-81
+82	és	és	CCONJ	_	_	_	_	_	tokId=w-82
+83	(	(	PUNCT	_	_	_	_	_	tokId=w-83|SpaceAfter=No
+84	3	3	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-84|SpaceAfter=No
+85	)	)	PUNCT	_	_	_	_	_	tokId=w-85
+86	bekezdése	bekezdés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-86
+87	tekintetében	tekintet	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-87
+88	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-88|NE=name[MISC]_5
+89	szabálysértésekről	szabálysértés	NOUN	_	Case=Del|Number=Plur	_	_	_	tokId=w-89|NE=name[MISC]_5
+90	szóló	szóló	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPres	_	_	_	tokId=w-90|NE=name[MISC]_5
+91	1999.	1999.	ADJ	_	Case=Nom|NumType=Ord|Number=Sing	_	_	_	tokId=w-91|NE=name[MISC]_5
+92	évi	évi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-92|NE=name[MISC]_5
+93	LXIX.	LXIX.	ADJ	_	Case=Nom|NumType=Ord|Number=Sing	_	_	_	tokId=w-93|NE=name[MISC]_5
+94	törvény	törvény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-94|NE=name[MISC]_5
+95	166.	166.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-95
+96	§-ának	§	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-96
+97	(	(	PUNCT	_	_	_	_	_	tokId=w-97|SpaceAfter=No
+98	1	1	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-98|SpaceAfter=No
+99	)	)	PUNCT	_	_	_	_	_	tokId=w-99
+100	bekezdésében	bekezdés	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-100
+101	kapott	kapott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-101
+102	felhatalmazás	felhatalmazás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-102
+103	alapján	alapján	ADP	_	_	_	_	_	tokId=w-103
+104	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-104
+105	Kormány	kormány	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-105|NE=name[ORG]_6
+106	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-106
+107	következőket	következő	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	_	_	_	tokId=w-107
+108	rendeli	rendel	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-108
+109	el	el	ADV	_	_	_	_	_	tokId=w-109|SpaceAfter=No
+110	:	:	PUNCT	_	_	_	_	_	tokId=w-110
+
+# sent_id = w306_s-2
+# text = 3. §-ában említett engedély nem adható annak
+1	3.	3.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-111
+2	§-ában	§	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-112
+3	említett	említett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-113
+4	engedély	engedély	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-114
+5	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-115
+6	adható	adható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-116
+7	annak	az	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-117
+
+# sent_id = w306_s-3
+# text = e) aki ellen a c) és d) pontban meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás folyik;
+1	e)	e	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-118
+2	aki	aki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-119
+3	ellen	ellen	ADP	_	_	_	_	_	tokId=w-120
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-121
+5	c)	c	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-122
+6	és	és	CCONJ	_	_	_	_	_	tokId=w-123
+7	d)	d	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-124
+8	pontban	pont	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-125
+9	meghatározott	meghatározott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-126
+10	bűncselekmény	bűncselekmény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-127
+11	elkövetésének	elkövetés	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-128
+12	megalapozott	megalapozott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-129
+13	gyanúja	gyanú	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-130
+14	miatt	miatt	ADP	_	_	_	_	_	tokId=w-131
+15	büntetőeljárás	büntetőeljárás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-132
+16	folyik	folyik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-133|SpaceAfter=No
+17	;	;	PUNCT	_	_	_	_	_	tokId=w-134
+
+# sent_id = w306_s-4
+# text = a) a kiadásának valamely feltétele már a kiadáskor sem állt fenn;
+1	a)	a	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-135
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-136
+3	kiadásának	kiadás	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-137
+4	valamely	valamely	ADV	_	PronType=Art	_	_	_	tokId=w-138
+5	feltétele	feltétel	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-139
+6	már	már	ADV	_	_	_	_	_	tokId=w-140
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-141
+8	kiadáskor	kiadás	NOUN	_	Case=Tem|Number=Sing	_	_	_	tokId=w-142
+9	sem	sem	ADV	_	PronType=Neg	_	_	_	tokId=w-143
+10	állt	áll	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-144
+11	fenn	fenn	ADV	_	_	_	_	_	tokId=w-145|SpaceAfter=No
+12	;	;	PUNCT	_	_	_	_	_	tokId=w-146
+
+# sent_id = w306_s-5
+# text = A kereskedelmi célból behozott, kivitt és átszállított lőfegyverekről az engedéllyel rendelkező köteles a 16. számú melléklet szerinti adatokat 3 munkanapon belül az Országos Rendőr-főkapitányságnak bejelenteni.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-147
+2	kereskedelmi	kereskedelmi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-148
+3	célból	cél	NOUN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-149
+4	behozott	behozott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-150|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-151
+6	kivitt	kivitt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-152
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-153
+8	átszállított	átszállított	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-154
+9	lőfegyverekről	lőfegyver	NOUN	_	Case=Del|Number=Plur	_	_	_	tokId=w-155
+10	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-156
+11	engedéllyel	engedély	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-157
+12	rendelkező	rendelkező	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-158
+13	köteles	köteles	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-159
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-160
+15	16.	16.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-161
+16	számú	számú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-162
+17	melléklet	melléklet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-163
+18	szerinti	szerinti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-164
+19	adatokat	adat	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-165
+20	3	3	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-166
+21	munkanapon	munkanap	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-167
+22	belül	belül	ADP	_	_	_	_	_	tokId=w-168
+23	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-169
+24	Országos	Országos	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-170|NE=name[ORG]_7
+25	Rendőr-főkapitányságnak	Rendőr-főkapitányság	PROPN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-171|NE=name[ORG]_7
+26	bejelenteni	bejelent	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-172|SpaceAfter=No
+27	.	.	PUNCT	_	_	_	_	_	tokId=w-173
+
+# sent_id = w306_s-6
+# text = A feltételek megléte esetén a bejelentés elektronikus úton is teljesíthető.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-174
+2	feltételek	feltétel	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-175
+3	megléte	meglét	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-176
+4	esetén	esetén	ADP	_	_	_	_	_	tokId=w-177
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-178
+6	bejelentés	bejelentés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-179
+7	elektronikus	elektronikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-180
+8	úton	út	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-181
+9	is	is	ADV	_	_	_	_	_	tokId=w-182
+10	teljesíthető	teljesíthető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-183|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-184
+
+# sent_id = w306_s-7
+# text = A fegyverek és lőszerek vizsgálatára kijelölt szervezet az általa balesetveszélyesnek minősített és selejtezésre utalt fegyverekről 3 munkanapon belül jegyzőkönyvet küld a lőfegyver tartására engedéllyel rendelkező személy lakóhelye szerint illetékes rendőrhatóságnak.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-185
+2	fegyverek	fegyver	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-186
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-187
+4	lőszerek	lőszer	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-188
+5	vizsgálatára	vizsgálat	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-189
+6	kijelölt	kijelölt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-190
+7	szervezet	szervezet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-191
+8	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-192
+9	általa	által	ADP	_	_	_	_	_	tokId=w-193
+10	balesetveszélyesnek	balesetveszélyes	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	tokId=w-194
+11	minősített	minősített	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-195
+12	és	és	CCONJ	_	_	_	_	_	tokId=w-196
+13	selejtezésre	selejtezés	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-197
+14	utalt	utalt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-198
+15	fegyverekről	fegyver	NOUN	_	Case=Del|Number=Plur	_	_	_	tokId=w-199
+16	3	3	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-200
+17	munkanapon	munkanap	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-201
+18	belül	belül	ADP	_	_	_	_	_	tokId=w-202
+19	jegyzőkönyvet	jegyzőkönyv	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-203
+20	küld	küld	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-204
+21	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-205
+22	lőfegyver	lőfegyver	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-206
+23	tartására	tartás	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-207
+24	engedéllyel	engedély	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-208
+25	rendelkező	rendelkező	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-209
+26	személy	személy	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-210
+27	lakóhelye	lakóhely	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-211
+28	szerint	szerint	ADP	_	_	_	_	_	tokId=w-212
+29	illetékes	illetékes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-213
+30	rendőrhatóságnak	rendőrhatóság	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-214|SpaceAfter=No
+31	.	.	PUNCT	_	_	_	_	_	tokId=w-215
+
+# sent_id = w306_s-8
+# text = c) igazságügyi fegyverszakértőnek feladatköréhez kapcsolódóan;
+1	c)	c	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-216
+2	igazságügyi	igazságügyi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-217
+3	fegyverszakértőnek	fegyverszakértő	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-218
+4	feladatköréhez	feladatkör	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-219
+5	kapcsolódóan	kapcsolódó	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-220|SpaceAfter=No
+6	;	;	PUNCT	_	_	_	_	_	tokId=w-221
+
+# sent_id = w306_s-9
+# text = d) és annak a személynek engedélyezhető, akinek a foglalkozása gyakorlásához a szolgálati lőfegyver tartását külön törvény írja elő.
+1	d)	d	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-222
+2	és	és	CCONJ	_	_	_	_	_	tokId=w-223
+3	annak	az	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-224
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-225
+5	személynek	személy	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-226
+6	engedélyezhető	engedélyezhető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-227|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-228
+8	akinek	aki	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-229
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-230
+10	foglalkozása	foglalkozás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-231
+11	gyakorlásához	gyakorlás	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-232
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-233
+13	szolgálati	szolgálati	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-234
+14	lőfegyver	lőfegyver	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-235
+15	tartását	tartás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-236
+16	külön	külön	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-237
+17	törvény	törvény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-238
+18	írja	ír	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-239
+19	elő	elő	ADV	_	Degree=Pos	_	_	_	tokId=w-240|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-241
+
+# sent_id = w306_s-10
+# text = (1) E rendelet eltérő rendelkezése hiányában sportlövészetre legfeljebb három darab hosszú és kettő darab rövid lőfegyver, valamint ezekhez tartozó lőszer megszerzése és tartása annak a sportolónak engedélyezhető, aki igazolt, az országos sportági szakszövetség által kiadott, érvényes versenyengedéllyel rendelkező minősített sportlövő és rendszeres sporttevékenysége alapján a saját tulajdonú lőfegyver tartását az országos sportági szakszövetség javasolja.
+1	(	(	PUNCT	_	_	_	_	_	tokId=w-242|SpaceAfter=No
+2	1	1	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-243|SpaceAfter=No
+3	)	)	PUNCT	_	_	_	_	_	tokId=w-244
+4	E	E	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-245
+5	rendelet	rendelet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-246
+6	eltérő	eltérő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-247
+7	rendelkezése	rendelkezés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-248
+8	hiányában	hiányában	ADP	_	_	_	_	_	tokId=w-249
+9	sportlövészetre	sportlövészet	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-250
+10	legfeljebb	legfeljebb	ADV	_	_	_	_	_	tokId=w-251
+11	három	három	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-252
+12	darab	darab	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-253
+13	hosszú	hosszú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-254
+14	és	és	CCONJ	_	_	_	_	_	tokId=w-255
+15	kettő	kettő	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-256
+16	darab	darab	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-257
+17	rövid	rövid	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-258
+18	lőfegyver	lőfegyver	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-259|SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	tokId=w-260
+20	valamint	valamint	CCONJ	_	_	_	_	_	tokId=w-261
+21	ezekhez	ez	PRON	_	Case=All|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-262
+22	tartozó	tartozó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-263
+23	lőszer	lőszer	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-264
+24	megszerzése	megszerzés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-265
+25	és	és	CCONJ	_	_	_	_	_	tokId=w-266
+26	tartása	tartás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-267
+27	annak	az	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-268
+28	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-269
+29	sportolónak	sportoló	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-270
+30	engedélyezhető	engedélyezhető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-271|SpaceAfter=No
+31	,	,	PUNCT	_	_	_	_	_	tokId=w-272
+32	aki	aki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-273
+33	igazolt	igazolt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-274|SpaceAfter=No
+34	,	,	PUNCT	_	_	_	_	_	tokId=w-275
+35	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-276
+36	országos	országos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-277
+37	sportági	sportági	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-278
+38	szakszövetség	szakszövetség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-279
+39	által	által	ADP	_	_	_	_	_	tokId=w-280
+40	kiadott	kiadott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-281|SpaceAfter=No
+41	,	,	PUNCT	_	_	_	_	_	tokId=w-282
+42	érvényes	érvényes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-283
+43	versenyengedéllyel	versenyengedély	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-284
+44	rendelkező	rendelkező	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-285
+45	minősített	minősített	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-286
+46	sportlövő	sportlövő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-287
+47	és	és	CCONJ	_	_	_	_	_	tokId=w-288
+48	rendszeres	rendszeres	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-289
+49	sporttevékenysége	sporttevékenység	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-290
+50	alapján	alapján	ADP	_	_	_	_	_	tokId=w-291
+51	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-292
+52	saját	saját	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-293
+53	tulajdonú	tulajdonú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-294
+54	lőfegyver	lőfegyver	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-295
+55	tartását	tartás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-296
+56	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-297
+57	országos	országos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-298
+58	sportági	sportági	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-299
+59	szakszövetség	szakszövetség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-300
+60	javasolja	javasol	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-301|SpaceAfter=No
+61	.	.	PUNCT	_	_	_	_	_	tokId=w-302
+
+# sent_id = w306_s-11
+# text = (3) E rendelet eltérő rendelkezése hiányában hosszú lőfegyver tartásához szükséges elméleti és gyakorlati jártasságot igazoló vizsgát az elméleti és gyakorlati részből álló, az Országos Rendőr-főkapitányság által kijelölt vizsgabizottsági tag részvételével tartott Állami Vadászvizsga helyettesíti.
+1	(	(	PUNCT	_	_	_	_	_	tokId=w-303|SpaceAfter=No
+2	3	3	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-304|SpaceAfter=No
+3	)	)	PUNCT	_	_	_	_	_	tokId=w-305
+4	E	E	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-306
+5	rendelet	rendelet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-307
+6	eltérő	eltérő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-308
+7	rendelkezése	rendelkezés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-309
+8	hiányában	hiányában	ADP	_	_	_	_	_	tokId=w-310
+9	hosszú	hosszú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-311
+10	lőfegyver	lőfegyver	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-312
+11	tartásához	tartás	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-313
+12	szükséges	szükséges	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-314
+13	elméleti	elméleti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-315
+14	és	és	CCONJ	_	_	_	_	_	tokId=w-316
+15	gyakorlati	gyakorlati	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-317
+16	jártasságot	jártasság	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-318
+17	igazoló	igazoló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-319
+18	vizsgát	vizsga	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-320
+19	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-321
+20	elméleti	elméleti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-322
+21	és	és	CCONJ	_	_	_	_	_	tokId=w-323
+22	gyakorlati	gyakorlati	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-324
+23	részből	rész	NOUN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-325
+24	álló	álló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-326|SpaceAfter=No
+25	,	,	PUNCT	_	_	_	_	_	tokId=w-327
+26	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-328
+27	Országos	Országos	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-329|NE=name[ORG]_8
+28	Rendőr-főkapitányság	Rendőr-főkapitányság	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-330|NE=name[ORG]_8
+29	által	által	ADP	_	_	_	_	_	tokId=w-331
+30	kijelölt	kijelölt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-332
+31	vizsgabizottsági	vizsgabizottsági	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-333
+32	tag	tag	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-334
+33	részvételével	részvétel	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-335
+34	tartott	tartott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-336
+35	Állami	Állami	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-337|NE=name[MISC]_9
+36	Vadászvizsga	Vadászvizsga	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-338|NE=name[MISC]_9
+37	helyettesíti	helyettesít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-339|SpaceAfter=No
+38	.	.	PUNCT	_	_	_	_	_	tokId=w-340
+
+# sent_id = w306_s-12
+# text = (1) A személy részére kiadott, lőfegyver tartását engedélyező okmány tartalmazza
+1	(	(	PUNCT	_	_	_	_	_	tokId=w-341|SpaceAfter=No
+2	1	1	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-342|SpaceAfter=No
+3	)	)	PUNCT	_	_	_	_	_	tokId=w-343
+4	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-344
+5	személy	személy	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-345
+6	részére	részére	ADP	_	_	_	_	_	tokId=w-346
+7	kiadott	kiadott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-347|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-348
+9	lőfegyver	lőfegyver	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-349
+10	tartását	tartás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-350
+11	engedélyező	engedélyező	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-351
+12	okmány	okmány	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-352
+13	tartalmazza	tartalmaz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-353
+
+# sent_id = w306_s-13
+# text = A fegyverek tartására vonatkozó szabályok
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-354
+2	fegyverek	fegyver	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-355
+3	tartására	tartás	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-356
+4	vonatkozó	vonatkozó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-357
+5	szabályok	szabály	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-358
+
+# sent_id = w306_s-14
+# text = b) lakott területen, közterületen, nyilvános helyen, közforgalmú közlekedési eszközön önvédelemre, személy- és vagyonvédelemre engedélyezett rövid lőfegyverét, viselési engedély esetén gáz- és riasztófegyverét betárazva, a véletlen elsülés ellen biztosítva, rejtve viselheti;
+1	b)	b	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-359
+2	lakott	lakott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-360
+3	területen	terület	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-361|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-362
+5	közterületen	közterület	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-363|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-364
+7	nyilvános	nyilvános	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-365
+8	helyen	hely	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-366|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-367
+10	közforgalmú	közforgalmú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-368
+11	közlekedési	közlekedési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-369
+12	eszközön	eszköz	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-370
+13	önvédelemre	önvédelem	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-371|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-372
+15	személy-	személy	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-373
+16	és	és	CCONJ	_	_	_	_	_	tokId=w-374
+17	vagyonvédelemre	vagyonvédelem	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-375
+18	engedélyezett	engedélyezett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-376
+19	rövid	rövid	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-377
+20	lőfegyverét	lőfegyver	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-378|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-379
+22	viselési	viselési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-380
+23	engedély	engedély	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-381
+24	esetén	esetén	ADP	_	_	_	_	_	tokId=w-382
+25	gáz-	gáz	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-383
+26	és	és	CCONJ	_	_	_	_	_	tokId=w-384
+27	riasztófegyverét	riasztófegyver	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-385
+28	betárazva	betárazva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-386|SpaceAfter=No
+29	,	,	PUNCT	_	_	_	_	_	tokId=w-387
+30	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-388
+31	véletlen	véletlen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-389
+32	elsülés	elsülés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-390
+33	ellen	ellen	ADP	_	_	_	_	_	tokId=w-391
+34	biztosítva	biztosítva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-392|SpaceAfter=No
+35	,	,	PUNCT	_	_	_	_	_	tokId=w-393
+36	rejtve	rejtve	ADV	_	_	_	_	_	tokId=w-394
+37	viselheti	visel	VERB	_	Definite=Def|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-395|SpaceAfter=No
+38	;	;	PUNCT	_	_	_	_	_	tokId=w-396
+
+# sent_id = w306_s-15
+# text = fc) a tagállamok dönthetnek úgy, hogy megtiltják vagy engedélyhez kötik területükön bizonyos " B ", " C " vagy " D " kategóriájú tűzfegyverek megszerzését, tartását;
+1	fc)	fc	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-397
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-398
+3	tagállamok	tagállam	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-399
+4	dönthetnek	dönt	VERB	_	Definite=Ind|Mood=Pot|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-400
+5	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-401|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-402
+7	hogy	ahogy	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-403
+8	megtiltják	megtilt	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-404
+9	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-405
+10	engedélyhez	engedély	NOUN	_	Case=All|Number=Sing	_	_	_	tokId=w-406
+11	kötik	köt	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-407
+12	területükön	terület	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-408
+13	bizonyos	bizonyos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-409
+14	"	"	PUNCT	_	_	_	_	_	tokId=w-410
+15	B	B	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-411
+16	"	"	PUNCT	_	_	_	_	_	tokId=w-412|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-413
+18	"	"	PUNCT	_	_	_	_	_	tokId=w-414
+19	C	C	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-415
+20	"	"	PUNCT	_	_	_	_	_	tokId=w-416
+21	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-417
+22	"	"	PUNCT	_	_	_	_	_	tokId=w-418
+23	D	D	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-419
+24	"	"	PUNCT	_	_	_	_	_	tokId=w-420
+25	kategóriájú	kategóriájú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-421
+26	tűzfegyverek	tűzfegyver	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-422
+27	megszerzését	megszerzés	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-423|SpaceAfter=No
+28	,	,	PUNCT	_	_	_	_	_	tokId=w-424
+29	tartását	tartás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-425|SpaceAfter=No
+30	;	;	PUNCT	_	_	_	_	_	tokId=w-426
+
+# sent_id = w306_s-16
+# text = (2) A rendelet hatálybalépésével egyidejűleg hatályát veszti
+1	(	(	PUNCT	_	_	_	_	_	tokId=w-427|SpaceAfter=No
+2	2	2	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-428|SpaceAfter=No
+3	)	)	PUNCT	_	_	_	_	_	tokId=w-429
+4	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-430
+5	rendelet	rendelet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-431
+6	hatálybalépésével	hatálybalépés	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-432
+7	egyidejűleg	egyidejűleg	ADV	_	_	_	_	_	tokId=w-433
+8	hatályát	hatály	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-434
+9	veszti	veszt	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-435
+
+# sent_id = w306_s-17
+# text = b) az Európai Közösségek Tanácsának a polgári felhasználású robbanóanyagok forgalmazására és felügyeletére vonatkozó rendelkezések harmonizációjáról szóló 93/15/EGK irányelvének 10. és 11. cikkével összeegyeztethető szabályozást tartalmaz.
+1	b)	b	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-436
+2	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-437
+3	Európai	Európai	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-438|NE=name[ORG]_10
+4	Közösségek	Közösség	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-439|NE=name[ORG]_10
+5	Tanácsának	Tanács	PROPN	_	Case=Gen|Number=Sing	_	_	_	tokId=w-440|NE=name[ORG]_10
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-441
+7	polgári	polgári	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-442
+8	felhasználású	felhasználású	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-443
+9	robbanóanyagok	robbanóanyag	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-444
+10	forgalmazására	forgalmazás	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-445
+11	és	és	CCONJ	_	_	_	_	_	tokId=w-446
+12	felügyeletére	felügyelet	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-447
+13	vonatkozó	vonatkozó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-448
+14	rendelkezések	rendelkezés	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-449
+15	harmonizációjáról	harmonizáció	NOUN	_	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-450
+16	szóló	szóló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-451
+17	93/15/EGK	93/15/EGK	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-452
+18	irányelvének	irányelv	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-453
+19	10.	10.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-454
+20	és	és	CCONJ	_	_	_	_	_	tokId=w-455
+21	11.	11.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-456
+22	cikkével	cikk	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-457
+23	összeegyeztethető	összeegyeztethető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-458
+24	szabályozást	szabályozás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-459
+25	tartalmaz	tartalmaz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-460|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-461
+
+# sent_id = w306_s-18
+# text = - a tevékenység gyakorlásának pontos címét;
+1	-	-	X	_	_	_	_	_	tokId=w-462
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-463
+3	tevékenység	tevékenység	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-464
+4	gyakorlásának	gyakorlás	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-465
+5	pontos	pontos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-466
+6	címét	cím	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-467|SpaceAfter=No
+7	;	;	PUNCT	_	_	_	_	_	tokId=w-468
+
+# sent_id = w306_s-19
+# text = - lakóhely adatait.
+1	-	-	X	_	_	_	_	_	tokId=w-469
+2	lakóhely	lakóhely	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-470
+3	adatait	adat	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-471|SpaceAfter=No
+4	.	.	PUNCT	_	_	_	_	_	tokId=w-472
+
+# sent_id = w306_s-20
+# text = fegyver esetén a fajta mező tartalma lehet:
+1	fegyver	fegyver	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-473
+2	esetén	esetén	ADP	_	_	_	_	_	tokId=w-474
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-475
+4	fajta	fajta	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-476
+5	mező	mező	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-477
+6	tartalma	tartalom	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-478
+7	lehet	lesz	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-479|SpaceAfter=No
+8	:	:	PUNCT	_	_	_	_	_	tokId=w-480
+
+# sent_id = w306_s-21
+# text = lőszer esetén a fajta mező tartalma: R
+1	lőszer	lőszer	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-481
+2	esetén	esetén	ADP	_	_	_	_	_	tokId=w-482
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-483
+4	fajta	fajta	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-484
+5	mező	mező	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-485
+6	tartalma	tartalom	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-486|SpaceAfter=No
+7	:	:	PUNCT	_	_	_	_	_	tokId=w-487
+8	R	R	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-488
+
+# sent_id = w306_s-22
+# text = a polgári célú pirotechnikai tevékenységek felügyeletéről
+1	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-489
+2	polgári	polgári	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-490
+3	célú	célú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-491
+4	pirotechnikai	pirotechnikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-492
+5	tevékenységek	tevékenység	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-493
+6	felügyeletéről	felügyelet	NOUN	_	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-494
+
+# sent_id = w306_s-23
+# text = Késleltetővel egybekötött termékeknél a nettó hatóanyag töltet egységenként értendő, de az összefűzött termék nettó hatóanyag-tartalma nem haladhatja meg a 750 g-ot, petárdáknál a 250 g-ot;
+1	Késleltetővel	késleltető	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-495
+2	egybekötött	egybekötött	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-496
+3	termékeknél	termék	NOUN	_	Case=Ade|Number=Plur	_	_	_	tokId=w-497
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-498
+5	nettó	nettó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-499
+6	hatóanyag	hatóanyag	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-500
+7	töltet	töltet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-501
+8	egységenként	egység	ADV	_	_	_	_	_	tokId=w-502
+9	értendő	értendő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-503|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-504
+11	de	de	CCONJ	_	_	_	_	_	tokId=w-505
+12	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-506
+13	összefűzött	összefűzött	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-507
+14	termék	termék	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-508
+15	nettó	nettó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-509
+16	hatóanyag-tartalma	hatóanyag-tartalom	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-510
+17	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-511
+18	haladhatja	halad	VERB	_	Definite=Def|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-512
+19	meg	meg	PART	_	_	_	_	_	tokId=w-513
+20	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-514
+21	750	750	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-515
+22	g-ot	g	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-516|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-517
+24	petárdáknál	petárda	NOUN	_	Case=Ade|Number=Plur	_	_	_	tokId=w-518
+25	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-519
+26	250	250	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-520
+27	g-ot	g	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-521|SpaceAfter=No
+28	;	;	PUNCT	_	_	_	_	_	tokId=w-522
+
+# sent_id = w306_s-24
+# text = (2) A kérelemhez mellékelni kell a gyártásra szolgáló létesítmények alaprajzát, műszaki leírását, a biztonságtechnikai berendezések elhelyezésének vázlatrajzát, a bányahatóság robbanóanyag tárolási engedélyének másolatát, illetve a gyártási technológiáról megfelelőségi nyilatkozatot és a tűzvédelmi dokumentációt.
+1	(	(	PUNCT	_	_	_	_	_	tokId=w-523|SpaceAfter=No
+2	2	2	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-524|SpaceAfter=No
+3	)	)	PUNCT	_	_	_	_	_	tokId=w-525
+4	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-526
+5	kérelemhez	kérelem	NOUN	_	Case=All|Number=Sing	_	_	_	tokId=w-527
+6	mellékelni	mellékel	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-528
+7	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-529
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-530
+9	gyártásra	gyártás	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-531
+10	szolgáló	szolgáló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-532
+11	létesítmények	létesítmény	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-533
+12	alaprajzát	alaprajz	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-534|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-535
+14	műszaki	műszaki	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-536
+15	leírását	leírás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-537|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-538
+17	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-539
+18	biztonságtechnikai	biztonságtechnikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-540
+19	berendezések	berendezés	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-541
+20	elhelyezésének	elhelyezés	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-542
+21	vázlatrajzát	vázlatrajz	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-543|SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-544
+23	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-545
+24	bányahatóság	bányahatóság	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-546
+25	robbanóanyag	robbanóanyag	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-547
+26	tárolási	tárolási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-548
+27	engedélyének	engedély	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-549
+28	másolatát	másolat	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-550|SpaceAfter=No
+29	,	,	PUNCT	_	_	_	_	_	tokId=w-551
+30	illetve	illetve	CCONJ	_	_	_	_	_	tokId=w-552
+31	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-553
+32	gyártási	gyártási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-554
+33	technológiáról	technológia	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-555
+34	megfelelőségi	megfelelőségi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-556
+35	nyilatkozatot	nyilatkozat	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-557
+36	és	és	CCONJ	_	_	_	_	_	tokId=w-558
+37	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-559
+38	tűzvédelmi	tűzvédelmi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-560
+39	dokumentációt	dokumentáció	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-561|SpaceAfter=No
+40	.	.	PUNCT	_	_	_	_	_	tokId=w-562
+

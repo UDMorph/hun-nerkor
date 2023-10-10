@@ -1,0 +1,635 @@
+# newdoc id = w365
+# sent_id = w365_s-1
+# text = A kiszállítás munkanaponként 8-17 óra között történik.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-1
+2	kiszállítás	kiszállítás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-2
+3	munkanaponként	munkanap	ADV	_	_	_	_	_	tokId=w-3
+4	8-17	8-17	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-4
+5	óra	óra	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-5
+6	között	között	ADP	_	_	_	_	_	tokId=w-6
+7	történik	történik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-7|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-8
+
+# sent_id = w365_s-2
+# text = Még több adat a vizuálos kollégáknak:
+1	Még	még	ADV	_	_	_	_	_	tokId=w-9
+2	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-10
+3	adat	adat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-11
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-12
+5	vizuálos	vizuálos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-13
+6	kollégáknak	kolléga	NOUN	_	Case=Dat|Number=Plur	_	_	_	tokId=w-14|SpaceAfter=No
+7	:	:	PUNCT	_	_	_	_	_	tokId=w-15
+
+# sent_id = w365_s-3
+# text = Első és legnagyobb újítás a Platter Play funkció.
+1	Első	első	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-16
+2	és	és	CCONJ	_	_	_	_	_	tokId=w-17
+3	legnagyobb	nagy	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-18
+4	újítás	újítás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-19
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-20
+6	Platter	Platter	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-21
+7	Play	Play	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-22
+8	funkció	funkció	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-23|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-24
+
+# sent_id = w365_s-4
+# text = A készülékházat sem hanyagolták el, teljesen újratervezték, új anyagok használatával még masszívabb, még nehezebb lett a lemezjátszó, ezzel is csökkentve a gerjedés esélyét.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-25
+2	készülékházat	készülékház	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-26
+3	sem	sem	ADV	_	PronType=Neg	_	_	_	tokId=w-27
+4	hanyagolták	hanyagol	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-28
+5	el	el	ADV	_	_	_	_	_	tokId=w-29|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-30
+7	teljesen	teljes	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-31
+8	újratervezték	újratervez	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-32|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-33
+10	új	új	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-34
+11	anyagok	anyag	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-35
+12	használatával	használat	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-36
+13	még	még	ADV	_	_	_	_	_	tokId=w-37
+14	masszívabb	masszív	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-38|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-39
+16	még	még	ADV	_	_	_	_	_	tokId=w-40
+17	nehezebb	nehéz	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-41
+18	lett	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-42
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-43
+20	lemezjátszó	lemezjátszó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-44|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-45
+22	ezzel	ez	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-46
+23	is	is	ADV	_	_	_	_	_	tokId=w-47
+24	csökkentve	csökkentve	ADV	_	VerbForm=Conv	_	_	_	tokId=w-48
+25	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-49
+26	gerjedés	gerjedés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-50
+27	esélyét	esély	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-51|SpaceAfter=No
+28	.	.	PUNCT	_	_	_	_	_	tokId=w-52
+
+# sent_id = w365_s-5
+# text = Nagyon várjuk, hogy megérkezzen a lemezjátszó!
+1	Nagyon	nagyon	ADV	_	_	_	_	_	tokId=w-53
+2	várjuk	vár	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-54|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-55
+4	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-56
+5	megérkezzen	megérkezik	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-57
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-58
+7	lemezjátszó	lemezjátszó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-59|SpaceAfter=No
+8	!	!	PUNCT	_	_	_	_	_	tokId=w-60
+
+# sent_id = w365_s-6
+# text = Amennyiben idő és pénz hiányában nincs …
+1	Amennyiben	amennyiben	CCONJ	_	_	_	_	_	tokId=w-61
+2	idő	idő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-62
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-63
+4	pénz	pénz	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-64
+5	hiányában	hiányában	ADP	_	_	_	_	_	tokId=w-65
+6	nincs	nincs	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-66
+7	…	…	PUNCT	_	_	_	_	_	tokId=w-67
+
+# sent_id = w365_s-7
+# text = A Native Instrumentslétrehozta a loopok és sample-k új mekkáját: a Sounds.com-ot .
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-68
+2	Native	Native	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-69|NE=name[ORG]_1
+3	Instruments	Instruments	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-70|NE=name[ORG]_1|SpaceAfter=No
+4	létrehozta	létrehoz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-71
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-72
+6	loopok	loop	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-73
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-74
+8	sample-k	sample	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-75
+9	új	új	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-76
+10	mekkáját	mekka	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-77|SpaceAfter=No
+11	:	:	PUNCT	_	_	_	_	_	tokId=w-78
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-79
+13	Sounds.com-ot	Sounds.com	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-80|NE=name[MISC]_2
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-81
+
+# sent_id = w365_s-8
+# text = A Reloop legfrissebb terméke a Reloop Kut egy kifejezetten scratch Dj-k számára tervezett 2 csatornás professzionális keverő innofader-rel.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-82
+2	Reloop	Reloop	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-83|NE=name[ORG]_3
+3	legfrissebb	friss	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-84
+4	terméke	termék	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-85
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-86
+6	Reloop	Reloop	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-87|NE=name[MISC]_4
+7	Kut	Kut	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-88|NE=name[MISC]_4
+8	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-89
+9	kifejezetten	kifejezett	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-90
+10	scratch	scratch	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-91
+11	Dj-k	dj	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-92
+12	számára	számára	ADP	_	_	_	_	_	tokId=w-93
+13	tervezett	tervezett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-94
+14	2	2	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-95
+15	csatornás	csatornás	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-96
+16	professzionális	professzionális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-97
+17	keverő	keverő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-98
+18	innofader-rel	innofader	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-99|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-100
+
+# sent_id = w365_s-9
+# text = Mindig van új a nap alatt – persze mindenki csinált már fejhallgató erősítőt, lightning csatalakzósat is biztosan, de ilyet szerintem még senki!
+1	Mindig	mindig	ADV	_	_	_	_	_	tokId=w-101
+2	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-102
+3	új	új	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-103
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-104
+5	nap	nap	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-105
+6	alatt	alatt	ADP	_	_	_	_	_	tokId=w-106
+7	–	–	X	_	_	_	_	_	tokId=w-107
+8	persze	persze	ADV	_	_	_	_	_	tokId=w-108
+9	mindenki	mindenki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-109
+10	csinált	csinál	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-110
+11	már	már	ADV	_	_	_	_	_	tokId=w-111
+12	fejhallgató	fejhallgató	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-112
+13	erősítőt	erősítő	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-113|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-114
+15	lightning	lightning	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-115
+16	csatalakzósat	csatalakzós	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	_	_	_	tokId=w-116
+17	is	is	ADV	_	_	_	_	_	tokId=w-117
+18	biztosan	biztos	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-118|SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	tokId=w-119
+20	de	de	CCONJ	_	_	_	_	_	tokId=w-120
+21	ilyet	ilyen	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-121
+22	szerintem	szerint	ADP	_	_	_	_	_	tokId=w-122
+23	még	még	ADV	_	_	_	_	_	tokId=w-123
+24	senki	senki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-124|SpaceAfter=No
+25	!	!	PUNCT	_	_	_	_	_	tokId=w-125
+
+# sent_id = w365_s-10
+# text = Valamennyi típus tervezése a zene, a divat és az művészet jegyében valósult meg, szem előtt tartva a legmagasabb minőségi követelményeket.
+1	Valamennyi	valamennyi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind	_	_	_	tokId=w-126
+2	típus	típus	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-127
+3	tervezése	tervezés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-128
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-129
+5	zene	zene	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-130|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-131
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-132
+8	divat	divat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-133
+9	és	és	CCONJ	_	_	_	_	_	tokId=w-134
+10	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-135
+11	művészet	művészet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-136
+12	jegyében	jegy	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-137
+13	valósult	valósul	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-138
+14	meg	meg	PART	_	_	_	_	_	tokId=w-139|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-140
+16	szem	szem	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-141
+17	előtt	előtt	ADP	_	_	_	_	_	tokId=w-142
+18	tartva	tartva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-143
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-144
+20	legmagasabb	magas	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-145
+21	minőségi	minőségi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-146
+22	követelményeket	követelmény	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-147|SpaceAfter=No
+23	.	.	PUNCT	_	_	_	_	_	tokId=w-148
+
+# sent_id = w365_s-11
+# text = Itt a Pioneer DDJ-800, ami a DDJ-1000 kétcsatornás változata.
+1	Itt	itt	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-149
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-150
+3	Pioneer	Pioneer	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-151|NE=name[MISC]_5
+4	DDJ-800	DDJ-800	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-152|NE=name[MISC]_5|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-153
+6	ami	ami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-154
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-155
+8	DDJ-1000	DDJ-1000	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-156|NE=name[MISC]_6
+9	kétcsatornás	kétcsatornás	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-157
+10	változata	változat	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-158|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-159
+
+# sent_id = w365_s-12
+# text = Ennek apropójából adunk Nektek néhány tippet, hogy megkönnyítsük a vásárlás dolgát.
+1	Ennek	ez	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-160
+2	apropójából	apropó	NOUN	_	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-161
+3	adunk	ad	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-162
+4	Nektek	ti	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	_	_	_	tokId=w-163
+5	néhány	néhány	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-164
+6	tippet	tipp	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-165|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-166
+8	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-167
+9	megkönnyítsük	megkönnyít	VERB	_	Definite=Def|Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-168
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-169
+11	vásárlás	vásárlás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-170
+12	dolgát	dolog	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-171|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-172
+
+# sent_id = w365_s-13
+# text = Egy korábbi cikkünkben már írtunk róla, és néhány fotó is kiszivárgott.
+1	Egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-173
+2	korábbi	korábbi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-174
+3	cikkünkben	cikk	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-175
+4	már	már	ADV	_	_	_	_	_	tokId=w-176
+5	írtunk	ír	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-177
+6	róla	róla	PRON	_	Case=Del|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-178|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-179
+8	és	és	CCONJ	_	_	_	_	_	tokId=w-180
+9	néhány	néhány	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-181
+10	fotó	fotó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-182
+11	is	is	ADV	_	_	_	_	_	tokId=w-183
+12	kiszivárgott	kiszivárog	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-184|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-185
+
+# sent_id = w365_s-14
+# text = A frissítéssel ugyanis az NI több gyártó eszközét is bevonta a támogatottak sorába, és a Dj-k most már élvezhetik: Pioneer részéről a HID mód az …
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-186
+2	frissítéssel	frissítés	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-187
+3	ugyanis	ugyanis	CCONJ	_	_	_	_	_	tokId=w-188
+4	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-189
+5	NI	Ni	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-190|NE=name[ORG]_7
+6	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-191
+7	gyártó	gyártó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-192
+8	eszközét	eszköz	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-193
+9	is	is	ADV	_	_	_	_	_	tokId=w-194
+10	bevonta	bevon	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-195
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-196
+12	támogatottak	támogatott	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-197
+13	sorába	sor	NOUN	_	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-198|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-199
+15	és	és	CCONJ	_	_	_	_	_	tokId=w-200
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-201
+17	Dj-k	dj	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-202
+18	most	most	ADV	_	_	_	_	_	tokId=w-203
+19	már	már	ADV	_	_	_	_	_	tokId=w-204
+20	élvezhetik	élvez	VERB	_	Definite=Def|Mood=Pot|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-205|SpaceAfter=No
+21	:	:	PUNCT	_	_	_	_	_	tokId=w-206
+22	Pioneer	Pioneer	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-207|NE=name[ORG]_8
+23	részéről	részéről	ADP	_	_	_	_	_	tokId=w-208
+24	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-209
+25	HID	HID	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-210
+26	mód	mód	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-211
+27	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-212
+28	…	…	PUNCT	_	_	_	_	_	tokId=w-213
+
+# sent_id = w365_s-15
+# text = Az utolsó napokra tartogattuk a legjobbat!
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-214
+2	utolsó	utolsó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-215
+3	napokra	nap	NOUN	_	Case=Sbl|Number=Plur	_	_	_	tokId=w-216
+4	tartogattuk	tartogat	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-217
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-218
+6	legjobbat	jó	ADJ	_	Case=Acc|Degree=Sup|Number=Sing	_	_	_	tokId=w-219|SpaceAfter=No
+7	!	!	PUNCT	_	_	_	_	_	tokId=w-220
+
+# sent_id = w365_s-16
+# text = Most itt a lehetőség a Native Instruments és a Metapop jóvoltából egy producerversenyre, amit az új KOMPLETE KONTROL A-sorozatú billenytűk kiadásának megünneplésére szerveztek meg.
+1	Most	most	ADV	_	_	_	_	_	tokId=w-221
+2	itt	itt	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-222
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-223
+4	lehetőség	lehetőség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-224
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-225
+6	Native	Native	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-226|NE=name[ORG]_9
+7	Instruments	Instruments	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-227|NE=name[ORG]_9
+8	és	és	CCONJ	_	_	_	_	_	tokId=w-228
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-229
+10	Metapop	Metapop	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-230|NE=name[ORG]_10
+11	jóvoltából	jóvoltából	ADP	_	_	_	_	_	tokId=w-231
+12	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-232
+13	producerversenyre	producerverseny	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-233|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-234
+15	amit	ami	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-235
+16	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-236
+17	új	új	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-237
+18	KOMPLETE	KOMPLETE	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-238|NE=name[MISC]_11
+19	KONTROL	KONTROL	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-239|NE=name[MISC]_11
+20	A-sorozatú	A-sorozatú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-240
+21	billenytűk	billenytű	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-241
+22	kiadásának	kiadás	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-242
+23	megünneplésére	megünneplés	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-243
+24	szerveztek	szervez	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-244
+25	meg	meg	PART	_	_	_	_	_	tokId=w-245|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-246
+
+# sent_id = w365_s-17
+# text = Stúdió monitorokra mindenhol szükség van, ha a legjobb hangzást szeretnénk elérni.
+1	Stúdió	stúdió	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-247
+2	monitorokra	monitor	NOUN	_	Case=Sbl|Number=Plur	_	_	_	tokId=w-248
+3	mindenhol	mindenhol	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-249
+4	szükség	szükség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-250
+5	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-251|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-252
+7	ha	ha	SCONJ	_	_	_	_	_	tokId=w-253
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-254
+9	legjobb	jó	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-255
+10	hangzást	hangzás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-256
+11	szeretnénk	szeret	VERB	_	Definite=Def|Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-257
+12	elérni	elér	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-258|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-259
+
+# sent_id = w365_s-18
+# text = A Pioneer DJ a tegnapi nap folyamán bejelentette a HDJ-X5 vezeték nélküli verzióját.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-260
+2	Pioneer	Pioneer	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-261|NE=name[ORG]_12
+3	DJ	DJ	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-262|NE=name[ORG]_12
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-263
+5	tegnapi	tegnapi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-264
+6	nap	nap	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-265
+7	folyamán	folyamán	ADP	_	_	_	_	_	tokId=w-266
+8	bejelentette	bejelent	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-267
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-268
+10	HDJ-X5	HDJ-X5	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-269|NE=name[MISC]_13
+11	vezeték	vezeték	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-270
+12	nélküli	nélküli	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-271
+13	verzióját	verzió	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-272|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-273
+
+# sent_id = w365_s-19
+# text = Röviden, hogy mit is kell tudni a lemezjátszóról: Az RP-8000 a Reloop német gyártó tovább gondolt …
+1	Röviden	rövid	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-274|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-275
+3	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-276
+4	mit	mi	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-277
+5	is	is	ADV	_	_	_	_	_	tokId=w-278
+6	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-279
+7	tudni	tud	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-280
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-281
+9	lemezjátszóról	lemezjátszó	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-282|SpaceAfter=No
+10	:	:	PUNCT	_	_	_	_	_	tokId=w-283
+11	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-284
+12	RP-8000	RP-8000	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-285|NE=name[MISC]_14
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-286
+14	Reloop	Reloop	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-287|NE=name[ORG]_15
+15	német	német	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-288
+16	gyártó	gyártó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-289
+17	tovább	tovább	ADV	_	_	_	_	_	tokId=w-290
+18	gondolt	gondol	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-291
+19	…	…	PUNCT	_	_	_	_	_	tokId=w-292
+
+# sent_id = w365_s-20
+# text = Mindent tud, amit ma …
+1	Mindent	minden	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-293
+2	tud	tud	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-294|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-295
+4	amit	ami	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-296
+5	ma	ma	ADV	_	_	_	_	_	tokId=w-297
+6	…	…	PUNCT	_	_	_	_	_	tokId=w-298
+
+# sent_id = w365_s-21
+# text = Neves DJ-kkel és a Serato-val összefogva alkották …
+1	Neves	neves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-299
+2	DJ-kkel	dj	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-300
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-301
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-302
+5	Serato-val	Serato	PROPN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-303|NE=name[ORG]_16
+6	összefogva	összefogva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-304
+7	alkották	alkot	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-305
+8	…	…	PUNCT	_	_	_	_	_	tokId=w-306
+
+# sent_id = w365_s-22
+# text = A Reloop megint megmutatta, hogy mennyire innovatív!
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-307
+2	Reloop	Reloop	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-308|NE=name[ORG]_17
+3	megint	megint	ADV	_	_	_	_	_	tokId=w-309
+4	megmutatta	megmutat	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-310|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-311
+6	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-312
+7	mennyire	mennyire	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Int	_	_	_	tokId=w-313
+8	innovatív	innovatív	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-314|SpaceAfter=No
+9	!	!	PUNCT	_	_	_	_	_	tokId=w-315
+
+# sent_id = w365_s-23
+# text = A Serato munkatársai ezen felbuzdulva jelentették be hamarosan érkező plugin-jük, a Serato Sample béta verzióját.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-316
+2	Serato	Serato	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-317|NE=name[ORG]_18
+3	munkatársai	munkatárs	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-318
+4	ezen	ez	PRON	_	Case=Sup|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-319
+5	felbuzdulva	felbuzdulva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-320
+6	jelentették	jelent	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-321
+7	be	be	ADV	_	Degree=Pos	_	_	_	tokId=w-322
+8	hamarosan	hamarosan	ADV	_	_	_	_	_	tokId=w-323
+9	érkező	érkező	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-324
+10	plugin-jük	plugin	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-325|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-326
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-327
+13	Serato	Serato	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-328|NE=name[MISC]_19
+14	Sample	Sample	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-329|NE=name[MISC]_19
+15	béta	béta	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-330
+16	verzióját	verzió	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-331|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-332
+
+# sent_id = w365_s-24
+# text = Digitális audio hálózatok útvesztőjében Tekintsünk rá nagy vonalakban, hol tartunk most.
+1	Digitális	digitális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-333
+2	audio	audio	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-334
+3	hálózatok	hálózat	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-335
+4	útvesztőjében	útvesztő	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-336
+5	Tekintsünk	tekint	VERB	_	Definite=Ind|Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-337
+6	rá	rá	ADV	_	_	_	_	_	tokId=w-338
+7	nagy	nagy	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-339
+8	vonalakban	vonal	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-340|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-341
+10	hol	hol	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Int	_	_	_	tokId=w-342
+11	tartunk	tart	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-343
+12	most	most	ADV	_	_	_	_	_	tokId=w-344|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-345
+
+# sent_id = w365_s-25
+# text = A Steinberg által bemutatott UR-RT a prémium kategóriás felvételi minőséget hivatott a home producerek számára elérhetőbbé tenni.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-346
+2	Steinberg	Steinberg	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-347|NE=name[ORG]_20
+3	által	által	ADP	_	_	_	_	_	tokId=w-348
+4	bemutatott	bemutatott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-349
+5	UR-RT	UR-RT	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-350|NE=name[MISC]_21
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-351
+7	prémium	prémium	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-352
+8	kategóriás	kategóriás	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-353
+9	felvételi	felvételi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-354
+10	minőséget	minőség	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-355
+11	hivatott	hivatott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-356
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-357
+13	home	home	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-358
+14	producerek	producer	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-359
+15	számára	számára	ADP	_	_	_	_	_	tokId=w-360
+16	elérhetőbbé	elérhető	ADJ	_	Case=Tra|Degree=Cmp|Number=Sing	_	_	_	tokId=w-361
+17	tenni	tesz	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-362|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-363
+
+# sent_id = w365_s-26
+# text = A protokollok közötti átjárás biztosítása érdekében több hardver gyártó is modulárisan …
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-364
+2	protokollok	protokoll	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-365
+3	közötti	közötti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-366
+4	átjárás	átjárás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-367
+5	biztosítása	biztosítás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-368
+6	érdekében	érdekében	ADP	_	_	_	_	_	tokId=w-369
+7	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-370
+8	hardver	hardver	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-371
+9	gyártó	gyártó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-372
+10	is	is	ADV	_	_	_	_	_	tokId=w-373
+11	modulárisan	moduláris	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-374
+12	…	…	PUNCT	_	_	_	_	_	tokId=w-375
+
+# sent_id = w365_s-27
+# text = A múlt: AES/EBU (AES/European Broadcasting Union) – Az AES által fejlesztett digitális két, egyirányú csatornát tartalmaz.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-376
+2	múlt	múlt	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-377|SpaceAfter=No
+3	:	:	PUNCT	_	_	_	_	_	tokId=w-378
+4	AES/EBU	AES/EBU	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-379|NE=name[ORG]_22
+5	(	(	PUNCT	_	_	_	_	_	tokId=w-380
+6	AES/European	AES/European	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-381|NE=name[ORG]_23
+7	Broadcasting	Broadcasting	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-382|NE=name[ORG]_23
+8	Union	Union	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-383|NE=name[ORG]_23|SpaceAfter=No
+9	)	)	PUNCT	_	_	_	_	_	tokId=w-384
+10	–	–	X	_	_	_	_	_	tokId=w-385
+11	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-386
+12	AES	AES	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-387|NE=name[ORG]_24
+13	által	által	ADP	_	_	_	_	_	tokId=w-388
+14	fejlesztett	fejlesztett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-389
+15	digitális	digitális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-390
+16	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-391|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-392
+18	egyirányú	egyirányú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-393
+19	csatornát	csatorna	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-394
+20	tartalmaz	tartalmaz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-395|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-396
+
+# sent_id = w365_s-28
+# text = A jelfolyam általában szimmetrikus XLR kábelen keresztül (bár használhatunk optikai vagy aszimmetrikus kapcsolatot is a jeltovábbításhoz) áramlik.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-397
+2	jelfolyam	jelfolyam	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-398
+3	általában	általában	ADV	_	_	_	_	_	tokId=w-399
+4	szimmetrikus	szimmetrikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-400
+5	XLR	XLR	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-401
+6	kábelen	kábel	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-402
+7	keresztül	keresztül	ADP	_	_	_	_	_	tokId=w-403
+8	(	(	PUNCT	_	_	_	_	_	tokId=w-404|SpaceAfter=No
+9	bár	bár	SCONJ	_	_	_	_	_	tokId=w-405
+10	használhatunk	használ	VERB	_	Definite=Ind|Mood=Pot|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-406
+11	optikai	optikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-407
+12	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-408
+13	aszimmetrikus	aszimmetrikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-409
+14	kapcsolatot	kapcsolat	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-410
+15	is	is	ADV	_	_	_	_	_	tokId=w-411
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-412
+17	jeltovábbításhoz	jeltovábbítás	NOUN	_	Case=All|Number=Sing	_	_	_	tokId=w-413|SpaceAfter=No
+18	)	)	PUNCT	_	_	_	_	_	tokId=w-414
+19	áramlik	áramlik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-415|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-416
+
+# sent_id = w365_s-29
+# text = A két cég összefogott, közösen kezdtek el fejleszteni egy olyan kontrollert melyet“ öröm használni ” és a világszerte ismert Serato DJ programmal plug ’ n ’ play működik – bekötöd és már mixelhetsz is!
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-417
+2	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-418
+3	cég	cég	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-419
+4	összefogott	összefog	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-420|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-421
+6	közösen	közös	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-422
+7	kezdtek	kezd	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-423
+8	el	el	ADV	_	_	_	_	_	tokId=w-424
+9	fejleszteni	fejleszt	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-425
+10	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-426
+11	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-427
+12	kontrollert	kontroller	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-428
+13	melyet	mely	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-429|SpaceAfter=No
+14	“	“	PUNCT	_	_	_	_	_	tokId=w-430
+15	öröm	öröm	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-431
+16	használni	használ	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-432
+17	”	”	PUNCT	_	_	_	_	_	tokId=w-433
+18	és	és	CCONJ	_	_	_	_	_	tokId=w-434
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-435
+20	világszerte	világszerte	ADV	_	_	_	_	_	tokId=w-436
+21	ismert	ismert	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-437
+22	Serato	Serato	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-438|NE=name[MISC]_25
+23	DJ	DJ	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-439
+24	programmal	program	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-440
+25	plug	plug	X	_	_	_	_	_	tokId=w-441
+26	’	’	PUNCT	_	_	_	_	_	tokId=w-442
+27	n	n	X	_	_	_	_	_	tokId=w-443
+28	’	’	PUNCT	_	_	_	_	_	tokId=w-444
+29	play	play	X	_	_	_	_	_	tokId=w-445
+30	működik	működik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-446
+31	–	–	X	_	_	_	_	_	tokId=w-447
+32	bekötöd	beköt	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-448
+33	és	és	CCONJ	_	_	_	_	_	tokId=w-449
+34	már	már	ADV	_	_	_	_	_	tokId=w-450
+35	mixelhetsz	mixel	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-451
+36	is	is	ADV	_	_	_	_	_	tokId=w-452|SpaceAfter=No
+37	!	!	PUNCT	_	_	_	_	_	tokId=w-453
+
+# sent_id = w365_s-30
+# text = Kényelmes kialakításának köszönhetően nem okoz gondot a hosszú ideig tartó viselése sem.
+1	Kényelmes	kényelmes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-454
+2	kialakításának	kialakítás	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-455
+3	köszönhetően	köszönhető	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-456
+4	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-457
+5	okoz	okoz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-458
+6	gondot	gond	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-459
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-460
+8	hosszú	hosszú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-461
+9	ideig	idő	NOUN	_	Case=Ter|Number=Sing	_	_	_	tokId=w-462
+10	tartó	tartó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-463
+11	viselése	viselés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-464
+12	sem	sem	ADV	_	PronType=Neg	_	_	_	tokId=w-465|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-466
+
+# sent_id = w365_s-31
+# text = “ Az eredeti LP nagyon gyorsan # 1 fejhallgatóvá vált DJ és színpadi környezetben ” nyilatkozta Val Kolton (V-MODA CEO és DJ).
+1	“	“	PUNCT	_	_	_	_	_	tokId=w-467
+2	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-468
+3	eredeti	eredeti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-469
+4	LP	LP	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-470
+5	nagyon	nagyon	ADV	_	_	_	_	_	tokId=w-471
+6	gyorsan	gyors	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-472
+7	#	#	PUNCT	_	_	_	_	_	tokId=w-473
+8	1	1	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-474
+9	fejhallgatóvá	fejhallgató	NOUN	_	Case=Tra|Number=Sing	_	_	_	tokId=w-475
+10	vált	vált	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-476
+11	DJ	dj	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-477
+12	és	és	CCONJ	_	_	_	_	_	tokId=w-478
+13	színpadi	színpadi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-479
+14	környezetben	környezet	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-480
+15	”	”	PUNCT	_	_	_	_	_	tokId=w-481
+16	nyilatkozta	nyilatkozik	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-482
+17	Val	Val	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-483|NE=name[PER]_26
+18	Kolton	Kolton	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-484|NE=name[PER]_26
+19	(	(	PUNCT	_	_	_	_	_	tokId=w-485
+20	V-MODA	V-MODA	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-486|NE=name[ORG]_27
+21	CEO	CEO	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-487
+22	és	és	CCONJ	_	_	_	_	_	tokId=w-488
+23	DJ	dj	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-489|SpaceAfter=No
+24	)	)	PUNCT	_	_	_	_	_	tokId=w-490|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-491
+
+# sent_id = w365_s-32
+# text = Először a konzumer, otthoni eszközök váltak valamilyen Ethernet kábelen, vagy vezeték nélküli átvitelen keresztül disztribútált, digitális adathordozó által kiadott jel továbbítására és fogadására alkalmas megoldássá, majd lassacskán a professzionális színpadi-, és stúdió hangtechnika világába is megérkeztek az informatikai hálózat alapú rendszerek.
+1	Először	először	ADV	_	_	_	_	_	tokId=w-492
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-493
+3	konzumer	konzumer	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-494|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-495
+5	otthoni	otthoni	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-496
+6	eszközök	eszköz	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-497
+7	váltak	válik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-498
+8	valamilyen	valamilyen	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind	_	_	_	tokId=w-499
+9	Ethernet	Ethernet	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-500
+10	kábelen	kábel	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-501|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-502
+12	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-503
+13	vezeték	vezeték	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-504
+14	nélküli	nélküli	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-505
+15	átvitelen	átvitel	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-506
+16	keresztül	keresztül	ADP	_	_	_	_	_	tokId=w-507
+17	disztribútált	disztributált	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-508|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-509
+19	digitális	digitális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-510
+20	adathordozó	adathordozó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-511
+21	által	által	ADP	_	_	_	_	_	tokId=w-512
+22	kiadott	kiadott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-513
+23	jel	jel	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-514
+24	továbbítására	továbbítás	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-515
+25	és	és	CCONJ	_	_	_	_	_	tokId=w-516
+26	fogadására	fogadás	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-517
+27	alkalmas	alkalmas	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-518
+28	megoldássá	megoldás	NOUN	_	Case=Tra|Number=Sing	_	_	_	tokId=w-519|SpaceAfter=No
+29	,	,	PUNCT	_	_	_	_	_	tokId=w-520
+30	majd	majd	ADV	_	_	_	_	_	tokId=w-521
+31	lassacskán	lassacskán	ADV	_	_	_	_	_	tokId=w-522
+32	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-523
+33	professzionális	professzionális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-524
+34	színpadi-	színpadi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-525|SpaceAfter=No
+35	,	,	PUNCT	_	_	_	_	_	tokId=w-526
+36	és	és	CCONJ	_	_	_	_	_	tokId=w-527
+37	stúdió	stúdió	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-528
+38	hangtechnika	hangtechnika	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-529
+39	világába	világ	NOUN	_	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-530
+40	is	is	ADV	_	_	_	_	_	tokId=w-531
+41	megérkeztek	megérkezik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-532
+42	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-533
+43	informatikai	informatikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-534
+44	hálózat	hálózat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-535
+45	alapú	alapú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-536
+46	rendszerek	rendszer	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-537|SpaceAfter=No
+47	.	.	PUNCT	_	_	_	_	_	tokId=w-538
+

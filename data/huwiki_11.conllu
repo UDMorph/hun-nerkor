@@ -1,0 +1,342 @@
+# newdoc id = huwiki_11
+# sent_id = huwiki_11_s-1
+# text = Afrikának 54 független országa van, és 6 egyéb területe.
+1	Afrikának	Afrika	PROPN	_	Case=Gen|Number=Sing	_	_	_	tokId=w-1|NE=name[LOC]_1
+2	54	54	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-2
+3	független	független	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-3
+4	országa	ország	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-4
+5	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-5|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-6
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-7
+8	6	6	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-8
+9	egyéb	egyéb	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-9
+10	területe	terület	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-10|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-11
+
+# sent_id = huwiki_11_s-2
+# text = Néhány atlanti-óceáni és indiai-óceáni sziget és szigetcsoport is Afrikához tartozik, amelyeknek egy része 3 európai ország területét képezi.
+1	Néhány	néhány	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-12
+2	atlanti-óceáni	atlanti-óceáni	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-13
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-14
+4	indiai-óceáni	indiai-óceáni	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-15
+5	sziget	sziget	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-16
+6	és	és	CCONJ	_	_	_	_	_	tokId=w-17
+7	szigetcsoport	szigetcsoport	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-18
+8	is	is	ADV	_	_	_	_	_	tokId=w-19
+9	Afrikához	Afrika	PROPN	_	Case=All|Number=Sing	_	_	_	tokId=w-20|NE=name[LOC]_2
+10	tartozik	tartozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-21|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-22
+12	amelyeknek	amely	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-23
+13	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-24
+14	része	rész	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-25
+15	3	3	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-26
+16	európai	európai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-27
+17	ország	ország	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-28
+18	területét	terület	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-29
+19	képezi	képez	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-30|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-31
+
+# sent_id = huwiki_11_s-3
+# text = Afrika legnagyobb területű országai a Kongói Demokratikus Köztársaságés Algéria , a legnagyobb népességűek pedig Nigériaés Egyiptom .
+1	Afrika	Afrika	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-32|NE=name[LOC]_3
+2	legnagyobb	nagy	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-33
+3	területű	területű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-34
+4	országai	ország	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-35
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-36
+6	Kongói	Kongói	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-37|NE=name[LOC]_4
+7	Demokratikus	Demokratikus	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-38|NE=name[LOC]_4
+8	Köztársaság	Köztársaság	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-39|NE=name[LOC]_4|SpaceAfter=No
+9	és	és	CCONJ	_	_	_	_	_	tokId=w-40
+10	Algéria	Algéria	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-41|NE=name[LOC]_5
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-42
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-43
+13	legnagyobb	nagy	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-44
+14	népességűek	népességű	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-45
+15	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-46
+16	Nigéria	Nigéria	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-47|NE=name[LOC]_6|SpaceAfter=No
+17	és	és	CCONJ	_	_	_	_	_	tokId=w-48
+18	Egyiptom	Egyiptom	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-49|NE=name[LOC]_7
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-50
+
+# sent_id = huwiki_11_s-4
+# text = Afrika szárazföldi országai közül a legnagyobb népsűrűségűek a kelet-afrikai nagy tavak vidékén található Burundi és Ruanda (347 fő/km²), a legkisebb népsűrűségű ország pedig Nyugat-Szahara (1 fő/km²).
+1	Afrika	Afrika	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-51|NE=name[LOC]_8
+2	szárazföldi	szárazföldi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-52
+3	országai	ország	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-53
+4	közül	közül	ADP	_	_	_	_	_	tokId=w-54
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-55
+6	legnagyobb	nagy	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-56
+7	népsűrűségűek	népsűrűségű	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-57
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-58
+9	kelet-afrikai	kelet-afrikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-59
+10	nagy	nagy	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-60
+11	tavak	tó	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-61
+12	vidékén	vidék	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-62
+13	található	található	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-63
+14	Burundi	Burundi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-64|NE=name[LOC]_9
+15	és	és	CCONJ	_	_	_	_	_	tokId=w-65
+16	Ruanda	Ruanda	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-66|NE=name[LOC]_10
+17	(	(	PUNCT	_	_	_	_	_	tokId=w-67|SpaceAfter=No
+18	347	347	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-68
+19	fő/km²	fő/km²	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-69|SpaceAfter=No
+20	)	)	PUNCT	_	_	_	_	_	tokId=w-70|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-71
+22	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-72
+23	legkisebb	kicsi	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-73
+24	népsűrűségű	népsűrűségű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-74
+25	ország	ország	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-75
+26	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-76
+27	Nyugat-Szahara	Nyugat-Szahara	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-77|NE=name[LOC]_11
+28	(	(	PUNCT	_	_	_	_	_	tokId=w-78|SpaceAfter=No
+29	1	1	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-79
+30	fő/km²	fő/km²	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-80|SpaceAfter=No
+31	)	)	PUNCT	_	_	_	_	_	tokId=w-81|SpaceAfter=No
+32	.	.	PUNCT	_	_	_	_	_	tokId=w-82
+
+# sent_id = huwiki_11_s-5
+# text = Afrika legnépesebb városa Egyiptomfővárosa, Kairó, ami több, mint 15 milliós lélekszámú.
+1	Afrika	Afrika	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-83|NE=name[LOC]_12
+2	legnépesebb	népes	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-84
+3	városa	város	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-85
+4	Egyiptom	Egyiptom	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-86|NE=name[LOC]_13|SpaceAfter=No
+5	fővárosa	főváros	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-87|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-88
+7	Kairó	Kairó	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-89|NE=name[LOC]_14|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-90
+9	ami	ami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-91
+10	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-92|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-93
+12	mint	mint	SCONJ	_	_	_	_	_	tokId=w-94
+13	15	15	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-95
+14	milliós	milliós	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-96
+15	lélekszámú	lélekszámú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-97|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-98
+
+# sent_id = huwiki_11_s-6
+# text = A második legnépesebb város a nigériai Lagos, amely ennek ellenére nem fővárosa Nigériának .
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-99
+2	második	második	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-100
+3	legnépesebb	népes	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-101
+4	város	város	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-102
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-103
+6	nigériai	nigériai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-104
+7	Lagos	Lagos	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-105|NE=name[LOC]_15|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-106
+9	amely	amely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-107
+10	ennek	ez	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-108
+11	ellenére	ellenére	ADP	_	_	_	_	_	tokId=w-109
+12	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-110
+13	fővárosa	főváros	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-111
+14	Nigériának	Nigéria	PROPN	_	Case=Gen|Number=Sing	_	_	_	tokId=w-112|NE=name[LOC]_16
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-113
+
+# sent_id = huwiki_11_s-7
+# text = Voltak előrejelzések, miszerint 2015-re a világ 3. legnépesebb városa lesz 24 millió lakossal.
+1	Voltak	van	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-114
+2	előrejelzések	előrejelzés	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-115|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-116
+4	miszerint	miszerint	CCONJ	_	_	_	_	_	tokId=w-117
+5	2015-re	2015	NUM	_	Case=Sbl|Number=Sing|NumType=Card	_	_	_	tokId=w-118
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-119
+7	világ	világ	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-120
+8	3.	3.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-121
+9	legnépesebb	népes	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-122
+10	városa	város	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-123
+11	lesz	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-124
+12	24	24	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-125
+13	millió	millió	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-126
+14	lakossal	lakos	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-127|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-128
+
+# sent_id = huwiki_11_s-8
+# text = Az egy főre eső GDP alapján – a PPP (vásárlóerő) szerint számítva – Afrikaleggazdagabb országai Egyenlítői-Guinea, Mauritius , a Dél-afrikai Köztársaság, Botswanaés Líbia .
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-129
+2	egy	egy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-130
+3	főre	fő	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-131
+4	eső	eső	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-132
+5	GDP	GDP	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-133
+6	alapján	alapján	ADP	_	_	_	_	_	tokId=w-134
+7	–	–	X	_	_	_	_	_	tokId=w-135
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-136
+9	PPP	PPP	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-137
+10	(	(	PUNCT	_	_	_	_	_	tokId=w-138|SpaceAfter=No
+11	vásárlóerő	vásárlóerő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-139|SpaceAfter=No
+12	)	)	PUNCT	_	_	_	_	_	tokId=w-140
+13	szerint	szerint	ADP	_	_	_	_	_	tokId=w-141
+14	számítva	számítva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-142
+15	–	–	X	_	_	_	_	_	tokId=w-143
+16	Afrika	Afrika	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-144|NE=name[LOC]_17|SpaceAfter=No
+17	leggazdagabb	gazdag	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-145
+18	országai	ország	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-146
+19	Egyenlítői-Guinea	Egyenlítői-Guinea	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-147|NE=name[LOC]_18|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-148
+21	Mauritius	Mauritius	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-149|NE=name[LOC]_19
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-150
+23	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-151
+24	Dél-afrikai	Dél-afrikai	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-152|NE=name[LOC]_20
+25	Köztársaság	Köztársaság	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-153|NE=name[LOC]_20|SpaceAfter=No
+26	,	,	PUNCT	_	_	_	_	_	tokId=w-154
+27	Botswana	Botswana	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-155|NE=name[LOC]_21|SpaceAfter=No
+28	és	és	CCONJ	_	_	_	_	_	tokId=w-156
+29	Líbia	Líbia	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-157|NE=name[LOC]_22
+30	.	.	PUNCT	_	_	_	_	_	tokId=w-158
+
+# sent_id = huwiki_11_s-9
+# text = Az olajbevételeinek köszönhetően legnagyobb GDP-vel rendelkező apró Egyenlítői-Guinea lakossága valójában szegénységben él.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-159
+2	olajbevételeinek	olajbevétel	NOUN	_	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-160
+3	köszönhetően	köszönhető	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-161
+4	legnagyobb	nagy	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-162
+5	GDP-vel	GDP	PROPN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-163
+6	rendelkező	rendelkező	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-164
+7	apró	apró	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-165
+8	Egyenlítői-Guinea	Egyenlítői-Guinea	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-166|NE=name[LOC]_23
+9	lakossága	lakosság	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-167
+10	valójában	valójában	ADV	_	_	_	_	_	tokId=w-168
+11	szegénységben	szegénység	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-169
+12	él	él	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-170|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-171
+
+# sent_id = huwiki_11_s-10
+# text = Afrika országainak többsége igen szegény, az egy főre eső GDP/PPP Afrika átlagában 2000 USD.
+1	Afrika	Afrika	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-172|NE=name[LOC]_24
+2	országainak	ország	NOUN	_	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-173
+3	többsége	többség	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-174
+4	igen	igen	ADV	_	_	_	_	_	tokId=w-175
+5	szegény	szegény	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-176|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-177
+7	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-178
+8	egy	egy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-179
+9	főre	fő	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-180
+10	eső	eső	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-181
+11	GDP/PPP	GDP/PPP	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-182
+12	Afrika	Afrika	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-183|NE=name[LOC]_25
+13	átlagában	átlag	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-184
+14	2000	2000	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-185
+15	USD	USD	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-186|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-187
+
+# sent_id = huwiki_11_s-11
+# text = Összehasonlításul Magyarországon 15500 USD, az Európai Unióegészében 26900 USD.
+1	Összehasonlításul	összehasonlítás	NOUN	_	Case=Ess|Number=Sing	_	_	_	tokId=w-188
+2	Magyarországon	Magyarország	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-189|NE=name[LOC]_26
+3	15500	15500	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-190
+4	USD	USD	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-191|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-192
+6	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-193
+7	Európai	európai	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-194|NE=name[ORG]_27
+8	Unió	unió	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-195|NE=name[ORG]_27|SpaceAfter=No
+9	egészében	egész	ADJ	_	Case=Ine|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-196
+10	26900	26900	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-197
+11	USD	USD	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-198|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-199
+
+# sent_id = huwiki_11_s-12
+# text = A legszegényebb afrikai országok Szomália , Malawiés a Comore-szigetek , amelyekben az egy főre eső éves GDP csupán 600 USD.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-200
+2	legszegényebb	szegény	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-201
+3	afrikai	afrikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-202
+4	országok	ország	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-203
+5	Szomália	Szomália	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-204|NE=name[LOC]_28
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-205
+7	Malawi	Malawi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-206|NE=name[LOC]_29|SpaceAfter=No
+8	és	és	CCONJ	_	_	_	_	_	tokId=w-207
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-208
+10	Comore-szigetek	Comere-szigetek	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-209|NE=name[LOC]_30
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-210
+12	amelyekben	amely	PRON	_	Case=Ine|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-211
+13	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-212
+14	egy	egy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-213
+15	főre	fő	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-214
+16	eső	eső	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-215
+17	éves	éves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-216
+18	GDP	GDP	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-217
+19	csupán	csupán	ADV	_	_	_	_	_	tokId=w-218
+20	600	600	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-219
+21	USD	USD	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-220|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-221
+
+# sent_id = huwiki_11_s-13
+# text = Az országok lakossága a 2005-ös állapotokat mutatja, a fővárosok lakossága pedig a zárójelben megadott évre vonatkozik.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-222
+2	országok	ország	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-223
+3	lakossága	lakosság	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-224
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-225
+5	2005-ös	2005-ös	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-226
+6	állapotokat	állapot	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-227
+7	mutatja	mutat	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-228|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-229
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-230
+10	fővárosok	főváros	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-231
+11	lakossága	lakosság	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-232
+12	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-233
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-234
+14	zárójelben	zárójel	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-235
+15	megadott	megadott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-236
+16	évre	év	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-237
+17	vonatkozik	vonatkozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-238|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-239
+
+# sent_id = huwiki_11_s-14
+# text = Az adatok nem a közigazgatási városhatárokat, hanem az egybefüggő városterületet veszik figyelembe, amely a városhatároknál lehet szűkebb vagy tágabb is.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-240
+2	adatok	adat	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-241
+3	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-242
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-243
+5	közigazgatási	közigazgatási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-244
+6	városhatárokat	városhatár	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-245|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-246
+8	hanem	hanem	CCONJ	_	_	_	_	_	tokId=w-247
+9	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-248
+10	egybefüggő	egybefüggő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-249
+11	városterületet	városterület	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-250
+12	veszik	vesz	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-251
+13	figyelembe	figyelem	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-252|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-253
+15	amely	amely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-254
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-255
+17	városhatároknál	városhatár	NOUN	_	Case=Ade|Number=Plur	_	_	_	tokId=w-256
+18	lehet	lesz	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-257
+19	szűkebb	szűk	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-258
+20	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-259
+21	tágabb	tág	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-260
+22	is	is	ADV	_	_	_	_	_	tokId=w-261|SpaceAfter=No
+23	.	.	PUNCT	_	_	_	_	_	tokId=w-262
+
+# sent_id = huwiki_11_s-15
+# text = Azoknál az országoknál, ahol nem a főváros a legnagyobb város, zárójelben az ország legnépesebb városát is megadtuk.
+1	Azoknál	az	PRON	_	Case=Ade|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-263
+2	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-264
+3	országoknál	ország	NOUN	_	Case=Ade|Number=Plur	_	_	_	tokId=w-265|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-266
+5	ahol	ahol	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-267
+6	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-268
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-269
+8	főváros	főváros	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-270
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-271
+10	legnagyobb	nagy	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-272
+11	város	város	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-273|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-274
+13	zárójelben	zárójel	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-275
+14	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-276
+15	ország	ország	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-277
+16	legnépesebb	népes	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-278
+17	városát	város	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-279
+18	is	is	ADV	_	_	_	_	_	tokId=w-280
+19	megadtuk	megad	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-281|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-282
+
+# sent_id = huwiki_11_s-16
+# text = Az országok lakosságának és népsűrűségének forrása: USA Népszámlálási Hivatala.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-283
+2	országok	ország	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-284
+3	lakosságának	lakosság	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-285
+4	és	és	CCONJ	_	_	_	_	_	tokId=w-286
+5	népsűrűségének	népsűrűség	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-287
+6	forrása	forrás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-288|SpaceAfter=No
+7	:	:	PUNCT	_	_	_	_	_	tokId=w-289
+8	USA	USA	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-290|NE=name[ORG]_31
+9	Népszámlálási	Népszámlálási	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-291|NE=name[ORG]_31
+10	Hivatala	Hivatala	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-292|NE=name[ORG]_31|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-293
+

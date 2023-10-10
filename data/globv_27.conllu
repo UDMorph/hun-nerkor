@@ -1,0 +1,444 @@
+# newdoc id = globv_27
+# sent_id = globv_27_s-1
+# text = Vlagyimir Putyin bajszos szóvivője, Dmitrij Peszkov elvette barátnőjét, Tatjána Navkát, akivel 5 éve voltak együtt.
+1	Vlagyimir	Vlagyimir	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-1|NE=name[PER]_1
+2	Putyin	Putyin	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-2|NE=name[PER]_1
+3	bajszos	bajszos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-3
+4	szóvivője	szóvivő	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-4|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-5
+6	Dmitrij	Dmitrij	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-6|NE=name[PER]_2
+7	Peszkov	Peszkov	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-7|NE=name[PER]_2
+8	elvette	elvesz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-8
+9	barátnőjét	barátnő	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-9|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-10
+11	Tatjána	Tatjána	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-11|NE=name[PER]_3
+12	Navkát	Navka	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-12|NE=name[PER]_3|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-13
+14	akivel	aki	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-14
+15	5	5	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-15
+16	éve	év	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-16
+17	voltak	van	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-17
+18	együtt	együtt	ADV	_	_	_	_	_	tokId=w-18|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-19
+
+# sent_id = globv_27_s-2
+# text = Csakúgy, mint Putyin állítólagos szeretője, Alina Kabajeva, Peszkov újdonsült hitvese is egy volt olimpiai bajnok.
+1	Csakúgy	csakúgy	ADV	_	_	_	_	_	tokId=w-20|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-21
+3	mint	mint	SCONJ	_	_	_	_	_	tokId=w-22
+4	Putyin	Putyin	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-23|NE=name[PER]_4
+5	állítólagos	állítólagos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-24
+6	szeretője	szerető	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-25|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-26
+8	Alina	Alina	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-27|NE=name[PER]_5
+9	Kabajeva	Kabajeva	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-28|NE=name[PER]_5|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-29
+11	Peszkov	Peszkov	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-30|NE=name[PER]_6
+12	újdonsült	újdonsült	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-31
+13	hitvese	hitves	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-32
+14	is	is	ADV	_	_	_	_	_	tokId=w-33
+15	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-34
+16	volt	van	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-35
+17	olimpiai	olimpiai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-36
+18	bajnok	bajnok	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-37|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-38
+
+# sent_id = globv_27_s-3
+# text = Peszkovnak ez a harmadik házassága, és jelenlegi feleségével már van is egy közös gyermekük, aki egy éve született.
+1	Peszkovnak	Peszkov	PROPN	_	Case=Gen|Number=Sing	_	_	_	tokId=w-39|NE=name[PER]_7
+2	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-40
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-41
+4	harmadik	harmadik	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-42
+5	házassága	házasság	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-43|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-44
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-45
+8	jelenlegi	jelenlegi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-46
+9	feleségével	feleség	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-47
+10	már	már	ADV	_	_	_	_	_	tokId=w-48
+11	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-49
+12	is	is	ADV	_	_	_	_	_	tokId=w-50
+13	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-51
+14	közös	közös	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-52
+15	gyermekük	gyermek	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-53|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-54
+17	aki	aki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-55
+18	egy	egy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-56
+19	éve	év	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-57
+20	született	születik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-58|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-59
+
+# sent_id = globv_27_s-4
+# text = Az esküvő augusztus 1-jén szombaton volt, az extravagáns eseményt Szocsi legdrágább hoteljében rendezték meg.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-60
+2	esküvő	esküvő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-61
+3	augusztus	augusztus	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-62
+4	1-jén	1	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-63
+5	szombaton	szombat	ADV	_	_	_	_	_	tokId=w-64
+6	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-65|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-66
+8	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-67
+9	extravagáns	extravagáns	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-68
+10	eseményt	esemény	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-69
+11	Szocsi	Szocsi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-70|NE=name[LOC]_8
+12	legdrágább	drága	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-71
+13	hoteljében	hotel	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-72
+14	rendezték	rendez	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-73
+15	meg	meg	PART	_	_	_	_	_	tokId=w-74|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-75
+
+# sent_id = globv_27_s-5
+# text = A Gazeta.ru szerint a Rodina Grand Hotel Spa szobáinak ára egy éjszakára 36000 és 200000 rubel közt mozog.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-76
+2	Gazeta.ru	Gazeta.ru	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-77|NE=name[ORG]_9
+3	szerint	szerint	ADP	_	_	_	_	_	tokId=w-78
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-79
+5	Rodina	Rodina	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-80|NE=name[LOC]_10
+6	Grand	grand	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-81|NE=name[LOC]_10
+7	Hotel	hotel	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-82|NE=name[LOC]_10
+8	Spa	Spa	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-83|NE=name[LOC]_10
+9	szobáinak	szoba	NOUN	_	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-84
+10	ára	ár	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-85
+11	egy	egy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-86
+12	éjszakára	éjszaka	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-87
+13	36000	36000	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-88
+14	és	és	CCONJ	_	_	_	_	_	tokId=w-89
+15	200000	200000	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-90
+16	rubel	rubel	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-91
+17	közt	közt	ADP	_	_	_	_	_	tokId=w-92
+18	mozog	mozog	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-93|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-94
+
+# sent_id = globv_27_s-6
+# text = Tegnap a Gazeta.ru lehozott egy nagy vitát kiváltó interjút Peszkov17 éves lányával, Elizavetával .
+1	Tegnap	tegnap	ADV	_	_	_	_	_	tokId=w-95
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-96
+3	Gazeta.ru	Gazeta.ru	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-97|NE=name[ORG]_11
+4	lehozott	lehoz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-98
+5	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-99
+6	nagy	nagy	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-100
+7	vitát	vita	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-101
+8	kiváltó	kiváltó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-102
+9	interjút	interjú	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-103
+10	Peszkov	Peszkov	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-104|NE=name[PER]_12|SpaceAfter=No
+11	17	17	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-105
+12	éves	éves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-106
+13	lányával	lány	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-107|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-108
+15	Elizavetával	Elizaveta	PROPN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-109|NE=name[PER]_13
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-110
+
+# sent_id = globv_27_s-7
+# text = Az interjúban Elizaveta elmondta, hogy vegyes érzelmekkel fogadta apja új házasságát, és elmagyarázta, hogy miért nem jelent meg az esküvőn.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-111
+2	interjúban	interjú	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-112
+3	Elizaveta	Elizaveta	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-113|NE=name[PER]_14
+4	elmondta	elmond	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-114|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-115
+6	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-116
+7	vegyes	vegyes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-117
+8	érzelmekkel	érzelem	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-118
+9	fogadta	fogad	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-119
+10	apja	apa	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-120
+11	új	új	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-121
+12	házasságát	házasság	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-122|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-123
+14	és	és	CCONJ	_	_	_	_	_	tokId=w-124
+15	elmagyarázta	elmagyaráz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-125|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-126
+17	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-127
+18	miért	miért	ADV	_	PronType=Int	_	_	_	tokId=w-128
+19	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-129
+20	jelent	jelenik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-130
+21	meg	meg	PART	_	_	_	_	_	tokId=w-131
+22	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-132
+23	esküvőn	esküvő	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-133|SpaceAfter=No
+24	.	.	PUNCT	_	_	_	_	_	tokId=w-134
+
+# sent_id = globv_27_s-8
+# text = Sőt, az interjúból az is kiderült, hogy Peszkovlánya sokkal jobban otthonának érzi Párizst, ahol az édesanyja is él, mint Moszkvát .
+1	Sőt	sőt	CCONJ	_	_	_	_	_	tokId=w-135|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-136
+3	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-137
+4	interjúból	interjú	NOUN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-138
+5	az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-139
+6	is	is	ADV	_	_	_	_	_	tokId=w-140
+7	kiderült	kiderül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-141|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-142
+9	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-143
+10	Peszkov	Peszkov	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-144|NE=name[PER]_15|SpaceAfter=No
+11	lánya	lány	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-145
+12	sokkal	sokkal	ADV	_	_	_	_	_	tokId=w-146
+13	jobban	jól	ADV	_	Degree=Cmp	_	_	_	tokId=w-147
+14	otthonának	otthon	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-148
+15	érzi	érez	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-149
+16	Párizst	Párizs	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-150|NE=name[LOC]_16|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-151
+18	ahol	ahol	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-152
+19	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-153
+20	édesanyja	édesanya	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-154
+21	is	is	ADV	_	_	_	_	_	tokId=w-155
+22	él	él	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-156|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-157
+24	mint	mint	SCONJ	_	_	_	_	_	tokId=w-158
+25	Moszkvát	Moszkva	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-159|NE=name[LOC]_17
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-160
+
+# sent_id = globv_27_s-9
+# text = Azonban édesapja ragaszkodik ahhoz, hogy Oroszországban maradjon, amíg befejezi a tanulmányait.
+1	Azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-161
+2	édesapja	édesapa	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-162
+3	ragaszkodik	ragaszkodik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-163
+4	ahhoz	az	PRON	_	Case=All|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-164|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-165
+6	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-166
+7	Oroszországban	Oroszország	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-167|NE=name[LOC]_18
+8	maradjon	marad	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-168|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-169
+10	amíg	amíg	ADV	_	PronType=Rel	_	_	_	tokId=w-170
+11	befejezi	befejez	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-171
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-172
+13	tanulmányait	tanulmány	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-173|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-174
+
+# sent_id = globv_27_s-10
+# text = Elizaveta szerint Európa sokkal élhetőbb hely az átlagemberek számára.
+1	Elizaveta	Elizaveta	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-175|NE=name[PER]_19
+2	szerint	szerint	ADP	_	_	_	_	_	tokId=w-176
+3	Európa	Európa	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-177|NE=name[LOC]_20
+4	sokkal	sokkal	ADV	_	_	_	_	_	tokId=w-178
+5	élhetőbb	élhető	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-179
+6	hely	hely	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-180
+7	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-181
+8	átlagemberek	átlagember	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-182
+9	számára	számára	ADP	_	_	_	_	_	tokId=w-183|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-184
+
+# sent_id = globv_27_s-11
+# text = Jelen politikai körülmények közt az ilyen kijelentések különösen kínosak egy magas rangú Kreml-tisztviselőnek, mivel a nyilvános kommunikáció középpontjában a Nyugat morális pusztulása és a Krím annektálása miatt Moszkvát érő igazságtalan szankciók állnak.
+1	Jelen	jelen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-185
+2	politikai	politikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-186
+3	körülmények	körülmény	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-187
+4	közt	közt	ADP	_	_	_	_	_	tokId=w-188
+5	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-189
+6	ilyen	ilyen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-190
+7	kijelentések	kijelentés	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-191
+8	különösen	különösen	ADV	_	_	_	_	_	tokId=w-192
+9	kínosak	kínos	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-193
+10	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-194
+11	magas	magas	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-195
+12	rangú	rangú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-196
+13	Kreml-tisztviselőnek	Kreml-tisztviselő	PROPN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-197|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-198
+15	mivel	mivel	SCONJ	_	_	_	_	_	tokId=w-199
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-200
+17	nyilvános	nyilvános	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-201
+18	kommunikáció	kommunikáció	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-202
+19	középpontjában	középpont	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-203
+20	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-204
+21	Nyugat	nyugat	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-205|NE=name[LOC]_21
+22	morális	morális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-206
+23	pusztulása	pusztulás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-207
+24	és	és	CCONJ	_	_	_	_	_	tokId=w-208
+25	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-209
+26	Krím	Krím	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-210|NE=name[LOC]_22
+27	annektálása	annektálás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-211
+28	miatt	miatt	ADP	_	_	_	_	_	tokId=w-212
+29	Moszkvát	Moszkva	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-213|NE=name[LOC]_23
+30	érő	érő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-214
+31	igazságtalan	igazságtalan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-215
+32	szankciók	szankció	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-216
+33	állnak	áll	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-217|SpaceAfter=No
+34	.	.	PUNCT	_	_	_	_	_	tokId=w-218
+
+# sent_id = globv_27_s-12
+# text = Egy nappal a menyegző után Oroszország leghíresebb korrupcióellenes aktivistája, Alekszej Navalnij is csatlakozott a Peszkovot támadók csoportjához.
+1	Egy	egy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-219
+2	nappal	nap	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-220
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-221
+4	menyegző	menyegző	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-222
+5	után	után	ADP	_	_	_	_	_	tokId=w-223
+6	Oroszország	Oroszország	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-224|NE=name[LOC]_24
+7	leghíresebb	híres	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-225
+8	korrupcióellenes	korrupcióellenes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-226
+9	aktivistája	aktivista	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-227|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-228
+11	Alekszej	Alekszej	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-229|NE=name[PER]_25
+12	Navalnij	Navalnij	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-230|NE=name[PER]_25
+13	is	is	ADV	_	_	_	_	_	tokId=w-231
+14	csatlakozott	csatlakozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-232
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-233
+16	Peszkovot	Peszkovot	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-234|NE=name[PER]_26
+17	támadók	támadó	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-235
+18	csoportjához	csoport	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-236|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-237
+
+# sent_id = globv_27_s-13
+# text = Navalnij a weboldalán közölt bizonyítékokat arról, hogy Peszkov egy legalább 620000 dollárt érő karórát visel, egy Richard Mille RM 52-01-et, amely éves fizetésének a négyszeresébe kerül.
+1	Navalnij	Navalnij	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-238|NE=name[PER]_27
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-239
+3	weboldalán	weboldal	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-240
+4	közölt	közöl	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-241
+5	bizonyítékokat	bizonyíték	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-242
+6	arról	az	PRON	_	Case=Del|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-243|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-244
+8	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-245
+9	Peszkov	Peszkov	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-246|NE=name[PER]_28
+10	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-247
+11	legalább	legalább	ADV	_	_	_	_	_	tokId=w-248
+12	620000	620000	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-249
+13	dollárt	dollár	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-250
+14	érő	érő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-251
+15	karórát	karóra	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-252
+16	visel	visel	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-253|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-254
+18	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-255
+19	Richard	Richard	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-256|NE=name[MISC]_29
+20	Mille	Mille	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-257|NE=name[MISC]_29
+21	RM	RM	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-258|NE=name[MISC]_29
+22	52-01-et	52-01	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-259|NE=name[MISC]_29|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-260
+24	amely	amely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-261
+25	éves	éves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-262
+26	fizetésének	fizetés	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-263
+27	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-264
+28	négyszeresébe	négyszeres	ADJ	_	Case=Ill|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-265
+29	kerül	kerül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-266|SpaceAfter=No
+30	.	.	PUNCT	_	_	_	_	_	tokId=w-267
+
+# sent_id = globv_27_s-14
+# text = Peszkov a vagyonnyilatkozata alapján nem kapott ilyen értékű ajándékot, fizetése pedig túl alacsony ahhoz, hogy megengedhessen magának egy ilyen karórát.
+1	Peszkov	Peszkov	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-268|NE=name[PER]_30
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-269
+3	vagyonnyilatkozata	vagyonnyilatkozat	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-270
+4	alapján	alapján	ADP	_	_	_	_	_	tokId=w-271
+5	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-272
+6	kapott	kap	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-273
+7	ilyen	ilyen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-274
+8	értékű	értékű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-275
+9	ajándékot	ajándék	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-276|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-277
+11	fizetése	fizetés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-278
+12	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-279
+13	túl	túl	ADV	_	_	_	_	_	tokId=w-280
+14	alacsony	alacsony	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-281
+15	ahhoz	az	PRON	_	Case=All|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-282|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-283
+17	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-284
+18	megengedhessen	megenged	VERB	_	Definite=Ind|Mood=Imp,Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-285
+19	magának	maga	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	tokId=w-286
+20	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-287
+21	ilyen	ilyen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-288
+22	karórát	karóra	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-289|SpaceAfter=No
+23	.	.	PUNCT	_	_	_	_	_	tokId=w-290
+
+# sent_id = globv_27_s-15
+# text = Navalnij szerint ez a felfedezés Peszkov politikai karrierjének a végét jelentené, ha Oroszország egy átláthatóbb ország lenne.
+1	Navalnij	Navalnij	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-291|NE=name[PER]_31
+2	szerint	szerint	ADP	_	_	_	_	_	tokId=w-292
+3	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-293
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-294
+5	felfedezés	felfedezés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-295
+6	Peszkov	Peszkov	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-296|NE=name[PER]_32
+7	politikai	politikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-297
+8	karrierjének	karrier	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-298
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-299
+10	végét	vég	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-300
+11	jelentené	jelent	VERB	_	Definite=Def|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-301|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-302
+13	ha	ha	SCONJ	_	_	_	_	_	tokId=w-303
+14	Oroszország	Oroszország	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-304|NE=name[LOC]_33
+15	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-305
+16	átláthatóbb	átlátható	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-306
+17	ország	ország	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-307
+18	lenne	lesz	VERB	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-308|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-309
+
+# sent_id = globv_27_s-16
+# text = 2013 novemberében Lengyelországban például a közlekedési miniszternek, Szlavomir Novaknak azért kellett lemondania, mert kiderült, hogy nem tüntetett fel vagyonnyilatkozatában egy 3500 dollár (998000 forint) értékű órát.
+1	2013	2013	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-310
+2	novemberében	november	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-311
+3	Lengyelországban	Lengyelország	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-312|NE=name[LOC]_34
+4	például	például	ADV	_	_	_	_	_	tokId=w-313
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-314
+6	közlekedési	közlekedési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-315
+7	miniszternek	miniszter	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-316|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-317
+9	Szlavomir	Szlavomir	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-318|NE=name[PER]_35
+10	Novaknak	Novak	PROPN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-319|NE=name[PER]_35
+11	azért	az	PRON	_	Case=Cau|Number=Sing|Person=3|PronType=Dem|Person=3|PronType=Dem|Person=3|PronType=Dem	_	_	_	tokId=w-320
+12	kellett	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-321
+13	lemondania	lemond	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	tokId=w-322|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-323
+15	mert	mert	SCONJ	_	_	_	_	_	tokId=w-324
+16	kiderült	kiderül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-325|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-326
+18	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-327
+19	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-328
+20	tüntetett	tüntet	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-329
+21	fel	fel	ADV	_	Degree=Pos	_	_	_	tokId=w-330
+22	vagyonnyilatkozatában	vagyonnyilatkozat	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-331
+23	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-332
+24	3500	3500	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-333
+25	dollár	dollár	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-334
+26	(	(	PUNCT	_	_	_	_	_	tokId=w-335|SpaceAfter=No
+27	998000	998000	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-336
+28	forint	forint	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-337|SpaceAfter=No
+29	)	)	PUNCT	_	_	_	_	_	tokId=w-338
+30	értékű	értékű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-339
+31	órát	óra	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-340|SpaceAfter=No
+32	.	.	PUNCT	_	_	_	_	_	tokId=w-341
+
+# sent_id = globv_27_s-17
+# text = A 2012-es, kissé erőszakossá vált moszkvai tüntetések után Peszkov azt mondta, hogy a rohamrendőröket megsebesítő tüntetők máját az aszfalton kellett volna szétkenni.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-342
+2	2012-es	2012-es	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-343|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-344
+4	kissé	kissé	ADV	_	_	_	_	_	tokId=w-345
+5	erőszakossá	erőszakos	ADJ	_	Case=Tra|Degree=Pos|Number=Sing	_	_	_	tokId=w-346
+6	vált	vált	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-347
+7	moszkvai	moszkvai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-348
+8	tüntetések	tüntetés	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-349
+9	után	után	ADP	_	_	_	_	_	tokId=w-350
+10	Peszkov	Peszkov	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-351|NE=name[PER]_36
+11	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-352
+12	mondta	mond	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-353|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-354
+14	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-355
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-356
+16	rohamrendőröket	rohamrendőr	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-357
+17	megsebesítő	megsebesítő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-358
+18	tüntetők	tüntető	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-359
+19	máját	máj	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-360
+20	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-361
+21	aszfalton	aszfalt	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-362
+22	kellett	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-363
+23	volna	van	AUX	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-364
+24	szétkenni	szétken	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-365|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-366
+
+# sent_id = globv_27_s-18
+# text = Navalnij szerint azoknak az oroszoknak, akik ellenzik a korrupciót, észben kell tartaniuk Peszkov fenyegetését, mert az nekik is szól.
+1	Navalnij	Navalnij	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-367|NE=name[PER]_37
+2	szerint	szerint	ADP	_	_	_	_	_	tokId=w-368
+3	azoknak	az	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-369
+4	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-370
+5	oroszoknak	orosz	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	_	_	_	tokId=w-371|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-372
+7	akik	aki	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-373
+8	ellenzik	ellenez	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-374
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-375
+10	korrupciót	korrupció	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-376|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-377
+12	észben	ész	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-378
+13	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-379
+14	tartaniuk	tart	VERB	_	Number=Plur|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	tokId=w-380
+15	Peszkov	Peszkov	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-381|NE=name[PER]_38
+16	fenyegetését	fenyegetés	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-382|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-383
+18	mert	mert	SCONJ	_	_	_	_	_	tokId=w-384
+19	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-385
+20	nekik	ők	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	_	_	_	tokId=w-386
+21	is	is	ADV	_	_	_	_	_	tokId=w-387
+22	szól	szól	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-388|SpaceAfter=No
+23	.	.	PUNCT	_	_	_	_	_	tokId=w-389
+

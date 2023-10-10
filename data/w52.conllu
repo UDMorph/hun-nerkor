@@ -1,0 +1,289 @@
+# newdoc id = w52
+# sent_id = w52_s-1
+# text = Összetartást, kölcsönös megbecsülést és sok türelmet igényel.
+1	Összetartást	összetartás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-1|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-2
+3	kölcsönös	kölcsönös	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-3
+4	megbecsülést	megbecsülés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-4
+5	és	és	CCONJ	_	_	_	_	_	tokId=w-5
+6	sok	sok	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-6
+7	türelmet	türelem	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-7
+8	igényel	igényel	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-8|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-9
+
+# sent_id = w52_s-2
+# text = Az alapos útmutatót Ryan Brinkerhoff készítette, ezúton is köszönjük!
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-10
+2	alapos	alapos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-11
+3	útmutatót	útmutató	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-12
+4	Ryan	Ry	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-13|NE=name[PER]_1
+5	Brinkerhoff	Brinkerhoff	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-14|NE=name[PER]_1
+6	készítette	készít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-15|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-16
+8	ezúton	ezúton	ADV	_	_	_	_	_	tokId=w-17
+9	is	is	ADV	_	_	_	_	_	tokId=w-18
+10	köszönjük	köszön	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-19|SpaceAfter=No
+11	!	!	PUNCT	_	_	_	_	_	tokId=w-20
+
+# sent_id = w52_s-3
+# text = Az egyiknek ott van a kertjében a kutya, időnként játszik vele, sétáltatja, kapcsolatuk kölcsönös tiszteleten alapszik - és vannak a nagyon durván DIEHARD kutyások, akik életük jelentős részét töltik kedvencükkel, egy mozdulatából ...
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-21
+2	egyiknek	egyik	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	tokId=w-22
+3	ott	ott	ADV	_	PronType=Dem	_	_	_	tokId=w-23
+4	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-24
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-25
+6	kertjében	kert	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-26
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-27
+8	kutya	kutya	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-28|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-29
+10	időnként	időnként	ADV	_	_	_	_	_	tokId=w-30
+11	játszik	játszik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-31
+12	vele	vele	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-32|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-33
+14	sétáltatja	sétáltat	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-34|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-35
+16	kapcsolatuk	kapcsolat	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-36
+17	kölcsönös	kölcsönös	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-37
+18	tiszteleten	tisztelet	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-38
+19	alapszik	alapszik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-39
+20	-	-	X	_	_	_	_	_	tokId=w-40
+21	és	és	CCONJ	_	_	_	_	_	tokId=w-41
+22	vannak	van	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-42
+23	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-43
+24	nagyon	nagyon	ADV	_	_	_	_	_	tokId=w-44
+25	durván	durva	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-45
+26	DIEHARD	DIEHARD	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-46
+27	kutyások	kutyás	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-47|SpaceAfter=No
+28	,	,	PUNCT	_	_	_	_	_	tokId=w-48
+29	akik	aki	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-49
+30	életük	élet	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-50
+31	jelentős	jelentős	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-51
+32	részét	rész	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-52
+33	töltik	tölt	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-53
+34	kedvencükkel	kedvenc	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-54|SpaceAfter=No
+35	,	,	PUNCT	_	_	_	_	_	tokId=w-55
+36	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-56
+37	mozdulatából	mozdulat	NOUN	_	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-57
+38	...	...	PUNCT	_	_	_	_	_	tokId=w-58
+
+# sent_id = w52_s-4
+# text = Pihepuha, barátságos nemez űrhajók és halálcsillagok a kiságy fölött.
+1	Pihepuha	Pihepuha	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-59|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-60
+3	barátságos	barátságos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-61
+4	nemez	nemez	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-62
+5	űrhajók	űrhajó	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-63
+6	és	és	CCONJ	_	_	_	_	_	tokId=w-64
+7	halálcsillagok	halálcsillag	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-65
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-66
+9	kiságy	kiságy	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-67
+10	fölött	fölött	ADP	_	_	_	_	_	tokId=w-68|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-69
+
+# sent_id = w52_s-5
+# text = Mindjárt vége a nyárnak, itt az ideje a nagy nyárzáró buliknak, úgyhogy kapjátok fel a legjobb ruhátokat és tomboljátok ki magatokat augusztus utolsó szombatján is!
+1	Mindjárt	mindjárt	ADV	_	_	_	_	_	tokId=w-70
+2	vége	vég	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-71
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-72
+4	nyárnak	nyár	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-73|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-74
+6	itt	itt	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-75
+7	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-76
+8	ideje	idő	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-77
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-78
+10	nagy	nagy	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-79
+11	nyárzáró	nyárzáró	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-80
+12	buliknak	buli	NOUN	_	Case=Dat|Number=Plur	_	_	_	tokId=w-81|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-82
+14	úgyhogy	úgyhogy	CCONJ	_	_	_	_	_	tokId=w-83
+15	kapjátok	kap	VERB	_	Definite=Def|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-84
+16	fel	fel	ADV	_	Degree=Pos	_	_	_	tokId=w-85
+17	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-86
+18	legjobb	jó	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-87
+19	ruhátokat	ruha	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=2	_	_	_	tokId=w-88
+20	és	és	CCONJ	_	_	_	_	_	tokId=w-89
+21	tomboljátok	tombol	VERB	_	Definite=Def|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-90
+22	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-91
+23	magatokat	maga	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs|Reflex=Yes	_	_	_	tokId=w-92
+24	augusztus	augusztus	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-93
+25	utolsó	utolsó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-94
+26	szombatján	szombat	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-95
+27	is	is	ADV	_	_	_	_	_	tokId=w-96|SpaceAfter=No
+28	!	!	PUNCT	_	_	_	_	_	tokId=w-97
+
+# sent_id = w52_s-6
+# text = Így van ezzel a Trónok harca sorozat is.
+1	Így	így	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-98
+2	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-99
+3	ezzel	ez	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-100
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-101
+5	Trónok	Trónok	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-102|NE=name[MISC]_2
+6	harca	harca	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-103|NE=name[MISC]_2
+7	sorozat	sorozat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-104
+8	is	is	ADV	_	_	_	_	_	tokId=w-105|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-106
+
+# sent_id = w52_s-7
+# text = A Futurama című animációs sci-fi sorozat 1999-ben indult, és bár nem szünet nélkül, de máig készülnek hozzá epizódok.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-107
+2	Futurama	Futurama	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-108|NE=name[MISC]_3
+3	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-109
+4	animációs	animációs	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-110
+5	sci-fi	sci-fi	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-111
+6	sorozat	sorozat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-112
+7	1999-ben	1999	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-113
+8	indult	indul	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-114|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-115
+10	és	és	CCONJ	_	_	_	_	_	tokId=w-116
+11	bár	bár	SCONJ	_	_	_	_	_	tokId=w-117
+12	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-118
+13	szünet	szünet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-119
+14	nélkül	nélkül	ADP	_	_	_	_	_	tokId=w-120|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-121
+16	de	de	CCONJ	_	_	_	_	_	tokId=w-122
+17	máig	ma	NOUN	_	Case=Ter|Number=Sing	_	_	_	tokId=w-123
+18	készülnek	készül	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-124
+19	hozzá	ő	PRON	_	Case=All|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-125
+20	epizódok	epizód	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-126|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-127
+
+# sent_id = w52_s-8
+# text = Kij Johnson sziporkázó személyiség, lássuk ...
+1	Kij	Kij	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-128|NE=name[PER]_4
+2	Johnson	Johnson	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-129|NE=name[PER]_4
+3	sziporkázó	sziporkázó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-130
+4	személyiség	személyiség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-131|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-132
+6	lássuk	lát	VERB	_	Definite=Def|Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-133
+7	...	...	PUNCT	_	_	_	_	_	tokId=w-134
+
+# sent_id = w52_s-9
+# text = Nemrégiben John Ottinger egy hosszúra nyúló ...
+1	Nemrégiben	nemrégiben	ADV	_	_	_	_	_	tokId=w-135
+2	John	John	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-136|NE=name[PER]_5
+3	Ottinger	Ottinger	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-137|NE=name[PER]_5
+4	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-138
+5	hosszúra	hosszú	ADJ	_	Case=Sbl|Degree=Pos|Number=Sing	_	_	_	tokId=w-139
+6	nyúló	nyúló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-140
+7	...	...	PUNCT	_	_	_	_	_	tokId=w-141
+
+# sent_id = w52_s-10
+# text = Aki ismeri, úgyis tudja, aki még …
+1	Aki	aki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-142
+2	ismeri	ismer	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-143|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-144
+4	úgyis	úgyis	ADV	_	_	_	_	_	tokId=w-145
+5	tudja	tud	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-146|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-147
+7	aki	aki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-148
+8	még	még	ADV	_	_	_	_	_	tokId=w-149
+9	…	…	PUNCT	_	_	_	_	_	tokId=w-150
+
+# sent_id = w52_s-11
+# text = David Brin tegnap (2013. október 6.) töltötte be 63. életévét.
+1	David	David	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-151|NE=name[PER]_6
+2	Brin	Brin	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-152|NE=name[PER]_6
+3	tegnap	tegnap	ADV	_	_	_	_	_	tokId=w-153
+4	(	(	PUNCT	_	_	_	_	_	tokId=w-154|SpaceAfter=No
+5	2013.	2013.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-155
+6	október	október	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-156
+7	6.	6.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-157|SpaceAfter=No
+8	)	)	PUNCT	_	_	_	_	_	tokId=w-158
+9	töltötte	tölt	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-159
+10	be	be	ADV	_	Degree=Pos	_	_	_	tokId=w-160
+11	63.	63.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-161
+12	életévét	életév	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-162|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-163
+
+# sent_id = w52_s-12
+# text = De biztos, hogy J. R. R. Tolkien mester ezeket a címeket szánta nekik?
+1	De	de	CCONJ	_	_	_	_	_	tokId=w-164
+2	biztos	biztos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-165|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-166
+4	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-167
+5	J.	J.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-168|NE=name[PER]_7
+6	R.	R.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-169|NE=name[PER]_7
+7	R.	R.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-170|NE=name[PER]_7
+8	Tolkien	Tolkien	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-171|NE=name[PER]_7
+9	mester	mester	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-172
+10	ezeket	ez	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-173
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-174
+12	címeket	cím	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-175
+13	szánta	szán	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-176
+14	nekik	ők	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	_	_	_	tokId=w-177|SpaceAfter=No
+15	?	?	PUNCT	_	_	_	_	_	tokId=w-178
+
+# sent_id = w52_s-13
+# text = Ezek pedig a teslapunk, a clockpunk és az atompunk.
+1	Ezek	ez	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-179
+2	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-180
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-181
+4	teslapunk	teslapunk	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-182|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-183
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-184
+7	clockpunk	clockpunk	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-185
+8	és	és	CCONJ	_	_	_	_	_	tokId=w-186
+9	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-187
+10	atompunk	atompunk	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-188|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-189
+
+# sent_id = w52_s-14
+# text = Az ő életéről és …
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-190
+2	ő	ő	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-191
+3	életéről	élet	NOUN	_	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-192
+4	és	és	CCONJ	_	_	_	_	_	tokId=w-193
+5	…	…	PUNCT	_	_	_	_	_	tokId=w-194
+
+# sent_id = w52_s-15
+# text = Gyakori, ha videojátékok készülnek filmek alapján, de most már az sem ritka, hogy a fordítottja történik meg.
+1	Gyakori	gyakori	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-195|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-196
+3	ha	ha	SCONJ	_	_	_	_	_	tokId=w-197
+4	videojátékok	videojáték	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-198
+5	készülnek	készül	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-199
+6	filmek	film	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-200
+7	alapján	alapján	ADP	_	_	_	_	_	tokId=w-201|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-202
+9	de	de	CCONJ	_	_	_	_	_	tokId=w-203
+10	most	most	ADV	_	_	_	_	_	tokId=w-204
+11	már	már	ADV	_	_	_	_	_	tokId=w-205
+12	az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-206
+13	sem	sem	ADV	_	PronType=Neg	_	_	_	tokId=w-207
+14	ritka	ritka	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-208|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-209
+16	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-210
+17	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-211
+18	fordítottja	fordított	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-212
+19	történik	történik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-213
+20	meg	meg	PART	_	_	_	_	_	tokId=w-214|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-215
+
+# sent_id = w52_s-16
+# text = A Virágot Algernonnak szerzője 86 éves korában távozott el otthonában.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-216
+2	Virágot	Virágot	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-217|NE=name[MISC]_8
+3	Algernonnak	Algernonnak	PROPN	_	Case=Gen|Number=Sing	_	_	_	tokId=w-218|NE=name[MISC]_8
+4	szerzője	szerző	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-219
+5	86	86	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-220
+6	éves	éves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-221
+7	korában	kor	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-222
+8	távozott	távozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-223
+9	el	el	ADV	_	_	_	_	_	tokId=w-224
+10	otthonában	otthon	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-225|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-226
+
+# sent_id = w52_s-17
+# text = A japán animátorok is hozzájárultak a sci-fi népszerűsítéséhez kis hazájukban.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-227
+2	japán	japán	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-228
+3	animátorok	animátor	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-229
+4	is	is	ADV	_	_	_	_	_	tokId=w-230
+5	hozzájárultak	hozzájárul	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-231
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-232
+7	sci-fi	sci-fi	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-233
+8	népszerűsítéséhez	népszerűsítés	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-234
+9	kis	kis	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-235
+10	hazájukban	haza	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-236|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-237
+

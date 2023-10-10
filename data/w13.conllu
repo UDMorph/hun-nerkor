@@ -1,0 +1,630 @@
+# newdoc id = w13
+# sent_id = w13_s-1
+# text = A cég minden népesebb országban terjeszkedett már, ahol várhatóan jó piacot remélt: Brazília, Oroszország, Japán, Kanada; mind-mind egy telített piacot jelent, újabb növekedésre már nemigen számíthatnak.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-1
+2	cég	cég	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-2
+3	minden	minden	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-3
+4	népesebb	népes	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-4
+5	országban	ország	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-5
+6	terjeszkedett	terjeszkedik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-6
+7	már	már	ADV	_	_	_	_	_	tokId=w-7|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-8
+9	ahol	ahol	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-9
+10	várhatóan	várható	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-10
+11	jó	jó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-11
+12	piacot	piac	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-12
+13	remélt	remél	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-13|SpaceAfter=No
+14	:	:	PUNCT	_	_	_	_	_	tokId=w-14
+15	Brazília	Brazília	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-15|NE=name[LOC]_1|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-16
+17	Oroszország	Oroszország	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-17|NE=name[LOC]_2|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-18
+19	Japán	Japán	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-19|NE=name[LOC]_3|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-20
+21	Kanada	Kanada	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-21|NE=name[LOC]_4|SpaceAfter=No
+22	;	;	PUNCT	_	_	_	_	_	tokId=w-22
+23	mind-mind	mind-mind	ADV	_	_	_	_	_	tokId=w-23
+24	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-24
+25	telített	telített	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-25
+26	piacot	piac	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-26
+27	jelent	jelent	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-27|SpaceAfter=No
+28	,	,	PUNCT	_	_	_	_	_	tokId=w-28
+29	újabb	új	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-29
+30	növekedésre	növekedés	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-30
+31	már	már	ADV	_	_	_	_	_	tokId=w-31
+32	nemigen	nemigen	ADV	_	_	_	_	_	tokId=w-32
+33	számíthatnak	számít	VERB	_	Definite=Ind|Mood=Pot|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-33|SpaceAfter=No
+34	.	.	PUNCT	_	_	_	_	_	tokId=w-34
+
+# sent_id = w13_s-2
+# text = A hiba az összes 64 bites eszközt érinti, tehát iPhone 5s vagy felette, illetve az újabb iPad és iPod készülékeket.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-35
+2	hiba	hiba	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-36
+3	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-37
+4	összes	összes	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-38
+5	64	64	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-39
+6	bites	bites	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-40
+7	eszközt	eszköz	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-41
+8	érinti	érint	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-42|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-43
+10	tehát	tehát	CCONJ	_	_	_	_	_	tokId=w-44
+11	iPhone	iPhone	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-45|NE=name[MISC]_5
+12	5s	5s	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-46|NE=name[MISC]_5
+13	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-47
+14	felette	felette	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-48|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-49
+16	illetve	illetve	CCONJ	_	_	_	_	_	tokId=w-50
+17	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-51
+18	újabb	új	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-52
+19	iPad	iPad	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-53|NE=name[MISC]_6
+20	és	és	CCONJ	_	_	_	_	_	tokId=w-54
+21	iPod	iPod	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-55|NE=name[MISC]_7
+22	készülékeket	készülék	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-56|SpaceAfter=No
+23	.	.	PUNCT	_	_	_	_	_	tokId=w-57
+
+# sent_id = w13_s-3
+# text = Saját gyártású sorozaton dolgozhat az Apple és Dr. Dre
+1	Saját	saját	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-58
+2	gyártású	gyártású	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-59
+3	sorozaton	sorozat	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-60
+4	dolgozhat	dolgozik	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-61
+5	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-62
+6	Apple	Apple	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-63|NE=name[ORG]_8
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-64
+8	Dr.	dr.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-65|NE=name[PER]_9
+9	Dre	Dre	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-66|NE=name[PER]_9
+
+# sent_id = w13_s-4
+# text = A történések után ismét felszínre került a vita, miszerint egy“ kiskapu ” kellene az összes titkosított szoftverbe, melyet a kormány ilyen helyzetben használhatna.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-67
+2	történések	történés	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-68
+3	után	után	ADP	_	_	_	_	_	tokId=w-69
+4	ismét	ismét	ADV	_	_	_	_	_	tokId=w-70
+5	felszínre	felszín	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-71
+6	került	kerül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-72
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-73
+8	vita	vita	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-74|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-75
+10	miszerint	miszerint	CCONJ	_	_	_	_	_	tokId=w-76
+11	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-77|SpaceAfter=No
+12	“	“	PUNCT	_	_	_	_	_	tokId=w-78
+13	kiskapu	kiskapu	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-79
+14	”	”	PUNCT	_	_	_	_	_	tokId=w-80
+15	kellene	kell	VERB	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-81
+16	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-82
+17	összes	összes	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-83
+18	titkosított	titkosított	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-84
+19	szoftverbe	szoftver	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-85|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-86
+21	melyet	mely	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-87
+22	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-88
+23	kormány	kormány	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-89
+24	ilyen	ilyen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-90
+25	helyzetben	helyzet	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-91
+26	használhatna	használ	VERB	_	Definite=Ind|Mood=Cnd,Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-92|SpaceAfter=No
+27	.	.	PUNCT	_	_	_	_	_	tokId=w-93
+
+# sent_id = w13_s-5
+# text = Apple vs FBI – folytatás
+1	Apple	Apple	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-94|NE=name[ORG]_10
+2	vs	vs	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-95
+3	FBI	FBI	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-96|NE=name[ORG]_11
+4	–	–	X	_	_	_	_	_	tokId=w-97
+5	folytatás	folytatás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-98
+
+# sent_id = w13_s-6
+# text = Mivel nincs precedens bírósági ítélet, vagy használható törvény, így a követelést az Apple nem fogja teljesíteni.
+1	Mivel	mivel	SCONJ	_	_	_	_	_	tokId=w-99
+2	nincs	nincs	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-100
+3	precedens	precedens	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-101
+4	bírósági	bírósági	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-102
+5	ítélet	ítélet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-103|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-104
+7	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-105
+8	használható	használható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-106
+9	törvény	törvény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-107|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-108
+11	így	így	CCONJ	_	_	_	_	_	tokId=w-109
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-110
+13	követelést	követelés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-111
+14	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-112
+15	Apple	Apple	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-113|NE=name[ORG]_12
+16	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-114
+17	fogja	fog	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-115
+18	teljesíteni	teljesít	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-116|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-117
+
+# sent_id = w13_s-7
+# text = Rengeteg ötlete és elképzelése volt, ezeket pedig véghez is vitte.
+1	Rengeteg	rengeteg	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-118
+2	ötlete	ötlet	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-119
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-120
+4	elképzelése	elképzelés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-121
+5	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-122|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-123
+7	ezeket	ez	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-124
+8	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-125
+9	véghez	véghez	ADV	_	_	_	_	_	tokId=w-126
+10	is	is	ADV	_	_	_	_	_	tokId=w-127
+11	vitte	visz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-128|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-129
+
+# sent_id = w13_s-8
+# text = Az Apple szereti a zárt, előre elkészített dolgokat, míg a Samsung az Android-féle,“ amit a nép akar ” elvet követi.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-130
+2	Apple	Apple	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-131|NE=name[ORG]_13
+3	szereti	szeret	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-132
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-133
+5	zárt	zárt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-134|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-135
+7	előre	előre	ADV	_	_	_	_	_	tokId=w-136
+8	elkészített	elkészített	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-137
+9	dolgokat	dolog	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-138|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-139
+11	míg	míg	ADV	_	PronType=Rel	_	_	_	tokId=w-140
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-141
+13	Samsung	Samsung	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-142|NE=name[ORG]_14
+14	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-143
+15	Android-féle	Android-féle	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-144|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-145|SpaceAfter=No
+17	“	“	PUNCT	_	_	_	_	_	tokId=w-146
+18	amit	ami	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-147
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-148
+20	nép	nép	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-149
+21	akar	akar	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-150
+22	”	”	PUNCT	_	_	_	_	_	tokId=w-151
+23	elvet	elv	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-152
+24	követi	követ	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-153|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-154
+
+# sent_id = w13_s-9
+# text = Az Apple-nél tudjuk, hogy nincs mese, megveszed fix tárhellyel és ennyi, sőt, az S6-ban sem volt már slot támogatás, úgy vélte a Samsung is, hogy felesleges.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-155
+2	Apple-nél	Apple	PROPN	_	Case=Ade|Number=Sing	_	_	_	tokId=w-156|NE=name[ORG]_15
+3	tudjuk	tud	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-157|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-158
+5	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-159
+6	nincs	nincs	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-160
+7	mese	mese	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-161|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-162
+9	megveszed	megvesz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-163
+10	fix	fix	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-164
+11	tárhellyel	tárhely	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-165
+12	és	és	CCONJ	_	_	_	_	_	tokId=w-166
+13	ennyi	ennyi	ADV	_	PronType=Dem	_	_	_	tokId=w-167|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-168
+15	sőt	sőt	CCONJ	_	_	_	_	_	tokId=w-169|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-170
+17	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-171
+18	S6-ban	S6	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-172|NE=name[MISC]_16
+19	sem	sem	ADV	_	PronType=Neg	_	_	_	tokId=w-173
+20	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-174
+21	már	már	ADV	_	_	_	_	_	tokId=w-175
+22	slot	slot	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-176
+23	támogatás	támogatás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-177|SpaceAfter=No
+24	,	,	PUNCT	_	_	_	_	_	tokId=w-178
+25	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-179
+26	vélte	vél	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-180
+27	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-181
+28	Samsung	Samsung	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-182|NE=name[ORG]_17
+29	is	is	ADV	_	_	_	_	_	tokId=w-183|SpaceAfter=No
+30	,	,	PUNCT	_	_	_	_	_	tokId=w-184
+31	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-185
+32	felesleges	felesleges	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-186|SpaceAfter=No
+33	.	.	PUNCT	_	_	_	_	_	tokId=w-187
+
+# sent_id = w13_s-10
+# text = Ertem en hogy vasaroljunk itunes bol de akkopr is 2016 ban meg mindig nem engedni a felhasznaloknak hogy sajat file jaikat nezhessek orulet.
+1	Ertem	ért	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-188
+2	en	én	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	tokId=w-189
+3	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-190
+4	vasaroljunk	vásárol	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-191
+5	itunes	iTunes	X	_	_	_	_	_	tokId=w-192|NE=name[MISC]_18
+6	bol	ból	NOUN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-193|NE=name[MISC]_18
+7	de	de	CCONJ	_	_	_	_	_	tokId=w-194
+8	akkopr	akkor	ADV	_	_	_	_	_	tokId=w-195
+9	is	is	ADV	_	_	_	_	_	tokId=w-196
+10	2016	2016	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-197
+11	ban	ban	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-198
+12	meg	még	ADV	_	_	_	_	_	tokId=w-199
+13	mindig	mindig	ADV	_	_	_	_	_	tokId=w-200
+14	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-201
+15	engedni	enged	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-202
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-203
+17	felhasznaloknak	felhasználó	NOUN	_	Case=Dat|Number=Plur	_	_	_	tokId=w-204
+18	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-205
+19	sajat	saját	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-206
+20	file	file	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-207
+21	jaikat	jaikat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-208
+22	nezhessek	néz	VERB	_	Definite=Ind|Mood=Imp,Pot|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-209
+23	orulet	őrület	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-210|SpaceAfter=No
+24	.	.	PUNCT	_	_	_	_	_	tokId=w-211
+
+# sent_id = w13_s-11
+# text = Nem tervezem meg valtast de erosen hajlok ra hogy kovetkezo mobil egy sony z5 premium legyen es ne alma.
+1	Nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-212
+2	tervezem	tervez	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-213
+3	meg	még	ADV	_	_	_	_	_	tokId=w-214
+4	valtast	váltás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-215
+5	de	de	CCONJ	_	_	_	_	_	tokId=w-216
+6	erosen	erősen	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-217
+7	hajlok	hajlik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-218
+8	ra	rá	ADV	_	_	_	_	_	tokId=w-219
+9	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-220
+10	kovetkezo	következő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-221
+11	mobil	mobil	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-222
+12	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-223
+13	sony	Sony	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-224|NE=name[MISC]_19
+14	z5	z5	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-225|NE=name[MISC]_19
+15	premium	premium	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-226|NE=name[MISC]_19
+16	legyen	lesz	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-227
+17	es	és	CCONJ	_	_	_	_	_	tokId=w-228
+18	ne	ne	ADV	_	PronType=Neg	_	_	_	tokId=w-229
+19	alma	alma	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-230|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-231
+
+# sent_id = w13_s-12
+# text = Droidot a droidoknak!
+1	Droidot	Droid	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-232
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-233
+3	droidoknak	droid	NOUN	_	Case=Dat|Number=Plur	_	_	_	tokId=w-234|SpaceAfter=No
+4	!	!	PUNCT	_	_	_	_	_	tokId=w-235
+
+# sent_id = w13_s-13
+# text = Ezt kicsit nevetségesnek tartam, de le is írom, miért gondolom ezt:
+1	Ezt	ez	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-236
+2	kicsit	kicsit	ADV	_	_	_	_	_	tokId=w-237
+3	nevetségesnek	nevetséges	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	tokId=w-238
+4	tartam	tart	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-239|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-240
+6	de	de	CCONJ	_	_	_	_	_	tokId=w-241
+7	le	le	ADV	_	Degree=Pos	_	_	_	tokId=w-242
+8	is	is	ADV	_	_	_	_	_	tokId=w-243
+9	írom	ír	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-244|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-245
+11	miért	miért	ADV	_	PronType=Int	_	_	_	tokId=w-246
+12	gondolom	gondol	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-247
+13	ezt	ez	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-248|SpaceAfter=No
+14	:	:	PUNCT	_	_	_	_	_	tokId=w-249
+
+# sent_id = w13_s-14
+# text = Ez pedig véleményem szerint a mai napig hiányzik és
+1	Ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-250
+2	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-251
+3	véleményem	vélemény	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	_	_	_	tokId=w-252
+4	szerint	szerint	ADP	_	_	_	_	_	tokId=w-253
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-254
+6	mai	mai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-255
+7	napig	nap	NOUN	_	Case=Ter|Number=Sing	_	_	_	tokId=w-256
+8	hiányzik	hiányzik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-257
+9	és	és	CCONJ	_	_	_	_	_	tokId=w-258
+
+# sent_id = w13_s-15
+# text = Ugyan azt szokták mondani, hogy a MIUI egy kínai iOS másolat, ha az ember kipróbálja a két rendszert, épp ellenkező benyomása támad, az iOS tűnik egy gyenge, átgondolatlan, félkész, kaotikus és csúnyácska MIUI másolatnak (épp, hogy kiforratlanabb ökoszisztémát kapunk az Apple rendszerével).
+1	Ugyan	ugyan	ADV	_	_	_	_	_	tokId=w-259
+2	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-260
+3	szokták	szokik	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-261
+4	mondani	mond	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-262|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-263
+6	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-264
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-265
+8	MIUI	MIUI	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-266|NE=name[MISC]_20
+9	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-267
+10	kínai	kínai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-268
+11	iOS	iOS	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-269|NE=name[MISC]_21
+12	másolat	másolat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-270|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-271
+14	ha	ha	SCONJ	_	_	_	_	_	tokId=w-272
+15	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-273
+16	ember	ember	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-274
+17	kipróbálja	kipróbál	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-275
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-276
+19	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-277
+20	rendszert	rendszer	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-278|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-279
+22	épp	épp	ADV	_	_	_	_	_	tokId=w-280
+23	ellenkező	ellenkező	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-281
+24	benyomása	benyomás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-282
+25	támad	támad	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-283|SpaceAfter=No
+26	,	,	PUNCT	_	_	_	_	_	tokId=w-284
+27	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-285
+28	iOS	iOS	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-286|NE=name[MISC]_22
+29	tűnik	tűnik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-287
+30	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-288
+31	gyenge	gyenge	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-289|SpaceAfter=No
+32	,	,	PUNCT	_	_	_	_	_	tokId=w-290
+33	átgondolatlan	átgondolatlan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-291|SpaceAfter=No
+34	,	,	PUNCT	_	_	_	_	_	tokId=w-292
+35	félkész	félkész	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-293|SpaceAfter=No
+36	,	,	PUNCT	_	_	_	_	_	tokId=w-294
+37	kaotikus	kaotikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-295
+38	és	és	CCONJ	_	_	_	_	_	tokId=w-296
+39	csúnyácska	csúnyácska	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-297
+40	MIUI	MIUI	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-298|NE=name[MISC]_23
+41	másolatnak	másolat	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-299
+42	(	(	PUNCT	_	_	_	_	_	tokId=w-300|SpaceAfter=No
+43	épp	épp	ADV	_	_	_	_	_	tokId=w-301|SpaceAfter=No
+44	,	,	PUNCT	_	_	_	_	_	tokId=w-302
+45	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-303
+46	kiforratlanabb	kiforratlan	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-304
+47	ökoszisztémát	ökoszisztéma	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-305
+48	kapunk	kap	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-306
+49	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-307
+50	Apple	Apple	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-308|NE=name[ORG]_24
+51	rendszerével	rendszer	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-309|SpaceAfter=No
+52	)	)	PUNCT	_	_	_	_	_	tokId=w-310|SpaceAfter=No
+53	.	.	PUNCT	_	_	_	_	_	tokId=w-311
+
+# sent_id = w13_s-16
+# text = Eddy Cue, az Apple programozója továbbra is aggályát fejezi ki az iOS biztonságának csökkentésével kapcsolatban.
+1	Eddy	Eddy	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-312|NE=name[PER]_25
+2	Cue	Cue	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-313|NE=name[PER]_25|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-314
+4	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-315
+5	Apple	Apple	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-316|NE=name[ORG]_26
+6	programozója	programozó	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-317
+7	továbbra	továbbra	ADV	_	_	_	_	_	tokId=w-318
+8	is	is	ADV	_	_	_	_	_	tokId=w-319
+9	aggályát	aggály	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-320
+10	fejezi	fejez	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-321
+11	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-322
+12	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-323
+13	iOS	iOS	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-324|NE=name[MISC]_27
+14	biztonságának	biztonság	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-325
+15	csökkentésével	csökkentés	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-326
+16	kapcsolatban	kapcsolat	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-327|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-328
+
+# sent_id = w13_s-17
+# text = Bemutatkozik az iRig Mic Studio!
+1	Bemutatkozik	bemutatkozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-329
+2	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-330
+3	iRig	iRig	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-331|NE=name[MISC]_28
+4	Mic	Mic	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-332|NE=name[MISC]_28
+5	Studio	Studio	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-333|NE=name[MISC]_28|SpaceAfter=No
+6	!	!	PUNCT	_	_	_	_	_	tokId=w-334
+
+# sent_id = w13_s-18
+# text = A csomagban egy hordozható asztali állvány is helyet kapott, így akár otthon, akár stúdióban, akár útközben szeretnénk felvételt készíteni, az iRig Mic Studio mindig a maximumot fogja nyújtani.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-335
+2	csomagban	csomag	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-336
+3	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-337
+4	hordozható	hordozható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-338
+5	asztali	asztali	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-339
+6	állvány	állvány	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-340
+7	is	is	ADV	_	_	_	_	_	tokId=w-341
+8	helyet	hely	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-342
+9	kapott	kap	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-343|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-344
+11	így	így	CCONJ	_	_	_	_	_	tokId=w-345
+12	akár	akár	ADV	_	_	_	_	_	tokId=w-346
+13	otthon	otthon	ADV	_	_	_	_	_	tokId=w-347|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-348
+15	akár	akár	CCONJ	_	_	_	_	_	tokId=w-349
+16	stúdióban	stúdió	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-350|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-351
+18	akár	akár	CCONJ	_	_	_	_	_	tokId=w-352
+19	útközben	útközben	ADV	_	_	_	_	_	tokId=w-353
+20	szeretnénk	szeret	VERB	_	Definite=Ind|Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-354
+21	felvételt	felvétel	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-355
+22	készíteni	készít	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-356|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-357
+24	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-358
+25	iRig	iRig	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-359|NE=name[MISC]_29
+26	Mic	Mic	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-360|NE=name[MISC]_29
+27	Studio	Studio	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-361|NE=name[MISC]_29
+28	mindig	mindig	ADV	_	_	_	_	_	tokId=w-362
+29	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-363
+30	maximumot	maximum	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-364
+31	fogja	fog	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-365
+32	nyújtani	nyújt	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-366|SpaceAfter=No
+33	.	.	PUNCT	_	_	_	_	_	tokId=w-367
+
+# sent_id = w13_s-19
+# text = További gumicsont az iPad Prónál debütált Smart Connector, melyet – ha hihetünk a képeknek – az iPhone 7 Plusnális bevet az Apple .
+1	További	további	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-368
+2	gumicsont	gumicsont	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-369
+3	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-370
+4	iPad	iPad	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-371|NE=name[MISC]_30
+5	Prónál	Pro	PROPN	_	Case=Ade|Number=Sing	_	_	_	tokId=w-372|NE=name[MISC]_30
+6	debütált	debütált	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-373
+7	Smart	Smart	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-374|NE=name[MISC]_31
+8	Connector	Connector	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-375|NE=name[MISC]_31|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-376
+10	melyet	mely	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-377
+11	–	–	X	_	_	_	_	_	tokId=w-378
+12	ha	ha	SCONJ	_	_	_	_	_	tokId=w-379
+13	hihetünk	hisz	VERB	_	Definite=Ind|Mood=Pot|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-380
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-381
+15	képeknek	kép	NOUN	_	Case=Dat|Number=Plur	_	_	_	tokId=w-382
+16	–	–	X	_	_	_	_	_	tokId=w-383
+17	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-384
+18	iPhone	iPhone	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-385|NE=name[MISC]_32
+19	7	7	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-386|NE=name[MISC]_32
+20	Plusnál	Plus	PROPN	_	Case=Ade|Number=Sing	_	_	_	tokId=w-387|NE=name[MISC]_32|SpaceAfter=No
+21	is	is	ADV	_	_	_	_	_	tokId=w-388
+22	bevet	bevet	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-389
+23	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-390
+24	Apple	Apple	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-391|NE=name[ORG]_33
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-392
+
+# sent_id = w13_s-20
+# text = Nos, ez a funkció kicsit trükkös.
+1	Nos	nos	INTJ	_	_	_	_	_	tokId=w-393|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-394
+3	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-395
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-396
+5	funkció	funkció	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-397
+6	kicsit	kicsi	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	_	_	_	tokId=w-398
+7	trükkös	trükkös	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-399|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-400
+
+# sent_id = w13_s-21
+# text = A következő megnyitáskor a le nem zárt feljegyzések továbbra is olvashatóak, a zároltak csak jelszó vagy ujjlenyomat birtokában érhetőek el.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-401
+2	következő	következő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-402
+3	megnyitáskor	megnyitás	NOUN	_	Case=Tem|Number=Sing	_	_	_	tokId=w-403
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-404
+5	le	le	ADV	_	Degree=Pos	_	_	_	tokId=w-405
+6	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-406
+7	zárt	zárt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-407
+8	feljegyzések	feljegyzés	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-408
+9	továbbra	továbbra	ADV	_	_	_	_	_	tokId=w-409
+10	is	is	ADV	_	_	_	_	_	tokId=w-410
+11	olvashatóak	olvasható	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-411|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-412
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-413
+14	zároltak	zárolt	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-414
+15	csak	csak	ADV	_	_	_	_	_	tokId=w-415
+16	jelszó	jelszó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-416
+17	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-417
+18	ujjlenyomat	ujjlenyomat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-418
+19	birtokában	birtok	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-419
+20	érhetőek	érhető	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-420
+21	el	el	ADV	_	_	_	_	_	tokId=w-421|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-422
+
+# sent_id = w13_s-22
+# text = A várt meghallgatás azonban elmaradt, mivel az FBI az utolsó pillanatban halasztást kért az ügyészségtől, arra hivatkozva, hogy tesztelnek egy alternatív megoldást, melyhez nem szükséges az Apple támogatása.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-423
+2	várt	várt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-424
+3	meghallgatás	meghallgatás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-425
+4	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-426
+5	elmaradt	elmarad	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-427|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-428
+7	mivel	mivel	SCONJ	_	_	_	_	_	tokId=w-429
+8	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-430
+9	FBI	FBI	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-431|NE=name[ORG]_34
+10	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-432
+11	utolsó	utolsó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-433
+12	pillanatban	pillanat	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-434
+13	halasztást	halasztás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-435
+14	kért	kér	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-436
+15	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-437
+16	ügyészségtől	ügyészség	NOUN	_	Case=Abl|Number=Sing	_	_	_	tokId=w-438|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-439
+18	arra	az	DET	_	Case=Sbl|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-440
+19	hivatkozva	hivatkozva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-441|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-442
+21	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-443
+22	tesztelnek	tesztel	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-444
+23	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-445
+24	alternatív	alternatív	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-446
+25	megoldást	megoldás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-447|SpaceAfter=No
+26	,	,	PUNCT	_	_	_	_	_	tokId=w-448
+27	melyhez	mely	PRON	_	Case=All|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-449
+28	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-450
+29	szükséges	szükséges	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-451
+30	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-452
+31	Apple	Apple	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-453|NE=name[ORG]_35
+32	támogatása	támogatás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-454|SpaceAfter=No
+33	.	.	PUNCT	_	_	_	_	_	tokId=w-455
+
+# sent_id = w13_s-23
+# text = Használatához el kell távolítani a NAND chipet, majd fókuszált ionsugárral kiolvashatóvá válik a benne tárolt adat.
+1	Használatához	használat	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-456
+2	el	el	ADV	_	_	_	_	_	tokId=w-457
+3	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-458
+4	távolítani	távolít	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-459
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-460
+6	NAND	NAND	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-461
+7	chipet	chip	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-462|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-463
+9	majd	majd	ADV	_	_	_	_	_	tokId=w-464
+10	fókuszált	fókuszált	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-465
+11	ionsugárral	ionsugár	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-466
+12	kiolvashatóvá	kiolvasható	ADJ	_	Case=Tra|Degree=Pos|Number=Sing	_	_	_	tokId=w-467
+13	válik	válik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-468
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-469
+15	benne	ő	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-470
+16	tárolt	tárolt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-471
+17	adat	adat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-472|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-473
+
+# sent_id = w13_s-24
+# text = Hogyan töltsük vissza az iOS 9.2.1-et az iOS 9.3telepítése után
+1	Hogyan	hogyan	ADV	_	PronType=Int	_	_	_	tokId=w-474
+2	töltsük	tölt	VERB	_	Definite=Def|Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-475
+3	vissza	vissza	ADV	_	Degree=Pos	_	_	_	tokId=w-476
+4	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-477
+5	iOS	iOS	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-478|NE=name[MISC]_36
+6	9.2.1-et	9.2.1	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-479|NE=name[MISC]_36
+7	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-480
+8	iOS	iOS	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-481|NE=name[MISC]_37
+9	9.3	9.3	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-482|NE=name[MISC]_37|SpaceAfter=No
+10	telepítése	telepítés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-483
+11	után	után	ADP	_	_	_	_	_	tokId=w-484
+
+# sent_id = w13_s-25
+# text = Visszaállítás után lehet aktiválni kell a készüléket.
+1	Visszaállítás	visszaállítás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-485
+2	után	után	ADP	_	_	_	_	_	tokId=w-486
+3	lehet	lesz	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-487
+4	aktiválni	aktivál	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-488
+5	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-489
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-490
+7	készüléket	készülék	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-491|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-492
+
+# sent_id = w13_s-26
+# text = Ezt a kérést utasította el az Apple , félve a precedenstől, mely szerint innentől kezdve minden iPhone-hoz hozzáférhet az FBI a szoftver segítségével.
+1	Ezt	ez	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-493
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-494
+3	kérést	kérés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-495
+4	utasította	utasít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-496
+5	el	el	ADV	_	_	_	_	_	tokId=w-497
+6	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-498
+7	Apple	Apple	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-499|NE=name[ORG]_38
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-500
+9	félve	félve	ADV	_	VerbForm=Conv	_	_	_	tokId=w-501
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-502
+11	precedenstől	precedens	NOUN	_	Case=Abl|Number=Sing	_	_	_	tokId=w-503|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-504
+13	mely	mely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-505
+14	szerint	szerint	ADP	_	_	_	_	_	tokId=w-506
+15	innentől	innentől	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-507
+16	kezdve	kezdve	ADV	_	VerbForm=Conv	_	_	_	tokId=w-508
+17	minden	minden	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-509
+18	iPhone-hoz	iPhone	PROPN	_	Case=All|Number=Sing	_	_	_	tokId=w-510|NE=name[MISC]_39
+19	hozzáférhet	hozzáfér	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-511
+20	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-512
+21	FBI	FBI	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-513|NE=name[ORG]_40
+22	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-514
+23	szoftver	szoftver	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-515
+24	segítségével	segítség	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-516|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-517
+
+# sent_id = w13_s-27
+# text = A Magyar Telekom – nemzetközi partnerével, a Fonnal kizárólagos együttműködésben – kialakítja Magyarország legnagyobb Wi-Fi hálózatát a vezetékes szélessávú internet-előfizetőinél elhelyezett digitális elosztó (home gateway) eszközök segítségével.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-518
+2	Magyar	Magyar	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-519|NE=name[ORG]_41
+3	Telekom	Telekom	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-520|NE=name[ORG]_41
+4	–	–	X	_	_	_	_	_	tokId=w-521
+5	nemzetközi	nemzetközi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-522
+6	partnerével	partner	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-523|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-524
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-525
+9	Fonnal	Fon	PROPN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-526|NE=name[ORG]_42
+10	kizárólagos	kizárólagos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-527
+11	együttműködésben	együttműködés	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-528
+12	–	–	X	_	_	_	_	_	tokId=w-529
+13	kialakítja	kialakít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-530
+14	Magyarország	Magyarország	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-531|NE=name[LOC]_43
+15	legnagyobb	nagy	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-532
+16	Wi-Fi	Wi-Fi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-533
+17	hálózatát	hálózat	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-534
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-535
+19	vezetékes	vezetékes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-536
+20	szélessávú	szélessávú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-537
+21	internet-előfizetőinél	internet-előfizető	NOUN	_	Case=Ade|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-538
+22	elhelyezett	elhelyezett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-539
+23	digitális	digitális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-540
+24	elosztó	elosztó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-541
+25	(	(	PUNCT	_	_	_	_	_	tokId=w-542|SpaceAfter=No
+26	home	home	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-543
+27	gateway	gateway	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-544|SpaceAfter=No
+28	)	)	PUNCT	_	_	_	_	_	tokId=w-545
+29	eszközök	eszköz	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-546
+30	segítségével	segítség	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-547|SpaceAfter=No
+31	.	.	PUNCT	_	_	_	_	_	tokId=w-548
+

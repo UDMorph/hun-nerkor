@@ -1,0 +1,255 @@
+# newdoc id = globv_8
+# sent_id = globv_8_s-1
+# text = Egyetlen sportsztár sem váltott ki olyan heves vitákat Kínában, mint a gátfutó Liu Xiang.
+1	Egyetlen	egyetlen	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-1
+2	sportsztár	sportsztár	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-2
+3	sem	sem	ADV	_	PronType=Neg	_	_	_	tokId=w-3
+4	váltott	vált	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-4
+5	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-5
+6	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-6
+7	heves	heves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-7
+8	vitákat	vita	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-8
+9	Kínában	Kína	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-9|NE=name[LOC]_1|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-10
+11	mint	mint	SCONJ	_	_	_	_	_	tokId=w-11
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-12
+13	gátfutó	gátfutó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-13
+14	Liu	Liu	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-14|NE=name[PER]_2
+15	Xiang	Xiang	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-15|NE=name[PER]_2|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-16
+
+# sent_id = globv_8_s-2
+# text = A 110 méteres gátfutás korábbi világcsúcstartója és 2004-es olimpiai bajnoka úgy esett ki a londoni olimpiáról, hogy a versenyen egyetlen gátat sem ugrott át.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-17
+2	110	110	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-18
+3	méteres	méteres	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-19
+4	gátfutás	gátfutás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-20
+5	korábbi	korábbi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-21
+6	világcsúcstartója	világcsúcstartó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-22
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-23
+8	2004-es	2004-es	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-24
+9	olimpiai	olimpiai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-25
+10	bajnoka	bajnok	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-26
+11	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-27
+12	esett	esik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-28
+13	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-29
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-30
+15	londoni	londoni	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-31
+16	olimpiáról	olimpia	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-32|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-33
+18	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-34
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-35
+20	versenyen	verseny	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-36
+21	egyetlen	egyetlen	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-37
+22	gátat	gát	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-38
+23	sem	sem	ADV	_	PronType=Neg	_	_	_	tokId=w-39
+24	ugrott	ugrik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-40
+25	át	át	ADV	_	_	_	_	_	tokId=w-41|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-42
+
+# sent_id = globv_8_s-3
+# text = Mint az első kínai olimpiai bajnok atléta, a 2004-es athéni olimpia után Liuazonnal nemzeti hős és számos reklám ismert arca lett.
+1	Mint	mint	ADP	_	_	_	_	_	tokId=w-43
+2	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-44
+3	első	első	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-45
+4	kínai	kínai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-46
+5	olimpiai	olimpiai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-47
+6	bajnok	bajnok	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-48
+7	atléta	atléta	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-49|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-50
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-51
+10	2004-es	2004-es	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-52
+11	athéni	athéni	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-53
+12	olimpia	olimpia	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-54
+13	után	után	ADP	_	_	_	_	_	tokId=w-55
+14	Liu	Liu	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-56|NE=name[PER]_3|SpaceAfter=No
+15	azonnal	azonnal	ADV	_	_	_	_	_	tokId=w-57
+16	nemzeti	nemzeti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-58
+17	hős	hős	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-59
+18	és	és	CCONJ	_	_	_	_	_	tokId=w-60
+19	számos	számos	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-61
+20	reklám	reklám	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-62
+21	ismert	ismert	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-63
+22	arca	arc	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-64
+23	lett	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-65|SpaceAfter=No
+24	.	.	PUNCT	_	_	_	_	_	tokId=w-66
+
+# sent_id = globv_8_s-4
+# text = Egy olyan versenyszámban tudta végre hallatni a hangját Kína , amelyet hagyományosan észak-amerikai és európai sprinterek uralnak.
+1	Egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-67
+2	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-68
+3	versenyszámban	versenyszám	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-69
+4	tudta	tud	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-70
+5	végre	végre	ADV	_	_	_	_	_	tokId=w-71
+6	hallatni	hallat	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-72
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-73
+8	hangját	hang	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-74
+9	Kína	Kína	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-75|NE=name[ORG]_4
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-76
+11	amelyet	amely	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-77
+12	hagyományosan	hagyományos	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-78
+13	észak-amerikai	észak-amerikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-79
+14	és	és	CCONJ	_	_	_	_	_	tokId=w-80
+15	európai	európai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-81
+16	sprinterek	sprinter	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-82
+17	uralnak	ural	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-83|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-84
+
+# sent_id = globv_8_s-5
+# text = A 2004-es szenzáció után azonban Liu nem tett eleget a kínai elvárásnak és nem nyert ismét olimpiai aranyérmet az atlétikapályán.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-85
+2	2004-es	2004-es	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-86
+3	szenzáció	szenzáció	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-87
+4	után	után	ADP	_	_	_	_	_	tokId=w-88
+5	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-89
+6	Liu	Liu	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-90|NE=name[PER]_5
+7	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-91
+8	tett	tesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-92
+9	eleget	elég	NUM	_	Case=Acc|Number=Sing|NumType=Card	_	_	_	tokId=w-93
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-94
+11	kínai	kínai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-95
+12	elvárásnak	elvárás	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-96
+13	és	és	CCONJ	_	_	_	_	_	tokId=w-97
+14	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-98
+15	nyert	nyer	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-99
+16	ismét	ismét	ADV	_	_	_	_	_	tokId=w-100
+17	olimpiai	olimpiai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-101
+18	aranyérmet	aranyérem	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-102
+19	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-103
+20	atlétikapályán	atlétikapálya	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-104|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-105
+
+# sent_id = globv_8_s-6
+# text = A 2008-as pekingi olimpián az előfutam előtt Achilles-ín sérülése miatt lépett vissza, egymilliárd kínai rajongónak okozva ezzel csalódást.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-106
+2	2008-as	2008-as	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-107
+3	pekingi	pekingi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-108
+4	olimpián	olimpia	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-109
+5	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-110
+6	előfutam	előfutam	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-111
+7	előtt	előtt	ADP	_	_	_	_	_	tokId=w-112
+8	Achilles-ín	Achilles-ín	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-113
+9	sérülése	sérülés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-114
+10	miatt	miatt	ADP	_	_	_	_	_	tokId=w-115
+11	lépett	lép	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-116
+12	vissza	vissza	ADV	_	Degree=Pos	_	_	_	tokId=w-117|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-118
+14	egymilliárd	egymilliárd	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-119
+15	kínai	kínai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-120
+16	rajongónak	rajongó	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-121
+17	okozva	okozva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-122
+18	ezzel	ez	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-123
+19	csalódást	csalódás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-124|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-125
+
+# sent_id = globv_8_s-7
+# text = A 2012-es londoni olimpia sokak szerint a jóvátétel lehetősége lett volna számára, de augusztus 7-én egy ugyanolyan Achilles-sérülés miatt kiesett az előfutam során.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-126
+2	2012-es	2012-es	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-127
+3	londoni	londoni	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-128
+4	olimpia	olimpia	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-129
+5	sokak	sok	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-130
+6	szerint	szerint	ADP	_	_	_	_	_	tokId=w-131
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-132
+8	jóvátétel	jóvátétel	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-133
+9	lehetősége	lehetőség	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-134
+10	lett	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-135
+11	volna	van	AUX	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-136
+12	számára	számára	ADP	_	_	_	_	_	tokId=w-137|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-138
+14	de	de	CCONJ	_	_	_	_	_	tokId=w-139
+15	augusztus	augusztus	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-140
+16	7-én	7	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-141
+17	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-142
+18	ugyanolyan	ugyanolyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-143
+19	Achilles-sérülés	Achilles-sérülés	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-144
+20	miatt	miatt	ADP	_	_	_	_	_	tokId=w-145
+21	kiesett	kiesik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-146
+22	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-147
+23	előfutam	előfutam	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-148
+24	során	során	ADP	_	_	_	_	_	tokId=w-149|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-150
+
+# sent_id = globv_8_s-8
+# text = Ahelyett, hogy azonnal távozott volna, mint ahogy négy évvel ezelőtt tette, Liu egy lábon végigugrált a pálya mellett és megcsókolta olimpiai karrierjének lehet, hogy utolsó korlátját, mielőtt tolókocsiba segítették.
+1	Ahelyett	ahelyett	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-151|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-152
+3	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-153
+4	azonnal	azonnal	ADV	_	_	_	_	_	tokId=w-154
+5	távozott	távozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-155
+6	volna	van	AUX	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-156|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-157
+8	mint	mint	SCONJ	_	_	_	_	_	tokId=w-158
+9	ahogy	ahogy	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-159
+10	négy	négy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-160
+11	évvel	év	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-161
+12	ezelőtt	ezelőtt	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-162
+13	tette	tesz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-163|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-164
+15	Liu	Liu	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-165|NE=name[PER]_6
+16	egy	egy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-166
+17	lábon	láb	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-167
+18	végigugrált	végigugrál	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-168
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-169
+20	pálya	pálya	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-170
+21	mellett	mellett	ADP	_	_	_	_	_	tokId=w-171
+22	és	és	CCONJ	_	_	_	_	_	tokId=w-172
+23	megcsókolta	megcsókol	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-173
+24	olimpiai	olimpiai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-174
+25	karrierjének	karrier	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-175
+26	lehet	lesz	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-176|SpaceAfter=No
+27	,	,	PUNCT	_	_	_	_	_	tokId=w-177
+28	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-178
+29	utolsó	utolsó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-179
+30	korlátját	korlát	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-180|SpaceAfter=No
+31	,	,	PUNCT	_	_	_	_	_	tokId=w-181
+32	mielőtt	mielőtt	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-182
+33	tolókocsiba	tolókocsi	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-183
+34	segítették	segít	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-184|SpaceAfter=No
+35	.	.	PUNCT	_	_	_	_	_	tokId=w-185
+
+# sent_id = globv_8_s-9
+# text = Az eset azonnal heves vitákat váltott ki a Sina Weibón, a meghatározó kínai közösségi portálon.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-186
+2	eset	eset	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-187
+3	azonnal	azonnal	ADV	_	_	_	_	_	tokId=w-188
+4	heves	heves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-189
+5	vitákat	vita	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-190
+6	váltott	vált	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-191
+7	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-192
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-193
+9	Sina	Sina	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-194|NE=name[MISC]_7
+10	Weibón	Weibo	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-195|NE=name[MISC]_7|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-196
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-197
+13	meghatározó	meghatározó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-198
+14	kínai	kínai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-199
+15	közösségi	közösségi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-200
+16	portálon	portál	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-201|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-202
+
+# sent_id = globv_8_s-10
+# text = Néhányan azt valószínűsítik, hogy Liu színészkedett, ezzel pedig arra a utalnak, amikor Liu visszament megcsókolni az utolsó gátat.
+1	Néhányan	néhányan	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-203
+2	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-204
+3	valószínűsítik	valószínűsít	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-205|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-206
+5	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-207
+6	Liu	Liu	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-208|NE=name[PER]_8
+7	színészkedett	színészkedik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-209|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-210
+9	ezzel	ez	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-211
+10	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-212
+11	arra	az	DET	_	Case=Sbl|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-213
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-214
+13	utalnak	utal	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-215|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-216
+15	amikor	amikor	ADV	_	PronType=Rel	_	_	_	tokId=w-217
+16	Liu	Liu	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-218|NE=name[PER]_9
+17	visszament	visszamegy	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-219
+18	megcsókolni	megcsókol	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-220
+19	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-221
+20	utolsó	utolsó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-222
+21	gátat	gát	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-223|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-224
+

@@ -1,0 +1,307 @@
+# newdoc id = huwiki_60
+# sent_id = huwiki_60_s-1
+# text = Marcalváros (korábbi nevén Kun Béla lakótelep) Győr városrésze.
+1	Marcalváros	Marcalváros	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-1|NE=name[LOC]_1
+2	(	(	PUNCT	_	_	_	_	_	tokId=w-2|SpaceAfter=No
+3	korábbi	korábbi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-3
+4	nevén	név	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-4
+5	Kun	Kun	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-5|NE=name[LOC]_2
+6	Béla	Béla	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-6|NE=name[LOC]_2
+7	lakótelep	lakótelep	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-7|NE=name[LOC]_2|SpaceAfter=No
+8	)	)	PUNCT	_	_	_	_	_	tokId=w-8
+9	Győr	Győr	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-9|NE=name[LOC]_3
+10	városrésze	városrész	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-10|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-11
+
+# sent_id = huwiki_60_s-2
+# text = Győr lélekszám-emelkedésének egyik nagy szocialista eredménye, a több tízezres lakótelepek létrejötte a történelmi városmag körül.
+1	Győr	Győr	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-12|NE=name[LOC]_4
+2	lélekszám-emelkedésének	lélekszám-emelkedés	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-13
+3	egyik	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-14
+4	nagy	nagy	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-15
+5	szocialista	szocialista	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-16
+6	eredménye	eredmény	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-17|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-18
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-19
+9	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-20
+10	tízezres	tízezres	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-21
+11	lakótelepek	lakótelep	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-22
+12	létrejötte	létrejötte	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-23
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-24
+14	történelmi	történelmi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-25
+15	városmag	városmag	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-26
+16	körül	körül	ADP	_	_	_	_	_	tokId=w-27|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-28
+
+# sent_id = huwiki_60_s-3
+# text = A győri lakótelepek kiépülése a hatvanas évek végén kezdődött meg.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-29
+2	győri	győri	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-30
+3	lakótelepek	lakótelep	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-31
+4	kiépülése	kiépülés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-32
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-33
+6	hatvanas	hatvanas	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-34
+7	évek	év	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-35
+8	végén	vég	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-36
+9	kezdődött	kezdődik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-37
+10	meg	meg	PART	_	_	_	_	_	tokId=w-38|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-39
+
+# sent_id = huwiki_60_s-4
+# text = Ez egybeesett a nagymértékű lakásigények kielégítésével.
+1	Ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-40
+2	egybeesett	egybeesik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-41
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-42
+4	nagymértékű	nagymértékű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-43
+5	lakásigények	lakásigény	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-44
+6	kielégítésével	kielégítés	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-45|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-46
+
+# sent_id = huwiki_60_s-5
+# text = A Kun Béla lakótelep kiépítése két ütemben történt meg, amelyet a GYSEV pályaudvar és a Gerence út választ el egymástól.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-47
+2	Kun	Kun	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-48|NE=name[LOC]_5
+3	Béla	Béla	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-49|NE=name[LOC]_5
+4	lakótelep	lakótelep	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-50|NE=name[LOC]_5
+5	kiépítése	kiépítés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-51
+6	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-52
+7	ütemben	ütem	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-53
+8	történt	történik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-54
+9	meg	meg	PART	_	_	_	_	_	tokId=w-55|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-56
+11	amelyet	amely	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-57
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-58
+13	GYSEV	GYSEV	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-59|NE=name[LOC]_6
+14	pályaudvar	pályaudvar	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-60|NE=name[LOC]_6
+15	és	és	CCONJ	_	_	_	_	_	tokId=w-61
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-62
+17	Gerence	Gerence	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-63|NE=name[LOC]_7
+18	út	út	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-64|NE=name[LOC]_7
+19	választ	választ	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-65
+20	el	el	ADV	_	_	_	_	_	tokId=w-66
+21	egymástól	egymás	PRON	_	Case=Abl|Number=Sing|Person=3|PronType=Rcp	_	_	_	tokId=w-67|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-68
+
+# sent_id = huwiki_60_s-6
+# text = A két településrész annak megépítése Győr legnagyobb lakótelepévé tették.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-69
+2	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-70
+3	településrész	településrész	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-71
+4	annak	az	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-72
+5	megépítése	megépítés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-73
+6	Győr	Győr	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-74|NE=name[LOC]_8
+7	legnagyobb	nagy	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-75
+8	lakótelepévé	lakótelep	NOUN	_	Case=Tra|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-76
+9	tették	tesz	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-77|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-78
+
+# sent_id = huwiki_60_s-7
+# text = Marcalváros I. 11500 lakos, 1974 és 1980 között készült el, Marcalváros II.6900 lakos, pedig 1985-re épült meg.
+1	Marcalváros	Marcalváros	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-79|NE=name[LOC]_9
+2	I.	I.	ADJ	_	Case=Nom|NumType=Ord|Number=Sing	_	_	_	tokId=w-80|NE=name[LOC]_9
+3	11500	11500	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-81
+4	lakos	lakos	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-82|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-83
+6	1974	1974	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-84
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-85
+8	1980	1980	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-86
+9	között	között	ADP	_	_	_	_	_	tokId=w-87
+10	készült	készül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-88
+11	el	el	ADV	_	_	_	_	_	tokId=w-89|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-90
+13	Marcalváros	Marcalváros	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-91|NE=name[LOC]_10
+14	II.	II.	ADJ	_	Case=Nom|NumType=Ord|Number=Sing	_	_	_	tokId=w-92|NE=name[LOC]_10|SpaceAfter=No
+15	6900	6900	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-93
+16	lakos	lakos	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-94|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-95
+18	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-96
+19	1985-re	1985	NUM	_	Case=Sbl|Number=Sing|NumType=Card	_	_	_	tokId=w-97
+20	épült	épül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-98
+21	meg	meg	PART	_	_	_	_	_	tokId=w-99|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-100
+
+# sent_id = huwiki_60_s-8
+# text = Neve a rendszerváltozás után lett Marcalváros .
+1	Neve	név	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-101
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-102
+3	rendszerváltozás	rendszerváltozás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-103
+4	után	után	ADP	_	_	_	_	_	tokId=w-104
+5	lett	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-105
+6	Marcalváros	Marcalváros	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-106|NE=name[MISC]_11
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-107
+
+# sent_id = huwiki_60_s-9
+# text = A város teljes lakosságának 14%-a él itt.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-108
+2	város	város	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-109
+3	teljes	teljes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-110
+4	lakosságának	lakosság	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-111
+5	14%-a	14%	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-112
+6	él	él	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-113
+7	itt	itt	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-114|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-115
+
+# sent_id = huwiki_60_s-10
+# text = Viszonylag rövid idő alatt kellett nagyszámú lakást építeni.
+1	Viszonylag	viszonylag	ADV	_	_	_	_	_	tokId=w-116
+2	rövid	rövid	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-117
+3	idő	idő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-118
+4	alatt	alatt	ADP	_	_	_	_	_	tokId=w-119
+5	kellett	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-120
+6	nagyszámú	nagyszámú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-121
+7	lakást	lakás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-122
+8	építeni	épít	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-123|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-124
+
+# sent_id = huwiki_60_s-11
+# text = Ez azzal járt, hogy a lakótelepek sivárak lettek.
+1	Ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-125
+2	azzal	az	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-126
+3	járt	jár	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-127|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-128
+5	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-129
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-130
+7	lakótelepek	lakótelep	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-131
+8	sivárak	sivár	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-132
+9	lettek	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-133|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-134
+
+# sent_id = huwiki_60_s-12
+# text = A város másik két lakótelepével, Ady-várossal és Nádorvárossal ellentétben a homlokzatok szürkeségét oldandó a Győri Házgyár ide már nagyobb mennyiségben gyártott színes panellapokat.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-135
+2	város	város	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-136
+3	másik	másik	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-137
+4	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-138
+5	lakótelepével	lakótelep	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-139|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-140
+7	Ady-várossal	Ady-város	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-141|NE=name[LOC]_12
+8	és	és	CCONJ	_	_	_	_	_	tokId=w-142
+9	Nádorvárossal	Nádorváros	PROPN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-143|NE=name[LOC]_13
+10	ellentétben	ellentétben	ADP	_	_	_	_	_	tokId=w-144
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-145
+12	homlokzatok	homlokzat	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-146
+13	szürkeségét	szürkeség	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-147
+14	oldandó	oldandó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-148
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-149
+16	Győri	Győri	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-150|NE=name[ORG]_14
+17	Házgyár	házgyár	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-151|NE=name[ORG]_14
+18	ide	ide	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-152
+19	már	már	ADV	_	_	_	_	_	tokId=w-153
+20	nagyobb	nagy	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-154
+21	mennyiségben	mennyiség	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-155
+22	gyártott	gyárt	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-156
+23	színes	színes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-157
+24	panellapokat	panellap	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-158|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-159
+
+# sent_id = huwiki_60_s-13
+# text = A telepen a fásítás, parkosítás szintén oldotta az egyhangúságot, de nem tudta azt megszüntetni.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-160
+2	telepen	telep	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-161
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-162
+4	fásítás	fásítás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-163|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-164
+6	parkosítás	parkosítás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-165
+7	szintén	szintén	ADV	_	_	_	_	_	tokId=w-166
+8	oldotta	old	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-167
+9	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-168
+10	egyhangúságot	egyhangúság	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-169|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-170
+12	de	de	CCONJ	_	_	_	_	_	tokId=w-171
+13	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-172
+14	tudta	tud	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-173
+15	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-174
+16	megszüntetni	megszüntet	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-175|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-176
+
+# sent_id = huwiki_60_s-14
+# text = A rendszerváltás után Kolozsváry Ernő polgármester, aki nagy műgyűjtő volt, köztéri szobrok kihelyezésével akarta megoldani a problémát.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-177
+2	rendszerváltás	rendszerváltás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-178
+3	után	után	ADP	_	_	_	_	_	tokId=w-179
+4	Kolozsváry	Kolozsváry	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-180|NE=name[PER]_15
+5	Ernő	Ernő	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-181|NE=name[PER]_15
+6	polgármester	polgármester	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-182|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-183
+8	aki	aki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-184
+9	nagy	nagy	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-185
+10	műgyűjtő	műgyűjtő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-186
+11	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-187|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-188
+13	köztéri	köztéri	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-189
+14	szobrok	szobor	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-190
+15	kihelyezésével	kihelyezés	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-191
+16	akarta	akar	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-192
+17	megoldani	megold	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-193
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-194
+19	problémát	probléma	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-195|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-196
+
+# sent_id = huwiki_60_s-15
+# text = Ez azonban több ok miatt elmaradt.
+1	Ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-197
+2	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-198
+3	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-199
+4	ok	ok	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-200
+5	miatt	miatt	ADP	_	_	_	_	_	tokId=w-201
+6	elmaradt	elmarad	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-202|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-203
+
+# sent_id = huwiki_60_s-16
+# text = A fiatalabb lakosság azonban megoldotta graffitik formájában.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-204
+2	fiatalabb	fiatal	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-205
+3	lakosság	lakosság	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-206
+4	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-207
+5	megoldotta	megold	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-208
+6	graffitik	graffiti	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-209
+7	formájában	forma	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-210|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-211
+
+# sent_id = huwiki_60_s-17
+# text = A városvezetés a Lajta utca Gerence úti torkolatánál a pályaudvar kihúzója alatt korábban összefirkált aluljáróban már szervezett formában adott lehetőséget a városképet javító falfestmények elhelyezéséhez.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-212
+2	városvezetés	városvezetés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-213
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-214
+4	Lajta	Lajta	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-215|NE=name[LOC]_16
+5	utca	utca	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-216|NE=name[LOC]_16
+6	Gerence	Gerence	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-217
+7	úti	úti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-218
+8	torkolatánál	torkolat	NOUN	_	Case=Ade|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-219
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-220
+10	pályaudvar	pályaudvar	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-221
+11	kihúzója	kihúzó	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-222
+12	alatt	alatt	ADP	_	_	_	_	_	tokId=w-223
+13	korábban	korábban	ADV	_	_	_	_	_	tokId=w-224
+14	összefirkált	összefirkált	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-225
+15	aluljáróban	aluljáró	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-226
+16	már	már	ADV	_	_	_	_	_	tokId=w-227
+17	szervezett	szervezett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-228
+18	formában	forma	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-229
+19	adott	ad	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-230
+20	lehetőséget	lehetőség	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-231
+21	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-232
+22	városképet	városkép	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-233
+23	javító	javító	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-234
+24	falfestmények	falfestmény	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-235
+25	elhelyezéséhez	elhelyezés	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-236|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-237
+
+# sent_id = huwiki_60_s-18
+# text = Sajnos Budapesthez és a többi településhez hasonlóan itt is megjelentek a „ vandálok ”.
+1	Sajnos	sajnos	ADV	_	_	_	_	_	tokId=w-238
+2	Budapesthez	Budapest	PROPN	_	Case=All|Number=Sing	_	_	_	tokId=w-239|NE=name[LOC]_17
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-240
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-241
+5	többi	többi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-242
+6	településhez	település	NOUN	_	Case=All|Number=Sing	_	_	_	tokId=w-243
+7	hasonlóan	hasonló	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-244
+8	itt	itt	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-245
+9	is	is	ADV	_	_	_	_	_	tokId=w-246
+10	megjelentek	megjelenik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-247
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-248
+12	„	„	PUNCT	_	_	_	_	_	tokId=w-249
+13	vandálok	vandál	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-250
+14	”	”	PUNCT	_	_	_	_	_	tokId=w-251|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-252
+

@@ -1,0 +1,68 @@
+# newdoc id = w401
+# sent_id = w401_s-1
+# text = 30 perckor lesz a keszthelyi Új temetőben.
+1	30	30	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-1
+2	perckor	perc	NOUN	_	Case=Tem|Number=Sing	_	_	_	tokId=w-2
+3	lesz	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-3
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-4
+5	keszthelyi	keszthelyi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-5
+6	Új	új	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-6|NE=name[LOC]_1
+7	temetőben	temető	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-7|NE=name[LOC]_1|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-8
+
+# sent_id = w401_s-2
+# text = Ő már ott van, ahol nincs fájdalom, Örök álmát őrizze béke és nyugalom. "
+1	Ő	ő	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-9
+2	már	már	ADV	_	_	_	_	_	tokId=w-10
+3	ott	ott	ADV	_	PronType=Dem	_	_	_	tokId=w-11
+4	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-12|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-13
+6	ahol	ahol	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-14
+7	nincs	nincs	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-15
+8	fájdalom	fájdalom	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-16|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-17
+10	Örök	örök	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-18
+11	álmát	álom	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-19
+12	őrizze	őriz	VERB	_	Definite=Def|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-20
+13	béke	béke	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-21
+14	és	és	CCONJ	_	_	_	_	_	tokId=w-22
+15	nyugalom	nyugalom	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-23|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-24
+17	"	"	PUNCT	_	_	_	_	_	tokId=w-25
+
+# sent_id = w401_s-3
+# text = (János evangéliuma 11:24) Fájó szívvel, de Isten akaratában megnyugodva tudatjuk, hogy szerető édesapánk, apósunk, nagyapánk és dédikénk FAZEKAS JÓZSEF volt kispáli lakos 92 éves korában elhunyt.
+1	(	(	PUNCT	_	_	_	_	_	tokId=w-26
+2	János	jános	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-27|NE=name[MISC]_2
+3	evangéliuma	evangélium	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-28|NE=name[MISC]_2
+4	11:24	11:24	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-29|SpaceAfter=No
+5	)	)	PUNCT	_	_	_	_	_	tokId=w-30
+6	Fájó	fájó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-31
+7	szívvel	szív	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-32|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-33
+9	de	de	CCONJ	_	_	_	_	_	tokId=w-34
+10	Isten	isten	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-35|NE=name[PER]_3
+11	akaratában	akarat	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-36
+12	megnyugodva	megnyugodva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-37
+13	tudatjuk	tudat	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-38|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-39
+15	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-40
+16	szerető	szerető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-41
+17	édesapánk	édesapa	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-42|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-43
+19	apósunk	após	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-44|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-45
+21	nagyapánk	nagyapa	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-46
+22	és	és	CCONJ	_	_	_	_	_	tokId=w-47
+23	dédikénk	dédike	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-48
+24	FAZEKAS	Fazekas	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-49|NE=name[PER]_4
+25	JÓZSEF	József	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-50|NE=name[PER]_4
+26	volt	van	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-51
+27	kispáli	kispáli	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-52
+28	lakos	lakos	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-53
+29	92	92	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-54
+30	éves	éves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-55
+31	korában	kor	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-56
+32	elhunyt	elhuny	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-57|SpaceAfter=No
+33	.	.	PUNCT	_	_	_	_	_	tokId=w-58
+

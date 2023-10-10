@@ -1,0 +1,181 @@
+# newdoc id = globv_3
+# sent_id = globv_3_s-1
+# text = Bangladesfővárosában, Dakkában , amikor reggelente a gyerekek egy csoportja elhagyja az otthonát, hogy iskolába menjen, a gyermekek egy másik csoportja azért megy ki az utcákra, hogy a megélhetésért dolgozzon.
+1	Banglades	Banglades	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-1|NE=name[LOC]_1|SpaceAfter=No
+2	fővárosában	főváros	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-2|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-3
+4	Dakkában	Dakka	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-4|NE=name[LOC]_2
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-5
+6	amikor	amikor	ADV	_	PronType=Rel	_	_	_	tokId=w-6
+7	reggelente	reggelente	ADV	_	_	_	_	_	tokId=w-7
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-8
+9	gyerekek	gyerek	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-9
+10	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-10
+11	csoportja	csoport	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-11
+12	elhagyja	elhagy	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-12
+13	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-13
+14	otthonát	otthon	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-14|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-15
+16	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-16
+17	iskolába	iskola	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-17
+18	menjen	megy	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-18|SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	tokId=w-19
+20	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-20
+21	gyermekek	gyermek	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-21
+22	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-22
+23	másik	másik	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-23
+24	csoportja	csoport	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-24
+25	azért	az	ADV	_	PronType=Dem	_	_	_	tokId=w-25
+26	megy	megy	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-26
+27	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-27
+28	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-28
+29	utcákra	utca	NOUN	_	Case=Sbl|Number=Plur	_	_	_	tokId=w-29|SpaceAfter=No
+30	,	,	PUNCT	_	_	_	_	_	tokId=w-30
+31	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-31
+32	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-32
+33	megélhetésért	megélhetés	NOUN	_	Case=Cau|Number=Sing	_	_	_	tokId=w-33
+34	dolgozzon	dolgozik	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-34|SpaceAfter=No
+35	.	.	PUNCT	_	_	_	_	_	tokId=w-35
+
+# sent_id = globv_3_s-2
+# text = Az utcák számukra egy lehetőséget a kenyérkeresésre.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-36
+2	utcák	utca	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-37
+3	számukra	számára	ADP	_	_	_	_	_	tokId=w-38
+4	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-39
+5	lehetőséget	lehetőség	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-40
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-41
+7	kenyérkeresésre	kenyérkeresés	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-42|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-43
+
+# sent_id = globv_3_s-3
+# text = Ezen gyerekek egy része szemetet gyűjt, mások pedig különféle dolgokat árulnak, például teát és cigarettát.
+1	Ezen	ezen	ADV	_	PronType=Art	_	_	_	tokId=w-44
+2	gyerekek	gyerek	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-45
+3	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-46
+4	része	rész	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-47
+5	szemetet	szemét	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-48
+6	gyűjt	gyűjt	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-49|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-50
+8	mások	más	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Ind|Person=3|PronType=Ind	_	_	_	tokId=w-51
+9	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-52
+10	különféle	különféle	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-53
+11	dolgokat	dolog	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-54
+12	árulnak	árul	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-55|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-56
+14	például	például	ADV	_	_	_	_	_	tokId=w-57
+15	teát	tea	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-58
+16	és	és	CCONJ	_	_	_	_	_	tokId=w-59
+17	cigarettát	cigaretta	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-60|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-61
+
+# sent_id = globv_3_s-4
+# text = Ezen gyerekeknek az iskola elérhetetlen dolgot jelent, olyasmit, amiről csak álmodhatnak, mert ahonnan ők jönnek, óriási szakadék tátong az álmaik és a mindennapi életük nyers valósága között.
+1	Ezen	ezen	ADV	_	PronType=Art	_	_	_	tokId=w-62
+2	gyerekeknek	gyerek	NOUN	_	Case=Dat|Number=Plur	_	_	_	tokId=w-63
+3	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-64
+4	iskola	iskola	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-65
+5	elérhetetlen	elérhetetlen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-66
+6	dolgot	dolog	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-67
+7	jelent	jelent	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-68|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-69
+9	olyasmit	olyasmi	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	_	_	_	tokId=w-70|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-71
+11	amiről	ami	PRON	_	Case=Del|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-72
+12	csak	csak	ADV	_	_	_	_	_	tokId=w-73
+13	álmodhatnak	álmodik	VERB	_	Definite=Ind|Mood=Pot|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-74|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-75
+15	mert	mert	SCONJ	_	_	_	_	_	tokId=w-76
+16	ahonnan	ahonnan	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-77
+17	ők	ők	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	_	_	_	tokId=w-78
+18	jönnek	jön	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-79|SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	tokId=w-80
+20	óriási	óriási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-81
+21	szakadék	szakadék	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-82
+22	tátong	tátong	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-83
+23	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-84
+24	álmaik	álom	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-85
+25	és	és	CCONJ	_	_	_	_	_	tokId=w-86
+26	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-87
+27	mindennapi	mindennapi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-88
+28	életük	élet	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-89
+29	nyers	nyers	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-90
+30	valósága	valóság	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-91
+31	között	között	ADP	_	_	_	_	_	tokId=w-92|SpaceAfter=No
+32	.	.	PUNCT	_	_	_	_	_	tokId=w-93
+
+# sent_id = globv_3_s-5
+# text = Mégis, fiatalok egy csoportja célul tűzte ki, hogy valóra váltja legalább néhány ilyen sorsú gyermek álmát: iskolát alapítottak a nyomornegyedek hátrányos helyzetű gyermekei számára.
+1	Mégis	mégis	ADV	_	_	_	_	_	tokId=w-94|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-95
+3	fiatalok	fiatal	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-96
+4	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-97
+5	csoportja	csoport	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-98
+6	célul	cél	NOUN	_	Case=Ess|Number=Sing	_	_	_	tokId=w-99
+7	tűzte	tűz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-100
+8	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-101|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-102
+10	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-103
+11	valóra	való	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-104
+12	váltja	vált	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-105
+13	legalább	legalább	ADV	_	_	_	_	_	tokId=w-106
+14	néhány	néhány	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-107
+15	ilyen	ilyen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-108
+16	sorsú	sorsú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-109
+17	gyermek	gyermek	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-110
+18	álmát	álom	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-111|SpaceAfter=No
+19	:	:	PUNCT	_	_	_	_	_	tokId=w-112
+20	iskolát	iskola	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-113
+21	alapítottak	alapít	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-114
+22	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-115
+23	nyomornegyedek	nyomornegyed	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-116
+24	hátrányos	hátrányos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-117
+25	helyzetű	helyzetű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-118
+26	gyermekei	gyermek	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-119
+27	számára	számára	ADP	_	_	_	_	_	tokId=w-120|SpaceAfter=No
+28	.	.	PUNCT	_	_	_	_	_	tokId=w-121
+
+# sent_id = globv_3_s-6
+# text = Az iskolát találóan Shawpno Rath-nak nevezték el, ami magyarul annyit tesz: az álmok hintója.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-122
+2	iskolát	iskola	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-123
+3	találóan	találó	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-124
+4	Shawpno	Shawpno	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-125|NE=name[ORG]_3
+5	Rath-nak	Rath	PROPN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-126|NE=name[ORG]_3
+6	nevezték	nevez	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-127
+7	el	el	ADV	_	_	_	_	_	tokId=w-128|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-129
+9	ami	ami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-130
+10	magyarul	magyar	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-131
+11	annyit	annyi	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-132
+12	tesz	tesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-133|SpaceAfter=No
+13	:	:	PUNCT	_	_	_	_	_	tokId=w-134
+14	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-135
+15	álmok	álom	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-136
+16	hintója	hintó	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-137|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-138
+
+# sent_id = globv_3_s-7
+# text = A Shawpno Rath megálmodója, Shamima Nargis Shimu a diákjai társaságában.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-139
+2	Shawpno	Shawpno	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-140|NE=name[ORG]_4
+3	Rath	Rath	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-141|NE=name[ORG]_4
+4	megálmodója	megálmodó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-142|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-143
+6	Shamima	Shamima	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-144|NE=name[PER]_5
+7	Nargis	Nargis	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-145|NE=name[PER]_5
+8	Shimu	Shimu	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-146|NE=name[PER]_5
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-147
+10	diákjai	diák	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-148
+11	társaságában	társaság	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-149|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-150
+
+# sent_id = globv_3_s-8
+# text = A fotót a csoport készítette.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-151
+2	fotót	fotó	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-152
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-153
+4	csoport	csoport	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-154
+5	készítette	készít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-155|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-156
+

@@ -1,0 +1,263 @@
+# newdoc id = globv_6
+# sent_id = globv_6_s-1
+# text = A Bersih (változás) elnevezésű tüntetésen több mint százezren vettek részt.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-1
+2	Bersih	Bersih	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-2|NE=name[MISC]_1
+3	(	(	PUNCT	_	_	_	_	_	tokId=w-3|SpaceAfter=No
+4	változás	változás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-4|SpaceAfter=No
+5	)	)	PUNCT	_	_	_	_	_	tokId=w-5
+6	elnevezésű	elnevezésű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-6
+7	tüntetésen	tüntetés	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-7
+8	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-8
+9	mint	mint	SCONJ	_	_	_	_	_	tokId=w-9
+10	százezren	százezer	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-10
+11	vettek	vesz	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-11
+12	részt	rész	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-12|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-13
+
+# sent_id = globv_6_s-2
+# text = Délkelet-Ázsiábanez volt a legnagyobb tüntetés 2015-ben.
+1	Délkelet-Ázsiában	Délkelet-Ázsia	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-14|NE=name[LOC]_2|SpaceAfter=No
+2	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-15
+3	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-16
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-17
+5	legnagyobb	nagy	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-18
+6	tüntetés	tüntetés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-19
+7	2015-ben	2015	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-20|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-21
+
+# sent_id = globv_6_s-3
+# text = A demonstrálók a korrupciós botrányba keveredett maláj miniszterelnök lemondását követelték.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-22
+2	demonstrálók	demonstráló	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-23
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-24
+4	korrupciós	korrupciós	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-25
+5	botrányba	botrány	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-26
+6	keveredett	keveredett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-27
+7	maláj	maláj	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-28
+8	miniszterelnök	miniszterelnök	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-29
+9	lemondását	lemondás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-30
+10	követelték	követel	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-31|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-32
+
+# sent_id = globv_6_s-4
+# text = 2015-ben három téma foglalkoztatta a médiát Délkelet-Ázsiában : a hadsereg által támogatott kormánypárt veresége a mianmari választásokon, az erdőtüzek miatt füstbe burkolt Indonézia és a különböző országok kormányzó pártjait érintő korrupciós botrányok.
+1	2015-ben	2015	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-33
+2	három	három	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-34
+3	téma	téma	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-35
+4	foglalkoztatta	foglalkoztat	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-36
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-37
+6	médiát	média	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-38
+7	Délkelet-Ázsiában	Délkelet-Ázsia	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-39|NE=name[LOC]_3
+8	:	:	PUNCT	_	_	_	_	_	tokId=w-40
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-41
+10	hadsereg	hadsereg	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-42
+11	által	által	ADP	_	_	_	_	_	tokId=w-43
+12	támogatott	támogatott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-44
+13	kormánypárt	kormánypárt	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-45
+14	veresége	vereség	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-46
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-47
+16	mianmari	mianmari	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-48
+17	választásokon	választás	NOUN	_	Case=Sup|Number=Plur	_	_	_	tokId=w-49|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-50
+19	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-51
+20	erdőtüzek	erdőtűz	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-52
+21	miatt	miatt	ADP	_	_	_	_	_	tokId=w-53
+22	füstbe	füst	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-54
+23	burkolt	burkolt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-55
+24	Indonézia	Indonézia	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-56|NE=name[LOC]_4
+25	és	és	CCONJ	_	_	_	_	_	tokId=w-57
+26	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-58
+27	különböző	különböző	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-59
+28	országok	ország	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-60
+29	kormányzó	kormányzó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-61
+30	pártjait	párt	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-62
+31	érintő	érintő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-63
+32	korrupciós	korrupciós	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-64
+33	botrányok	botrány	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-65|SpaceAfter=No
+34	.	.	PUNCT	_	_	_	_	_	tokId=w-66
+
+# sent_id = globv_6_s-5
+# text = Malajzia miniszterelnökét azzal gyanúsították, hogy több mint 600 millió dollárt (mintegy 170 milliárd forintot) vágott zsebre szabálytalan banki tranzakciókból, amikben az ország befektetési cége is érintett volt.
+1	Malajzia	Malajzia	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-67|NE=name[ORG]_5
+2	miniszterelnökét	miniszterelnök	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-68
+3	azzal	az	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-69
+4	gyanúsították	gyanúsít	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-70|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-71
+6	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-72
+7	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-73
+8	mint	mint	SCONJ	_	_	_	_	_	tokId=w-74
+9	600	600	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-75
+10	millió	millió	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-76
+11	dollárt	dollár	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-77
+12	(	(	PUNCT	_	_	_	_	_	tokId=w-78|SpaceAfter=No
+13	mintegy	mintegy	ADV	_	_	_	_	_	tokId=w-79
+14	170	170	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-80
+15	milliárd	milliárd	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-81
+16	forintot	forint	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-82|SpaceAfter=No
+17	)	)	PUNCT	_	_	_	_	_	tokId=w-83
+18	vágott	vág	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-84
+19	zsebre	zseb	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-85
+20	szabálytalan	szabálytalan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-86
+21	banki	banki	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-87
+22	tranzakciókból	tranzakció	NOUN	_	Case=Ela|Number=Plur	_	_	_	tokId=w-88|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-89
+24	amikben	ami	PRON	_	Case=Ine|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-90
+25	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-91
+26	ország	ország	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-92
+27	befektetési	befektetési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-93
+28	cége	cég	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-94
+29	is	is	ADV	_	_	_	_	_	tokId=w-95
+30	érintett	érintett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-96
+31	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-97|SpaceAfter=No
+32	.	.	PUNCT	_	_	_	_	_	tokId=w-98
+
+# sent_id = globv_6_s-6
+# text = Thaiföldön a hatalmat 2014-ben megragadó juntát azzal vádolták, hogy korrupciós ügyletek kíséretében építettek egy látványparkot.
+1	Thaiföldön	Thaiföld	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-99|NE=name[LOC]_6
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-100
+3	hatalmat	hatalom	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-101
+4	2014-ben	2014	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-102
+5	megragadó	megragadó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-103
+6	juntát	junta	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-104
+7	azzal	az	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-105
+8	vádolták	vádol	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-106|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-107
+10	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-108
+11	korrupciós	korrupciós	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-109
+12	ügyletek	ügylet	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-110
+13	kíséretében	kíséret	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-111
+14	építettek	épít	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-112
+15	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-113
+16	látványparkot	látványpark	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-114|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-115
+
+# sent_id = globv_6_s-7
+# text = Indonéziában lemondott a képviselőház zsarolási ügybe keveredett elnöke.
+1	Indonéziában	Indonézia	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-116|NE=name[LOC]_7
+2	lemondott	lemond	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-117
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-118
+4	képviselőház	képviselőház	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-119
+5	zsarolási	zsarolási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-120
+6	ügybe	ügy	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-121
+7	keveredett	keveredett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-122
+8	elnöke	elnök	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-123|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-124
+
+# sent_id = globv_6_s-8
+# text = A Fülöp-szigeteken pedig az alelnököt tartják folyamatos nyomás alatt vesztegetési ügyekkel.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-125
+2	Fülöp-szigeteken	Fülöp-szigetek	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-126|NE=name[LOC]_8
+3	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-127
+4	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-128
+5	alelnököt	alelnök	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-129
+6	tartják	tart	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-130
+7	folyamatos	folyamatos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-131
+8	nyomás	nyomás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-132
+9	alatt	alatt	ADP	_	_	_	_	_	tokId=w-133
+10	vesztegetési	vesztegetési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-134
+11	ügyekkel	ügy	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-135|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-136
+
+# sent_id = globv_6_s-9
+# text = Najib Abdul Razak maláj miniszterelnök elismerte ugyan, hogy 600 millió dollár van a bankszámláján, azt azonban tagadta, hogy állami pénzről lenne szó.
+1	Najib	Najib	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-137|NE=name[PER]_9
+2	Abdul	Abdul	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-138|NE=name[PER]_9
+3	Razak	Razak	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-139|NE=name[PER]_9
+4	maláj	maláj	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-140
+5	miniszterelnök	miniszterelnök	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-141
+6	elismerte	elismer	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-142
+7	ugyan	ugyan	ADV	_	_	_	_	_	tokId=w-143|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-144
+9	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-145
+10	600	600	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-146
+11	millió	millió	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-147
+12	dollár	dollár	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-148
+13	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-149
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-150
+15	bankszámláján	bankszámla	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-151|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-152
+17	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-153
+18	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-154
+19	tagadta	tagad	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-155|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-156
+21	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-157
+22	állami	állami	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-158
+23	pénzről	pénz	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-159
+24	lenne	lesz	VERB	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-160
+25	szó	szó	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-161|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-162
+
+# sent_id = globv_6_s-10
+# text = Állítása szerint az összeget pártja választási kampányára adományozta egy közel-keleti támogató.
+1	Állítása	állítás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-163
+2	szerint	szerint	ADP	_	_	_	_	_	tokId=w-164
+3	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-165
+4	összeget	összeg	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-166
+5	pártja	párt	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-167
+6	választási	választási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-168
+7	kampányára	kampány	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-169
+8	adományozta	adományoz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-170
+9	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-171
+10	közel-keleti	közel-keleti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-172
+11	támogató	támogató	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-173|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-174
+
+# sent_id = globv_6_s-11
+# text = Ezt sokan nem hitték el neki, és a lemondását követelték.
+1	Ezt	ez	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-175
+2	sokan	sok	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-176
+3	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-177
+4	hitték	hisz	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-178
+5	el	el	ADV	_	_	_	_	_	tokId=w-179
+6	neki	ő	ADV	_	_	_	_	_	tokId=w-180|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-181
+8	és	és	CCONJ	_	_	_	_	_	tokId=w-182
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-183
+10	lemondását	lemondás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-184
+11	követelték	követel	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-185|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-186
+
+# sent_id = globv_6_s-12
+# text = Országszerte óriási tüntetéseket tartottak, és az internetes mémgyárat is beindította az ügy.
+1	Országszerte	országszerte	ADV	_	_	_	_	_	tokId=w-187
+2	óriási	óriási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-188
+3	tüntetéseket	tüntetés	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-189
+4	tartottak	tart	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-190|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-191
+6	és	és	CCONJ	_	_	_	_	_	tokId=w-192
+7	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-193
+8	internetes	internetes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-194
+9	mémgyárat	mémgyár	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-195
+10	is	is	ADV	_	_	_	_	_	tokId=w-196
+11	beindította	beindít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-197
+12	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-198
+13	ügy	ügy	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-199|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-200
+
+# sent_id = globv_6_s-13
+# text = A maláj miniszterelnök és az állami tulajdonú befektetési cég, az 1MDB gyanús banki átutalásairól a Wall Street Journal közölt oknyomozó cikket.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-201
+2	maláj	maláj	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-202
+3	miniszterelnök	miniszterelnök	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-203
+4	és	és	CCONJ	_	_	_	_	_	tokId=w-204
+5	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-205
+6	állami	állami	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-206
+7	tulajdonú	tulajdonú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-207
+8	befektetési	befektetési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-208
+9	cég	cég	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-209|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-210
+11	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-211
+12	1MDB	1MDB	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-212|NE=name[ORG]_10
+13	gyanús	gyanús	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-213
+14	banki	banki	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-214
+15	átutalásairól	átutalás	NOUN	_	Case=Del|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-215
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-216
+17	Wall	Wall	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-217|NE=name[ORG]_11
+18	Street	Street	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-218|NE=name[ORG]_11
+19	Journal	Journal	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-219|NE=name[ORG]_11
+20	közölt	közöl	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-220
+21	oknyomozó	oknyomozó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-221
+22	cikket	cikk	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-222|SpaceAfter=No
+23	.	.	PUNCT	_	_	_	_	_	tokId=w-223
+

@@ -1,0 +1,330 @@
+# newdoc id = globv_18
+# sent_id = globv_18_s-1
+# text = Szeptember második hétvégéjén Moszkva több mint fél milliárd rubelt költött egy fesztiválra, amely a város 869. szülinapját volt hivatott megünnepelni.
+1	Szeptember	szeptember	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-1
+2	második	második	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-2
+3	hétvégéjén	hétvége	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-3
+4	Moszkva	Moszkva	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-4|NE=name[ORG]_1
+5	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-5
+6	mint	mint	SCONJ	_	_	_	_	_	tokId=w-6
+7	fél	fél	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-7
+8	milliárd	milliárd	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-8
+9	rubelt	rubel	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-9
+10	költött	költ	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-10
+11	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-11
+12	fesztiválra	fesztivál	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-12|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-13
+14	amely	amely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-14
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-15
+16	város	város	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-16
+17	869.	869.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-17
+18	szülinapját	szülinap	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-18
+19	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-19
+20	hivatott	hivatott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-20
+21	megünnepelni	megünnepel	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-21|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-22
+
+# sent_id = globv_18_s-2
+# text = Volt ott minden: hatalmas tűzijáték, nehéz városi járművek felvonulása és ezer más látványelem, amelyet a hivatalnokok bemutattak.
+1	Volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-23
+2	ott	ott	ADV	_	PronType=Dem	_	_	_	tokId=w-24
+3	minden	minden	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-25|SpaceAfter=No
+4	:	:	PUNCT	_	_	_	_	_	tokId=w-26
+5	hatalmas	hatalmas	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-27
+6	tűzijáték	tűzijáték	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-28|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-29
+8	nehéz	nehéz	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-30
+9	városi	városi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-31
+10	járművek	jármű	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-32
+11	felvonulása	felvonulás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-33
+12	és	és	CCONJ	_	_	_	_	_	tokId=w-34
+13	ezer	ezer	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-35
+14	más	más	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-36
+15	látványelem	látványelem	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-37|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-38
+17	amelyet	amely	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-39
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-40
+19	hivatalnokok	hivatalnok	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-41
+20	bemutattak	bemutat	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-42|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-43
+
+# sent_id = globv_18_s-3
+# text = Vlagyimir Putyin elnök, aki a szeptember 10-én, szombaton a Vörös téren tartott főműsoron vett részt, egyszerre volt néző és showelem.
+1	Vlagyimir	Vlagyimir	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-44|NE=name[PER]_2
+2	Putyin	Putyin	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-45|NE=name[PER]_2
+3	elnök	elnök	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-46|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-47
+5	aki	aki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-48
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-49
+7	szeptember	szeptember	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-50
+8	10-én	10	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-51|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-52
+10	szombaton	szombat	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-53
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-54
+12	Vörös	Vörös	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-55|NE=name[LOC]_3
+13	téren	tér	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-56|NE=name[LOC]_3
+14	tartott	tartott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-57
+15	főműsoron	főműsor	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-58
+16	vett	vesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-59
+17	részt	rész	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-60|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-61
+19	egyszerre	egyszerre	ADV	_	_	_	_	_	tokId=w-62
+20	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-63
+21	néző	néző	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-64
+22	és	és	CCONJ	_	_	_	_	_	tokId=w-65
+23	showelem	showelem	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-66|SpaceAfter=No
+24	.	.	PUNCT	_	_	_	_	_	tokId=w-67
+
+# sent_id = globv_18_s-4
+# text = De nem csak Moszkva hosszú történetét ünnepelték, nagyon úgy tűnik, hogy a látványosságot úgy szervezték, hogy az emlékeztesse az oroszokat arra, hogy milyen férfias és forróvérű is az elnökük.
+1	De	de	CCONJ	_	_	_	_	_	tokId=w-68
+2	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-69
+3	csak	csak	ADV	_	_	_	_	_	tokId=w-70
+4	Moszkva	Moszkva	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-71|NE=name[LOC]_4
+5	hosszú	hosszú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-72
+6	történetét	történet	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-73
+7	ünnepelték	ünnepel	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-74|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-75
+9	nagyon	nagyon	ADV	_	_	_	_	_	tokId=w-76
+10	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-77
+11	tűnik	tűnik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-78|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-79
+13	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-80
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-81
+15	látványosságot	látványosság	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-82
+16	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-83
+17	szervezték	szervez	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-84|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-85
+19	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-86
+20	az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-87
+21	emlékeztesse	emlékeztet	VERB	_	Definite=Def|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-88
+22	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-89
+23	oroszokat	orosz	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	_	_	_	tokId=w-90
+24	arra	az	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-91|SpaceAfter=No
+25	,	,	PUNCT	_	_	_	_	_	tokId=w-92
+26	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-93
+27	milyen	milyen	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Int	_	_	_	tokId=w-94
+28	férfias	férfias	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-95
+29	és	és	CCONJ	_	_	_	_	_	tokId=w-96
+30	forróvérű	forróvérű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-97
+31	is	is	ADV	_	_	_	_	_	tokId=w-98
+32	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-99
+33	elnökük	elnök	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-100|SpaceAfter=No
+34	.	.	PUNCT	_	_	_	_	_	tokId=w-101
+
+# sent_id = globv_18_s-5
+# text = Szombaton egy Kreml-közeli újságíró, Dmitrij Smirnov tweetelt Putyinról egy rövid videót, amint az elnök átsétál a Vörös téren egy nagy csoport, fehér esküvői ruhába öltözött nő között.
+1	Szombaton	szombat	ADV	_	_	_	_	_	tokId=w-102
+2	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-103
+3	Kreml-közeli	Kreml-közeli	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-104
+4	újságíró	újságíró	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-105|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-106
+6	Dmitrij	Dmitrij	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-107|NE=name[PER]_5
+7	Smirnov	Smirnov	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-108|NE=name[PER]_5
+8	tweetelt	tweetel	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-109
+9	Putyinról	Putyin	PROPN	_	Case=Del|Number=Sing	_	_	_	tokId=w-110|NE=name[PER]_6
+10	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-111
+11	rövid	rövid	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-112
+12	videót	videó	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-113|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-114
+14	amint	amint	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-115
+15	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-116
+16	elnök	elnök	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-117
+17	átsétál	átsétál	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-118
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-119
+19	Vörös	Vörös	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-120|NE=name[LOC]_7
+20	téren	tér	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-121|NE=name[LOC]_7
+21	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-122
+22	nagy	nagy	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-123
+23	csoport	csoport	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-124|SpaceAfter=No
+24	,	,	PUNCT	_	_	_	_	_	tokId=w-125
+25	fehér	fehér	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-126
+26	esküvői	esküvői	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-127
+27	ruhába	ruha	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-128
+28	öltözött	öltözött	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-129
+29	nő	nő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-130
+30	között	között	ADP	_	_	_	_	_	tokId=w-131|SpaceAfter=No
+31	.	.	PUNCT	_	_	_	_	_	tokId=w-132
+
+# sent_id = globv_18_s-6
+# text = Putyinhangosan gratulál a csoportnak, majd megáll náluk, hogy pózoljon a szelfikhez.
+1	Putyin	Putyin	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-133|NE=name[PER]_8|SpaceAfter=No
+2	hangosan	hangos	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-134
+3	gratulál	gratulál	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-135
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-136
+5	csoportnak	csoport	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-137|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-138
+7	majd	majd	ADV	_	_	_	_	_	tokId=w-139
+8	megáll	megáll	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-140
+9	náluk	ők	PRON	_	Case=Ade|Number=Plur|Person=3|PronType=Prs	_	_	_	tokId=w-141|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-142
+11	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-143
+12	pózoljon	pózol	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-144
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-145
+14	szelfikhez	szelfi	NOUN	_	Case=All|Number=Plur	_	_	_	tokId=w-146|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-147
+
+# sent_id = globv_18_s-7
+# text = Mint azonban utóbb kiderült, nincsenek is vőlegények.
+1	Mint	mint	SCONJ	_	_	_	_	_	tokId=w-148
+2	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-149
+3	utóbb	utóbb	ADV	_	_	_	_	_	tokId=w-150
+4	kiderült	kiderül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-151|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-152
+6	nincsenek	nincs	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-153
+7	is	is	ADV	_	_	_	_	_	tokId=w-154
+8	vőlegények	vőlegény	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-155|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-156
+
+# sent_id = globv_18_s-8
+# text = Az internetezők később beazonosították az egyik nőt az Instagramon , és hamar kiderült, hogy az elnököt körülvevő menyasszonyok csak jelmezt viselnek.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-157
+2	internetezők	internetező	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-158
+3	később	később	ADV	_	_	_	_	_	tokId=w-159
+4	beazonosították	beazonosít	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-160
+5	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-161
+6	egyik	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-162
+7	nőt	nő	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-163
+8	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-164
+9	Instagramon	Instagram	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-165|NE=name[ORG]_9
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-166
+11	és	és	CCONJ	_	_	_	_	_	tokId=w-167
+12	hamar	hamar	ADV	_	_	_	_	_	tokId=w-168
+13	kiderült	kiderül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-169|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-170
+15	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-171
+16	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-172
+17	elnököt	elnök	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-173
+18	körülvevő	körülvevő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-174
+19	menyasszonyok	menyasszony	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-175
+20	csak	csak	ADV	_	_	_	_	_	tokId=w-176
+21	jelmezt	jelmez	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-177
+22	viselnek	visel	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-178|SpaceAfter=No
+23	.	.	PUNCT	_	_	_	_	_	tokId=w-179
+
+# sent_id = globv_18_s-9
+# text = Evgenyija Konovalova, aki megszerezte az egyik helyet Putyin mellett, több menyasszonyi ruhás fényképet is feltöltött a hétvége folyamán a Vörös térről.
+1	Evgenyija	Evgenyija	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-180|NE=name[PER]_10
+2	Konovalova	Konovalova	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-181|NE=name[PER]_10|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-182
+4	aki	aki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-183
+5	megszerezte	megszerez	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-184
+6	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-185
+7	egyik	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-186
+8	helyet	hely	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-187
+9	Putyin	Putyin	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-188|NE=name[PER]_11
+10	mellett	mellett	ADP	_	_	_	_	_	tokId=w-189|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-190
+12	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-191
+13	menyasszonyi	menyasszonyi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-192
+14	ruhás	ruhás	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-193
+15	fényképet	fénykép	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-194
+16	is	is	ADV	_	_	_	_	_	tokId=w-195
+17	feltöltött	feltölt	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-196
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-197
+19	hétvége	hétvége	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-198
+20	folyamán	folyamán	ADP	_	_	_	_	_	tokId=w-199
+21	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-200
+22	Vörös	Vörös	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-201|NE=name[LOC]_12
+23	térről	tér	PROPN	_	Case=Del|Number=Sing	_	_	_	tokId=w-202|NE=name[LOC]_12|SpaceAfter=No
+24	.	.	PUNCT	_	_	_	_	_	tokId=w-203
+
+# sent_id = globv_18_s-10
+# text = Egy elnökös szelfit is megosztott.
+1	Egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-204
+2	elnökös	elnökös	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-205
+3	szelfit	szelfi	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-206
+4	is	is	ADV	_	_	_	_	_	tokId=w-207
+5	megosztott	megoszt	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-208|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-209
+
+# sent_id = globv_18_s-11
+# text = Egy másik fénykép alatt fedte fel, hogy dolgozni ment az ünnepi forgatagba a jelmezben.
+1	Egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-210
+2	másik	másik	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-211
+3	fénykép	fénykép	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-212
+4	alatt	alatt	ADP	_	_	_	_	_	tokId=w-213
+5	fedte	fed	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-214
+6	fel	fel	ADV	_	Degree=Pos	_	_	_	tokId=w-215|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-216
+8	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-217
+9	dolgozni	dolgozik	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-218
+10	ment	megy	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-219
+11	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-220
+12	ünnepi	ünnepi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-221
+13	forgatagba	forgatag	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-222
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-223
+15	jelmezben	jelmez	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-224|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-225
+
+# sent_id = globv_18_s-12
+# text = Kevésbé hízelgő, hogy Konovalova méretes dekoltázsát látva sokan arra a következtetésre jutottak, hogy a nő valójában nem modell, hanem prostituált.
+1	Kevésbé	kevésbé	ADV	_	_	_	_	_	tokId=w-226
+2	hízelgő	hízelgő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-227|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-228
+4	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-229
+5	Konovalova	Konovalova	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-230|NE=name[PER]_13
+6	méretes	méretes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-231
+7	dekoltázsát	dekoltázs	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-232
+8	látva	látva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-233
+9	sokan	sokan	ADV	_	_	_	_	_	tokId=w-234
+10	arra	az	DET	_	Case=Sbl|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-235
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-236
+12	következtetésre	következtetés	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-237
+13	jutottak	jut	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-238|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-239
+15	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-240
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-241
+17	nő	nő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-242
+18	valójában	valójában	ADV	_	_	_	_	_	tokId=w-243
+19	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-244
+20	modell	modell	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-245|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-246
+22	hanem	hanem	CCONJ	_	_	_	_	_	tokId=w-247
+23	prostituált	prostituált	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-248|SpaceAfter=No
+24	.	.	PUNCT	_	_	_	_	_	tokId=w-249
+
+# sent_id = globv_18_s-13
+# text = Leonyid Volkov, a megtépázott demokratikus ellenzék egyik vezető figurája, Vlagyimir Putyin hangos kritikusa is erre jutott.
+1	Leonyid	Leonyid	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-250|NE=name[PER]_14
+2	Volkov	Volkov	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-251|NE=name[PER]_14|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-252
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-253
+5	megtépázott	megtépázott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-254
+6	demokratikus	demokratikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-255
+7	ellenzék	ellenzék	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-256
+8	egyik	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-257
+9	vezető	vezető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-258
+10	figurája	figura	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-259|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-260
+12	Vlagyimir	Vlagyimir	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-261|NE=name[PER]_15
+13	Putyin	Putyin	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-262|NE=name[PER]_15
+14	hangos	hangos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-263
+15	kritikusa	kritikus	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-264
+16	is	is	ADV	_	_	_	_	_	tokId=w-265
+17	erre	ez	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-266
+18	jutott	jut	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-267|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-268
+
+# sent_id = globv_18_s-14
+# text = Mindenki olyan meglepett, hogy Putyin prostituáltakkal fotózkodik, mintha a róla készült képek 99%-án nem ugyanez lenne.
+1	Mindenki	mindenki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Tot	_	_	_	tokId=w-269
+2	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-270
+3	meglepett	meglepett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-271|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-272
+5	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-273
+6	Putyin	Putyin	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-274|NE=name[PER]_16
+7	prostituáltakkal	prostituált	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-275
+8	fotózkodik	fotózkodik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-276|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-277
+10	mintha	mintha	CCONJ	_	_	_	_	_	tokId=w-278
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-279
+12	róla	róla	PRON	_	Case=Del|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-280
+13	készült	készült	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-281
+14	képek	kép	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-282
+15	99%-án	99	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-283
+16	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-284
+17	ugyanez	ugyanez	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-285
+18	lenne	lesz	VERB	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-286|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-287
+

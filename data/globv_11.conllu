@@ -1,0 +1,314 @@
+# newdoc id = globv_11
+# sent_id = globv_11_s-1
+# text = A világ még mindig döbbenten áll a 2011. július 22-én pénteken a norvégiai Utøya-szigeten történt tömeggyilkosság esete előtt.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-1
+2	világ	világ	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-2
+3	még	még	ADV	_	_	_	_	_	tokId=w-3
+4	mindig	mindig	ADV	_	_	_	_	_	tokId=w-4
+5	döbbenten	döbbent	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-5
+6	áll	áll	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-6
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-7
+8	2011.	2011.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-8
+9	július	július	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-9
+10	22-én	22	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-10
+11	pénteken	péntek	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-11
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-12
+13	norvégiai	norvégiai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-13
+14	Utøya-szigeten	Utøya-sziget	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-14|NE=name[LOC]_1
+15	történt	történt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-15
+16	tömeggyilkosság	tömeggyilkosság	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-16
+17	esete	eset	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-17
+18	előtt	előtt	ADP	_	_	_	_	_	tokId=w-18|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-19
+
+# sent_id = globv_11_s-2
+# text = A helyszínen ifjúsági politikai tábor zajlott, amelynek részvevői közül nyolcvanöten hunytak el a támadás során.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-20
+2	helyszínen	helyszín	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-21
+3	ifjúsági	ifjúsági	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-22
+4	politikai	politikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-23
+5	tábor	tábor	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-24
+6	zajlott	zajlik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-25|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-26
+8	amelynek	amely	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-27
+9	részvevői	részvevő	ADJ	_	Case=Nom|Degree=Pos|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-28
+10	közül	közül	ADP	_	_	_	_	_	tokId=w-29
+11	nyolcvanöten	nyolcvanöt	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-30
+12	hunytak	huny	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-31
+13	el	el	ADV	_	_	_	_	_	tokId=w-32
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-33
+15	támadás	támadás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-34
+16	során	során	ADP	_	_	_	_	_	tokId=w-35|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-36
+
+# sent_id = globv_11_s-3
+# text = A gyilkos, akit mostanra azonosítottak, Anders Behring Breivik rendőrnek öltözve tűnt fel, majd tüzet nyitott a körülötte lévőkre, véve azokat is, akik a vízbe menekültek.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-37
+2	gyilkos	gyilkos	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-38|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-39
+4	akit	aki	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-40
+5	mostanra	mostanra	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-41
+6	azonosítottak	azonosít	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-42|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-43
+8	Anders	Anders	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-44|NE=name[PER]_2
+9	Behring	Behring	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-45|NE=name[PER]_2
+10	Breivik	Breivik	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-46|NE=name[PER]_2
+11	rendőrnek	rendőr	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-47
+12	öltözve	öltözve	ADV	_	VerbForm=Conv	_	_	_	tokId=w-48
+13	tűnt	tűnik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-49
+14	fel	fel	ADV	_	Degree=Pos	_	_	_	tokId=w-50|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-51
+16	majd	majd	ADV	_	_	_	_	_	tokId=w-52
+17	tüzet	tűz	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-53
+18	nyitott	nyit	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-54
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-55
+20	körülötte	körül	ADP	_	_	_	_	_	tokId=w-56
+21	lévőkre	lévő	ADJ	_	Case=Sbl|Degree=Pos|Number=Plur	_	_	_	tokId=w-57|SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-58
+23	véve	véve	ADV	_	VerbForm=Conv	_	_	_	tokId=w-59
+24	azokat	az	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-60
+25	is	is	ADV	_	_	_	_	_	tokId=w-61|SpaceAfter=No
+26	,	,	PUNCT	_	_	_	_	_	tokId=w-62
+27	akik	aki	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-63
+28	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-64
+29	vízbe	víz	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-65
+30	menekültek	menekül	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-66|SpaceAfter=No
+31	.	.	PUNCT	_	_	_	_	_	tokId=w-67
+
+# sent_id = globv_11_s-4
+# text = Breivik az első számú gyanúsítottja a néhány órával korábban történt oslói robbantásnak is, amely hét ember életét követelte és súlyos károkat okozott kormányzati épületekben.
+1	Breivik	Breivik	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-68|NE=name[PER]_3
+2	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-69
+3	első	első	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-70
+4	számú	számú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-71
+5	gyanúsítottja	gyanúsított	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-72
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-73
+7	néhány	néhány	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-74
+8	órával	óra	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-75
+9	korábban	korábban	ADV	_	_	_	_	_	tokId=w-76
+10	történt	történt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-77
+11	oslói	oslói	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-78
+12	robbantásnak	robbantás	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-79
+13	is	is	ADV	_	_	_	_	_	tokId=w-80|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-81
+15	amely	amely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-82
+16	hét	hét	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-83
+17	ember	ember	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-84
+18	életét	élet	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-85
+19	követelte	követel	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-86
+20	és	és	CCONJ	_	_	_	_	_	tokId=w-87
+21	súlyos	súlyos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-88
+22	károkat	kár	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-89
+23	okozott	okoz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-90
+24	kormányzati	kormányzati	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-91
+25	épületekben	épület	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-92|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-93
+
+# sent_id = globv_11_s-5
+# text = Az Utøya nyári tábor a norvég Munkapárt ifjúsági szervezetének, az AUF-nek éves rendezvénye.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-94
+2	Utøya	Utøya	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-95|NE=name[MISC]_4
+3	nyári	nyári	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-96
+4	tábor	tábor	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-97
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-98
+6	norvég	norvég	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-99
+7	Munkapárt	munkapárt	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-100|NE=name[ORG]_5
+8	ifjúsági	ifjúsági	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-101
+9	szervezetének	szervezet	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-102|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-103
+11	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-104
+12	AUF-nek	AUF	PROPN	_	Case=Gen|Number=Sing	_	_	_	tokId=w-105|NE=name[ORG]_6
+13	éves	éves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-106
+14	rendezvénye	rendezvény	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-107|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-108
+
+# sent_id = globv_11_s-6
+# text = A táborban az ország különböző részeiből érkező fiatalok politikáról beszélgetnek, zenét hallgatnak, sportolnak és volt vagy ma is aktív politikusok beszédeit hallgatják meg.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-109
+2	táborban	tábor	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-110
+3	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-111
+4	ország	ország	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-112
+5	különböző	különböző	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-113
+6	részeiből	rész	NOUN	_	Case=Ela|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-114
+7	érkező	érkező	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-115
+8	fiatalok	fiatal	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-116
+9	politikáról	politika	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-117
+10	beszélgetnek	beszélget	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-118|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-119
+12	zenét	zene	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-120
+13	hallgatnak	hallgat	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-121|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-122
+15	sportolnak	sportol	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-123
+16	és	és	CCONJ	_	_	_	_	_	tokId=w-124
+17	volt	van	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-125
+18	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-126
+19	ma	ma	ADV	_	_	_	_	_	tokId=w-127
+20	is	is	ADV	_	_	_	_	_	tokId=w-128
+21	aktív	aktív	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-129
+22	politikusok	politikus	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-130
+23	beszédeit	beszéd	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-131
+24	hallgatják	hallgat	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-132
+25	meg	meg	PART	_	_	_	_	_	tokId=w-133|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-134
+
+# sent_id = globv_11_s-7
+# text = Utøya szigete kevesebb mint egyórai autóútra van Oslo központjától.
+1	Utøya	Utøya	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-135|NE=name[LOC]_7
+2	szigete	sziget	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-136
+3	kevesebb	kevesebb	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-137
+4	mint	mint	SCONJ	_	_	_	_	_	tokId=w-138
+5	egyórai	egyórai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-139
+6	autóútra	autóút	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-140
+7	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-141
+8	Oslo	Oslo	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-142|NE=name[LOC]_8
+9	központjától	központ	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-143|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-144
+
+# sent_id = globv_11_s-8
+# text = A támadás előtti reggelen az AUF Twitter-üzeneteiben és az #Utøyahashtaget követve olvasható volt, hogy körülbelül hétszáz részvevő beszélgetett éppen a környezetvédelmi ügyekről, a nők jogairól és a közel-keleti politikai helyzetről.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-145
+2	támadás	támadás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-146
+3	előtti	előtti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-147
+4	reggelen	reggel	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-148
+5	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-149
+6	AUF	AUF	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-150|NE=name[ORG]_9
+7	Twitter-üzeneteiben	Twitter-üzenet	PROPN	_	Case=Ine|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-151
+8	és	és	CCONJ	_	_	_	_	_	tokId=w-152
+9	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-153
+10	#Utøya	#Utøya	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-154|NE=name[MISC]_10|SpaceAfter=No
+11	hashtaget	hashtag	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-155
+12	követve	követve	ADV	_	VerbForm=Conv	_	_	_	tokId=w-156
+13	olvasható	olvasható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-157
+14	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-158|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-159
+16	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-160
+17	körülbelül	körülbelül	ADV	_	_	_	_	_	tokId=w-161
+18	hétszáz	hétszáz	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-162
+19	részvevő	részvevő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-163
+20	beszélgetett	beszélget	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-164
+21	éppen	éppen	ADV	_	_	_	_	_	tokId=w-165
+22	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-166
+23	környezetvédelmi	környezetvédelmi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-167
+24	ügyekről	ügy	NOUN	_	Case=Del|Number=Plur	_	_	_	tokId=w-168|SpaceAfter=No
+25	,	,	PUNCT	_	_	_	_	_	tokId=w-169
+26	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-170
+27	nők	nő	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-171
+28	jogairól	jog	NOUN	_	Case=Del|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-172
+29	és	és	CCONJ	_	_	_	_	_	tokId=w-173
+30	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-174
+31	közel-keleti	közel-keleti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-175
+32	politikai	politikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-176
+33	helyzetről	helyzet	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-177|SpaceAfter=No
+34	.	.	PUNCT	_	_	_	_	_	tokId=w-178
+
+# sent_id = globv_11_s-9
+# text = Esett az eső, de jó volt a hangulat.
+1	Esett	esik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-179
+2	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-180
+3	eső	eső	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-181|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-182
+5	de	de	CCONJ	_	_	_	_	_	tokId=w-183
+6	jó	jó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-184
+7	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-185
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-186
+9	hangulat	hangulat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-187|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-188
+
+# sent_id = globv_11_s-10
+# text = Később azonban már nem érkeztek tudósítások a Twitterre .
+1	Később	később	ADV	_	_	_	_	_	tokId=w-189
+2	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-190
+3	már	már	ADV	_	_	_	_	_	tokId=w-191
+4	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-192
+5	érkeztek	érkezik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-193
+6	tudósítások	tudósítás	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-194
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-195
+8	Twitterre	Twitter	PROPN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-196|NE=name[MISC]_11
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-197
+
+# sent_id = globv_11_s-11
+# text = Szombaton Prableen Kaur, egy huszonhárom éves oslói politikus és ifjúsági vezető blogján közzétette személyes beszámolóját arról, mi történt.
+1	Szombaton	szombat	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-198
+2	Prableen	Prableen	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-199|NE=name[PER]_12
+3	Kaur	Kaur	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-200|NE=name[PER]_12|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-201
+5	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-202
+6	huszonhárom	huszonhárom	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-203
+7	éves	éves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-204
+8	oslói	oslói	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-205
+9	politikus	politikus	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-206
+10	és	és	CCONJ	_	_	_	_	_	tokId=w-207
+11	ifjúsági	ifjúsági	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-208
+12	vezető	vezető	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-209
+13	blogján	blog	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-210
+14	közzétette	közzétesz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-211
+15	személyes	személyes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-212
+16	beszámolóját	beszámoló	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-213
+17	arról	az	PRON	_	Case=Del|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-214|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-215
+19	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Int	_	_	_	tokId=w-216
+20	történt	történik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-217|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-218
+
+# sent_id = globv_11_s-12
+# text = A lány elmenekült a gyilkos elől, túlélte a támadást, miközben telefonját, a Twittert és a Facebookot használta arra, hogy értesítse családját és barátait arról, hogy még életben van.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-219
+2	lány	lány	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-220
+3	elmenekült	elmenekül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-221
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-222
+5	gyilkos	gyilkos	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-223
+6	elől	elől	ADP	_	_	_	_	_	tokId=w-224|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-225
+8	túlélte	túlél	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-226
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-227
+10	támadást	támadás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-228|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-229
+12	miközben	miközben	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-230
+13	telefonját	telefon	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-231|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-232
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-233
+16	Twittert	Twitter	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-234|NE=name[MISC]_13
+17	és	és	CCONJ	_	_	_	_	_	tokId=w-235
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-236
+19	Facebookot	Facebook	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-237|NE=name[MISC]_14
+20	használta	használ	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-238
+21	arra	az	DET	_	Case=Sbl|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-239|SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-240
+23	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-241
+24	értesítse	értesít	VERB	_	Definite=Def|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-242
+25	családját	család	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-243
+26	és	és	CCONJ	_	_	_	_	_	tokId=w-244
+27	barátait	barát	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-245
+28	arról	az	PRON	_	Case=Del|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-246|SpaceAfter=No
+29	,	,	PUNCT	_	_	_	_	_	tokId=w-247
+30	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-248
+31	még	még	ADV	_	_	_	_	_	tokId=w-249
+32	életben	élet	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-250
+33	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-251|SpaceAfter=No
+34	.	.	PUNCT	_	_	_	_	_	tokId=w-252
+
+# sent_id = globv_11_s-13
+# text = A brit Telegraph lefordította a teljes blogposztot angolra.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-253
+2	brit	brit	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-254
+3	Telegraph	Telegraph	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-255|NE=name[ORG]_15
+4	lefordította	lefordít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-256
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-257
+6	teljes	teljes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-258
+7	blogposztot	blogposzt	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-259
+8	angolra	angol	ADJ	_	Case=Sbl|Degree=Pos|Number=Sing	_	_	_	tokId=w-260|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-261
+
+# sent_id = globv_11_s-14
+# text = Kaur blogjára több százan kommenteltek támogatásukat és jókívánságaikat kifejezve.
+1	Kaur	Kaur	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-262|NE=name[PER]_16
+2	blogjára	blog	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-263
+3	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-264
+4	százan	száz	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-265
+5	kommenteltek	kommentel	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-266
+6	támogatásukat	támogatás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-267
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-268
+8	jókívánságaikat	jókívánság	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-269
+9	kifejezve	kifejezve	ADV	_	VerbForm=Conv	_	_	_	tokId=w-270|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-271
+

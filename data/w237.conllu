@@ -1,0 +1,342 @@
+# newdoc id = w237
+# sent_id = w237_s-1
+# text = 3-4 vezérág a növény alapja, idős ágakat a talaj közelében érdemes lemetszeni.
+1	3-4	3-4	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-1
+2	vezérág	vezérág	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-2
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-3
+4	növény	növény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-4
+5	alapja	alap	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-5|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-6
+7	idős	idős	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-7
+8	ágakat	ág	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-8
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-9
+10	talaj	talaj	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-10
+11	közelében	közel	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-11
+12	érdemes	érdemes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-12
+13	lemetszeni	lemetsz	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-13|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-14
+
+# sent_id = w237_s-2
+# text = Piros talajtakaró rózsa - ' Fairy Rouge '
+1	Piros	piros	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-15
+2	talajtakaró	talajtakaró	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-16
+3	rózsa	rózsa	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-17
+4	-	-	X	_	_	_	_	_	tokId=w-18
+5	'	'	PUNCT	_	_	_	_	_	tokId=w-19
+6	Fairy	Fairy	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-20|NE=name[MISC]_1
+7	Rouge	Rouge	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-21|NE=name[MISC]_1
+8	'	'	PUNCT	_	_	_	_	_	tokId=w-22
+
+# sent_id = w237_s-3
+# text = Nagyon szorgalmas növekedésű, kiváló talajtakaró, szép lombjával és telt, sokszírmú virágával színpompás foltokat képez.
+1	Nagyon	nagyon	ADV	_	_	_	_	_	tokId=w-23
+2	szorgalmas	szorgalmas	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-24
+3	növekedésű	növekedésű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-25|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-26
+5	kiváló	kiváló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-27
+6	talajtakaró	talajtakaró	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-28|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-29
+8	szép	szép	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-30
+9	lombjával	lomb	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-31
+10	és	és	CCONJ	_	_	_	_	_	tokId=w-32
+11	telt	telt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-33|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-34
+13	sokszírmú	sokszírmú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-35
+14	virágával	virág	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-36
+15	színpompás	színpompás	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-37
+16	foltokat	folt	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-38
+17	képez	képez	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-39|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-40
+
+# sent_id = w237_s-4
+# text = Hetente egyszer, lehetőleg a reggeli órákban, tövenként 10-15 liter vízzel kell locsolni, ezt az időjárás függvényében természetesen sűrűbben vagy ritkábban kell elvégezni.
+1	Hetente	hetente	ADV	_	_	_	_	_	tokId=w-41
+2	egyszer	egy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-42|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-43
+4	lehetőleg	lehetőleg	ADV	_	_	_	_	_	tokId=w-44
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-45
+6	reggeli	reggeli	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-46
+7	órákban	óra	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-47|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-48
+9	tövenként	tő	ADV	_	_	_	_	_	tokId=w-49
+10	10-15	10-15	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-50
+11	liter	liter	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-51
+12	vízzel	víz	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-52
+13	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-53
+14	locsolni	locsol	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-54|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-55
+16	ezt	ez	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-56
+17	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-57
+18	időjárás	időjárás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-58
+19	függvényében	függvény	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-59
+20	természetesen	természetesen	ADV	_	_	_	_	_	tokId=w-60
+21	sűrűbben	sűrű	ADJ	_	Case=Ess|Degree=Cmp|Number=Sing	_	_	_	tokId=w-61
+22	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-62
+23	ritkábban	ritka	ADJ	_	Case=Ess|Degree=Cmp|Number=Sing	_	_	_	tokId=w-63
+24	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-64
+25	elvégezni	elvégez	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-65|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-66
+
+# sent_id = w237_s-5
+# text = A gyökérnyakból kinövő vadhajtásokat figyelmesen vágjuk vissza, vágjuk ki a keresztbe növő ágakat, valamint a növény sérült beteg részeit.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-67
+2	gyökérnyakból	gyökérnyak	NOUN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-68
+3	kinövő	kinövő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-69
+4	vadhajtásokat	vadhajtás	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-70
+5	figyelmesen	figyelmes	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-71
+6	vágjuk	vág	VERB	_	Definite=Def|Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-72
+7	vissza	vissza	ADV	_	Degree=Pos	_	_	_	tokId=w-73|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-74
+9	vágjuk	vág	VERB	_	Definite=Def|Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-75
+10	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-76
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-77
+12	keresztbe	keresztbe	ADV	_	_	_	_	_	tokId=w-78
+13	növő	növő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-79
+14	ágakat	ág	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-80|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-81
+16	valamint	valamint	CCONJ	_	_	_	_	_	tokId=w-82
+17	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-83
+18	növény	növény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-84
+19	sérült	sérült	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-85
+20	beteg	beteg	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-86
+21	részeit	rész	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-87|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-88
+
+# sent_id = w237_s-6
+# text = További képek
+1	További	további	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-89
+2	képek	kép	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-90
+
+# sent_id = w237_s-7
+# text = Romantikus rózsasínben játszó, nagyméretű, telt virágai illatosak és rendkívül bőségesen és hosszan tartóan nyílnak.
+1	Romantikus	romantikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-91
+2	rózsasínben	rózsaszín	ADJ	_	Case=Ine|Degree=Pos|Number=Sing	_	_	_	tokId=w-92
+3	játszó	játszó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-93|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-94
+5	nagyméretű	nagyméretű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-95|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-96
+7	telt	telt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-97
+8	virágai	virág	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-98
+9	illatosak	illatos	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-99
+10	és	és	CCONJ	_	_	_	_	_	tokId=w-100
+11	rendkívül	rendkívül	ADV	_	_	_	_	_	tokId=w-101
+12	bőségesen	bőséges	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-102
+13	és	és	CCONJ	_	_	_	_	_	tokId=w-103
+14	hosszan	hosszú	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-104
+15	tartóan	tartó	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-105
+16	nyílnak	nyílik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-106|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-107
+
+# sent_id = w237_s-8
+# text = Nemes virágágyi rózsa.
+1	Nemes	nemes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-108
+2	virágágyi	virágágyi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-109
+3	rózsa	rózsa	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-110|SpaceAfter=No
+4	.	.	PUNCT	_	_	_	_	_	tokId=w-111
+
+# sent_id = w237_s-9
+# text = Több növény csoportos ültetése esetén figyelembe kell venni a választott fajta növekedés erélyét, de általában egymástól 100-120 cm távolságra célszerű ültetni, mert a sűrű ültetés meggátolja a napfény bejutását és teret engedhet gombás betegségeknek.
+1	Több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-112
+2	növény	növény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-113
+3	csoportos	csoportos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-114
+4	ültetése	ültetés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-115
+5	esetén	esetén	ADP	_	_	_	_	_	tokId=w-116
+6	figyelembe	figyelem	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-117
+7	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-118
+8	venni	vesz	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-119
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-120
+10	választott	választott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-121
+11	fajta	fajta	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-122
+12	növekedés	növekedés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-123
+13	erélyét	erély	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-124|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-125
+15	de	de	CCONJ	_	_	_	_	_	tokId=w-126
+16	általában	általában	ADV	_	_	_	_	_	tokId=w-127
+17	egymástól	egymás	PRON	_	Case=Abl|Number=Sing|Person=3|PronType=Rcp	_	_	_	tokId=w-128
+18	100-120	100-120	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-129
+19	cm	cm	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-130
+20	távolságra	távolság	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-131
+21	célszerű	célszerű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-132
+22	ültetni	ültet	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-133|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-134
+24	mert	mert	SCONJ	_	_	_	_	_	tokId=w-135
+25	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-136
+26	sűrű	sűrű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-137
+27	ültetés	ültetés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-138
+28	meggátolja	meggátol	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-139
+29	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-140
+30	napfény	napfény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-141
+31	bejutását	bejutás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-142
+32	és	és	CCONJ	_	_	_	_	_	tokId=w-143
+33	teret	tér	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-144
+34	engedhet	enged	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-145
+35	gombás	gombás	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-146
+36	betegségeknek	betegség	NOUN	_	Case=Dat|Number=Plur	_	_	_	tokId=w-147|SpaceAfter=No
+37	.	.	PUNCT	_	_	_	_	_	tokId=w-148
+
+# sent_id = w237_s-10
+# text = Erőteljes ágrendszere és folytonos virágzása miatt nagyon mutatós, ráadásul diszkréten illatozik.
+1	Erőteljes	erőteljes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-149
+2	ágrendszere	ágrendszer	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-150
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-151
+4	folytonos	folytonos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-152
+5	virágzása	virágzás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-153
+6	miatt	miatt	ADP	_	_	_	_	_	tokId=w-154
+7	nagyon	nagyon	ADV	_	_	_	_	_	tokId=w-155
+8	mutatós	mutatós	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-156|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-157
+10	ráadásul	ráadásul	ADV	_	_	_	_	_	tokId=w-158
+11	diszkréten	diszkrét	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-159
+12	illatozik	illatozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-160|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-161
+
+# sent_id = w237_s-11
+# text = Az ideális ültetés:
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-162
+2	ideális	ideális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-163
+3	ültetés	ültetés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-164|SpaceAfter=No
+4	:	:	PUNCT	_	_	_	_	_	tokId=w-165
+
+# sent_id = w237_s-12
+# text = Ha cserépbe, ládába kerül a növény az eljárás azonosan zajlik.
+1	Ha	ha	SCONJ	_	_	_	_	_	tokId=w-166
+2	cserépbe	cserép	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-167|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-168
+4	ládába	láda	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-169
+5	kerül	kerül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-170
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-171
+7	növény	növény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-172
+8	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-173
+9	eljárás	eljárás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-174
+10	azonosan	azonos	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-175
+11	zajlik	zajlik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-176|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-177
+
+# sent_id = w237_s-13
+# text = Nyáron a fiatal töveket figyelni kell és igényeik szerint gyakrabban kell alapos locsolást végezni.
+1	Nyáron	nyár	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-178
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-179
+3	fiatal	fiatal	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-180
+4	töveket	tő	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-181
+5	figyelni	figyel	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-182
+6	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-183
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-184
+8	igényeik	igény	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-185
+9	szerint	szerint	ADP	_	_	_	_	_	tokId=w-186
+10	gyakrabban	gyakrabban	ADV	_	_	_	_	_	tokId=w-187
+11	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-188
+12	alapos	alapos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-189
+13	locsolást	locsolás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-190
+14	végezni	végez	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-191|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-192
+
+# sent_id = w237_s-14
+# text = Téli védelem:
+1	Téli	téli	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-193
+2	védelem	védelem	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-194|SpaceAfter=No
+3	:	:	PUNCT	_	_	_	_	_	tokId=w-195
+
+# sent_id = w237_s-15
+# text = További információk
+1	További	további	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-196
+2	információk	információ	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-197
+
+# sent_id = w237_s-16
+# text = Gazdagon nyílnak, csokrokat képző, kedves rózsaszín árnyalatokban játszó virágai.
+1	Gazdagon	gazdag	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-198
+2	nyílnak	nyílik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-199|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-200
+4	csokrokat	csokor	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-201
+5	képző	képző	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-202|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-203
+7	kedves	kedves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-204
+8	rózsaszín	rózsaszín	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-205
+9	árnyalatokban	árnyalat	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-206
+10	játszó	játszó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-207
+11	virágai	virág	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-208|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-209
+
+# sent_id = w237_s-17
+# text = A fellazított földbe 8-10 nappal az ültetés előtt komposztot, humuszt vagy trágyát kell keverni, mert ezek a természetes tápanyagok lassan, fokozatosan szabadulnak fel elbomláskor, így a növény tartós és egyenletes tápanyaghoz jut.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-210
+2	fellazított	fellazított	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-211
+3	földbe	föld	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-212
+4	8-10	8-10	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-213
+5	nappal	nap	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-214
+6	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-215
+7	ültetés	ültetés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-216
+8	előtt	előtt	ADP	_	_	_	_	_	tokId=w-217
+9	komposztot	komposzt	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-218|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-219
+11	humuszt	humusz	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-220
+12	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-221
+13	trágyát	trágya	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-222
+14	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-223
+15	keverni	kever	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-224|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-225
+17	mert	mert	SCONJ	_	_	_	_	_	tokId=w-226
+18	ezek	ez	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-227
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-228
+20	természetes	természetes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-229
+21	tápanyagok	tápanyag	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-230
+22	lassan	lassú	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-231|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-232
+24	fokozatosan	fokozatos	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-233
+25	szabadulnak	szabadul	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-234
+26	fel	fel	ADV	_	Degree=Pos	_	_	_	tokId=w-235
+27	elbomláskor	elbomlás	NOUN	_	Case=Tem|Number=Sing	_	_	_	tokId=w-236|SpaceAfter=No
+28	,	,	PUNCT	_	_	_	_	_	tokId=w-237
+29	így	így	CCONJ	_	_	_	_	_	tokId=w-238
+30	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-239
+31	növény	növény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-240
+32	tartós	tartós	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-241
+33	és	és	CCONJ	_	_	_	_	_	tokId=w-242
+34	egyenletes	egyenletes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-243
+35	tápanyaghoz	tápanyag	NOUN	_	Case=All|Number=Sing	_	_	_	tokId=w-244
+36	jut	jut	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-245|SpaceAfter=No
+37	.	.	PUNCT	_	_	_	_	_	tokId=w-246
+
+# sent_id = w237_s-18
+# text = Alakító metszést akkor kell végezni, mielőtt márciusban kihajtanak a rügyek.
+1	Alakító	alakító	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-247
+2	metszést	metszés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-248
+3	akkor	akkor	ADV	_	PronType=Dem	_	_	_	tokId=w-249
+4	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-250
+5	végezni	végez	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-251|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-252
+7	mielőtt	mielőtt	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-253
+8	márciusban	március	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-254
+9	kihajtanak	kihajt	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-255
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-256
+11	rügyek	rügy	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-257|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-258
+
+# sent_id = w237_s-19
+# text = A rózsa bokrosodását a vesszők felső részének visszavágásával úgy alakíthatjuk ki, hogy a célzott növekedési irány felé mutató rügy felett vágjuk le az ágat.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-259
+2	rózsa	rózsa	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-260
+3	bokrosodását	bokrosodás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-261
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-262
+5	vesszők	vessző	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-263
+6	felső	felső	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-264
+7	részének	rész	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-265
+8	visszavágásával	visszavágás	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-266
+9	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-267
+10	alakíthatjuk	alakít	VERB	_	Definite=Def|Mood=Pot|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-268
+11	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-269|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-270
+13	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-271
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-272
+15	célzott	célzott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-273
+16	növekedési	növekedési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-274
+17	irány	irány	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-275
+18	felé	felé	ADP	_	_	_	_	_	tokId=w-276
+19	mutató	mutató	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-277
+20	rügy	rügy	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-278
+21	felett	felett	ADP	_	_	_	_	_	tokId=w-279
+22	vágjuk	vág	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-280
+23	le	le	ADV	_	Degree=Pos	_	_	_	tokId=w-281
+24	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-282
+25	ágat	ág	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-283|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-284
+

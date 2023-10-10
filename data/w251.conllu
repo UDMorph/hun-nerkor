@@ -1,0 +1,504 @@
+# newdoc id = w251
+# sent_id = w251_s-1
+# text = A nomád életstílus számára fontos pillanatokról, momentumokról szól.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-1
+2	nomád	nomád	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-2
+3	életstílus	életstílus	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-3
+4	számára	számára	ADP	_	_	_	_	_	tokId=w-4
+5	fontos	fontos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-5
+6	pillanatokról	pillanat	NOUN	_	Case=Del|Number=Plur	_	_	_	tokId=w-6|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-7
+8	momentumokról	momentum	NOUN	_	Case=Del|Number=Plur	_	_	_	tokId=w-8
+9	szól	szól	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-9|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-10
+
+# sent_id = w251_s-2
+# text = Grúziában tavaly nyáron egy hetet töltöttek együtt.
+1	Grúziában	Grúzia	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-11|NE=name[LOC]_1
+2	tavaly	tavaly	ADV	_	_	_	_	_	tokId=w-12
+3	nyáron	nyár	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-13
+4	egy	egy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-14
+5	hetet	hét	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-15
+6	töltöttek	tölt	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-16
+7	együtt	együtt	ADV	_	_	_	_	_	tokId=w-17|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-18
+
+# sent_id = w251_s-3
+# text = A magyar séfnek akkor is feltűnt, hogy Santiago ikonikus ételeit, melyeket szívesen készít a külföldi főzéseikor, hogy ezeken keresztül mutassa meg a mexikói konyha jellegzetességeit, mindig a legjobb minőségben beszerezhető és emblematikus helyi alapanyagokkal ötvözi.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-19
+2	magyar	magyar	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-20
+3	séfnek	séf	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-21
+4	akkor	akkor	ADV	_	PronType=Dem	_	_	_	tokId=w-22
+5	is	is	ADV	_	_	_	_	_	tokId=w-23
+6	feltűnt	feltűnik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-24|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-25
+8	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-26
+9	Santiago	Santiago	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-27|NE=name[PER]_2
+10	ikonikus	ikonikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-28
+11	ételeit	étel	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-29|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-30
+13	melyeket	mely	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-31
+14	szívesen	szívesen	ADV	_	_	_	_	_	tokId=w-32
+15	készít	készít	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-33
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-34
+17	külföldi	külföldi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-35
+18	főzéseikor	főzés	NOUN	_	Case=Tem|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-36|SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	tokId=w-37
+20	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-38
+21	ezeken	ez	PRON	_	Case=Sup|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-39
+22	keresztül	keresztül	ADP	_	_	_	_	_	tokId=w-40
+23	mutassa	mutat	VERB	_	Definite=Def|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-41
+24	meg	meg	PART	_	_	_	_	_	tokId=w-42
+25	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-43
+26	mexikói	mexikói	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-44
+27	konyha	konyha	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-45
+28	jellegzetességeit	jellegzetesség	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-46|SpaceAfter=No
+29	,	,	PUNCT	_	_	_	_	_	tokId=w-47
+30	mindig	mindig	ADV	_	_	_	_	_	tokId=w-48
+31	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-49
+32	legjobb	jó	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-50
+33	minőségben	minőség	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-51
+34	beszerezhető	beszerezhető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-52
+35	és	és	CCONJ	_	_	_	_	_	tokId=w-53
+36	emblematikus	emblematikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-54
+37	helyi	helyi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-55
+38	alapanyagokkal	alapanyag	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-56
+39	ötvözi	ötvöz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-57|SpaceAfter=No
+40	.	.	PUNCT	_	_	_	_	_	tokId=w-58
+
+# sent_id = w251_s-4
+# text = A díjjal párhuzamosan – ifjúsági díjként – átadnak egy Dr. Sándor Dénes által viselt séfkabátot is, a gasztronómia területén kiemelkedő teljesítményt nyújtó, a BGE KVIK-en, illetve jogelőd intézményeiben korábban diplomát szerzett hallgató részére.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-59
+2	díjjal	díj	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-60
+3	párhuzamosan	párhuzamos	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-61
+4	–	–	X	_	_	_	_	_	tokId=w-62
+5	ifjúsági	ifjúsági	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-63
+6	díjként	díj	NOUN	_	Case=Ess|Number=Sing	_	_	_	tokId=w-64
+7	–	–	X	_	_	_	_	_	tokId=w-65
+8	átadnak	átad	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-66
+9	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-67
+10	Dr.	Dr.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-68|NE=name[PER]_3
+11	Sándor	Sándor	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-69|NE=name[PER]_3
+12	Dénes	Dénes	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-70|NE=name[PER]_3
+13	által	által	ADP	_	_	_	_	_	tokId=w-71
+14	viselt	viselt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-72
+15	séfkabátot	séfkabát	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-73
+16	is	is	ADV	_	_	_	_	_	tokId=w-74|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-75
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-76
+19	gasztronómia	gasztronómia	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-77
+20	területén	terület	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-78
+21	kiemelkedő	kiemelkedő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-79
+22	teljesítményt	teljesítmény	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-80
+23	nyújtó	nyújtó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-81|SpaceAfter=No
+24	,	,	PUNCT	_	_	_	_	_	tokId=w-82
+25	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-83
+26	BGE	BGE	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-84|NE=name[ORG]_4
+27	KVIK-en	KVIK	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-85|NE=name[ORG]_4|SpaceAfter=No
+28	,	,	PUNCT	_	_	_	_	_	tokId=w-86
+29	illetve	illetve	CCONJ	_	_	_	_	_	tokId=w-87
+30	jogelőd	jogelőd	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-88
+31	intézményeiben	intézmény	NOUN	_	Case=Ine|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-89
+32	korábban	korábban	ADV	_	_	_	_	_	tokId=w-90
+33	diplomát	diploma	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-91
+34	szerzett	szerzett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-92
+35	hallgató	hallgató	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-93
+36	részére	részére	ADP	_	_	_	_	_	tokId=w-94|SpaceAfter=No
+37	.	.	PUNCT	_	_	_	_	_	tokId=w-95
+
+# sent_id = w251_s-5
+# text = A díjazottak személyét az ötletgazda Dr. Sándor Dénes, valamint az általuk kiválasztott, szakmában elismert személy ítéli oda.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-96
+2	díjazottak	díjazott	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-97
+3	személyét	személy	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-98
+4	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-99
+5	ötletgazda	ötletgazda	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-100
+6	Dr.	Dr.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-101|NE=name[PER]_5
+7	Sándor	Sándor	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-102|NE=name[PER]_5
+8	Dénes	Dénes	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-103|NE=name[PER]_5|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-104
+10	valamint	valamint	CCONJ	_	_	_	_	_	tokId=w-105
+11	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-106
+12	általuk	által	ADP	_	_	_	_	_	tokId=w-107
+13	kiválasztott	kiválasztott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-108|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-109
+15	szakmában	szakma	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-110
+16	elismert	elismert	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-111
+17	személy	személy	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-112
+18	ítéli	ítél	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-113
+19	oda	oda	ADV	_	_	_	_	_	tokId=w-114|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-115
+
+# sent_id = w251_s-6
+# text = Fontos, hogy nemcsak a szállodavendégek, hanem előzetes foglalás esetén bárki meglátogathatja Budapestlegújabb nevezetességét.
+1	Fontos	fontos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-116|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-117
+3	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-118
+4	nemcsak	nemcsak	ADV	_	_	_	_	_	tokId=w-119
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-120
+6	szállodavendégek	szállodavendég	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-121|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-122
+8	hanem	hanem	CCONJ	_	_	_	_	_	tokId=w-123
+9	előzetes	előzetes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-124
+10	foglalás	foglalás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-125
+11	esetén	esetén	ADP	_	_	_	_	_	tokId=w-126
+12	bárki	bárki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind	_	_	_	tokId=w-127
+13	meglátogathatja	meglátogat	VERB	_	Definite=Def|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-128
+14	Budapest	Budapest	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-129|NE=name[LOC]_6|SpaceAfter=No
+15	legújabb	új	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-130
+16	nevezetességét	nevezetesség	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-131|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-132
+
+# sent_id = w251_s-7
+# text = Nem hiába hívják a hazájában különcnek ImanolJacát.
+1	Nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-133
+2	hiába	hiába	ADV	_	_	_	_	_	tokId=w-134
+3	hívják	hív	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-135
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-136
+5	hazájában	haza	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-137
+6	különcnek	különc	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-138
+7	ImanolJacát	ImanolJaca	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-139|NE=name[PER]_7|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-140
+
+# sent_id = w251_s-8
+# text = Gasztro kalandorok és konyhatündérek figyelem!
+1	Gasztro	gasztro	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-141
+2	kalandorok	kalandor	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-142
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-143
+4	konyhatündérek	konyhatündér	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-144
+5	figyelem	figyelem	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-145|SpaceAfter=No
+6	!	!	PUNCT	_	_	_	_	_	tokId=w-146
+
+# sent_id = w251_s-9
+# text = Emellett a BBQ királyaként ismert omlós malacsült is elérhető tavasztól a kínálatban: a pulled pork coleslaw ágyon szendvicsben a foccaciába rakott tépett sült sertés húst cheddar sajt, amerikai káposztasaláta és kovászos uborka egészíti ki.
+1	Emellett	emellett	CCONJ	_	_	_	_	_	tokId=w-147
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-148
+3	BBQ	BBQ	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-149
+4	királyaként	király	NOUN	_	Case=Ess|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-150
+5	ismert	ismert	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-151
+6	omlós	omlós	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-152
+7	malacsült	malacsült	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-153
+8	is	is	ADV	_	_	_	_	_	tokId=w-154
+9	elérhető	elérhető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-155
+10	tavasztól	tavasz	NOUN	_	Case=Abl|Number=Sing	_	_	_	tokId=w-156
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-157
+12	kínálatban	kínálat	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-158|SpaceAfter=No
+13	:	:	PUNCT	_	_	_	_	_	tokId=w-159
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-160
+15	pulled	pulled	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-161
+16	pork	pork	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-162
+17	coleslaw	coleslaw	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-163
+18	ágyon	ágy	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-164
+19	szendvicsben	szendvics	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-165
+20	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-166
+21	foccaciába	foccacia	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-167
+22	rakott	rakott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-168
+23	tépett	tépett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-169
+24	sült	sült	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-170
+25	sertés	sertés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-171
+26	húst	hús	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-172
+27	cheddar	cheddar	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-173
+28	sajt	sajt	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-174|SpaceAfter=No
+29	,	,	PUNCT	_	_	_	_	_	tokId=w-175
+30	amerikai	amerikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-176
+31	káposztasaláta	káposztasaláta	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-177
+32	és	és	CCONJ	_	_	_	_	_	tokId=w-178
+33	kovászos	kovászos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-179
+34	uborka	uborka	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-180
+35	egészíti	egészít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-181
+36	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-182|SpaceAfter=No
+37	.	.	PUNCT	_	_	_	_	_	tokId=w-183
+
+# sent_id = w251_s-10
+# text = „ Ha három szóban kellene megfogalmazni, mit várunk el egy salátától, akkor legyen tápláló, finom és egészséges.
+1	„	„	PUNCT	_	_	_	_	_	tokId=w-184
+2	Ha	ha	SCONJ	_	_	_	_	_	tokId=w-185
+3	három	három	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-186
+4	szóban	szó	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-187
+5	kellene	kell	VERB	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-188
+6	megfogalmazni	megfogalmaz	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-189|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-190
+8	mit	mi	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-191
+9	várunk	vár	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-192
+10	el	el	ADV	_	_	_	_	_	tokId=w-193
+11	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-194
+12	salátától	saláta	NOUN	_	Case=Abl|Number=Sing	_	_	_	tokId=w-195|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-196
+14	akkor	akkor	CCONJ	_	_	_	_	_	tokId=w-197
+15	legyen	lesz	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-198
+16	tápláló	tápláló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-199|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-200
+18	finom	finom	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-201
+19	és	és	CCONJ	_	_	_	_	_	tokId=w-202
+20	egészséges	egészséges	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-203|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-204
+
+# sent_id = w251_s-11
+# text = Budapest , 2019. március 14. – A Budapesti Gazdasági Egyetem(BGE ) hallgatója, Pacsai Martin nyerte az Olivier Roellinger nemzetközi szakácsverseny kelet-európai döntőjét.
+1	Budapest	Budapest	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-205|NE=name[LOC]_8
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-206
+3	2019.	2019.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-207
+4	március	március	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-208
+5	14.	14.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-209
+6	–	–	X	_	_	_	_	_	tokId=w-210
+7	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-211
+8	Budapesti	Budapesti	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-212|NE=name[ORG]_9
+9	Gazdasági	Gazdasági	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-213|NE=name[ORG]_9
+10	Egyetem	Egyetem	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-214|NE=name[ORG]_9|SpaceAfter=No
+11	(	(	PUNCT	_	_	_	_	_	tokId=w-215
+12	BGE	BGE	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-216|NE=name[ORG]_10
+13	)	)	PUNCT	_	_	_	_	_	tokId=w-217
+14	hallgatója	hallgató	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-218|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-219
+16	Pacsai	Pacsai	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-220|NE=name[PER]_11
+17	Martin	Martin	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-221|NE=name[PER]_11
+18	nyerte	nyer	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-222
+19	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-223
+20	Olivier	Olivier	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-224|NE=name[PER]_12
+21	Roellinger	Roellinger	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-225|NE=name[PER]_12
+22	nemzetközi	nemzetközi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-226
+23	szakácsverseny	szakácsverseny	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-227
+24	kelet-európai	kelet-európai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-228
+25	döntőjét	döntő	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-229|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-230
+
+# sent_id = w251_s-12
+# text = A Budapesti Gazdasági Egyetem Kereskedelmi, Vendéglátóipari és Idegenforgalmi Karán (BGE KVIK) megrendezett verseny második helyén Jure Dretnik, míg harmadik helyén Tim Guadanigno szlovén hallgatók végeztek.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-231
+2	Budapesti	Budapesti	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-232|NE=name[LOC]_13
+3	Gazdasági	Gazdasági	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-233|NE=name[LOC]_13
+4	Egyetem	Egyetem	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-234|NE=name[LOC]_13
+5	Kereskedelmi	Kereskedelmi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-235|NE=name[LOC]_13|SpaceAfter=No
+6	,	,	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-236|NE=name[LOC]_13
+7	Vendéglátóipari	Vendéglátóipari	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-237|NE=name[LOC]_13
+8	és	és	CCONJ	_	_	_	_	_	tokId=w-238|NE=name[LOC]_13
+9	Idegenforgalmi	Idegenforgalmi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-239|NE=name[LOC]_13
+10	Karán	Kara	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-240|NE=name[LOC]_13
+11	(	(	PUNCT	_	_	_	_	_	tokId=w-241
+12	BGE	BGE	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-242|NE=name[LOC]_14
+13	KVIK	KVIK	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-243|NE=name[LOC]_14|SpaceAfter=No
+14	)	)	PUNCT	_	_	_	_	_	tokId=w-244
+15	megrendezett	megrendezett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-245
+16	verseny	verseny	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-246
+17	második	második	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-247
+18	helyén	hely	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-248
+19	Jure	Jure	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-249|NE=name[PER]_15
+20	Dretnik	Dretnik	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-250|NE=name[PER]_15|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-251
+22	míg	míg	CCONJ	_	_	_	_	_	tokId=w-252
+23	harmadik	harmadik	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-253
+24	helyén	hely	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-254
+25	Tim	Tim	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-255|NE=name[PER]_16
+26	Guadanigno	Guadanigno	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-256|NE=name[PER]_16
+27	szlovén	szlovén	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-257
+28	hallgatók	hallgató	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-258
+29	végeztek	végez	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-259|SpaceAfter=No
+30	.	.	PUNCT	_	_	_	_	_	tokId=w-260
+
+# sent_id = w251_s-13
+# text = A versenyt életre hívó szervezetek célja összhangban áll a BGE céljaival, hiszen a turizmus, a vendéglátás és a kereskedelem területén, oktatási és kutatási tevékenységünk során is kiemelten foglalkozunk a fenntartható fejlődéssel, a biodiverzitás megőrzésével ” – mondta el Dr. Lugasi Andrea, a BGE KVIK dékánja.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-261
+2	versenyt	verseny	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-262
+3	életre	élet	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-263
+4	hívó	hívó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-264
+5	szervezetek	szervezet	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-265
+6	célja	cél	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-266
+7	összhangban	összhang	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-267
+8	áll	áll	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-268
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-269
+10	BGE	BGE	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-270|NE=name[ORG]_17
+11	céljaival	cél	NOUN	_	Case=Ins|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-271|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-272
+13	hiszen	hiszen	CCONJ	_	_	_	_	_	tokId=w-273
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-274
+15	turizmus	turizmus	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-275|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-276
+17	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-277
+18	vendéglátás	vendéglátás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-278
+19	és	és	CCONJ	_	_	_	_	_	tokId=w-279
+20	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-280
+21	kereskedelem	kereskedelem	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-281
+22	területén	terület	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-282|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-283
+24	oktatási	oktatási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-284
+25	és	és	CCONJ	_	_	_	_	_	tokId=w-285
+26	kutatási	kutatási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-286
+27	tevékenységünk	tevékenység	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-287
+28	során	során	ADP	_	_	_	_	_	tokId=w-288
+29	is	is	ADV	_	_	_	_	_	tokId=w-289
+30	kiemelten	kiemelten	ADV	_	_	_	_	_	tokId=w-290
+31	foglalkozunk	foglalkozik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-291
+32	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-292
+33	fenntartható	fenntartható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-293
+34	fejlődéssel	fejlődés	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-294|SpaceAfter=No
+35	,	,	PUNCT	_	_	_	_	_	tokId=w-295
+36	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-296
+37	biodiverzitás	biodiverzitás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-297
+38	megőrzésével	megőrzés	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-298
+39	”	”	PUNCT	_	_	_	_	_	tokId=w-299
+40	–	–	X	_	_	_	_	_	tokId=w-300
+41	mondta	mond	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-301
+42	el	el	ADV	_	_	_	_	_	tokId=w-302
+43	Dr.	Dr.	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-303|NE=name[PER]_18
+44	Lugasi	Lugasi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-304|NE=name[PER]_18
+45	Andrea	Andrea	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-305|NE=name[PER]_18|SpaceAfter=No
+46	,	,	PUNCT	_	_	_	_	_	tokId=w-306
+47	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-307
+48	BGE	BGE	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-308|NE=name[ORG]_19
+49	KVIK	KVIK	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-309|NE=name[ORG]_19
+50	dékánja	dékán	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-310|SpaceAfter=No
+51	.	.	PUNCT	_	_	_	_	_	tokId=w-311
+
+# sent_id = w251_s-14
+# text = Magyarország legjobb cukrászdája Vácon van!
+1	Magyarország	Magyarország	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-312|NE=name[LOC]_20
+2	legjobb	jó	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-313
+3	cukrászdája	cukrászda	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-314
+4	Vácon	Vác	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-315|NE=name[LOC]_21
+5	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-316|SpaceAfter=No
+6	!	!	PUNCT	_	_	_	_	_	tokId=w-317
+
+# sent_id = w251_s-15
+# text = 2019-ban a Dining Guide Az Év Cukrászdája Díj nyertese a Mihályi Patisserie
+1	2019-ban	2019	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-318
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-319
+3	Dining	Dining	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-320|NE=name[MISC]_22
+4	Guide	Guide	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-321|NE=name[MISC]_22
+5	Az	Az	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-322|NE=name[MISC]_23
+6	Év	Év	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-323|NE=name[MISC]_23
+7	Cukrászdája	Cukrászdája	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-324|NE=name[MISC]_23
+8	Díj	Díj	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-325|NE=name[MISC]_23
+9	nyertese	nyertes	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-326
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-327
+11	Mihályi	Mihályi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-328|NE=name[ORG]_24
+12	Patisserie	Patisserie	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-329|NE=name[ORG]_24
+
+# sent_id = w251_s-16
+# text = A valamikori Desszert Szalon elnevezésű cukrászda ma már nemes egyszerűséggel Mihályi Patisserie, az idén márciusban ünnepli 11. születésnapját.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-330
+2	valamikori	valamikori	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-331
+3	Desszert	Desszert	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-332|NE=name[MISC]_25
+4	Szalon	Szalon	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-333|NE=name[MISC]_25
+5	elnevezésű	elnevezésű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-334
+6	cukrászda	cukrászda	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-335
+7	ma	ma	ADV	_	_	_	_	_	tokId=w-336
+8	már	már	ADV	_	_	_	_	_	tokId=w-337
+9	nemes	nemes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-338
+10	egyszerűséggel	egyszerűség	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-339
+11	Mihályi	Mihályi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-340|NE=name[ORG]_26
+12	Patisserie	Patisserie	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-341|NE=name[ORG]_26|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-342
+14	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-343
+15	idén	idén	ADV	_	_	_	_	_	tokId=w-344
+16	márciusban	március	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-345
+17	ünnepli	ünnepel	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-346
+18	11.	11.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-347
+19	születésnapját	születésnap	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-348|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-349
+
+# sent_id = w251_s-17
+# text = Csak a legjobbat választottuk ki, a többieket ABC sorrendben tesszük közzé.
+1	Csak	csak	ADV	_	_	_	_	_	tokId=w-350
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-351
+3	legjobbat	jó	ADJ	_	Case=Acc|Degree=Sup|Number=Sing	_	_	_	tokId=w-352
+4	választottuk	választ	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-353
+5	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-354|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-355
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-356
+8	többieket	többi	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	_	_	_	tokId=w-357
+9	ABC	abc	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-358
+10	sorrendben	sorrend	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-359
+11	tesszük	tesz	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-360
+12	közzé	közzé	ADV	_	_	_	_	_	tokId=w-361|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-362
+
+# sent_id = w251_s-18
+# text = Ennek megfelelően a Fény utcai Auguszt cukrászda falai között igazi magyar klasszikus desszerteket kaphatunk, ugyanakkor az újító törekvés sem idegen Auguszt Józseftől.
+1	Ennek	ez	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-363
+2	megfelelően	megfelelő	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-364
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-365
+4	Fény	fény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-366
+5	utcai	utcai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-367
+6	Auguszt	Auguszt	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-368|NE=name[LOC]_27
+7	cukrászda	cukrászda	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-369|NE=name[LOC]_27
+8	falai	fal	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-370
+9	között	között	ADP	_	_	_	_	_	tokId=w-371
+10	igazi	igazi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-372
+11	magyar	magyar	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-373
+12	klasszikus	klasszikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-374
+13	desszerteket	desszert	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-375
+14	kaphatunk	kap	VERB	_	Definite=Ind|Mood=Pot|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-376|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-377
+16	ugyanakkor	ugyanakkor	CCONJ	_	_	_	_	_	tokId=w-378
+17	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-379
+18	újító	újító	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-380
+19	törekvés	törekvés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-381
+20	sem	sem	ADV	_	PronType=Neg	_	_	_	tokId=w-382
+21	idegen	idegen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-383
+22	Auguszt	Auguszt	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-384|NE=name[PER]_28
+23	Józseftől	József	PROPN	_	Case=Abl|Number=Sing	_	_	_	tokId=w-385|NE=name[PER]_28|SpaceAfter=No
+24	.	.	PUNCT	_	_	_	_	_	tokId=w-386
+
+# sent_id = w251_s-19
+# text = A Damniczki cukrászda komoly utat tett meg az indulása óta.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-387
+2	Damniczki	Damniczki	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-388|NE=name[ORG]_29
+3	cukrászda	cukrászda	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-389|NE=name[ORG]_29
+4	komoly	komoly	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-390
+5	utat	út	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-391
+6	tett	tesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-392
+7	meg	meg	PART	_	_	_	_	_	tokId=w-393
+8	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-394
+9	indulása	indulás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-395
+10	óta	óta	ADP	_	_	_	_	_	tokId=w-396|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-397
+
+# sent_id = w251_s-20
+# text = Harrer Csokoládéműhely és Cukrászda
+1	Harrer	Harrer	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-398|NE=name[ORG]_30
+2	Csokoládéműhely	Csokoládéműhely	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-399|NE=name[ORG]_30
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-400|NE=name[ORG]_30
+4	Cukrászda	Cukrászda	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-401|NE=name[ORG]_30
+
+# sent_id = w251_s-21
+# text = Az ebédmenü és a vacsorakínálat egyaránt színes, eklektikus képet mutat: prémium külföldi és magyar alapanyagokat egyaránt találunk az étlapon, a „ magyar hozzávalók mindenekfelett ” elvét itt a „ minőség határok nélkül ” írja felül.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-402
+2	ebédmenü	ebédmenü	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-403
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-404
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-405
+5	vacsorakínálat	vacsorakínálat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-406
+6	egyaránt	egyaránt	ADV	_	_	_	_	_	tokId=w-407
+7	színes	színes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-408|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-409
+9	eklektikus	eklektikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-410
+10	képet	kép	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-411
+11	mutat	mutat	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-412|SpaceAfter=No
+12	:	:	PUNCT	_	_	_	_	_	tokId=w-413
+13	prémium	prémium	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-414
+14	külföldi	külföldi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-415
+15	és	és	CCONJ	_	_	_	_	_	tokId=w-416
+16	magyar	magyar	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-417
+17	alapanyagokat	alapanyag	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-418
+18	egyaránt	egyaránt	ADV	_	_	_	_	_	tokId=w-419
+19	találunk	talál	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-420
+20	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-421
+21	étlapon	étlap	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-422|SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-423
+23	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-424
+24	„	„	PUNCT	_	_	_	_	_	tokId=w-425
+25	magyar	magyar	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-426
+26	hozzávalók	hozzávaló	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-427
+27	mindenekfelett	mindenekfelett	ADV	_	_	_	_	_	tokId=w-428
+28	”	”	PUNCT	_	_	_	_	_	tokId=w-429
+29	elvét	elv	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-430
+30	itt	itt	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-431
+31	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-432
+32	„	„	PUNCT	_	_	_	_	_	tokId=w-433
+33	minőség	minőség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-434
+34	határok	határ	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-435
+35	nélkül	nélkül	ADP	_	_	_	_	_	tokId=w-436
+36	”	”	PUNCT	_	_	_	_	_	tokId=w-437
+37	írja	ír	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-438
+38	felül	felül	ADV	_	_	_	_	_	tokId=w-439|SpaceAfter=No
+39	.	.	PUNCT	_	_	_	_	_	tokId=w-440
+

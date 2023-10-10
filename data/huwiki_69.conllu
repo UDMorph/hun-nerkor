@@ -1,0 +1,359 @@
+# newdoc id = huwiki_69
+# sent_id = huwiki_69_s-1
+# text = A Harcosok szövetsége egy 2004-ben készült dél-koreai háborús film.
+1	A	A	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-1
+2	Harcosok	harcosok	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-2|NE=name[MISC]_1
+3	szövetsége	szövetsége	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-3|NE=name[MISC]_1
+4	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-4
+5	2004-ben	2004	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-5
+6	készült	készült	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-6
+7	dél-koreai	dél-koreai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-7
+8	háborús	háborús	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-8
+9	film	film	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-9|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-10
+
+# sent_id = huwiki_69_s-2
+# text = A film a koreai háborúról szól, melyben észak és dél harcolt egymással.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-11
+2	film	film	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-12
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-13
+4	koreai	koreai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-14
+5	háborúról	háború	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-15
+6	szól	szól	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-16|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-17
+8	melyben	mely	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-18
+9	észak	észak	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-19
+10	és	és	CCONJ	_	_	_	_	_	tokId=w-20
+11	dél	dél	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-21
+12	harcolt	harcol	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-22
+13	egymással	egymás	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Rcp	_	_	_	tokId=w-23|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-24
+
+# sent_id = huwiki_69_s-3
+# text = A mozit Je-kyu Kang rendezte, a két főszereplő pedig Dong-gun Jang és Bin Won.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-25
+2	mozit	mozi	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-26
+3	Je-kyu	Je-kyu	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-27|NE=name[PER]_2
+4	Kang	Kang	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-28|NE=name[PER]_2
+5	rendezte	rendez	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-29|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-30
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-31
+8	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-32
+9	főszereplő	főszereplő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-33
+10	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-34
+11	Dong-gun	Dong-gun	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-35|NE=name[PER]_3
+12	Jang	Jang	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-36|NE=name[PER]_3
+13	és	és	CCONJ	_	_	_	_	_	tokId=w-37
+14	Bin	Bin	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-38|NE=name[PER]_4
+15	Won	Won	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-39|NE=name[PER]_4|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-40
+
+# sent_id = huwiki_69_s-4
+# text = Az ázsiai filmfesztiválokon bezsebelt néhány szakmai elismerést és jelöléseket is kapott.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-41
+2	ázsiai	ázsiai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-42
+3	filmfesztiválokon	filmfesztivál	NOUN	_	Case=Sup|Number=Plur	_	_	_	tokId=w-43
+4	bezsebelt	bezsebel	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-44
+5	néhány	néhány	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-45
+6	szakmai	szakmai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-46
+7	elismerést	elismerés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-47
+8	és	és	CCONJ	_	_	_	_	_	tokId=w-48
+9	jelöléseket	jelölés	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-49
+10	is	is	ADV	_	_	_	_	_	tokId=w-50
+11	kapott	kap	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-51|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-52
+
+# sent_id = huwiki_69_s-5
+# text = A filmben összesen ötszázharmincegy haláleset látható.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-53
+2	filmben	film	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-54
+3	összesen	összesen	ADV	_	_	_	_	_	tokId=w-55
+4	ötszázharmincegy	ötszázharmincegy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-56
+5	haláleset	haláleset	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-57
+6	látható	látható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-58|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-59
+
+# sent_id = huwiki_69_s-6
+# text = Jin-tae és Jin-seok testvérek.
+1	Jin-tae	Jin-tae	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-60|NE=name[PER]_5
+2	és	és	CCONJ	_	_	_	_	_	tokId=w-61
+3	Jin-seok	Jin-seok	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-62|NE=name[PER]_6
+4	testvérek	testvér	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-63|SpaceAfter=No
+5	.	.	PUNCT	_	_	_	_	_	tokId=w-64
+
+# sent_id = huwiki_69_s-7
+# text = A háború kirobbanásakor el kellett hagyniuk az otthonukat, mert békésebb vidékre akartak menni.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-65
+2	háború	háború	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-66
+3	kirobbanásakor	kirobbanás	NOUN	_	Case=Tem|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-67
+4	el	el	ADV	_	_	_	_	_	tokId=w-68
+5	kellett	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-69
+6	hagyniuk	hagy	VERB	_	Number=Plur|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	tokId=w-70
+7	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-71
+8	otthonukat	otthon	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-72|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-73
+10	mert	mert	SCONJ	_	_	_	_	_	tokId=w-74
+11	békésebb	békés	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-75
+12	vidékre	vidék	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-76
+13	akartak	akar	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-77
+14	menni	megy	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-78|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-79
+
+# sent_id = huwiki_69_s-8
+# text = Azonban a hadsereg Jin-seokot besorozza, ezért a törékeny férfinek el kell mennie a frontra.
+1	Azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-80
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-81
+3	hadsereg	hadsereg	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-82
+4	Jin-seokot	Jin-seok	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-83|NE=name[PER]_7
+5	besorozza	besoroz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-84|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-85
+7	ezért	ezért	CCONJ	_	_	_	_	_	tokId=w-86
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-87
+9	törékeny	törékeny	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-88
+10	férfinek	férfi	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-89
+11	el	el	ADV	_	_	_	_	_	tokId=w-90
+12	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-91
+13	mennie	megy	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	tokId=w-92
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-93
+15	frontra	front	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-94|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-95
+
+# sent_id = huwiki_69_s-9
+# text = Szerencséjére Jin-tae is vele tart szolidaritásból, de így sem fenékig tejfel az élet.
+1	Szerencséjére	szerencse	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-96
+2	Jin-tae	Jin-tae	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-97|NE=name[PER]_8
+3	is	is	ADV	_	_	_	_	_	tokId=w-98
+4	vele	vele	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-99
+5	tart	tart	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-100
+6	szolidaritásból	szolidaritás	NOUN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-101|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-102
+8	de	de	CCONJ	_	_	_	_	_	tokId=w-103
+9	így	így	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-104
+10	sem	sem	ADV	_	PronType=Neg	_	_	_	tokId=w-105
+11	fenékig	fenék	ADV	_	_	_	_	_	tokId=w-106
+12	tejfel	tejfel	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-107
+13	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-108
+14	élet	élet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-109|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-110
+
+# sent_id = huwiki_69_s-10
+# text = Kemény harcok folynak, fegyverropogás zaja hallatszik mindenfelől, és van olyan is, amikor az élelem sem túl sok.
+1	Kemény	kemény	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-111
+2	harcok	harc	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-112
+3	folynak	folyik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-113|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-114
+5	fegyverropogás	fegyverropogás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-115
+6	zaja	zaj	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-116
+7	hallatszik	hallatszik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-117
+8	mindenfelől	mindenfelől	ADV	_	_	_	_	_	tokId=w-118|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-119
+10	és	és	CCONJ	_	_	_	_	_	tokId=w-120
+11	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-121
+12	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-122
+13	is	is	ADV	_	_	_	_	_	tokId=w-123|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-124
+15	amikor	amikor	ADV	_	PronType=Rel	_	_	_	tokId=w-125
+16	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-126
+17	élelem	élelem	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-127
+18	sem	sem	ADV	_	PronType=Neg	_	_	_	tokId=w-128
+19	túl	túl	ADV	_	_	_	_	_	tokId=w-129
+20	sok	sok	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-130|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-131
+
+# sent_id = huwiki_69_s-11
+# text = Jin-taejobban viseli a történteket, nagyon bátor és mindig az első sorban küzd a győzelemért.
+1	Jin-tae	Jin-tae	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-132|NE=name[PER]_9|SpaceAfter=No
+2	jobban	jól	ADV	_	Degree=Cmp	_	_	_	tokId=w-133
+3	viseli	visel	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-134
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-135
+5	történteket	történt	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	_	_	_	tokId=w-136|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-137
+7	nagyon	nagyon	ADV	_	_	_	_	_	tokId=w-138
+8	bátor	bátor	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-139
+9	és	és	CCONJ	_	_	_	_	_	tokId=w-140
+10	mindig	mindig	ADV	_	_	_	_	_	tokId=w-141
+11	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-142
+12	első	első	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-143
+13	sorban	sor	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-144
+14	küzd	küzd	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-145
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-146
+16	győzelemért	győzelem	NOUN	_	Case=Cau|Number=Sing	_	_	_	tokId=w-147|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-148
+
+# sent_id = huwiki_69_s-12
+# text = De mindezt csak azért teszi, mert meg akarja védeni Jin-seokot , és egy egyezség értelmében ha kap majd egy kitüntetést, akkor a testvére hazamehet a csatából.
+1	De	de	CCONJ	_	_	_	_	_	tokId=w-149
+2	mindezt	mindez	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-150
+3	csak	csak	ADV	_	_	_	_	_	tokId=w-151
+4	azért	az	PRON	_	Case=Cau|Number=Sing|Person=3|PronType=Dem|Person=3|PronType=Dem|Person=3|PronType=Dem	_	_	_	tokId=w-152
+5	teszi	tesz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-153|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-154
+7	mert	mert	SCONJ	_	_	_	_	_	tokId=w-155
+8	meg	meg	PART	_	_	_	_	_	tokId=w-156
+9	akarja	akar	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-157
+10	védeni	véd	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-158
+11	Jin-seokot	Jin-seok	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-159|NE=name[PER]_10
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-160
+13	és	és	CCONJ	_	_	_	_	_	tokId=w-161
+14	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-162
+15	egyezség	egyezség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-163
+16	értelmében	értelem	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-164
+17	ha	ha	SCONJ	_	_	_	_	_	tokId=w-165
+18	kap	kap	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-166
+19	majd	majd	ADV	_	_	_	_	_	tokId=w-167
+20	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-168
+21	kitüntetést	kitüntetés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-169|SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-170
+23	akkor	akkor	ADV	_	PronType=Dem	_	_	_	tokId=w-171
+24	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-172
+25	testvére	testvér	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-173
+26	hazamehet	hazamegy	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-174
+27	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-175
+28	csatából	csata	NOUN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-176|SpaceAfter=No
+29	.	.	PUNCT	_	_	_	_	_	tokId=w-177
+
+# sent_id = huwiki_69_s-13
+# text = A kitüntetés meg is lesz, de összekuszálódnak a dolgok, és Jin-tae átáll az északi oldalra, és onnantól fogva a délieket öli.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-178
+2	kitüntetés	kitüntetés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-179
+3	meg	meg	PART	_	_	_	_	_	tokId=w-180
+4	is	is	ADV	_	_	_	_	_	tokId=w-181
+5	lesz	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-182|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-183
+7	de	de	CCONJ	_	_	_	_	_	tokId=w-184
+8	összekuszálódnak	összekuszálódik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-185
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-186
+10	dolgok	dolog	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-187|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-188
+12	és	és	CCONJ	_	_	_	_	_	tokId=w-189
+13	Jin-tae	Jin-tae	X	_	_	_	_	_	tokId=w-190|NE=name[PER]_11
+14	átáll	átáll	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-191
+15	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-192
+16	északi	északi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-193
+17	oldalra	oldal	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-194|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-195
+19	és	és	CCONJ	_	_	_	_	_	tokId=w-196
+20	onnantól	onnantól	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-197
+21	fogva	fogva	ADP	_	_	_	_	_	tokId=w-198
+22	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-199
+23	délieket	déli	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	_	_	_	tokId=w-200
+24	öli	öl	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-201|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-202
+
+# sent_id = huwiki_69_s-14
+# text = A két testvér már egymás ellen harcol.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-203
+2	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-204
+3	testvér	testvér	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-205
+4	már	már	ADV	_	_	_	_	_	tokId=w-206
+5	egymás	egymás	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rcp	_	_	_	tokId=w-207
+6	ellen	ellen	ADP	_	_	_	_	_	tokId=w-208
+7	harcol	harcol	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-209|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-210
+
+# sent_id = huwiki_69_s-15
+# text = A film költségvetése 12800000 dollár volt, a bevétele pedig 69827583 dollár.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-211
+2	film	film	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-212
+3	költségvetése	költségvetés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-213
+4	12800000	12800000	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-214
+5	dollár	dollár	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-215
+6	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-216|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-217
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-218
+9	bevétele	bevétel	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-219
+10	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-220
+11	69827583	69827583	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-221
+12	dollár	dollár	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-222|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-223
+
+# sent_id = huwiki_69_s-16
+# text = A Harcosok szövetségét Dél-Koreában több mint tízmillióan látták a moziban.
+1	A	A	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-224
+2	Harcosok	Harcosok	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-225|NE=name[MISC]_12
+3	szövetségét	szövetsége	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-226|NE=name[MISC]_12
+4	Dél-Koreában	Dél-Korea	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-227|NE=name[LOC]_13
+5	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-228
+6	mint	mint	SCONJ	_	_	_	_	_	tokId=w-229
+7	tízmillióan	tízmillió	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-230
+8	látták	lát	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-231
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-232
+10	moziban	mozi	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-233|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-234
+
+# sent_id = huwiki_69_s-17
+# text = Továbbá az IMDb felhasználói is elég jó pontszámot adtak a filmnek.
+1	Továbbá	továbbá	CCONJ	_	_	_	_	_	tokId=w-235
+2	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-236
+3	IMDb	IMDb	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-237|NE=name[MISC]_14
+4	felhasználói	felhasználó	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-238
+5	is	is	ADV	_	_	_	_	_	tokId=w-239
+6	elég	elég	ADV	_	_	_	_	_	tokId=w-240
+7	jó	jó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-241
+8	pontszámot	pontszám	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-242
+9	adtak	ad	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-243
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-244
+11	filmnek	film	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-245|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-246
+
+# sent_id = huwiki_69_s-18
+# text = A szakértők is elismerték az alkotást, a Baeksang Art Awards-on 2004-ben megkapta a legjobb film díját, a Blue Dragon Awards-on szintén 2004-ben pedig Dong-gun Jang-ot választották a legjobb férfi színésznek.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-247
+2	szakértők	szakértő	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-248
+3	is	is	ADV	_	_	_	_	_	tokId=w-249
+4	elismerték	elismer	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-250
+5	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-251
+6	alkotást	alkotás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-252|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-253
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-254
+9	Baeksang	Baeksang	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-255|NE=name[MISC]_15
+10	Art	Art	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-256|NE=name[MISC]_15
+11	Awards-on	Awards	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-257|NE=name[MISC]_15
+12	2004-ben	2004	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-258
+13	megkapta	megkap	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-259
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-260
+15	legjobb	jó	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-261
+16	film	film	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-262
+17	díját	díj	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-263|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-264
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-265
+20	Blue	Blue	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-266|NE=name[MISC]_16
+21	Dragon	Dragon	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-267|NE=name[MISC]_16
+22	Awards-on	Awards	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-268|NE=name[MISC]_16
+23	szintén	szintén	ADV	_	_	_	_	_	tokId=w-269
+24	2004-ben	2004	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-270
+25	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-271
+26	Dong-gun	Dong-gun	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-272|NE=name[PER]_17
+27	Jang-ot	Jang	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-273|NE=name[PER]_17
+28	választották	választ	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-274
+29	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-275
+30	legjobb	jó	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-276
+31	férfi	férfi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-277
+32	színésznek	színész	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-278|SpaceAfter=No
+33	.	.	PUNCT	_	_	_	_	_	tokId=w-279
+
+# sent_id = huwiki_69_s-19
+# text = Ugyancsak ezen a filmfesztiválon a Harcosok szövetsége az alábbi jelöléseket is megkapta: legjobb film, legjobb látványtervezés és legjobb zene.
+1	Ugyancsak	ugyancsak	ADV	_	_	_	_	_	tokId=w-280
+2	ezen	ez	PRON	_	Case=Sup|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-281
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-282
+4	filmfesztiválon	filmfesztivál	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-283
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-284
+6	Harcosok	harcos	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-285|NE=name[MISC]_18
+7	szövetsége	szövetség	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-286|NE=name[MISC]_18
+8	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-287
+9	alábbi	alábbi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-288
+10	jelöléseket	jelölés	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-289
+11	is	is	ADV	_	_	_	_	_	tokId=w-290
+12	megkapta	megkap	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-291|SpaceAfter=No
+13	:	:	PUNCT	_	_	_	_	_	tokId=w-292
+14	legjobb	jó	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-293
+15	film	film	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-294|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-295
+17	legjobb	jó	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-296
+18	látványtervezés	látványtervezés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-297
+19	és	és	CCONJ	_	_	_	_	_	tokId=w-298
+20	legjobb	jó	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-299
+21	zene	zene	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-300|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-301
+

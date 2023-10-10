@@ -1,0 +1,177 @@
+# newdoc id = w64
+# sent_id = w64_s-1
+# text = Pont az ilyen filmekből szokott a legnagyobb bukás lenni.
+1	Pont	pont	ADV	_	_	_	_	_	tokId=w-1
+2	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-2
+3	ilyen	ilyen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-3
+4	filmekből	film	NOUN	_	Case=Ela|Number=Plur	_	_	_	tokId=w-4
+5	szokott	szokik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-5
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-6
+7	legnagyobb	nagy	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-7
+8	bukás	bukás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-8
+9	lenni	lesz	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-9|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-10
+
+# sent_id = w64_s-2
+# text = De most egy olyan csapást szenvedtünk el, amire egyáltalán nem számítottunk!
+1	De	de	CCONJ	_	_	_	_	_	tokId=w-11
+2	most	most	ADV	_	_	_	_	_	tokId=w-12
+3	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-13
+4	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-14
+5	csapást	csapás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-15
+6	szenvedtünk	szenved	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-16
+7	el	el	ADV	_	_	_	_	_	tokId=w-17|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-18
+9	amire	ami	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-19
+10	egyáltalán	egyáltalán	ADV	_	_	_	_	_	tokId=w-20
+11	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-21
+12	számítottunk	számít	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-22|SpaceAfter=No
+13	!	!	PUNCT	_	_	_	_	_	tokId=w-23
+
+# sent_id = w64_s-3
+# text = Lucyt (Scarlett Johansson), a felelőtlen egyetemistát belerángatják egy elég csúnya drogügyletbe.
+1	Lucyt	Lucy	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-24|NE=name[PER]_1
+2	(	(	PUNCT	_	_	_	_	_	tokId=w-25
+3	Scarlett	Scarlett	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-26|NE=name[PER]_2
+4	Johansson	Johansson	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-27|NE=name[PER]_2|SpaceAfter=No
+5	)	)	PUNCT	_	_	_	_	_	tokId=w-28|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-29
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-30
+8	felelőtlen	felelőtlen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-31
+9	egyetemistát	egyetemista	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-32
+10	belerángatják	belerángat	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-33
+11	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-34
+12	elég	elég	ADV	_	_	_	_	_	tokId=w-35
+13	csúnya	csúnya	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-36
+14	drogügyletbe	drogügylet	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-37|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-38
+
+# sent_id = w64_s-4
+# text = Most úgy döntött nem áll meg a Föld határainál.
+1	Most	most	ADV	_	_	_	_	_	tokId=w-39
+2	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-40
+3	döntött	dönt	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-41
+4	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-42
+5	áll	áll	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-43
+6	meg	meg	PART	_	_	_	_	_	tokId=w-44
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-45
+8	Föld	Föld	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-46|NE=name[LOC]_3
+9	határainál	határ	NOUN	_	Case=Ade|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-47|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-48
+
+# sent_id = w64_s-5
+# text = Hogy remek vizuális effektjeikért Oscar-díjjal jutalmazták őket.
+1	Hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-49
+2	remek	remek	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-50
+3	vizuális	vizuális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-51
+4	effektjeikért	effekt	NOUN	_	Case=Cau|Number=Plur|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-52
+5	Oscar-díjjal	Oscar-díj	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-53|NE=name[MISC]_4
+6	jutalmazták	jutalmaz	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-54
+7	őket	ők	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	_	_	_	tokId=w-55|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-56
+
+# sent_id = w64_s-6
+# text = A Galaktika magazin októberi számában emlékezünk a meghatározó íróról, de most szeretnénk mutatni egy igazán különleges videót.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-57
+2	Galaktika	Galaktika	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-58|NE=name[MISC]_5
+3	magazin	magazin	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-59
+4	októberi	októberi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-60
+5	számában	szám	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-61
+6	emlékezünk	emlékezik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-62
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-63
+8	meghatározó	meghatározó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-64
+9	íróról	író	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-65|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-66
+11	de	de	CCONJ	_	_	_	_	_	tokId=w-67
+12	most	most	ADV	_	_	_	_	_	tokId=w-68
+13	szeretnénk	szeret	VERB	_	Definite=Ind|Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-69
+14	mutatni	mutat	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-70
+15	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-71
+16	igazán	igazán	ADV	_	_	_	_	_	tokId=w-72
+17	különleges	különleges	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-73
+18	videót	videó	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-74|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-75
+
+# sent_id = w64_s-7
+# text = Hallottuk már metálban, hegedűn, pohárral eldobolva ... de ska változatban még tuti, hogy nem!
+1	Hallottuk	hall	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-76
+2	már	már	ADV	_	_	_	_	_	tokId=w-77
+3	metálban	metál	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-78|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-79
+5	hegedűn	hegedű	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-80|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-81
+7	pohárral	pohár	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-82
+8	eldobolva	eldobolva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-83
+9	...	...	PUNCT	_	_	_	_	_	tokId=w-84
+10	de	de	CCONJ	_	_	_	_	_	tokId=w-85
+11	ska	ska	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-86
+12	változatban	változat	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-87
+13	még	még	ADV	_	_	_	_	_	tokId=w-88
+14	tuti	tuti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-89|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-90
+16	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-91
+17	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-92|SpaceAfter=No
+18	!	!	PUNCT	_	_	_	_	_	tokId=w-93
+
+# sent_id = w64_s-8
+# text = A rajongók egyik táborának csalódottságának és a másik tábor elégedettségének összeengedése a mai napig remek internetes flamegenerátorként működik.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-94
+2	rajongók	rajongó	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-95
+3	egyik	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-96
+4	táborának	tábor	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-97
+5	csalódottságának	csalódottság	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-98
+6	és	és	CCONJ	_	_	_	_	_	tokId=w-99
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-100
+8	másik	másik	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-101
+9	tábor	tábor	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-102
+10	elégedettségének	elégedettség	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-103
+11	összeengedése	összeengedés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-104
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-105
+13	mai	mai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-106
+14	napig	nap	NOUN	_	Case=Ter|Number=Sing	_	_	_	tokId=w-107
+15	remek	remek	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-108
+16	internetes	internetes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-109
+17	flamegenerátorként	flamegenerátor	NOUN	_	Case=Ess|Number=Sing	_	_	_	tokId=w-110
+18	működik	működik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-111|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-112
+
+# sent_id = w64_s-9
+# text = A Galaxy and Mass Assembly katalógusa egy részletes 3D térkép az univerzum galaxisairól.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-113
+2	Galaxy	Galaxy	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-114|NE=name[MISC]_6
+3	and	and	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-115|NE=name[MISC]_6
+4	Mass	Mass	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-116|NE=name[MISC]_6
+5	Assembly	Assembly	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-117|NE=name[MISC]_6
+6	katalógusa	katalógus	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-118
+7	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-119
+8	részletes	részletes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-120
+9	3D	3D	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-121
+10	térkép	térkép	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-122
+11	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-123
+12	univerzum	univerzum	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-124
+13	galaxisairól	galaxis	NOUN	_	Case=Del|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-125|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-126
+
+# sent_id = w64_s-10
+# text = Folytatjuk a Naprendszeren kívüli bolygók megismerését, és a sok száz felfedezett új világ közül ismért megismertetünk titeket néhánnyal.
+1	Folytatjuk	folytat	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-127
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-128
+3	Naprendszeren	Naprendszer	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-129|NE=name[LOC]_7
+4	kívüli	kívüli	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-130
+5	bolygók	bolygó	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-131
+6	megismerését	megismerés	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-132|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-133
+8	és	és	CCONJ	_	_	_	_	_	tokId=w-134
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-135
+10	sok	sok	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-136
+11	száz	száz	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-137
+12	felfedezett	felfedezett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-138
+13	új	új	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-139
+14	világ	világ	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-140
+15	közül	közül	ADP	_	_	_	_	_	tokId=w-141
+16	ismért	ismét	ADV	_	_	_	_	_	tokId=w-142
+17	megismertetünk	megismertet	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-143
+18	titeket	ti	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	_	_	_	tokId=w-144
+19	néhánnyal	néhány	NUM	_	Case=Ins|Number=Sing|NumType=Card	_	_	_	tokId=w-145|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-146
+

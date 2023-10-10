@@ -1,0 +1,325 @@
+# newdoc id = globv_24
+# sent_id = globv_24_s-1
+# text = Kolumbia a múlt héten értesült a 35 éves Rosa Elvira Celyesetéről, akire május 24-ére virradóra találtak rá Bogotában , a Nemzeti Park egy elhagyatott részén.
+1	Kolumbia	Kolumbia	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-1|NE=name[ORG]_1
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-2
+3	múlt	múlt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-3
+4	héten	hét	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-4
+5	értesült	értesül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-5
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-6
+7	35	35	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-7
+8	éves	éves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-8
+9	Rosa	Rosa	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-9|NE=name[PER]_2
+10	Elvira	Elvira	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-10|NE=name[PER]_2
+11	Cely	Cely	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-11|NE=name[PER]_2|SpaceAfter=No
+12	esetéről	eset	NOUN	_	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-12|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-13
+14	akire	aki	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-14
+15	május	május	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-15
+16	24-ére	24	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-16
+17	virradóra	virradó	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-17
+18	találtak	talál	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-18
+19	rá	rá	ADV	_	_	_	_	_	tokId=w-19
+20	Bogotában	Bogotá	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-20|NE=name[LOC]_3
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-21
+22	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-22
+23	Nemzeti	nemzeti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-23
+24	Park	park	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-24
+25	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-25
+26	elhagyatott	elhagyatott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-26
+27	részén	rész	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-27|SpaceAfter=No
+28	.	.	PUNCT	_	_	_	_	_	tokId=w-28
+
+# sent_id = globv_24_s-2
+# text = A nő kétszer hívta a 123-as segélyhívó számot, a hatóságoknak a közeli patak hangja segített megtalálni a helyszínt.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-29
+2	nő	nő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-30
+3	kétszer	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-31
+4	hívta	hív	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-32
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-33
+6	123-as	123-as	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-34
+7	segélyhívó	segélyhívó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-35
+8	számot	szám	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-36|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-37
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-38
+11	hatóságoknak	hatóság	NOUN	_	Case=Dat|Number=Plur	_	_	_	tokId=w-39
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-40
+13	közeli	közeli	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-41
+14	patak	patak	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-42
+15	hangja	hang	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-43
+16	segített	segít	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-44
+17	megtalálni	megtalál	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-45
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-46
+19	helyszínt	helyszín	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-47|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-48
+
+# sent_id = globv_24_s-3
+# text = Amikor rátaláltak, eszméletlen volt, reszketett, arcán horzsolások voltak, a hátán szúrt seb.
+1	Amikor	amikor	ADV	_	PronType=Rel	_	_	_	tokId=w-49
+2	rátaláltak	rátalál	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-50|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-51
+4	eszméletlen	eszméletlen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-52
+5	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-53|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-54
+7	reszketett	reszket	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-55|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-56
+9	arcán	arc	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-57
+10	horzsolások	horzsolás	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-58
+11	voltak	van	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-59|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-60
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-61
+14	hátán	hát	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-62
+15	szúrt	szúrt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-63
+16	seb	seb	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-64|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-65
+
+# sent_id = globv_24_s-4
+# text = Karóba húzták, valószínűsíthetően egy faággal.
+1	Karóba	karó	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-66
+2	húzták	húz	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-67|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-68
+4	valószínűsíthetően	valószínűsíthető	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-69
+5	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-70
+6	faággal	faág	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-71|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-72
+
+# sent_id = globv_24_s-5
+# text = Május 28-án hétfőn halt meg hashártyagyulladásban egy bogotái belvárosi kórházban.
+1	Május	május	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-73
+2	28-án	28	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-74
+3	hétfőn	hétfő	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-75
+4	halt	hal	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-76
+5	meg	meg	PART	_	_	_	_	_	tokId=w-77
+6	hashártyagyulladásban	hashártyagyulladás	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-78
+7	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-79
+8	bogotái	bogotái	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-80
+9	belvárosi	belvárosi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-81
+10	kórházban	kórház	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-82|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-83
+
+# sent_id = globv_24_s-6
+# text = A történetet először Kolumbia legnagyobb bulvárlapja közölte május 29-én, majd lassan más médiumok is beszámoltak az esetről.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-84
+2	történetet	történet	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-85
+3	először	először	ADV	_	_	_	_	_	tokId=w-86
+4	Kolumbia	Kolumbia	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-87|NE=name[LOC]_4
+5	legnagyobb	nagy	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-88
+6	bulvárlapja	bulvárlap	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-89
+7	közölte	közöl	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-90
+8	május	május	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-91
+9	29-én	29	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-92|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-93
+11	majd	majd	CCONJ	_	_	_	_	_	tokId=w-94
+12	lassan	lassú	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-95
+13	más	más	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-96
+14	médiumok	médium	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-97
+15	is	is	ADV	_	_	_	_	_	tokId=w-98
+16	beszámoltak	beszámol	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-99
+17	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-100
+18	esetről	eset	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-101|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-102
+
+# sent_id = globv_24_s-7
+# text = Cely utcai árusként dolgozott a Katonai Kórház előtt, volt egy 11 éves lánya, éppen középiskolai tanulmányait fejezte be, pszichológus akart lenni.
+1	Cely	Cely	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-103|NE=name[PER]_5
+2	utcai	utcai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-104
+3	árusként	árus	NOUN	_	Case=Ess|Number=Sing	_	_	_	tokId=w-105
+4	dolgozott	dolgozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-106
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-107
+6	Katonai	Katonai	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-108|NE=name[LOC]_6
+7	Kórház	Kórház	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-109|NE=name[LOC]_6
+8	előtt	előtt	ADP	_	_	_	_	_	tokId=w-110|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-111
+10	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-112
+11	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-113
+12	11	11	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-114
+13	éves	éves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-115
+14	lánya	lány	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-116|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-117
+16	éppen	éppen	ADV	_	_	_	_	_	tokId=w-118
+17	középiskolai	középiskolai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-119
+18	tanulmányait	tanulmány	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-120
+19	fejezte	fejez	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-121
+20	be	be	ADV	_	Degree=Pos	_	_	_	tokId=w-122|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-123
+22	pszichológus	pszichológus	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-124
+23	akart	akar	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-125
+24	lenni	lesz	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-126|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-127
+
+# sent_id = globv_24_s-8
+# text = A brutális nemi erőszak és gyilkosság egy új tiltakozó hullámot indított el a közösségi médiában.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-128
+2	brutális	brutális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-129
+3	nemi	nemi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-130
+4	erőszak	erőszak	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-131
+5	és	és	CCONJ	_	_	_	_	_	tokId=w-132
+6	gyilkosság	gyilkosság	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-133
+7	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-134
+8	új	új	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-135
+9	tiltakozó	tiltakozó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-136
+10	hullámot	hullám	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-137
+11	indított	indít	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-138
+12	el	el	ADV	_	_	_	_	_	tokId=w-139
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-140
+14	közösségi	közösségi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-141
+15	médiában	média	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-142|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-143
+
+# sent_id = globv_24_s-9
+# text = Sok twitterező csatlakozott a demonstrációhoz, hogy kifejezze felháborodottságát.
+1	Sok	sok	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-144
+2	twitterező	twitterező	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-145
+3	csatlakozott	csatlakozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-146
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-147
+5	demonstrációhoz	demonstráció	NOUN	_	Case=All|Number=Sing	_	_	_	tokId=w-148|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-149
+7	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-150
+8	kifejezze	kifejez	VERB	_	Definite=Def|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-151
+9	felháborodottságát	felháborodottság	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-152|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-153
+
+# sent_id = globv_24_s-10
+# text = Szintén éles vita alakult ki arról, hogy halálbüntetés vagy életfogytig tartó börtön járjon -e a nemi erőszakot elkövetőknek.
+1	Szintén	szintén	ADV	_	_	_	_	_	tokId=w-154
+2	éles	éles	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-155
+3	vita	vita	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-156
+4	alakult	alakul	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-157
+5	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-158
+6	arról	az	PRON	_	Case=Del|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-159|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-160
+8	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-161
+9	halálbüntetés	halálbüntetés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-162
+10	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-163
+11	életfogytig	életfogytig	ADV	_	_	_	_	_	tokId=w-164
+12	tartó	tartó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-165
+13	börtön	börtön	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-166
+14	járjon	jár	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-167
+15	-e	-e	ADV	_	PronType=Int	_	_	_	tokId=w-168
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-169
+17	nemi	nemi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-170
+18	erőszakot	erőszak	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-171
+19	elkövetőknek	elkövető	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	_	_	_	tokId=w-172|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-173
+
+# sent_id = globv_24_s-11
+# text = Az esetet június 3-án vasárnap reggel demonstráció követte.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-174
+2	esetet	eset	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-175
+3	június	június	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-176
+4	3-án	3	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-177
+5	vasárnap	vasárnap	ADV	_	_	_	_	_	tokId=w-178
+6	reggel	reggel	ADV	_	_	_	_	_	tokId=w-179
+7	demonstráció	demonstráció	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-180
+8	követte	követ	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-181|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-182
+
+# sent_id = globv_24_s-12
+# text = A Nemzeti Parkban több száz ember gyűlt össze, hogy igazságot követeljen.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-183
+2	Nemzeti	nemzeti	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-184|NE=name[LOC]_7
+3	Parkban	park	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-185|NE=name[LOC]_7
+4	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-186
+5	száz	száz	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-187
+6	ember	ember	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-188
+7	gyűlt	gyűlik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-189
+8	össze	össze	ADV	_	Degree=Pos	_	_	_	tokId=w-190|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-191
+10	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-192
+11	igazságot	igazság	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-193
+12	követeljen	követel	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-194|SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	tokId=w-195
+
+# sent_id = globv_24_s-13
+# text = A gyülekezés helyi idő szerint 10 órakor kezdődött, Celyre és sok más, erőszakot elszenvedett nőre való megemlékezéssel.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-196
+2	gyülekezés	gyülekezés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-197
+3	helyi	helyi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-198
+4	idő	idő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-199
+5	szerint	szerint	ADP	_	_	_	_	_	tokId=w-200
+6	10	10	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-201
+7	órakor	óra	NOUN	_	Case=Tem|Number=Sing	_	_	_	tokId=w-202
+8	kezdődött	kezdődik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-203|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-204
+10	Celyre	Cely	PROPN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-205|NE=name[PER]_8
+11	és	és	CCONJ	_	_	_	_	_	tokId=w-206
+12	sok	sok	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-207
+13	más	más	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-208|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-209
+15	erőszakot	erőszak	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-210
+16	elszenvedett	elszenvedett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-211
+17	nőre	nő	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-212
+18	való	való	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-213
+19	megemlékezéssel	megemlékezés	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-214|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-215
+
+# sent_id = globv_24_s-14
+# text = 45 perccel később átsétáltak arra a helyre, ahol Celyt megtalálták, imádkoztak, kiabáltak, énekeltek.
+1	45	45	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-216
+2	perccel	perc	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-217
+3	később	később	ADV	_	_	_	_	_	tokId=w-218
+4	átsétáltak	átsétál	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-219
+5	arra	az	DET	_	Case=Sbl|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-220
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-221
+7	helyre	hely	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-222|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-223
+9	ahol	ahol	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-224
+10	Celyt	Cely	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-225|NE=name[PER]_9
+11	megtalálták	megtalál	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-226|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-227
+13	imádkoztak	imádkozik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-228|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-229
+15	kiabáltak	kiabál	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-230|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-231
+17	énekeltek	énekel	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-232|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-233
+
+# sent_id = globv_24_s-15
+# text = Egy zokogó férfi bocsánatot kért férfitársai nevében a gyilkosságért.
+1	Egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-234
+2	zokogó	zokogó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-235
+3	férfi	férfi	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-236
+4	bocsánatot	bocsánat	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-237
+5	kért	kér	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-238
+6	férfitársai	férfitárs	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-239
+7	nevében	nevében	ADP	_	_	_	_	_	tokId=w-240
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-241
+9	gyilkosságért	gyilkosság	NOUN	_	Case=Cau|Number=Sing	_	_	_	tokId=w-242|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-243
+
+# sent_id = globv_24_s-16
+# text = A bloggerek közül Gloria Ortega Pérez jelentett meg egy posztot képekkel a demonstrációról.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-244
+2	bloggerek	blogger	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-245
+3	közül	közül	ADP	_	_	_	_	_	tokId=w-246
+4	Gloria	Gloria	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-247|NE=name[PER]_10
+5	Ortega	Ortega	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-248|NE=name[PER]_10
+6	Pérez	Pérez	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-249|NE=name[PER]_10
+7	jelentett	jelent	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-250
+8	meg	meg	PART	_	_	_	_	_	tokId=w-251
+9	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-252
+10	posztot	poszt	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-253
+11	képekkel	kép	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-254
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-255
+13	demonstrációról	demonstráció	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-256|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-257
+
+# sent_id = globv_24_s-17
+# text = Pérez figyelemmel kíséri a hasonló, Kolumbiában történt, nők ellen elkövetett erőszakkal kapcsolatos eseteket.
+1	Pérez	Pérez	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-258|NE=name[PER]_11
+2	figyelemmel	figyelem	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-259
+3	kíséri	kísér	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-260
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-261
+5	hasonló	hasonló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-262|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-263
+7	Kolumbiában	Kolumbia	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-264|NE=name[LOC]_12
+8	történt	történt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-265|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-266
+10	nők	nő	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-267
+11	ellen	ellen	ADP	_	_	_	_	_	tokId=w-268
+12	elkövetett	elkövetett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-269
+13	erőszakkal	erőszak	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-270
+14	kapcsolatos	kapcsolatos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-271
+15	eseteket	eset	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-272|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-273
+

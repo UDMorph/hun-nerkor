@@ -1,0 +1,610 @@
+# newdoc id = w232
+# sent_id = w232_s-1
+# text = Mindennapi gondjai elől képzeletbeli barátjához menekül, és saját magát egy manga hőseként elképzelve játssza a Nagy Fiút groteszk fantáziájának segítségével.
+1	Mindennapi	mindennapi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-1
+2	gondjai	gond	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-2
+3	elől	elől	ADP	_	_	_	_	_	tokId=w-3
+4	képzeletbeli	képzeletbeli	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-4
+5	barátjához	barát	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-5
+6	menekül	menekül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-6|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-7
+8	és	és	CCONJ	_	_	_	_	_	tokId=w-8
+9	saját	saját	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-9
+10	magát	maga	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	tokId=w-10
+11	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-11
+12	manga	manga	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-12
+13	hőseként	hős	NOUN	_	Case=Ess|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-13
+14	elképzelve	elképzelve	ADV	_	VerbForm=Conv	_	_	_	tokId=w-14
+15	játssza	játszik	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-15
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-16
+17	Nagy	nagy	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-17
+18	Fiút	fiú	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-18
+19	groteszk	groteszk	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-19
+20	fantáziájának	fantázia	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-20
+21	segítségével	segítség	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-21|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-22
+
+# sent_id = w232_s-2
+# text = Takahashi Hideyasu mangája a legendás tolvajról, Jokerről szól, aki számára nem létezik olyan kincs, amit ne tudna eltulajdonítani.
+1	Takahashi	Takahashi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-23|NE=name[PER]_1
+2	Hideyasu	Hideyasu	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-24|NE=name[PER]_1
+3	mangája	manga	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-25
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-26
+5	legendás	legendás	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-27
+6	tolvajról	tolvaj	NOUN	_	Case=Del|Number=Sing	_	_	_	tokId=w-28|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-29
+8	Jokerről	Joker	PROPN	_	Case=Del|Number=Sing	_	_	_	tokId=w-30|NE=name[PER]_2
+9	szól	szól	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-31|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-32
+11	aki	aki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-33
+12	számára	számára	ADP	_	_	_	_	_	tokId=w-34
+13	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-35
+14	létezik	létezik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-36
+15	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-37
+16	kincs	kincs	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-38|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-39
+18	amit	ami	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-40
+19	ne	ne	ADV	_	PronType=Neg	_	_	_	tokId=w-41
+20	tudna	tud	VERB	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-42
+21	eltulajdonítani	eltulajdonít	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-43|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-44
+
+# sent_id = w232_s-3
+# text = Operációs rendszer: iOS 6.0, vagy újabb.
+1	Operációs	operációs	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-45
+2	rendszer	rendszer	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-46|SpaceAfter=No
+3	:	:	PUNCT	_	_	_	_	_	tokId=w-47
+4	iOS	IOS	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-48|NE=name[MISC]_3
+5	6.0	6.0	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-49|NE=name[MISC]_3|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-50
+7	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-51
+8	újabb	új	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-52|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-53
+
+# sent_id = w232_s-4
+# text = A Gin-iro no Usagit (Silver Rabbit) a horror, fantasy, történelmi, valamint shōnen/seinen munkáiról ismert Fujiwara Kamui rajzolta, míg a zseniális Itō Kazunori (Ghost in the Shell, .hack) írta.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-54
+2	Gin-iro	Gin-iro	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-55|NE=name[MISC]_4
+3	no	no	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-56|NE=name[MISC]_4
+4	Usagit	Usagi	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-57|NE=name[MISC]_4
+5	(	(	PUNCT	_	_	_	_	_	tokId=w-58
+6	Silver	Silver	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-59|NE=name[MISC]_5
+7	Rabbit	Rabbit	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-60|NE=name[MISC]_5|SpaceAfter=No
+8	)	)	PUNCT	_	_	_	_	_	tokId=w-61
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-62
+10	horror	horror	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-63|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-64
+12	fantasy	fantasy	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-65|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-66
+14	történelmi	történelmi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-67|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-68
+16	valamint	valamint	CCONJ	_	_	_	_	_	tokId=w-69
+17	shōnen/seinen	shōnen/seinen	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-70
+18	munkáiról	munka	NOUN	_	Case=Del|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-71
+19	ismert	ismert	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-72
+20	Fujiwara	Fujiwara	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-73|NE=name[PER]_6
+21	Kamui	Kamui	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-74|NE=name[PER]_6
+22	rajzolta	rajzol	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-75|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-76
+24	míg	míg	CCONJ	_	_	_	_	_	tokId=w-77
+25	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-78
+26	zseniális	zseniális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-79
+27	Itō	Itō	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-80|NE=name[PER]_7
+28	Kazunori	Kazunori	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-81|NE=name[PER]_7
+29	(	(	PUNCT	_	_	_	_	_	tokId=w-82
+30	Ghost	Ghost	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-83|NE=name[MISC]_8
+31	in	in	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-84|NE=name[MISC]_8
+32	the	the	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-85|NE=name[MISC]_8
+33	Shell	Shell	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-86|NE=name[MISC]_8|SpaceAfter=No
+34	,	,	PUNCT	_	_	_	_	_	tokId=w-87
+35	.hack	.hack	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-88|NE=name[MISC]_9|SpaceAfter=No
+36	)	)	PUNCT	_	_	_	_	_	tokId=w-89
+37	írta	ír	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-90|SpaceAfter=No
+38	.	.	PUNCT	_	_	_	_	_	tokId=w-91
+
+# sent_id = w232_s-5
+# text = A Devil Survivor esetében eddig három játék jelent meg.)
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-92
+2	Devil	Devil	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-93|NE=name[MISC]_10
+3	Survivor	Survivor	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-94|NE=name[MISC]_10
+4	esetében	eset	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-95
+5	eddig	eddig	ADV	_	PronType=Dem	_	_	_	tokId=w-96
+6	három	három	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-97
+7	játék	játék	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-98
+8	jelent	jelenik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-99
+9	meg	meg	PART	_	_	_	_	_	tokId=w-100|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-101|SpaceAfter=No
+11	)	)	PUNCT	_	_	_	_	_	tokId=w-102
+
+# sent_id = w232_s-6
+# text = Az első játék alaptörténete: A Devil Survivor története a modern Tokióban játszódik, ahol egy nap, a 17 éves fiú főszereplőnk, magát és két barátját egy cseppet sem kellemes helyzetben találja.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-103
+2	első	első	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-104
+3	játék	játék	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-105
+4	alaptörténete	alaptörténet	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-106|SpaceAfter=No
+5	:	:	PUNCT	_	_	_	_	_	tokId=w-107
+6	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-108
+7	Devil	Devil	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-109|NE=name[MISC]_11
+8	Survivor	Survivor	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-110|NE=name[MISC]_11
+9	története	történet	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-111
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-112
+11	modern	modern	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-113
+12	Tokióban	Tokió	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-114|NE=name[LOC]_12
+13	játszódik	játszódik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-115|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-116
+15	ahol	ahol	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-117
+16	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-118
+17	nap	nap	ADV	_	_	_	_	_	tokId=w-119|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-120
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-121
+20	17	17	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-122
+21	éves	éves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-123
+22	fiú	fiú	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-124
+23	főszereplőnk	főszereplő	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-125|SpaceAfter=No
+24	,	,	PUNCT	_	_	_	_	_	tokId=w-126
+25	magát	maga	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	tokId=w-127
+26	és	és	CCONJ	_	_	_	_	_	tokId=w-128
+27	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-129
+28	barátját	barát	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-130
+29	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-131
+30	cseppet	cseppet	ADV	_	_	_	_	_	tokId=w-132
+31	sem	sem	ADV	_	PronType=Neg	_	_	_	tokId=w-133
+32	kellemes	kellemes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-134
+33	helyzetben	helyzet	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-135
+34	találja	talál	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-136|SpaceAfter=No
+35	.	.	PUNCT	_	_	_	_	_	tokId=w-137
+
+# sent_id = w232_s-7
+# text = Amint azonban furcsa démonlégiók lepik el Tokió városát, és a japán hadsereg körbezárja otthonukat, igencsak hasznosnak minősül a kapott kütyü.
+1	Amint	amint	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-138
+2	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-139
+3	furcsa	furcsa	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-140
+4	démonlégiók	démonlégió	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-141
+5	lepik	lep	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-142
+6	el	el	ADV	_	_	_	_	_	tokId=w-143
+7	Tokió	Tokió	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-144|NE=name[LOC]_13
+8	városát	város	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-145|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-146
+10	és	és	CCONJ	_	_	_	_	_	tokId=w-147
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-148
+12	japán	japán	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-149
+13	hadsereg	hadsereg	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-150
+14	körbezárja	körbezár	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-151
+15	otthonukat	otthon	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-152|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-153
+17	igencsak	igencsak	ADV	_	_	_	_	_	tokId=w-154
+18	hasznosnak	hasznos	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	tokId=w-155
+19	minősül	minősül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-156
+20	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-157
+21	kapott	kapott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-158
+22	kütyü	kütyü	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-159|SpaceAfter=No
+23	.	.	PUNCT	_	_	_	_	_	tokId=w-160
+
+# sent_id = w232_s-8
+# text = A Ginga Kikōtai Majestic Prince című manga, illetve nemsokára megjelenő anime története egy olyan világban játszódik, ahol az emberiség már meghódította a világűrt, és a génmanipulációnak köszönhetően olyan gyermekek születtek, akik az űrben is képesek élni.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-161
+2	Ginga	Ginga	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-162|NE=name[MISC]_14
+3	Kikōtai	Kikōtai	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-163|NE=name[MISC]_14
+4	Majestic	Majestic	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-164|NE=name[MISC]_14
+5	Prince	Prince	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-165|NE=name[MISC]_14
+6	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-166
+7	manga	manga	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-167|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-168
+9	illetve	illetve	CCONJ	_	_	_	_	_	tokId=w-169
+10	nemsokára	nemsokára	ADV	_	_	_	_	_	tokId=w-170
+11	megjelenő	megjelenő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-171
+12	anime	anime	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-172
+13	története	történet	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-173
+14	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-174
+15	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-175
+16	világban	világ	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-176
+17	játszódik	játszódik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-177|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-178
+19	ahol	ahol	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-179
+20	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-180
+21	emberiség	emberiség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-181
+22	már	már	ADV	_	_	_	_	_	tokId=w-182
+23	meghódította	meghódít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-183
+24	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-184
+25	világűrt	világűr	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-185|SpaceAfter=No
+26	,	,	PUNCT	_	_	_	_	_	tokId=w-186
+27	és	és	CCONJ	_	_	_	_	_	tokId=w-187
+28	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-188
+29	génmanipulációnak	génmanipuláció	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-189
+30	köszönhetően	köszönhető	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-190
+31	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-191
+32	gyermekek	gyermek	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-192
+33	születtek	születik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-193|SpaceAfter=No
+34	,	,	PUNCT	_	_	_	_	_	tokId=w-194
+35	akik	aki	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-195
+36	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-196
+37	űrben	űr	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-197
+38	is	is	ADV	_	_	_	_	_	tokId=w-198
+39	képesek	képes	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-199
+40	élni	él	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-200|SpaceAfter=No
+41	.	.	PUNCT	_	_	_	_	_	tokId=w-201
+
+# sent_id = w232_s-9
+# text = A Ghibli munkatársainak, mint Momose Yoshiyuki (a játék animációs rendezője, többek között ő készítette a Pom Poko, az Only Yesterday, a Princess Mononoke layoutját és kulcskocka animációit) elmondása szerint ez a munka teljesen új volt a Ghibli számára, de a rengeteg tapasztalattal bíró Level 5 fejlesztői egy olyan történetet kreáltak a játéknak, ami tökéletesen illik a Ghiblifantasy stílusú világába.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-202
+2	Ghibli	Ghibli	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-203|NE=name[ORG]_15
+3	munkatársainak	munkatárs	NOUN	_	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-204|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-205
+5	mint	mint	SCONJ	_	_	_	_	_	tokId=w-206
+6	Momose	Momose	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-207|NE=name[PER]_16
+7	Yoshiyuki	Yoshiyuki	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-208|NE=name[PER]_16
+8	(	(	PUNCT	_	_	_	_	_	tokId=w-209|SpaceAfter=No
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-210
+10	játék	játék	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-211
+11	animációs	animációs	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-212
+12	rendezője	rendező	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-213|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-214
+14	többek	sok	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-215
+15	között	között	ADP	_	_	_	_	_	tokId=w-216
+16	ő	ő	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-217
+17	készítette	készít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-218
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-219
+19	Pom	Pom	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-220|NE=name[MISC]_17
+20	Poko	Poko	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-221|NE=name[MISC]_17|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-222
+22	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-223
+23	Only	Only	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-224|NE=name[MISC]_18
+24	Yesterday	Yesterday	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-225|NE=name[MISC]_18|SpaceAfter=No
+25	,	,	PUNCT	_	_	_	_	_	tokId=w-226
+26	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-227
+27	Princess	Princess	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-228|NE=name[MISC]_19
+28	Mononoke	Mononoke	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-229|NE=name[MISC]_19
+29	layoutját	layout	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-230
+30	és	és	CCONJ	_	_	_	_	_	tokId=w-231
+31	kulcskocka	kulcskocka	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-232
+32	animációit	animáció	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-233|SpaceAfter=No
+33	)	)	PUNCT	_	_	_	_	_	tokId=w-234
+34	elmondása	elmondás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-235
+35	szerint	szerint	ADP	_	_	_	_	_	tokId=w-236
+36	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-237
+37	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-238
+38	munka	munka	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-239
+39	teljesen	teljes	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-240
+40	új	új	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-241
+41	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-242
+42	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-243
+43	Ghibli	Ghibli	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-244|NE=name[ORG]_20
+44	számára	számára	ADP	_	_	_	_	_	tokId=w-245|SpaceAfter=No
+45	,	,	PUNCT	_	_	_	_	_	tokId=w-246
+46	de	de	CCONJ	_	_	_	_	_	tokId=w-247
+47	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-248
+48	rengeteg	rengeteg	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-249
+49	tapasztalattal	tapasztalat	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-250
+50	bíró	bíró	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-251
+51	Level	Level	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-252|NE=name[ORG]_21
+52	5	5	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-253|NE=name[ORG]_21
+53	fejlesztői	fejlesztő	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-254
+54	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-255
+55	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-256
+56	történetet	történet	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-257
+57	kreáltak	kreál	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-258
+58	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-259
+59	játéknak	játék	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-260|SpaceAfter=No
+60	,	,	PUNCT	_	_	_	_	_	tokId=w-261
+61	ami	ami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-262
+62	tökéletesen	tökéletes	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-263
+63	illik	illik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-264
+64	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-265
+65	Ghibli	Ghibli	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-266|NE=name[ORG]_22|SpaceAfter=No
+66	fantasy	fantasy	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-267
+67	stílusú	stílusú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-268
+68	világába	világ	NOUN	_	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-269|SpaceAfter=No
+69	.	.	PUNCT	_	_	_	_	_	tokId=w-270
+
+# sent_id = w232_s-10
+# text = A játék főhőse a 13 éves Oliver , aki a Motorville nevű kisvárosban él édesanyjával.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-271
+2	játék	játék	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-272
+3	főhőse	főhős	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-273
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-274
+5	13	13	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-275
+6	éves	éves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-276
+7	Oliver	Oliver	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-277|NE=name[PER]_23
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-278
+9	aki	aki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-279
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-280
+11	Motorville	Motorville	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-281|NE=name[LOC]_24
+12	nevű	nevű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-282
+13	kisvárosban	kisváros	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-283
+14	él	él	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-284
+15	édesanyjával	édesanya	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-285|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-286
+
+# sent_id = w232_s-11
+# text = Azonban édesanyja váratlan halála árvává teszi a kisfiút, akinek életében ekkor egy furcsa szerzet felbukkanása hoz gyökeres fordulatot.
+1	Azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-287
+2	édesanyja	édesanya	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-288
+3	váratlan	váratlan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-289
+4	halála	halál	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-290
+5	árvává	árva	ADJ	_	Case=Tra|Degree=Pos|Number=Sing	_	_	_	tokId=w-291
+6	teszi	tesz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-292
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-293
+8	kisfiút	kisfiú	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-294|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-295
+10	akinek	aki	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-296
+11	életében	élet	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-297
+12	ekkor	ekkor	ADV	_	PronType=Dem	_	_	_	tokId=w-298
+13	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-299
+14	furcsa	furcsa	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-300
+15	szerzet	szerzet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-301
+16	felbukkanása	felbukkanás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-302
+17	hoz	hoz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-303
+18	gyökeres	gyökeres	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-304
+19	fordulatot	fordulat	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-305|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-306
+
+# sent_id = w232_s-12
+# text = A fejlesztők szerint ez a familiáris rendszer sokkal interaktívabb élményt ad a játékosoknak, főleg azért is, mert minél több kontrollt igyekeztek a játékos kezébe adni.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-307
+2	fejlesztők	fejlesztő	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-308
+3	szerint	szerint	ADP	_	_	_	_	_	tokId=w-309
+4	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-310
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-311
+6	familiáris	familiáris	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-312
+7	rendszer	rendszer	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-313
+8	sokkal	sokkal	ADV	_	_	_	_	_	tokId=w-314
+9	interaktívabb	interaktív	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-315
+10	élményt	élmény	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-316
+11	ad	ad	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-317
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-318
+13	játékosoknak	játékos	NOUN	_	Case=Dat|Number=Plur	_	_	_	tokId=w-319|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-320
+15	főleg	főleg	ADV	_	_	_	_	_	tokId=w-321
+16	azért	azért	ADV	_	PronType=Dem	_	_	_	tokId=w-322
+17	is	is	ADV	_	_	_	_	_	tokId=w-323|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-324
+19	mert	mert	SCONJ	_	_	_	_	_	tokId=w-325
+20	minél	minél	ADV	_	_	_	_	_	tokId=w-326
+21	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-327
+22	kontrollt	kontroll	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-328
+23	igyekeztek	igyekszik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-329
+24	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-330
+25	játékos	játékos	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-331
+26	kezébe	kéz	NOUN	_	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-332
+27	adni	ad	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-333|SpaceAfter=No
+28	.	.	PUNCT	_	_	_	_	_	tokId=w-334
+
+# sent_id = w232_s-13
+# text = A játékosok szinte intuitív módon fedezhetik fel a Ghibli rajzolta mesevilág részleteit, és élhetik át Oliver kalandjait, amiben a hűség, az árulás és a csalódás éppolyan fontos szerepet játszik, mint az elveszett édesanya utáni hajsza.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-335
+2	játékosok	játékos	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-336
+3	szinte	szinte	ADV	_	_	_	_	_	tokId=w-337
+4	intuitív	intuitív	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-338
+5	módon	mód	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-339
+6	fedezhetik	fedez	VERB	_	Definite=Def|Mood=Pot|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-340
+7	fel	fel	ADV	_	Degree=Pos	_	_	_	tokId=w-341
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-342
+9	Ghibli	Ghibli	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-343|NE=name[ORG]_25
+10	rajzolta	rajzolta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-344
+11	mesevilág	mesevilág	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-345
+12	részleteit	részlet	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-346|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-347
+14	és	és	CCONJ	_	_	_	_	_	tokId=w-348
+15	élhetik	él	VERB	_	Definite=Def|Mood=Pot|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-349
+16	át	át	ADV	_	_	_	_	_	tokId=w-350
+17	Oliver	Oliver	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-351|NE=name[PER]_26
+18	kalandjait	kaland	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-352|SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	tokId=w-353
+20	amiben	ami	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-354
+21	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-355
+22	hűség	hűség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-356|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-357
+24	az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-358
+25	árulás	árulás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-359
+26	és	és	CCONJ	_	_	_	_	_	tokId=w-360
+27	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-361
+28	csalódás	csalódás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-362
+29	éppolyan	éppolyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-363
+30	fontos	fontos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-364
+31	szerepet	szerep	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-365
+32	játszik	játszik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-366|SpaceAfter=No
+33	,	,	PUNCT	_	_	_	_	_	tokId=w-367
+34	mint	mint	SCONJ	_	_	_	_	_	tokId=w-368
+35	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-369
+36	elveszett	elveszett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-370
+37	édesanya	édesanya	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-371
+38	utáni	utáni	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-372
+39	hajsza	hajsza	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-373|SpaceAfter=No
+40	.	.	PUNCT	_	_	_	_	_	tokId=w-374
+
+# sent_id = w232_s-14
+# text = Hal anime mozifilm 2013 júniusában
+1	Hal	Hal	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-375|NE=name[MISC]_27
+2	anime	anime	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-376
+3	mozifilm	mozifilm	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-377
+4	2013	2013	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-378
+5	júniusában	június	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-379
+
+# sent_id = w232_s-15
+# text = 3. A legjobb gyermek manga:
+1	3.	3.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-380
+2	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-381
+3	legjobb	jó	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-382
+4	gyermek	gyermek	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-383
+5	manga	manga	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-384|SpaceAfter=No
+6	:	:	PUNCT	_	_	_	_	_	tokId=w-385
+
+# sent_id = w232_s-16
+# text = A pályázó mangákat minden évben más és más elismert alkotókból álló zsűri pontozza.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-386
+2	pályázó	pályázó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-387
+3	mangákat	manga	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-388
+4	minden	minden	DET	_	Definite=Ind|PronType=Tot	_	_	_	tokId=w-389
+5	évben	év	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-390
+6	más	más	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-391
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-392
+8	más	más	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-393
+9	elismert	elismert	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-394
+10	alkotókból	alkotó	NOUN	_	Case=Ela|Number=Plur	_	_	_	tokId=w-395
+11	álló	álló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-396
+12	zsűri	zsűri	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-397
+13	pontozza	pontoz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-398|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-399
+
+# sent_id = w232_s-17
+# text = * Tulajdonképpen 5 nyertest választanak, az ő pályaműveik lehet, hogy nyomtatásba is kerülnek.
+1	*	*	PUNCT	_	_	_	_	_	tokId=w-400
+2	Tulajdonképpen	tulajdonképpen	ADV	_	_	_	_	_	tokId=w-401
+3	5	5	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-402
+4	nyertest	nyertes	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-403
+5	választanak	választ	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-404|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-405
+7	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-406
+8	ő	ő	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-407
+9	pályaműveik	pályamű	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-408
+10	lehet	lesz	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-409|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-410
+12	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-411
+13	nyomtatásba	nyomtatás	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-412
+14	is	is	ADV	_	_	_	_	_	tokId=w-413
+15	kerülnek	kerül	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-414|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-415
+
+# sent_id = w232_s-18
+# text = A furcsa testvérpár szüleinek halála után Elsána sor, hogy királynőként álljon országa élére.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-416
+2	furcsa	furcsa	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-417
+3	testvérpár	testvérpár	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-418
+4	szüleinek	szülő	NOUN	_	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-419
+5	halála	halál	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-420
+6	után	után	ADP	_	_	_	_	_	tokId=w-421
+7	Elsán	Elsa	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-422|NE=name[PER]_28|SpaceAfter=No
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-423
+9	sor	sor	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-424|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-425
+11	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-426
+12	királynőként	királynő	NOUN	_	Case=Ess|Number=Sing	_	_	_	tokId=w-427
+13	álljon	áll	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-428
+14	országa	ország	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-429
+15	élére	él	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-430|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-431
+
+# sent_id = w232_s-19
+# text = Itt van néhány cikk angolul, ha érdekelnek a részletek: Rocketnews , Kotaku – az érdeklődés hiánya mögött több ok is állhat, mondjuk a Harry Potter és a Gyűrűk ura népszerűségét egyáltalán nem tudta elérni, de nincs kizárva, hogy olyan népszerű legyen, mint ezek az elődök.
+1	Itt	itt	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-432
+2	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-433
+3	néhány	néhány	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-434
+4	cikk	cikk	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-435
+5	angolul	angol	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-436|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-437
+7	ha	ha	SCONJ	_	_	_	_	_	tokId=w-438
+8	érdekelnek	érdekel	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-439
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-440
+10	részletek	részlet	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-441|SpaceAfter=No
+11	:	:	PUNCT	_	_	_	_	_	tokId=w-442
+12	Rocketnews	Rocketnews	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-443|NE=name[MISC]_29
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-444
+14	Kotaku	Kotaku	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-445|NE=name[MISC]_30
+15	–	–	X	_	_	_	_	_	tokId=w-446
+16	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-447
+17	érdeklődés	érdeklődés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-448
+18	hiánya	hiány	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-449
+19	mögött	mögött	ADP	_	_	_	_	_	tokId=w-450
+20	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-451
+21	ok	ok	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-452
+22	is	is	ADV	_	_	_	_	_	tokId=w-453
+23	állhat	áll	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-454|SpaceAfter=No
+24	,	,	PUNCT	_	_	_	_	_	tokId=w-455
+25	mondjuk	mond	ADV	_	_	_	_	_	tokId=w-456
+26	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-457
+27	Harry	Harry	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-458|NE=name[MISC]_31
+28	Potter	Potter	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-459|NE=name[MISC]_31
+29	és	és	CCONJ	_	_	_	_	_	tokId=w-460
+30	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-461
+31	Gyűrűk	Gyűrű	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-462|NE=name[MISC]_32
+32	ura	ura	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-463|NE=name[MISC]_32
+33	népszerűségét	népszerűség	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-464
+34	egyáltalán	egyáltalán	ADV	_	_	_	_	_	tokId=w-465
+35	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-466
+36	tudta	tud	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-467
+37	elérni	elér	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-468|SpaceAfter=No
+38	,	,	PUNCT	_	_	_	_	_	tokId=w-469
+39	de	de	CCONJ	_	_	_	_	_	tokId=w-470
+40	nincs	nincs	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-471
+41	kizárva	kizárva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-472|SpaceAfter=No
+42	,	,	PUNCT	_	_	_	_	_	tokId=w-473
+43	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-474
+44	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-475
+45	népszerű	népszerű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-476
+46	legyen	lesz	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-477|SpaceAfter=No
+47	,	,	PUNCT	_	_	_	_	_	tokId=w-478
+48	mint	mint	SCONJ	_	_	_	_	_	tokId=w-479
+49	ezek	ez	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-480
+50	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-481
+51	elődök	előd	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-482|SpaceAfter=No
+52	.	.	PUNCT	_	_	_	_	_	tokId=w-483
+
+# sent_id = w232_s-20
+# text = Mondván, mivel Ruuko nem ismeri a szabályokat, így Yuzukinak lehet egy gyors touchdownja.
+1	Mondván	mondván	ADV	_	_	_	_	_	tokId=w-484|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-485
+3	mivel	mivel	SCONJ	_	_	_	_	_	tokId=w-486
+4	Ruuko	Ruuko	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-487|NE=name[PER]_33
+5	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-488
+6	ismeri	ismer	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-489
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-490
+8	szabályokat	szabály	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-491|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-492
+10	így	így	CCONJ	_	_	_	_	_	tokId=w-493
+11	Yuzukinak	Yuzuki	PROPN	_	Case=Gen|Number=Sing	_	_	_	tokId=w-494|NE=name[PER]_34
+12	lehet	lesz	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-495
+13	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-496
+14	gyors	gyors	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-497
+15	touchdownja	touchdown	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-498|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-499
+
+# sent_id = w232_s-21
+# text = A szerepjátékkal egybekötött beöltözést, azaz a kedvenc karakterek bőrébe való bújást jelenti a cosplay (egyrészt).
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-500
+2	szerepjátékkal	szerepjáték	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-501
+3	egybekötött	egybekötött	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-502
+4	beöltözést	beöltözés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-503|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-504
+6	azaz	azaz	CCONJ	_	_	_	_	_	tokId=w-505
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-506
+8	kedvenc	kedvenc	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-507
+9	karakterek	karakter	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-508
+10	bőrébe	bőr	NOUN	_	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-509
+11	való	való	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-510
+12	bújást	bújás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-511
+13	jelenti	jelent	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-512
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-513
+15	cosplay	cosplay	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-514
+16	(	(	PUNCT	_	_	_	_	_	tokId=w-515|SpaceAfter=No
+17	egyrészt	egyrészt	ADV	_	_	_	_	_	tokId=w-516|SpaceAfter=No
+18	)	)	PUNCT	_	_	_	_	_	tokId=w-517|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-518
+
+# sent_id = w232_s-22
+# text = Első cosplayhez hasonló megjelenésként emlegetnek egy kritikai megmozdulást is a források, amikor Kotani Mari feminista sci-fi kritikus parodizált egy animekaratert annak bőrébe bújva.
+1	Első	első	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-519
+2	cosplayhez	cosplay	NOUN	_	Case=All|Number=Sing	_	_	_	tokId=w-520
+3	hasonló	hasonló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-521
+4	megjelenésként	megjelenés	NOUN	_	Case=Ess|Number=Sing	_	_	_	tokId=w-522
+5	emlegetnek	emleget	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-523
+6	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-524
+7	kritikai	kritikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-525
+8	megmozdulást	megmozdulás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-526
+9	is	is	ADV	_	_	_	_	_	tokId=w-527
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-528
+11	források	forrás	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-529|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-530
+13	amikor	amikor	ADV	_	PronType=Rel	_	_	_	tokId=w-531
+14	Kotani	Kotani	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-532|NE=name[PER]_35
+15	Mari	Mari	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-533|NE=name[PER]_35
+16	feminista	feminista	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-534
+17	sci-fi	sci-fi	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-535
+18	kritikus	kritikus	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-536
+19	parodizált	parodizál	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-537
+20	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-538
+21	animekaratert	animekarater	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-539
+22	annak	az	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-540
+23	bőrébe	bőr	NOUN	_	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-541
+24	bújva	bújva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-542|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-543
+

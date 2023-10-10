@@ -1,0 +1,440 @@
+# newdoc id = globv_25
+# sent_id = globv_25_s-1
+# text = Koncertekkel küzdenek az ideiglenes kormány ellen Brazíliában.
+1	Koncertekkel	koncert	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-1
+2	küzdenek	küzd	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-2
+3	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-3
+4	ideiglenes	ideiglenes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-4
+5	kormány	kormány	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-5
+6	ellen	ellen	ADP	_	_	_	_	_	tokId=w-6
+7	Brazíliában	Brazília	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-7|NE=name[LOC]_1|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-8
+
+# sent_id = globv_25_s-2
+# text = Néhány héttel ezelőtt egy megrendítő cikkben mutatott rá Brazília ismert zenész-kritikusa a zenei dimenzió hiányára a mostani politikai felfordulásban, a jelenlegi helyzetet összevetette az 1960-as, 1970-es évek belpolitikai válságával, mely során a brazil popzene kulcsszerepet játszott.
+1	Néhány	néhány	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-9
+2	héttel	hét	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-10
+3	ezelőtt	ezelőtt	ADP	_	_	_	_	_	tokId=w-11
+4	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-12
+5	megrendítő	megrendítő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-13
+6	cikkben	cikk	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-14
+7	mutatott	mutat	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-15
+8	rá	rá	ADV	_	_	_	_	_	tokId=w-16
+9	Brazília	Brazília	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-17|NE=name[LOC]_2
+10	ismert	ismert	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-18
+11	zenész-kritikusa	zenész-kritikus	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-19
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-20
+13	zenei	zenei	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-21
+14	dimenzió	dimenzió	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-22
+15	hiányára	hiány	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-23
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-24
+17	mostani	mostani	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-25
+18	politikai	politikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-26
+19	felfordulásban	felfordulás	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-27|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-28
+21	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-29
+22	jelenlegi	jelenlegi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-30
+23	helyzetet	helyzet	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-31
+24	összevetette	összevet	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-32
+25	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-33
+26	1960-as	1960-as	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-34|SpaceAfter=No
+27	,	,	PUNCT	_	_	_	_	_	tokId=w-35
+28	1970-es	1970-es	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-36
+29	évek	év	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-37
+30	belpolitikai	belpolitikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-38
+31	válságával	válság	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-39|SpaceAfter=No
+32	,	,	PUNCT	_	_	_	_	_	tokId=w-40
+33	mely	mely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-41
+34	során	során	ADP	_	_	_	_	_	tokId=w-42
+35	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-43
+36	brazil	brazil	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-44
+37	popzene	popzene	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-45
+38	kulcsszerepet	kulcsszerep	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-46
+39	játszott	játszik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-47|SpaceAfter=No
+40	.	.	PUNCT	_	_	_	_	_	tokId=w-48
+
+# sent_id = globv_25_s-3
+# text = A mostani helyzet változhat, brazil zenészek ugyanis klasszikus zenei koncerteket szerveznek a közösségi média segítségével a Kulturális Minisztérium különböző épületeibe, mivel a minisztériumot napjainkban feloszlatta Brazília ideiglenes elnöke, Michel Temer.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-49
+2	mostani	mostani	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-50
+3	helyzet	helyzet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-51
+4	változhat	változik	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-52|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-53
+6	brazil	brazil	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-54
+7	zenészek	zenész	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-55
+8	ugyanis	ugyanis	CCONJ	_	_	_	_	_	tokId=w-56
+9	klasszikus	klasszikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-57
+10	zenei	zenei	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-58
+11	koncerteket	koncert	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-59
+12	szerveznek	szervez	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-60
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-61
+14	közösségi	közösségi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-62
+15	média	média	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-63
+16	segítségével	segítség	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-64
+17	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-65
+18	Kulturális	kulturális	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-66|NE=name[ORG]_3
+19	Minisztérium	minisztérium	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-67|NE=name[ORG]_3
+20	különböző	különböző	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-68
+21	épületeibe	épület	NOUN	_	Case=Ill|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-69|SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-70
+23	mivel	mivel	SCONJ	_	_	_	_	_	tokId=w-71
+24	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-72
+25	minisztériumot	minisztérium	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-73
+26	napjainkban	nap	NOUN	_	Case=Ine|Number=Plur|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-74
+27	feloszlatta	feloszlat	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-75
+28	Brazília	Brazília	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-76|NE=name[LOC]_4
+29	ideiglenes	ideiglenes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-77
+30	elnöke	elnök	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-78|SpaceAfter=No
+31	,	,	PUNCT	_	_	_	_	_	tokId=w-79
+32	Michel	Michel	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-80|NE=name[PER]_5
+33	Temer	Temer	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-81|NE=name[PER]_5|SpaceAfter=No
+34	.	.	PUNCT	_	_	_	_	_	tokId=w-82
+
+# sent_id = globv_25_s-4
+# text = A szervezők szerint megközelítőleg ezer fő jelent meg az eseményen.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-83
+2	szervezők	szervező	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-84
+3	szerint	szerint	ADP	_	_	_	_	_	tokId=w-85
+4	megközelítőleg	megközelítőleg	ADV	_	_	_	_	_	tokId=w-86
+5	ezer	ezer	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-87
+6	fő	fő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-88
+7	jelent	jelenik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-89
+8	meg	meg	PART	_	_	_	_	_	tokId=w-90
+9	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-91
+10	eseményen	esemény	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-92|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-93
+
+# sent_id = globv_25_s-5
+# text = Ez volt a második koncert, amit a csoport szervezett, az elsőt május 5-én tartották meg egy köztéren, még Dilma Rouseff megvádolása és a Kulturális Minisztérium megszüntetése előtt.
+1	Ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-94
+2	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-95
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-96
+4	második	második	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-97
+5	koncert	koncert	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-98|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-99
+7	amit	ami	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-100
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-101
+9	csoport	csoport	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-102
+10	szervezett	szervez	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-103|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-104
+12	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-105
+13	elsőt	első	ADJ	_	Case=Acc|Number=Sing|NumType=Ord	_	_	_	tokId=w-106
+14	május	május	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-107
+15	5-én	5	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-108
+16	tartották	tart	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-109
+17	meg	meg	PART	_	_	_	_	_	tokId=w-110
+18	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-111
+19	köztéren	köztér	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-112|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-113
+21	még	még	ADV	_	_	_	_	_	tokId=w-114
+22	Dilma	Dilma	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-115|NE=name[PER]_6
+23	Rouseff	Rouseff	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-116|NE=name[PER]_6
+24	megvádolása	megvádolás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-117
+25	és	és	CCONJ	_	_	_	_	_	tokId=w-118
+26	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-119
+27	Kulturális	Kulturális	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-120|NE=name[ORG]_7
+28	Minisztérium	Minisztérium	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-121|NE=name[ORG]_7
+29	megszüntetése	megszüntetés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-122
+30	előtt	előtt	ADP	_	_	_	_	_	tokId=w-123|SpaceAfter=No
+31	.	.	PUNCT	_	_	_	_	_	tokId=w-124
+
+# sent_id = globv_25_s-6
+# text = Ez alkalommal tehát nagyon jelentős volt az esemény.
+1	Ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-125
+2	alkalommal	alkalom	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-126
+3	tehát	tehát	CCONJ	_	_	_	_	_	tokId=w-127
+4	nagyon	nagyon	ADV	_	_	_	_	_	tokId=w-128
+5	jelentős	jelentős	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-129
+6	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-130
+7	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-131
+8	esemény	esemény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-132|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-133
+
+# sent_id = globv_25_s-7
+# text = Annak ellenére, hogy Michel Temer kormánya csak ideiglenesen van hatalmon, durva változtatásokat jelentett be Rousseff kormányában, kezdve a teljes kabinet lecseréléstől a külpolitikai irányváltásig.
+1	Annak	az	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-134
+2	ellenére	ellenére	ADP	_	_	_	_	_	tokId=w-135|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-136
+4	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-137
+5	Michel	Michel	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-138|NE=name[PER]_8
+6	Temer	Temer	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-139|NE=name[PER]_8
+7	kormánya	kormány	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-140
+8	csak	csak	ADV	_	_	_	_	_	tokId=w-141
+9	ideiglenesen	ideiglenes	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-142
+10	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-143
+11	hatalmon	hatalom	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-144|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-145
+13	durva	durva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-146
+14	változtatásokat	változtatás	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-147
+15	jelentett	jelent	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-148
+16	be	be	ADV	_	Degree=Pos	_	_	_	tokId=w-149
+17	Rousseff	Rousseff	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-150|NE=name[PER]_9
+18	kormányában	kormány	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-151|SpaceAfter=No
+19	,	,	PUNCT	_	_	_	_	_	tokId=w-152
+20	kezdve	kezdve	ADV	_	VerbForm=Conv	_	_	_	tokId=w-153
+21	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-154
+22	teljes	teljes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-155
+23	kabinet	kabinet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-156
+24	lecseréléstől	lecserélés	NOUN	_	Case=Abl|Number=Sing	_	_	_	tokId=w-157
+25	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-158
+26	külpolitikai	külpolitikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-159
+27	irányváltásig	irányváltás	NOUN	_	Case=Ter|Number=Sing	_	_	_	tokId=w-160|SpaceAfter=No
+28	.	.	PUNCT	_	_	_	_	_	tokId=w-161
+
+# sent_id = globv_25_s-8
+# text = Egy sor megszorító intézkedést is bejelentett, többek között kormányzati posztokat törölt el, privatizálta és kiszervezte az állami vállalatokat, változtatott a nyugdíjtörvényeken.
+1	Egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-162
+2	sor	sor	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-163
+3	megszorító	megszorító	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-164
+4	intézkedést	intézkedés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-165
+5	is	is	ADV	_	_	_	_	_	tokId=w-166
+6	bejelentett	bejelent	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-167|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-168
+8	többek	sok	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-169
+9	között	között	ADP	_	_	_	_	_	tokId=w-170
+10	kormányzati	kormányzati	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-171
+11	posztokat	poszt	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-172
+12	törölt	töröl	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-173
+13	el	el	ADV	_	_	_	_	_	tokId=w-174|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-175
+15	privatizálta	privatizál	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-176
+16	és	és	CCONJ	_	_	_	_	_	tokId=w-177
+17	kiszervezte	kiszervez	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-178
+18	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-179
+19	állami	állami	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-180
+20	vállalatokat	vállalat	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-181|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-182
+22	változtatott	változtat	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-183
+23	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-184
+24	nyugdíjtörvényeken	nyugdíjtörvény	NOUN	_	Case=Sup|Number=Plur	_	_	_	tokId=w-185|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-186
+
+# sent_id = globv_25_s-9
+# text = Több utalást is tett arra vonatkozóan, hogy lazábbra fogják venni a dolgozók védelméről szóló törvényt, valamint szűkítik az állami egészségügyi ellátást.
+1	Több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-187
+2	utalást	utalás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-188
+3	is	is	ADV	_	_	_	_	_	tokId=w-189
+4	tett	tesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-190
+5	arra	az	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-191
+6	vonatkozóan	vonatkozó	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-192|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-193
+8	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-194
+9	lazábbra	laza	ADJ	_	Case=Sbl|Degree=Cmp|Number=Sing	_	_	_	tokId=w-195
+10	fogják	fog	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-196
+11	venni	vesz	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-197
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-198
+13	dolgozók	dolgozó	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-199
+14	védelméről	védelem	NOUN	_	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-200
+15	szóló	szóló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-201
+16	törvényt	törvény	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-202|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-203
+18	valamint	valamint	CCONJ	_	_	_	_	_	tokId=w-204
+19	szűkítik	szűkít	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-205
+20	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-206
+21	állami	állami	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-207
+22	egészségügyi	egészségügyi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-208
+23	ellátást	ellátás	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-209|SpaceAfter=No
+24	.	.	PUNCT	_	_	_	_	_	tokId=w-210
+
+# sent_id = globv_25_s-10
+# text = Székfoglaló beszédében Temer azt mondta, hogy elkötelezett az infláció és a költségvetési hiány visszafogásával kapcsolatban, illetve a gazdaságot újra pályára akarja állítani.
+1	Székfoglaló	székfoglaló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-211
+2	beszédében	beszéd	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-212
+3	Temer	Temer	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-213|NE=name[PER]_10
+4	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-214
+5	mondta	mond	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-215|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-216
+7	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-217
+8	elkötelezett	elkötelezett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-218
+9	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-219
+10	infláció	infláció	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-220
+11	és	és	CCONJ	_	_	_	_	_	tokId=w-221
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-222
+13	költségvetési	költségvetési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-223
+14	hiány	hiány	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-224
+15	visszafogásával	visszafogás	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-225
+16	kapcsolatban	kapcsolat	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-226|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-227
+18	illetve	illetve	CCONJ	_	_	_	_	_	tokId=w-228
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-229
+20	gazdaságot	gazdaság	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-230
+21	újra	újra	ADV	_	_	_	_	_	tokId=w-231
+22	pályára	pálya	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-232
+23	akarja	akar	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-233
+24	állítani	állít	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-234|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-235
+
+# sent_id = globv_25_s-11
+# text = Május 12-én a brazil szenátus úgy döntött, hogy vizsgálatot indítanak az elnök, Dilma Rousseff ellen.
+1	Május	május	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-236
+2	12-én	12	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-237
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-238
+4	brazil	brazil	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-239
+5	szenátus	szenátus	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-240
+6	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-241
+7	döntött	dönt	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-242|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-243
+9	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-244
+10	vizsgálatot	vizsgálat	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-245
+11	indítanak	indít	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-246
+12	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-247
+13	elnök	elnök	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-248|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-249
+15	Dilma	Dilma	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-250|NE=name[PER]_11
+16	Rousseff	Rousseff	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-251|NE=name[PER]_11
+17	ellen	ellen	ADP	_	_	_	_	_	tokId=w-252|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-253
+
+# sent_id = globv_25_s-12
+# text = A vád ellene a növekvő költségvetési hiány elfedésére irányuló csalás.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-254
+2	vád	vád	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-255
+3	ellene	ellen	ADP	_	_	_	_	_	tokId=w-256
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-257
+5	növekvő	növekvő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-258
+6	költségvetési	költségvetési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-259
+7	hiány	hiány	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-260
+8	elfedésére	elfedés	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-261
+9	irányuló	irányuló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-262
+10	csalás	csalás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-263|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-264
+
+# sent_id = globv_25_s-13
+# text = Az elnöknek 6 hónapig félre kell állnia, egészen a végső tárgyalásig, ahol a Legfelsőbb Bíróságelnökének vezetésével a szenátus eldönti, hogy leváltják -e Rouseffet .
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-265
+2	elnöknek	elnök	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-266
+3	6	6	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-267
+4	hónapig	hónap	NOUN	_	Case=Ter|Number=Sing	_	_	_	tokId=w-268
+5	félre	félre	ADV	_	_	_	_	_	tokId=w-269
+6	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-270
+7	állnia	áll	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	tokId=w-271|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-272
+9	egészen	egészen	ADV	_	_	_	_	_	tokId=w-273
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-274
+11	végső	végső	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-275
+12	tárgyalásig	tárgyalás	NOUN	_	Case=Ter|Number=Sing	_	_	_	tokId=w-276|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-277
+14	ahol	ahol	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-278
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-279
+16	Legfelsőbb	Legfelsőbb	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-280|NE=name[ORG]_12
+17	Bíróság	Bíróság	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-281|NE=name[ORG]_12|SpaceAfter=No
+18	elnökének	elnök	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-282
+19	vezetésével	vezetés	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-283
+20	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-284
+21	szenátus	szenátus	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-285
+22	eldönti	eldönt	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-286|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-287
+24	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-288
+25	leváltják	levált	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-289
+26	-e	-e	ADV	_	PronType=Int	_	_	_	tokId=w-290
+27	Rouseffet	Rouseff	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-291|NE=name[PER]_13
+28	.	.	PUNCT	_	_	_	_	_	tokId=w-292
+
+# sent_id = globv_25_s-14
+# text = Ez a drámai folyamat lassan felőrli a brazil állampolgárokat és a politikusokat is, a társadalom kettészakadt: vannak, akik kampányolnak az elnök lemondatása mellett, míg mások „ puha puccsként ” értékelik a folyamatot.
+1	Ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-293
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-294
+3	drámai	drámai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-295
+4	folyamat	folyamat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-296
+5	lassan	lassú	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-297
+6	felőrli	felőröl	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-298
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-299
+8	brazil	brazil	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-300
+9	állampolgárokat	állampolgár	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-301
+10	és	és	CCONJ	_	_	_	_	_	tokId=w-302
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-303
+12	politikusokat	politikus	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-304
+13	is	is	ADV	_	_	_	_	_	tokId=w-305|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-306
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-307
+16	társadalom	társadalom	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-308
+17	kettészakadt	kettészakad	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-309|SpaceAfter=No
+18	:	:	PUNCT	_	_	_	_	_	tokId=w-310
+19	vannak	van	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-311|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-312
+21	akik	aki	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-313
+22	kampányolnak	kampányol	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-314
+23	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-315
+24	elnök	elnök	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-316
+25	lemondatása	lemondatás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-317
+26	mellett	mellett	ADP	_	_	_	_	_	tokId=w-318|SpaceAfter=No
+27	,	,	PUNCT	_	_	_	_	_	tokId=w-319
+28	míg	míg	CCONJ	_	_	_	_	_	tokId=w-320
+29	mások	más	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Ind|Person=3|PronType=Ind	_	_	_	tokId=w-321
+30	„	„	PUNCT	_	_	_	_	_	tokId=w-322
+31	puha	puha	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-323
+32	puccsként	puccs	NOUN	_	Case=Ess|Number=Sing	_	_	_	tokId=w-324
+33	”	”	PUNCT	_	_	_	_	_	tokId=w-325
+34	értékelik	értékel	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-326
+35	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-327
+36	folyamatot	folyamat	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-328|SpaceAfter=No
+37	.	.	PUNCT	_	_	_	_	_	tokId=w-329
+
+# sent_id = globv_25_s-15
+# text = A Kulturális Minisztérium megszüntetése feldühítette a brazil művészvilágot, melynek szereplői mostanáig 12 városban 18 állami tulajdonban lévő épületet foglaltak el.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-330
+2	Kulturális	Kulturális	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-331|NE=name[ORG]_14
+3	Minisztérium	Minisztérium	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-332|NE=name[ORG]_14
+4	megszüntetése	megszüntetés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-333
+5	feldühítette	feldühít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-334
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-335
+7	brazil	brazil	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-336
+8	művészvilágot	művészvilág	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-337|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-338
+10	melynek	mely	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-339
+11	szereplői	szereplő	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-340
+12	mostanáig	mostanáig	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-341
+13	12	12	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-342
+14	városban	város	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-343
+15	18	18	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-344
+16	állami	állami	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-345
+17	tulajdonban	tulajdon	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-346
+18	lévő	lévő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-347
+19	épületet	épület	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-348
+20	foglaltak	foglal	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-349
+21	el	el	ADV	_	_	_	_	_	tokId=w-350|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-351
+
+# sent_id = globv_25_s-16
+# text = Ezek közül néhányban adnak koncertet híres brazil énekesek és zenészek.
+1	Ezek	ez	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	_	_	_	tokId=w-352
+2	közül	közül	ADP	_	_	_	_	_	tokId=w-353
+3	néhányban	néhány	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-354
+4	adnak	ad	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-355
+5	koncertet	koncert	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-356
+6	híres	híres	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-357
+7	brazil	brazil	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-358
+8	énekesek	énekes	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-359
+9	és	és	CCONJ	_	_	_	_	_	tokId=w-360
+10	zenészek	zenész	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-361|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-362
+
+# sent_id = globv_25_s-17
+# text = Május 25-én a Sao Paolo-i Művészeti Múzeumban tartottak komolyzenei koncertet, amely azért különleges, mert az épület 2013 óta fő helyszíne a kormányellenes tüntetéseknek.
+1	Május	május	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-363
+2	25-én	25	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-364
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-365
+4	Sao	Sao	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-366|NE=name[LOC]_15
+5	Paolo-i	Paolo	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-367|NE=name[LOC]_15
+6	Művészeti	Művészeti	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-368|NE=name[LOC]_15
+7	Múzeumban	Múzeum	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-369|NE=name[LOC]_15
+8	tartottak	tart	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-370
+9	komolyzenei	komolyzenei	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-371
+10	koncertet	koncert	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-372|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-373
+12	amely	amely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-374
+13	azért	az	PRON	_	Case=Cau|Number=Sing|Person=3|PronType=Dem|Person=3|PronType=Dem|Person=3|PronType=Dem	_	_	_	tokId=w-375
+14	különleges	különleges	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-376|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-377
+16	mert	mert	SCONJ	_	_	_	_	_	tokId=w-378
+17	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-379
+18	épület	épület	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-380
+19	2013	2013	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-381
+20	óta	óta	ADP	_	_	_	_	_	tokId=w-382
+21	fő	fő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-383
+22	helyszíne	helyszín	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-384
+23	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-385
+24	kormányellenes	kormányellenes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-386
+25	tüntetéseknek	tüntetés	NOUN	_	Case=Dat|Number=Plur	_	_	_	tokId=w-387|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-388
+

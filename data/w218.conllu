@@ -1,0 +1,462 @@
+# newdoc id = w218
+# sent_id = w218_s-1
+# text = 2. rész Az állam patikatulajdonosi szerepvállalása egyelőre nem tény, csupán végső lehetőség.
+1	2.	2.	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	tokId=w-1
+2	rész	rész	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-2
+3	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-3
+4	állam	állam	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-4
+5	patikatulajdonosi	patikatulajdonosi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-5
+6	szerepvállalása	szerepvállalás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-6
+7	egyelőre	egyelőre	ADV	_	_	_	_	_	tokId=w-7
+8	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-8
+9	tény	tény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-9|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-10
+11	csupán	csupán	ADV	_	_	_	_	_	tokId=w-11
+12	végső	végső	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-12
+13	lehetőség	lehetőség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-13|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-14
+
+# sent_id = w218_s-2
+# text = A Grifols, mint a vérplazma-terápiák nemzetközi szinten vezető forgalmazója, 1,675 milliárd dollárt fizetne a Novartis transzfúziós diagnosztikai üzletágáért.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-15
+2	Grifols	Grifols	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-16|NE=name[ORG]_1|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-17
+4	mint	mint	ADP	_	_	_	_	_	tokId=w-18
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-19
+6	vérplazma-terápiák	vérplazma-terápia	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-20
+7	nemzetközi	nemzetközi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-21
+8	szinten	szint	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-22
+9	vezető	vezető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-23
+10	forgalmazója	forgalmazó	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-24|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-25
+12	1,675	1,675	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-26
+13	milliárd	milliárd	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-27
+14	dollárt	dollár	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-28
+15	fizetne	fizet	VERB	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-29
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-30
+17	Novartis	Novartis	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-31|NE=name[ORG]_2
+18	transzfúziós	transzfúziós	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-32
+19	diagnosztikai	diagnosztikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-33
+20	üzletágáért	üzletág	NOUN	_	Case=Cau|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-34|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-35
+
+# sent_id = w218_s-3
+# text = Ahogy megtudtuk, további változásokra lehet számítani tavasszal.
+1	Ahogy	ahogy	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-36
+2	megtudtuk	megtud	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-37|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-38
+4	további	további	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-39
+5	változásokra	változás	NOUN	_	Case=Sbl|Number=Plur	_	_	_	tokId=w-40
+6	lehet	lesz	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-41
+7	számítani	számít	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-42
+8	tavasszal	tavasz	ADV	_	_	_	_	_	tokId=w-43|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-44
+
+# sent_id = w218_s-4
+# text = Légy szerény, mint a teljesítményed!
+1	Légy	lesz	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-45
+2	szerény	szerény	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-46|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-47
+4	mint	mint	SCONJ	_	_	_	_	_	tokId=w-48
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-49
+6	teljesítményed	teljesítmény	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	_	_	_	tokId=w-50|SpaceAfter=No
+7	!	!	PUNCT	_	_	_	_	_	tokId=w-51
+
+# sent_id = w218_s-5
+# text = A számokat tekintve: nyugati szintű orvosi és kórházi ellátottság, s hozzá a fekete-afrikai országokéval megegyező halálozási mutatók.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-52
+2	számokat	szám	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-53
+3	tekintve	tekintve	ADV	_	_	_	_	_	tokId=w-54|SpaceAfter=No
+4	:	:	PUNCT	_	_	_	_	_	tokId=w-55
+5	nyugati	nyugati	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-56
+6	szintű	szintű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-57
+7	orvosi	orvosi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-58
+8	és	és	CCONJ	_	_	_	_	_	tokId=w-59
+9	kórházi	kórházi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-60
+10	ellátottság	ellátottság	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-61|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-62
+12	s	s	CCONJ	_	_	_	_	_	tokId=w-63
+13	hozzá	ő	PRON	_	Case=All|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-64
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-65
+15	fekete-afrikai	fekete-afrikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-66
+16	országokéval	ország	NOUN	_	Case=Ins|Number=Plur|Number[psed]=Sing	_	_	_	tokId=w-67
+17	megegyező	megegyező	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-68
+18	halálozási	halálozási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-69
+19	mutatók	mutató	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-70|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-71
+
+# sent_id = w218_s-6
+# text = Interjú Bidló Judittal, az OEP Ártámogatási Főosztályánakvezetőjével
+1	Interjú	interjú	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-72
+2	Bidló	Bidló	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-73|NE=name[PER]_3
+3	Judittal	Judit	PROPN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-74|NE=name[PER]_3|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-75
+5	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-76
+6	OEP	OEP	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-77|NE=name[ORG]_4
+7	Ártámogatási	Ártámogatási	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-78|NE=name[ORG]_5
+8	Főosztályának	Főosztály	PROPN	_	Case=Gen|Number=Sing	_	_	_	tokId=w-79|NE=name[ORG]_5|SpaceAfter=No
+9	vezetőjével	vezető	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-80
+
+# sent_id = w218_s-7
+# text = Ha nem történt volna valamilyen megegyezés a mostani találkozón, akkor gyakorlatilag megölték volna az egyébként sem túl erős párizsi egyezményt.
+1	Ha	ha	SCONJ	_	_	_	_	_	tokId=w-81
+2	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-82
+3	történt	történik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-83
+4	volna	van	AUX	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-84
+5	valamilyen	valamilyen	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind	_	_	_	tokId=w-85
+6	megegyezés	megegyezés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-86
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-87
+8	mostani	mostani	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-88
+9	találkozón	találkozó	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-89|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-90
+11	akkor	akkor	ADV	_	PronType=Dem	_	_	_	tokId=w-91
+12	gyakorlatilag	gyakorlatilag	ADV	_	_	_	_	_	tokId=w-92
+13	megölték	megöl	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-93
+14	volna	van	AUX	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-94
+15	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-95
+16	egyébként	egyébként	ADV	_	_	_	_	_	tokId=w-96
+17	sem	sem	ADV	_	PronType=Neg	_	_	_	tokId=w-97
+18	túl	túl	ADV	_	_	_	_	_	tokId=w-98
+19	erős	erős	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-99
+20	párizsi	párizsi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-100
+21	egyezményt	egyezmény	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-101|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-102
+
+# sent_id = w218_s-8
+# text = Ennek a négy gleccsernek a magasságát 2008-ban mérték először, és a legfrissebb megfigyelés szerint azóta közel 3 méterrel alacsonyabbak lettek, ráadásul nagyjából 3 százalékkal nőtt a sebességük.
+1	Ennek	ez	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-103
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-104
+3	négy	négy	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-105
+4	gleccsernek	gleccser	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-106
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-107
+6	magasságát	magasság	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-108
+7	2008-ban	2008	NUM	_	Case=Ine|Number=Sing|NumType=Card	_	_	_	tokId=w-109
+8	mérték	mér	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-110
+9	először	először	ADV	_	_	_	_	_	tokId=w-111|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-112
+11	és	és	CCONJ	_	_	_	_	_	tokId=w-113
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-114
+13	legfrissebb	friss	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-115
+14	megfigyelés	megfigyelés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-116
+15	szerint	szerint	ADP	_	_	_	_	_	tokId=w-117
+16	azóta	azóta	ADV	_	PronType=Dem	_	_	_	tokId=w-118
+17	közel	közel	ADV	_	_	_	_	_	tokId=w-119
+18	3	3	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-120
+19	méterrel	méter	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-121
+20	alacsonyabbak	alacsony	ADJ	_	Case=Nom|Degree=Cmp|Number=Plur	_	_	_	tokId=w-122
+21	lettek	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-123|SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-124
+23	ráadásul	ráadásul	ADV	_	_	_	_	_	tokId=w-125
+24	nagyjából	nagyjából	ADV	_	_	_	_	_	tokId=w-126
+25	3	3	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-127
+26	százalékkal	százalék	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-128
+27	nőtt	nő	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-129
+28	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-130
+29	sebességük	sebesség	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-131|SpaceAfter=No
+30	.	.	PUNCT	_	_	_	_	_	tokId=w-132
+
+# sent_id = w218_s-9
+# text = Nyugaton a közélet uralja a Twittert , nálunk valami egészen más
+1	Nyugaton	nyugat	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-133
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-134
+3	közélet	közélet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-135
+4	uralja	ural	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-136
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-137
+6	Twittert	Twitter	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-138|NE=name[MISC]_6
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-139
+8	nálunk	mi	PRON	_	Case=Ade|Number=Plur|Person=1|PronType=Prs	_	_	_	tokId=w-140
+9	valami	valami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind	_	_	_	tokId=w-141
+10	egészen	egészen	ADV	_	_	_	_	_	tokId=w-142
+11	más	más	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind|Person=3|PronType=Ind	_	_	_	tokId=w-143
+
+# sent_id = w218_s-10
+# text = A Twittersosem lett igazán népszerű Magyarországon .
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-144
+2	Twitter	Twitter	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-145|NE=name[MISC]_7|SpaceAfter=No
+3	sosem	sosem	ADV	_	_	_	_	_	tokId=w-146
+4	lett	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-147
+5	igazán	igazán	ADV	_	_	_	_	_	tokId=w-148
+6	népszerű	népszerű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-149
+7	Magyarországon	Magyarország	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-150|NE=name[LOC]_8
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-151
+
+# sent_id = w218_s-11
+# text = A Twitter a nyugati világban a politikai szereplők egyik legfontosabb csatornája.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-152
+2	Twitter	Twitter	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-153|NE=name[MISC]_9
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-154
+4	nyugati	nyugati	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-155
+5	világban	világ	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-156
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-157
+7	politikai	politikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-158
+8	szereplők	szereplő	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-159
+9	egyik	egyik	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-160
+10	legfontosabb	fontos	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	_	_	_	tokId=w-161
+11	csatornája	csatorna	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-162|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-163
+
+# sent_id = w218_s-12
+# text = Az ismertebb a dajcstomi néven tweetelő, Csányi Sándor által Twitter-huszárnak nevezett Deutsch Tamás európai parlamenti képviselő, akinek több mint 70 ezer követője van.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-164
+2	ismertebb	ismert	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	tokId=w-165
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-166
+4	dajcstomi	dajcstomi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-167|NE=name[MISC]_10
+5	néven	név	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-168
+6	tweetelő	tweetelő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-169|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-170
+8	Csányi	Csányi	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-171|NE=name[PER]_11
+9	Sándor	Sándor	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-172|NE=name[PER]_11
+10	által	által	ADP	_	_	_	_	_	tokId=w-173
+11	Twitter-huszárnak	Twitter-huszár	PROPN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-174
+12	nevezett	nevezett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-175
+13	Deutsch	Deutsch	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-176|NE=name[PER]_12
+14	Tamás	Tamás	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-177|NE=name[PER]_12
+15	európai	európai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-178
+16	parlamenti	parlamenti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-179
+17	képviselő	képviselő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-180|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-181
+19	akinek	aki	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-182
+20	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-183
+21	mint	mint	SCONJ	_	_	_	_	_	tokId=w-184
+22	70	70	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-185
+23	ezer	ezer	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-186
+24	követője	követő	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-187
+25	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-188|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-189
+
+# sent_id = w218_s-13
+# text = Ennek jelentőségét a befektetők egy része még nem mérte fel, de legalábbis úgy tűnik, a piac nem tartotta fontosnak beárazni.
+1	Ennek	ez	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-190
+2	jelentőségét	jelentőség	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-191
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-192
+4	befektetők	befektető	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-193
+5	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-194
+6	része	rész	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-195
+7	még	még	ADV	_	_	_	_	_	tokId=w-196
+8	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-197
+9	mérte	mér	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-198
+10	fel	fel	ADV	_	Degree=Pos	_	_	_	tokId=w-199|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-200
+12	de	de	CCONJ	_	_	_	_	_	tokId=w-201
+13	legalábbis	legalábbis	ADV	_	_	_	_	_	tokId=w-202
+14	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-203
+15	tűnik	tűnik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-204|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-205
+17	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-206
+18	piac	piac	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-207
+19	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-208
+20	tartotta	tart	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-209
+21	fontosnak	fontos	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	tokId=w-210
+22	beárazni	beáraz	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-211|SpaceAfter=No
+23	.	.	PUNCT	_	_	_	_	_	tokId=w-212
+
+# sent_id = w218_s-14
+# text = Ennek tünete az, hogy a környezetvédelmi átmenet stratégiája figyelmen kívül hagyta az üzemanyag-szegénység fogalmát.
+1	Ennek	ez	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-213
+2	tünete	tünet	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-214
+3	az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-215|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-216
+5	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-217
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-218
+7	környezetvédelmi	környezetvédelmi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-219
+8	átmenet	átmenet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-220
+9	stratégiája	stratégia	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-221
+10	figyelmen	figyelem	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-222
+11	kívül	kívül	ADP	_	_	_	_	_	tokId=w-223
+12	hagyta	hagy	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-224
+13	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-225
+14	üzemanyag-szegénység	üzemanyag-szegénység	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-226
+15	fogalmát	fogalom	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-227|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-228
+
+# sent_id = w218_s-15
+# text = Az eurórendszer pénzügyi korlátait a francia kormány egyre jobban fogja érezni.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-229
+2	eurórendszer	eurórendszer	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-230
+3	pénzügyi	pénzügyi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-231
+4	korlátait	korlát	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-232
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-233
+6	francia	francia	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-234
+7	kormány	kormány	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-235
+8	egyre	egyre	ADV	_	_	_	_	_	tokId=w-236
+9	jobban	jól	ADV	_	Degree=Cmp	_	_	_	tokId=w-237
+10	fogja	fog	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-238
+11	érezni	érez	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-239|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-240
+
+# sent_id = w218_s-16
+# text = Kína viszont arányaiban kevesebbet költ fegyverekre, mint a nyolcvanas években, és a jelenlegi világátlagot sem érik el katonai kiadásai.
+1	Kína	Kína	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-241|NE=name[ORG]_13
+2	viszont	viszont	CCONJ	_	_	_	_	_	tokId=w-242
+3	arányaiban	arány	NOUN	_	Case=Ine|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-243
+4	kevesebbet	kevés	NUM	_	Case=Acc|Number=Sing|NumType=Card	_	_	_	tokId=w-244
+5	költ	költ	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-245
+6	fegyverekre	fegyver	NOUN	_	Case=Sbl|Number=Plur	_	_	_	tokId=w-246|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-247
+8	mint	mint	SCONJ	_	_	_	_	_	tokId=w-248
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-249
+10	nyolcvanas	nyolcvanas	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-250
+11	években	év	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-251|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-252
+13	és	és	CCONJ	_	_	_	_	_	tokId=w-253
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-254
+15	jelenlegi	jelenlegi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-255
+16	világátlagot	világátlag	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-256
+17	sem	sem	ADV	_	PronType=Neg	_	_	_	tokId=w-257
+18	érik	ér	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-258
+19	el	el	ADV	_	_	_	_	_	tokId=w-259
+20	katonai	katonai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-260
+21	kiadásai	kiadás	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-261|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-262
+
+# sent_id = w218_s-17
+# text = Részben a békés időszaknak köszönhetően jelentős fejlődésen ment át a világ az elmúlt évtizedekben, így azonban hiába csökken a fegyverekre kiadott pénz GDP-arányosan, a tényleges összegeket tekintve soha nem költött annyit fegyverekre az emberiség, mint most.
+1	Részben	részben	ADV	_	_	_	_	_	tokId=w-263
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-264
+3	békés	békés	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-265
+4	időszaknak	időszak	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-266
+5	köszönhetően	köszönhető	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-267
+6	jelentős	jelentős	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-268
+7	fejlődésen	fejlődés	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-269
+8	ment	megy	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-270
+9	át	át	ADV	_	_	_	_	_	tokId=w-271
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-272
+11	világ	világ	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-273
+12	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-274
+13	elmúlt	elmúlt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-275
+14	évtizedekben	évtized	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-276|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-277
+16	így	így	CCONJ	_	_	_	_	_	tokId=w-278
+17	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-279
+18	hiába	hiába	ADV	_	_	_	_	_	tokId=w-280
+19	csökken	csökken	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-281
+20	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-282
+21	fegyverekre	fegyver	NOUN	_	Case=Sbl|Number=Plur	_	_	_	tokId=w-283
+22	kiadott	kiadott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-284
+23	pénz	pénz	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-285
+24	GDP-arányosan	GDP-arányos	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-286|SpaceAfter=No
+25	,	,	PUNCT	_	_	_	_	_	tokId=w-287
+26	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-288
+27	tényleges	tényleges	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-289
+28	összegeket	összeg	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-290
+29	tekintve	tekintve	ADV	_	_	_	_	_	tokId=w-291
+30	soha	soha	ADV	_	_	_	_	_	tokId=w-292
+31	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-293
+32	költött	költ	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-294
+33	annyit	annyi	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-295
+34	fegyverekre	fegyver	NOUN	_	Case=Sbl|Number=Plur	_	_	_	tokId=w-296
+35	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-297
+36	emberiség	emberiség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-298|SpaceAfter=No
+37	,	,	PUNCT	_	_	_	_	_	tokId=w-299
+38	mint	mint	SCONJ	_	_	_	_	_	tokId=w-300
+39	most	most	ADV	_	_	_	_	_	tokId=w-301|SpaceAfter=No
+40	.	.	PUNCT	_	_	_	_	_	tokId=w-302
+
+# sent_id = w218_s-18
+# text = A római Pantheonbetonkupolája.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-303
+2	római	római	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-304
+3	Pantheon	Pantheon	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-305|NE=name[LOC]_14|SpaceAfter=No
+4	betonkupolája	betonkupola	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-306|SpaceAfter=No
+5	.	.	PUNCT	_	_	_	_	_	tokId=w-307
+
+# sent_id = w218_s-19
+# text = A portlandcement mészkő hevítésével (1400 Celsius-fokon) és néhány ásványi anyag – többek között az agyag – hozzáadásával készül.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-308
+2	portlandcement	portlandcement	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-309
+3	mészkő	mészkő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-310
+4	hevítésével	hevítés	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-311
+5	(	(	PUNCT	_	_	_	_	_	tokId=w-312|SpaceAfter=No
+6	1400	1400	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-313
+7	Celsius-fokon	Celsius-fok	PROPN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-314|SpaceAfter=No
+8	)	)	PUNCT	_	_	_	_	_	tokId=w-315
+9	és	és	CCONJ	_	_	_	_	_	tokId=w-316
+10	néhány	néhány	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-317
+11	ásványi	ásványi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-318
+12	anyag	anyag	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-319
+13	–	–	X	_	_	_	_	_	tokId=w-320
+14	többek	sok	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-321
+15	között	között	ADP	_	_	_	_	_	tokId=w-322
+16	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-323
+17	agyag	agyag	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-324
+18	–	–	X	_	_	_	_	_	tokId=w-325
+19	hozzáadásával	hozzáadás	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-326
+20	készül	készül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-327|SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	tokId=w-328
+
+# sent_id = w218_s-20
+# text = Építkezés Dubajban .
+1	Építkezés	építkezés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-329
+2	Dubajban	Dubaj	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-330|NE=name[LOC]_15
+3	.	.	PUNCT	_	_	_	_	_	tokId=w-331
+
+# sent_id = w218_s-21
+# text = Egy amerikai cég pedig biocement létrehozásával próbálkozik.
+1	Egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-332
+2	amerikai	amerikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-333
+3	cég	cég	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-334
+4	pedig	pedig	CCONJ	_	_	_	_	_	tokId=w-335
+5	biocement	biocement	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-336
+6	létrehozásával	létrehozás	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-337
+7	próbálkozik	próbálkozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-338|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-339
+
+# sent_id = w218_s-22
+# text = A budapesti üzlet
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-340
+2	budapesti	budapesti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-341
+3	üzlet	üzlet	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-342
+
+# sent_id = w218_s-23
+# text = Igaz, a német Hoffenheim közigazgatásilag csupán egy 3500 fős kis település, és a város nevét viselő csapat stadionja 30 ezres, ezt azonban azért nem tekintik reális összehasonlításnak, mert a környék települései össze vannak nőve, és az agglomeráció tényleges lakossága 35 ezer fő körül van.
+1	Igaz	igaz	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-343|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-344
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-345
+4	német	német	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-346
+5	Hoffenheim	Hoffenheim	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-347|NE=name[LOC]_16
+6	közigazgatásilag	közigazgatásilag	ADV	_	_	_	_	_	tokId=w-348
+7	csupán	csupán	ADV	_	_	_	_	_	tokId=w-349
+8	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-350
+9	3500	3500	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-351
+10	fős	fős	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-352
+11	kis	kis	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-353
+12	település	település	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-354|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-355
+14	és	és	CCONJ	_	_	_	_	_	tokId=w-356
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-357
+16	város	város	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-358
+17	nevét	név	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-359
+18	viselő	viselő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-360
+19	csapat	csapat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-361
+20	stadionja	stadion	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-362
+21	30	30	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-363
+22	ezres	ezres	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-364|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-365
+24	ezt	ez	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-366
+25	azonban	azonban	CCONJ	_	_	_	_	_	tokId=w-367
+26	azért	azért	ADV	_	PronType=Dem	_	_	_	tokId=w-368
+27	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-369
+28	tekintik	tekint	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-370
+29	reális	reális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-371
+30	összehasonlításnak	összehasonlítás	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-372|SpaceAfter=No
+31	,	,	PUNCT	_	_	_	_	_	tokId=w-373
+32	mert	mert	SCONJ	_	_	_	_	_	tokId=w-374
+33	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-375
+34	környék	környék	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-376
+35	települései	település	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-377
+36	össze	össze	ADV	_	Degree=Pos	_	_	_	tokId=w-378
+37	vannak	van	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-379
+38	nőve	nőve	ADV	_	VerbForm=Conv	_	_	_	tokId=w-380|SpaceAfter=No
+39	,	,	PUNCT	_	_	_	_	_	tokId=w-381
+40	és	és	CCONJ	_	_	_	_	_	tokId=w-382
+41	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-383
+42	agglomeráció	agglomeráció	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-384
+43	tényleges	tényleges	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-385
+44	lakossága	lakosság	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-386
+45	35	35	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-387
+46	ezer	ezer	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-388
+47	fő	fő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-389
+48	körül	körül	ADP	_	_	_	_	_	tokId=w-390
+49	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-391|SpaceAfter=No
+50	.	.	PUNCT	_	_	_	_	_	tokId=w-392
+

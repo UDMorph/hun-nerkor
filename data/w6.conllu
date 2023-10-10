@@ -1,0 +1,40 @@
+# newdoc id = w6
+# sent_id = w6_s-1
+# text = Több eszköz all a rendelkezesedre, hogy meg vizsgaldd és kezelni tudd a kis betegeket.
+1	Több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-1
+2	eszköz	eszköz	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-2
+3	all	áll	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-3
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-4
+5	rendelkezesedre	rendelekezés	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=2	_	_	_	tokId=w-5|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-6
+7	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-7
+8	meg	meg	PART	_	_	_	_	_	tokId=w-8
+9	vizsgaldd	vizsgál	VERB	_	Definite=Def|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-9
+10	és	és	CCONJ	_	_	_	_	_	tokId=w-10
+11	kezelni	kezel	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-11
+12	tudd	tud	VERB	_	Definite=Def|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-12
+13	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-13
+14	kis	kis	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-14
+15	betegeket	beteg	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-15|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-16
+
+# sent_id = w6_s-2
+# text = Megjegyzés: a Baby Doctor Officet ingyenesen lehet játszani, de aktív az in-app vásárlás opcio.
+1	Megjegyzés	megjegyzés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-17|SpaceAfter=No
+2	:	:	PUNCT	_	_	_	_	_	tokId=w-18
+3	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-19
+4	Baby	Baby	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-20|NE=name[MISC]_1
+5	Doctor	Doctor	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-21|NE=name[MISC]_1
+6	Officet	Office	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-22|NE=name[MISC]_1
+7	ingyenesen	ingyenes	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-23
+8	lehet	lesz	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-24
+9	játszani	játszik	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-25|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-26
+11	de	de	CCONJ	_	_	_	_	_	tokId=w-27
+12	aktív	aktív	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-28
+13	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-29
+14	in-app	in-app	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-30
+15	vásárlás	vásárlási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-31
+16	opcio	opció	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-32|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-33
+

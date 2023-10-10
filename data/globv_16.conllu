@@ -1,0 +1,321 @@
+# newdoc id = globv_16
+# sent_id = globv_16_s-1
+# text = Üzbegisztán elnöke jóváhagyta a 2012 áprilisában hatályba lépő, alkohol- és dohánytermékek forgalmazását és fogyasztását érintő törvényt.
+1	Üzbegisztán	Üzbegisztán	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-1|NE=name[LOC]_1
+2	elnöke	elnök	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-2
+3	jóváhagyta	jóváhagy	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-3
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-4
+5	2012	2012	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-5
+6	áprilisában	április	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-6
+7	hatályba	hatály	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-7
+8	lépő	lépő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-8|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-9
+10	alkohol-	alkohol	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-10
+11	és	és	CCONJ	_	_	_	_	_	tokId=w-11
+12	dohánytermékek	dohánytermék	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-12
+13	forgalmazását	forgalmazás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-13
+14	és	és	CCONJ	_	_	_	_	_	tokId=w-14
+15	fogyasztását	fogyasztás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-15
+16	érintő	érintő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-16
+17	törvényt	törvény	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-17|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-18
+
+# sent_id = globv_16_s-2
+# text = A törvény kimondja, hogy tilos az alkohol fogyasztása az utcákon, parkokban s más nyilvános helyeken.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-19
+2	törvény	törvény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-20
+3	kimondja	kimond	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-21|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-22
+5	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-23
+6	tilos	tilos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-24
+7	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-25
+8	alkohol	alkohol	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-26
+9	fogyasztása	fogyasztás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-27
+10	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-28
+11	utcákon	utca	NOUN	_	Case=Sup|Number=Plur	_	_	_	tokId=w-29|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-30
+13	parkokban	park	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-31
+14	s	s	CCONJ	_	_	_	_	_	tokId=w-32
+15	más	más	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind|Person=3|PronType=Ind	_	_	_	tokId=w-33
+16	nyilvános	nyilvános	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-34
+17	helyeken	hely	NOUN	_	Case=Sup|Number=Plur	_	_	_	tokId=w-35|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-36
+
+# sent_id = globv_16_s-3
+# text = Ez minden olyan fogyasztási termékre vonatkozik, amely 1,5%-nál több alkoholt tartalmaz, és azt jelenti, hogy vélhetőleg még akár a sört is csak otthon vagy kávézókban, illetve kocsmákban lehet fogyasztani.
+1	Ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-37
+2	minden	minden	DET	_	Definite=Ind|PronType=Tot	_	_	_	tokId=w-38
+3	olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-39
+4	fogyasztási	fogyasztási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-40
+5	termékre	termék	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-41
+6	vonatkozik	vonatkozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-42|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-43
+8	amely	amely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-44
+9	1,5%-nál	1,5	NOUN	_	Case=Ade|Number=Sing	_	_	_	tokId=w-45
+10	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-46
+11	alkoholt	alkohol	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-47
+12	tartalmaz	tartalmaz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-48|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-49
+14	és	és	CCONJ	_	_	_	_	_	tokId=w-50
+15	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-51
+16	jelenti	jelent	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-52|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-53
+18	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-54
+19	vélhetőleg	vélhetőleg	ADV	_	_	_	_	_	tokId=w-55
+20	még	még	ADV	_	_	_	_	_	tokId=w-56
+21	akár	akár	ADV	_	_	_	_	_	tokId=w-57
+22	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-58
+23	sört	sör	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-59
+24	is	is	ADV	_	_	_	_	_	tokId=w-60
+25	csak	csak	ADV	_	_	_	_	_	tokId=w-61
+26	otthon	otthon	ADV	_	_	_	_	_	tokId=w-62
+27	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-63
+28	kávézókban	kávézó	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-64|SpaceAfter=No
+29	,	,	PUNCT	_	_	_	_	_	tokId=w-65
+30	illetve	illetve	CCONJ	_	_	_	_	_	tokId=w-66
+31	kocsmákban	kocsma	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-67
+32	lehet	lesz	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-68
+33	fogyasztani	fogyaszt	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-69|SpaceAfter=No
+34	.	.	PUNCT	_	_	_	_	_	tokId=w-70
+
+# sent_id = globv_16_s-4
+# text = Ugyanakkor érdekes kérdés, hogy vajon a kormányzat megfontolja -e a dohányzás tilalmát a nyilvános helyeken, vagy a dohánytermékek fogyasztására külön alternatívákat dolgoz ki.
+1	Ugyanakkor	ugyanakkor	CCONJ	_	_	_	_	_	tokId=w-71
+2	érdekes	érdekes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-72
+3	kérdés	kérdés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-73|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-74
+5	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-75
+6	vajon	vajon	ADV	_	_	_	_	_	tokId=w-76
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-77
+8	kormányzat	kormányzat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-78
+9	megfontolja	megfontol	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-79
+10	-e	-e	ADV	_	PronType=Int	_	_	_	tokId=w-80
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-81
+12	dohányzás	dohányzás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-82
+13	tilalmát	tilalom	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-83
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-84
+15	nyilvános	nyilvános	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-85
+16	helyeken	hely	NOUN	_	Case=Sup|Number=Plur	_	_	_	tokId=w-86|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-87
+18	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-88
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-89
+20	dohánytermékek	dohánytermék	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-90
+21	fogyasztására	fogyasztás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-91
+22	külön	külön	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-92
+23	alternatívákat	alternatíva	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-93
+24	dolgoz	dolgoz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-94
+25	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-95|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-96
+
+# sent_id = globv_16_s-5
+# text = Mindezentúl a törvény kitér a dohány- és alkoholtermékek reklámjára is; szöveges vagy rajzos orvosi figyelmeztetést kell feltüntetni a címke felületének legalább 40%-án, ami a jelenlegi jogszabályok szerint csak a címke 5%-án követelmény.
+1	Mindezentúl	Mindezentúl	ADV	_	_	_	_	_	tokId=w-97
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-98
+3	törvény	törvény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-99
+4	kitér	kitér	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-100
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-101
+6	dohány-	dohány	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-102
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-103
+8	alkoholtermékek	alkoholtermék	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-104
+9	reklámjára	reklám	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-105
+10	is	is	ADV	_	_	_	_	_	tokId=w-106|SpaceAfter=No
+11	;	;	PUNCT	_	_	_	_	_	tokId=w-107
+12	szöveges	szöveges	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-108
+13	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-109
+14	rajzos	rajzos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-110
+15	orvosi	orvosi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-111
+16	figyelmeztetést	figyelmeztetés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-112
+17	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-113
+18	feltüntetni	feltüntet	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-114
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-115
+20	címke	címke	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-116
+21	felületének	felület	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-117
+22	legalább	legalább	ADV	_	_	_	_	_	tokId=w-118
+23	40%-án	40	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-119|SpaceAfter=No
+24	,	,	PUNCT	_	_	_	_	_	tokId=w-120
+25	ami	ami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-121
+26	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-122
+27	jelenlegi	jelenlegi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-123
+28	jogszabályok	jogszabály	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-124
+29	szerint	szerint	ADP	_	_	_	_	_	tokId=w-125
+30	csak	csak	ADV	_	_	_	_	_	tokId=w-126
+31	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-127
+32	címke	címke	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-128
+33	5%-án	5	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-129
+34	követelmény	követelmény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-130|SpaceAfter=No
+35	.	.	PUNCT	_	_	_	_	_	tokId=w-131
+
+# sent_id = globv_16_s-6
+# text = Megjegyzésre érdemes, hogy a dohány- és alkoholtermékek forgalmazásának teljes tilalmát vezetik be a 20 évnél fiatalabbakra.
+1	Megjegyzésre	megjegyzés	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-132
+2	érdemes	érdemes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-133|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-134
+4	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-135
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-136
+6	dohány-	dohány	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-137
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-138
+8	alkoholtermékek	alkoholtermék	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-139
+9	forgalmazásának	forgalmazás	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-140
+10	teljes	teljes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-141
+11	tilalmát	tilalom	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-142
+12	vezetik	vezet	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-143
+13	be	be	ADV	_	Degree=Pos	_	_	_	tokId=w-144
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-145
+15	20	20	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-146
+16	évnél	év	NOUN	_	Case=Ade|Number=Sing	_	_	_	tokId=w-147
+17	fiatalabbakra	fiatal	ADJ	_	Case=Sbl|Degree=Cmp|Number=Plur	_	_	_	tokId=w-148|SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	tokId=w-149
+
+# sent_id = globv_16_s-7
+# text = Ennek a korhatárnak az oka nem teljesen világos, lévén, hogy az üzbég törvények a felnőttség és a teljes jogi felelősség korhatárát 18 évben adják meg.
+1	Ennek	ez	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-150
+2	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-151
+3	korhatárnak	korhatár	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-152
+4	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-153
+5	oka	ok	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-154
+6	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-155
+7	teljesen	teljes	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-156
+8	világos	világos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-157|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-158
+10	lévén	lévén	ADV	_	_	_	_	_	tokId=w-159|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-160
+12	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-161
+13	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-162
+14	üzbég	üzbég	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-163
+15	törvények	törvény	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-164
+16	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-165
+17	felnőttség	felnőttség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-166
+18	és	és	CCONJ	_	_	_	_	_	tokId=w-167
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-168
+20	teljes	teljes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-169
+21	jogi	jogi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-170
+22	felelősség	felelősség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-171
+23	korhatárát	korhatár	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-172
+24	18	18	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-173
+25	évben	év	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-174
+26	adják	ad	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-175
+27	meg	meg	PART	_	_	_	_	_	tokId=w-176|SpaceAfter=No
+28	.	.	PUNCT	_	_	_	_	_	tokId=w-177
+
+# sent_id = globv_16_s-8
+# text = Mindmáig élő jelenség Üzbegisztánban a szálanként árusított cigaretta.
+1	Mindmáig	mindmáig	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-178
+2	élő	élő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-179
+3	jelenség	jelenség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-180
+4	Üzbegisztánban	Üzbegisztán	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-181|NE=name[LOC]_2
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-182
+6	szálanként	szál	ADV	_	_	_	_	_	tokId=w-183
+7	árusított	árusított	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-184
+8	cigaretta	cigaretta	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-185|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-186
+
+# sent_id = globv_16_s-9
+# text = Bábuskák (idős asszonyok) árusítják, akik zsámolyokon ülnek az utcákon, és hasonló zsámolyokról apróságokat árusítanak – rágógumit, magvakat s szálanként cigarettát.
+1	Bábuskák	bábuska	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-187
+2	(	(	PUNCT	_	_	_	_	_	tokId=w-188|SpaceAfter=No
+3	idős	idős	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-189
+4	asszonyok	asszony	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-190|SpaceAfter=No
+5	)	)	PUNCT	_	_	_	_	_	tokId=w-191
+6	árusítják	árusít	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-192|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-193
+8	akik	aki	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-194
+9	zsámolyokon	zsámoly	NOUN	_	Case=Sup|Number=Plur	_	_	_	tokId=w-195
+10	ülnek	ül	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-196
+11	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-197
+12	utcákon	utca	NOUN	_	Case=Sup|Number=Plur	_	_	_	tokId=w-198|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-199
+14	és	és	CCONJ	_	_	_	_	_	tokId=w-200
+15	hasonló	hasonló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-201
+16	zsámolyokról	zsámoly	NOUN	_	Case=Del|Number=Plur	_	_	_	tokId=w-202
+17	apróságokat	apróság	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-203
+18	árusítanak	árusít	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-204
+19	–	–	X	_	_	_	_	_	tokId=w-205
+20	rágógumit	rágógumi	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-206|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-207
+22	magvakat	mag	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-208
+23	s	s	CCONJ	_	_	_	_	_	tokId=w-209
+24	szálanként	szál	ADV	_	_	_	_	_	tokId=w-210
+25	cigarettát	cigaretta	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-211|SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	tokId=w-212
+
+# sent_id = globv_16_s-10
+# text = Elsődleges vásárlóik iskolások és más diákok, akik szünetekben kilógnak cigarettázni az iskolából.
+1	Elsődleges	elsődleges	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-213
+2	vásárlóik	vásárló	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-214
+3	iskolások	iskolás	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-215
+4	és	és	CCONJ	_	_	_	_	_	tokId=w-216
+5	más	más	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-217
+6	diákok	diák	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-218|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-219
+8	akik	aki	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-220
+9	szünetekben	szünet	NOUN	_	Case=Ine|Number=Plur	_	_	_	tokId=w-221
+10	kilógnak	kilóg	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-222
+11	cigarettázni	cigarettázik	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-223
+12	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-224
+13	iskolából	iskola	NOUN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-225|SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	tokId=w-226
+
+# sent_id = globv_16_s-11
+# text = A törvényhozók nem feledkeztek meg róluk.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-227
+2	törvényhozók	törvényhozó	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-228
+3	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-229
+4	feledkeztek	feledkezik	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-230
+5	meg	meg	PART	_	_	_	_	_	tokId=w-231
+6	róluk	róla	PRON	_	Case=Del|Number=Plur|Person=3|PronType=Prs	_	_	_	tokId=w-232|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-233
+
+# sent_id = globv_16_s-12
+# text = Most már tilos csomag nélkül, azaz szálanként árusítani a cigarettát.
+1	Most	most	ADV	_	_	_	_	_	tokId=w-234
+2	már	már	ADV	_	_	_	_	_	tokId=w-235
+3	tilos	tilos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-236
+4	csomag	csomag	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-237
+5	nélkül	nélkül	ADP	_	_	_	_	_	tokId=w-238|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-239
+7	azaz	azaz	CCONJ	_	_	_	_	_	tokId=w-240
+8	szálanként	szál	ADV	_	_	_	_	_	tokId=w-241
+9	árusítani	árusít	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-242
+10	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-243
+11	cigarettát	cigaretta	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-244|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-245
+
+# sent_id = globv_16_s-13
+# text = Az alkohol- és dohánytermékek reklámozása és fogyasztásuk népszerűsítése szintén tilos.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-246
+2	alkohol-	alkohol	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-247
+3	és	és	CCONJ	_	_	_	_	_	tokId=w-248
+4	dohánytermékek	dohánytermék	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-249
+5	reklámozása	reklámozás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-250
+6	és	és	CCONJ	_	_	_	_	_	tokId=w-251
+7	fogyasztásuk	fogyasztás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-252
+8	népszerűsítése	népszerűsítés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-253
+9	szintén	szintén	ADV	_	_	_	_	_	tokId=w-254
+10	tilos	tilos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-255|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-256
+
+# sent_id = globv_16_s-14
+# text = A jelenleg hatályos törvény például mindkét árucikk reklámozását megengedi, a magas alkoholtartalmú italok kivételével, melyeket nappal nem lehet reklámozni.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-257
+2	jelenleg	jelenleg	ADV	_	_	_	_	_	tokId=w-258
+3	hatályos	hatályos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-259
+4	törvény	törvény	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-260
+5	például	például	ADV	_	_	_	_	_	tokId=w-261
+6	mindkét	mindkét	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-262
+7	árucikk	árucikk	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-263
+8	reklámozását	reklámozás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-264
+9	megengedi	megenged	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-265|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-266
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-267
+12	magas	magas	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-268
+13	alkoholtartalmú	alkoholtartalmú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-269
+14	italok	ital	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-270
+15	kivételével	kivétel	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-271|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-272
+17	melyeket	mely	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Rel	_	_	_	tokId=w-273
+18	nappal	nappal	ADV	_	_	_	_	_	tokId=w-274
+19	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-275
+20	lehet	lesz	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-276
+21	reklámozni	reklámoz	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-277|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-278
+

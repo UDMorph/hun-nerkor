@@ -1,0 +1,294 @@
+# newdoc id = globv_12
+# sent_id = globv_12_s-1
+# text = Több mint háromszáz e-mailt szivárogtattak ki a szerb befektetési és export promóciós ügynökség, a SIEPA rendszeréből a szerb média több szereplőjének, köztük a Balkanist online magazinnak is.
+1	Több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-1
+2	mint	mint	SCONJ	_	_	_	_	_	tokId=w-2
+3	háromszáz	háromszáz	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-3
+4	e-mailt	e-mail	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-4
+5	szivárogtattak	szivárogtat	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	_	_	_	tokId=w-5
+6	ki	ki	ADV	_	Degree=Pos	_	_	_	tokId=w-6
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-7
+8	szerb	szerb	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-8
+9	befektetési	befektetési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-9
+10	és	és	CCONJ	_	_	_	_	_	tokId=w-10
+11	export	export	X	_	_	_	_	_	tokId=w-11
+12	promóciós	promóciós	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-12
+13	ügynökség	ügynökség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-13|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-14
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-15
+16	SIEPA	SIEPA	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-16|NE=name[ORG]_1
+17	rendszeréből	rendszer	NOUN	_	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-17
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-18
+19	szerb	szerb	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-19
+20	média	média	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-20
+21	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-21
+22	szereplőjének	szereplő	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-22|SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	tokId=w-23
+24	köztük	közt	ADP	_	_	_	_	_	tokId=w-24
+25	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-25
+26	Balkanist	Balkanist	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-26|NE=name[ORG]_2
+27	online	online	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-27
+28	magazinnak	magazin	NOUN	_	Case=Dat|Number=Sing	_	_	_	tokId=w-28
+29	is	is	ADV	_	_	_	_	_	tokId=w-29|SpaceAfter=No
+30	.	.	PUNCT	_	_	_	_	_	tokId=w-30
+
+# sent_id = globv_12_s-2
+# text = Az e-mailek az ügynökség pénzalapját érintő korrupció, nepotizmus és hűtlen kezelés gyanúját vetik fel, valamint a kormányzati ügynökség vezető tisztviselői és alkalmazottai által elkövetett szabálytalanságokra utalnak.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-31
+2	e-mailek	e-mail	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-32
+3	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-33
+4	ügynökség	ügynökség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-34
+5	pénzalapját	pénzalap	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-35
+6	érintő	érintő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-36
+7	korrupció	korrupció	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-37|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-38
+9	nepotizmus	nepotizmus	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-39
+10	és	és	CCONJ	_	_	_	_	_	tokId=w-40
+11	hűtlen	hűtlen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-41
+12	kezelés	kezelés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-42
+13	gyanúját	gyanú	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-43
+14	vetik	vet	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-44
+15	fel	fel	ADV	_	Degree=Pos	_	_	_	tokId=w-45|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-46
+17	valamint	valamint	CCONJ	_	_	_	_	_	tokId=w-47
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-48
+19	kormányzati	kormányzati	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-49
+20	ügynökség	ügynökség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-50
+21	vezető	vezető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-51
+22	tisztviselői	tisztviselő	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-52
+23	és	és	CCONJ	_	_	_	_	_	tokId=w-53
+24	alkalmazottai	alkalmazott	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-54
+25	által	által	ADP	_	_	_	_	_	tokId=w-55
+26	elkövetett	elkövetett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-56
+27	szabálytalanságokra	szabálytalanság	NOUN	_	Case=Sbl|Number=Plur	_	_	_	tokId=w-57
+28	utalnak	utal	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-58|SpaceAfter=No
+29	.	.	PUNCT	_	_	_	_	_	tokId=w-59
+
+# sent_id = globv_12_s-3
+# text = Božidar Laganin, a SIEPA igazgatója felhívta a figyelmet arra, hogy az e-mailekhez illegálisan jutottak hozzá a szivárogtatók, és manipulálhatták a tartalmukat.
+1	Božidar	Božidar	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-60|NE=name[PER]_3
+2	Laganin	Laganin	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-61|NE=name[PER]_3|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-62
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-63
+5	SIEPA	SIEPA	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-64|NE=name[ORG]_4
+6	igazgatója	igazgató	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-65
+7	felhívta	felhív	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-66
+8	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-67
+9	figyelmet	figyelem	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-68
+10	arra	az	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-69|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-70
+12	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-71
+13	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-72
+14	e-mailekhez	e-mail	NOUN	_	Case=All|Number=Plur	_	_	_	tokId=w-73
+15	illegálisan	illegális	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-74
+16	jutottak	jut	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-75
+17	hozzá	hozzá	ADV	_	_	_	_	_	tokId=w-76
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-77
+19	szivárogtatók	szivárogtató	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	tokId=w-78|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-79
+21	és	és	CCONJ	_	_	_	_	_	tokId=w-80
+22	manipulálhatták	manipulál	VERB	_	Definite=Def|Mood=Pot|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-81
+23	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-82
+24	tartalmukat	tartalom	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=3	_	_	_	tokId=w-83|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-84
+
+# sent_id = globv_12_s-4
+# text = Figyelmeztetett, hogy a SIEPA szervereit feltörték, így bárki, aki publikálja vagy terjeszti az e-maileket, számítson az ezzel járó jogi következményekre.
+1	Figyelmeztetett	figyelmeztet	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-85|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-86
+3	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-87
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-88
+5	SIEPA	SIEPA	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-89|NE=name[ORG]_5
+6	szervereit	szerver	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-90
+7	feltörték	feltör	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-91|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-92
+9	így	így	CCONJ	_	_	_	_	_	tokId=w-93
+10	bárki	bárki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind	_	_	_	tokId=w-94|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-95
+12	aki	aki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-96
+13	publikálja	publikál	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-97
+14	vagy	vagy	CCONJ	_	_	_	_	_	tokId=w-98
+15	terjeszti	terjeszt	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-99
+16	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-100
+17	e-maileket	e-mail	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-101|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-102
+19	számítson	számít	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-103
+20	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-104
+21	ezzel	ez	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-105
+22	járó	járó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-106
+23	jogi	jogi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-107
+24	következményekre	következmény	NOUN	_	Case=Sbl|Number=Plur	_	_	_	tokId=w-108|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-109
+
+# sent_id = globv_12_s-5
+# text = Laganin nem sokkal nyilatkozata után beadta hivatalos lemondását igazgatói tisztségéről.
+1	Laganin	Laganin	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-110|NE=name[PER]_6
+2	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-111
+3	sokkal	sokkal	ADV	_	_	_	_	_	tokId=w-112
+4	nyilatkozata	nyilatkozat	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-113
+5	után	után	ADP	_	_	_	_	_	tokId=w-114
+6	beadta	bead	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-115
+7	hivatalos	hivatalos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-116
+8	lemondását	lemondás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-117
+9	igazgatói	igazgatói	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-118
+10	tisztségéről	tisztség	NOUN	_	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-119|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-120
+
+# sent_id = globv_12_s-6
+# text = A Balkanist magazin úgy döntött, közzéteszi az e-mailek egy részének elemzését, egyes levelekről screenshotokat is megjelentettek.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-121
+2	Balkanist	Balkanist	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-122|NE=name[ORG]_7
+3	magazin	magazin	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-123
+4	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-124
+5	döntött	dönt	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-125|SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	tokId=w-126
+7	közzéteszi	közzétesz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-127
+8	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-128
+9	e-mailek	e-mail	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-129
+10	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-130
+11	részének	rész	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-131
+12	elemzését	elemzés	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-132|SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	tokId=w-133
+14	egyes	egyes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-134
+15	levelekről	levél	NOUN	_	Case=Del|Number=Plur	_	_	_	tokId=w-135
+16	screenshotokat	screenshot	NOUN	_	Case=Acc|Number=Plur	_	_	_	tokId=w-136
+17	is	is	ADV	_	_	_	_	_	tokId=w-137
+18	megjelentettek	megjelentet	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	_	_	_	tokId=w-138|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-139
+
+# sent_id = globv_12_s-7
+# text = Srećko Šekeljić, a cikk szerzője, egyben a Balkanist társalapítója a következőképp magyarázta a döntést.
+1	Srećko	Srećko	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-140|NE=name[PER]_8
+2	Šekeljić	Šekeljić	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-141|NE=name[PER]_8|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-142
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-143
+5	cikk	cikk	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-144
+6	szerzője	szerző	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-145|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-146
+8	egyben	egyben	ADV	_	_	_	_	_	tokId=w-147
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-148
+10	Balkanist	Balkanist	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-149|NE=name[MISC]_9
+11	társalapítója	társalapító	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-150
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-151
+13	következőképp	következő	NOUN	_	Case=Ess|Number=Sing	_	_	_	tokId=w-152
+14	magyarázta	magyaráz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-153
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-154
+16	döntést	döntés	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-155|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-156
+
+# sent_id = globv_12_s-8
+# text = November 11-én hétfőn a szerb befektetési és export promóciós ügynökség magas beosztású tisztviselőinek több mint háromszáz e-mailjét továbbították a Balkanist címére.
+1	November	november	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-157
+2	11-én	11	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-158
+3	hétfőn	hétfő	ADV	_	_	_	_	_	tokId=w-159
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-160
+5	szerb	szerb	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-161
+6	befektetési	befektetési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-162
+7	és	és	CCONJ	_	_	_	_	_	tokId=w-163
+8	export	export	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-164
+9	promóciós	promóciós	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-165
+10	ügynökség	ügynökség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-166
+11	magas	magas	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-167
+12	beosztású	beosztású	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-168
+13	tisztviselőinek	tisztviselő	NOUN	_	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-169
+14	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-170
+15	mint	mint	SCONJ	_	_	_	_	_	tokId=w-171
+16	háromszáz	háromszáz	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-172
+17	e-mailjét	e-mail	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-173
+18	továbbították	továbbít	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-174
+19	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-175
+20	Balkanist	Balkanist	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-176|NE=name[MISC]_10
+21	címére	cím	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-177|SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	tokId=w-178
+
+# sent_id = globv_12_s-9
+# text = Ha valódinak bizonyulnak, akkor elmondható, hogy korrupció jelenlétére és az ügynökség felelőtlen menedzsmentjére utaló bizonyítékot tartalmaznak.
+1	Ha	ha	SCONJ	_	_	_	_	_	tokId=w-179
+2	valódinak	valódi	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	tokId=w-180
+3	bizonyulnak	bizonyul	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-181|SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-182
+5	akkor	akkor	ADV	_	PronType=Dem	_	_	_	tokId=w-183
+6	elmondható	elmondható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-184|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-185
+8	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-186
+9	korrupció	korrupció	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-187
+10	jelenlétére	jelenlét	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-188
+11	és	és	CCONJ	_	_	_	_	_	tokId=w-189
+12	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-190
+13	ügynökség	ügynökség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-191
+14	felelőtlen	felelőtlen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-192
+15	menedzsmentjére	menedzsment	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-193
+16	utaló	utaló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-194
+17	bizonyítékot	bizonyíték	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-195
+18	tartalmaznak	tartalmaz	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-196|SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	tokId=w-197
+
+# sent_id = globv_12_s-10
+# text = A korrupcióellenes ügynökség megerősítette, hogy az e-mailben kapott levelezés tartalma alapján van okunk arra gyanakodni, hogy bűncselekményt követtek el, amit törvényben előírt kötelezettségünk kivizsgálni.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-198
+2	korrupcióellenes	korrupcióellenes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-199
+3	ügynökség	ügynökség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-200
+4	megerősítette	megerősít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-201|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-202
+6	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-203
+7	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-204
+8	e-mailben	e-mail	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-205
+9	kapott	kapott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-206
+10	levelezés	levelezés	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-207
+11	tartalma	tartalom	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-208
+12	alapján	alapján	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-209
+13	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-210
+14	okunk	ok	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-211
+15	arra	az	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-212
+16	gyanakodni	gyanakszik	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-213|SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	tokId=w-214
+18	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-215
+19	bűncselekményt	bűncselekmény	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-216
+20	követtek	követ	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-217
+21	el	el	ADV	_	_	_	_	_	tokId=w-218|SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-219
+23	amit	ami	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-220
+24	törvényben	törvény	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-221
+25	előírt	előírt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-222
+26	kötelezettségünk	kötelezettség	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	_	_	_	tokId=w-223
+27	kivizsgálni	kivizsgál	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-224|SpaceAfter=No
+28	.	.	PUNCT	_	_	_	_	_	tokId=w-225
+
+# sent_id = globv_12_s-11
+# text = A Balkanist megkérdezte a korrupcióellenes ügynökséget, mit fog kezdeni a SIEPA-tól kiszivárgott információkkal, amire azt a választ kaptuk, hogy a beérkezett anyagot továbbították a belgrádi fellebviteli bíróság államügyészi hivatalának további kivizsgálásra.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-226
+2	Balkanist	Balkanist	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-227|NE=name[ORG]_11
+3	megkérdezte	megkérdez	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-228
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-229
+5	korrupcióellenes	korrupcióellenes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-230
+6	ügynökséget	ügynökség	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-231|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-232
+8	mit	mi	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	_	_	_	tokId=w-233
+9	fog	fog	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-234
+10	kezdeni	kezd	VERB	_	VerbForm=Inf|Voice=Act	_	_	_	tokId=w-235
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-236
+12	SIEPA-tól	SIEPA	PROPN	_	Case=Abl|Number=Sing	_	_	_	tokId=w-237|NE=name[ORG]_12
+13	kiszivárgott	kiszivárgott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-238
+14	információkkal	információ	NOUN	_	Case=Ins|Number=Plur	_	_	_	tokId=w-239|SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	tokId=w-240
+16	amire	ami	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-241
+17	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-242
+18	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-243
+19	választ	válasz	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-244
+20	kaptuk	kap	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-245|SpaceAfter=No
+21	,	,	PUNCT	_	_	_	_	_	tokId=w-246
+22	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-247
+23	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-248
+24	beérkezett	beérkezett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-249
+25	anyagot	anyag	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-250
+26	továbbították	továbbít	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-251
+27	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-252
+28	belgrádi	belgrádi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-253
+29	fellebviteli	fellebviteli	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-254
+30	bíróság	bíróság	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-255
+31	államügyészi	államügyészi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-256
+32	hivatalának	hivatal	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-257
+33	további	további	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-258
+34	kivizsgálásra	kivizsgálás	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-259|SpaceAfter=No
+35	.	.	PUNCT	_	_	_	_	_	tokId=w-260
+

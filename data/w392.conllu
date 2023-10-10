@@ -1,0 +1,266 @@
+# newdoc id = w392
+# sent_id = w392_s-1
+# text = Magyar katonák, honvédek nélkül nem állhat meg a haza, honvédtisztekre mindig szükség lesz, és készen kell állniuk a kihívásokra – fogalmazott.
+1	Magyar	magyar	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-1
+2	katonák	katona	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-2|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-3
+4	honvédek	honvéd	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-4
+5	nélkül	nélkül	ADP	_	_	_	_	_	tokId=w-5
+6	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-6
+7	állhat	áll	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-7
+8	meg	meg	PART	_	_	_	_	_	tokId=w-8
+9	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-9
+10	haza	haza	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-10|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-11
+12	honvédtisztekre	honvédtiszt	NOUN	_	Case=Sbl|Number=Plur	_	_	_	tokId=w-12
+13	mindig	mindig	ADV	_	_	_	_	_	tokId=w-13
+14	szükség	szükség	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-14
+15	lesz	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-15|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-16
+17	és	és	CCONJ	_	_	_	_	_	tokId=w-17
+18	készen	kész	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	_	_	_	tokId=w-18
+19	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-19
+20	állniuk	áll	VERB	_	Number=Plur|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	tokId=w-20
+21	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-21
+22	kihívásokra	kihívás	NOUN	_	Case=Sbl|Number=Plur	_	_	_	tokId=w-22
+23	–	–	X	_	_	_	_	_	tokId=w-23
+24	fogalmazott	fogalmaz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-24|SpaceAfter=No
+25	.	.	PUNCT	_	_	_	_	_	tokId=w-25
+
+# sent_id = w392_s-2
+# text = A központi állami ünnepségen közreműködött a Magyar Rádió Gyermekkórusa és a Magyar Rádió Zenekara.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-26
+2	központi	központi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-27
+3	állami	állami	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-28
+4	ünnepségen	ünnepség	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-29
+5	közreműködött	közreműködik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-30
+6	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-31
+7	Magyar	Magyar	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-32|NE=name[ORG]_1
+8	Rádió	Rádió	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-33|NE=name[ORG]_1
+9	Gyermekkórusa	Gyermekkórus	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-34|NE=name[ORG]_1
+10	és	és	CCONJ	_	_	_	_	_	tokId=w-35
+11	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-36
+12	Magyar	Magyar	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-37|NE=name[ORG]_2
+13	Rádió	Rádió	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-38|NE=name[ORG]_2
+14	Zenekara	Zenekar	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-39|NE=name[ORG]_2|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-40
+
+# sent_id = w392_s-3
+# text = A Duna partján összegyűlt nézők megcsodálhatták, amint egy felfelé végrehajtott orsóval indított,“ az égbe zuhant ”, majd egy késfordulóval folytatta a mutatványt.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-41
+2	Duna	Duna	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-42|NE=name[LOC]_3
+3	partján	part	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-43
+4	összegyűlt	összegyűlt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-44
+5	nézők	néző	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-45
+6	megcsodálhatták	megcsodál	VERB	_	Definite=Def|Mood=Pot|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-46|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-47
+8	amint	amint	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-48
+9	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-49
+10	felfelé	felfelé	ADV	_	_	_	_	_	tokId=w-50
+11	végrehajtott	végrehajtott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-51
+12	orsóval	orsó	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-52
+13	indított	indít	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-53|SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	tokId=w-54|SpaceAfter=No
+15	“	“	PUNCT	_	_	_	_	_	tokId=w-55
+16	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-56
+17	égbe	ég	NOUN	_	Case=Ill|Number=Sing	_	_	_	tokId=w-57
+18	zuhant	zuhan	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-58
+19	”	”	PUNCT	_	_	_	_	_	tokId=w-59|SpaceAfter=No
+20	,	,	PUNCT	_	_	_	_	_	tokId=w-60
+21	majd	majd	ADV	_	_	_	_	_	tokId=w-61
+22	egy	egy	DET	_	Definite=Ind|PronType=Art	_	_	_	tokId=w-62
+23	késfordulóval	késforduló	NOUN	_	Case=Ins|Number=Sing	_	_	_	tokId=w-63
+24	folytatta	folytat	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-64
+25	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-65
+26	mutatványt	mutatvány	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-66|SpaceAfter=No
+27	.	.	PUNCT	_	_	_	_	_	tokId=w-67
+
+# sent_id = w392_s-4
+# text = A Miniszterelnökséget vezető államtitkár a hódmezővásárhelyi önkormányzat ünnepségén azt mondta, már Szent Istvánidején azt jósolták, hogy néhány évszázad múltán nem lesz magyar a Kárpát-medencében .
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-68
+2	Miniszterelnökséget	Miniszterelnökség	PROPN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-69|NE=name[ORG]_4
+3	vezető	vezető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-70
+4	államtitkár	államtitkár	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-71
+5	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-72
+6	hódmezővásárhelyi	hódmezővásárhelyi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-73
+7	önkormányzat	önkormányzat	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-74
+8	ünnepségén	ünnepség	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-75
+9	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-76
+10	mondta	mond	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-77|SpaceAfter=No
+11	,	,	PUNCT	_	_	_	_	_	tokId=w-78
+12	már	már	ADV	_	_	_	_	_	tokId=w-79
+13	Szent	Szent	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-80|NE=name[PER]_5
+14	István	István	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-81|NE=name[PER]_5|SpaceAfter=No
+15	idején	idején	ADV	_	_	_	_	_	tokId=w-82
+16	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-83
+17	jósolták	jósol	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-84|SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	tokId=w-85
+19	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-86
+20	néhány	néhány	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-87
+21	évszázad	évszázad	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-88
+22	múltán	múltán	ADP	_	_	_	_	_	tokId=w-89
+23	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-90
+24	lesz	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-91
+25	magyar	magyar	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-92
+26	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-93
+27	Kárpát-medencében	Kárpát-medence	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-94|NE=name[LOC]_6
+28	.	.	PUNCT	_	_	_	_	_	tokId=w-95
+
+# sent_id = w392_s-5
+# text = Ha ma elolvassuk a statisztikai hivatal jelentését, abban az áll, hogy a jelenlegi tendenciák alapján háromszáz esztendő múlva már csak 540 ezer magyar él majd – tette hozzá a Fidesz országgyűlési képviselője, a város korábbi polgármestre.
+1	Ha	ha	SCONJ	_	_	_	_	_	tokId=w-96
+2	ma	ma	ADV	_	_	_	_	_	tokId=w-97
+3	elolvassuk	elolvas	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-98
+4	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-99
+5	statisztikai	Statisztikai	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-100
+6	hivatal	Hivatal	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-101
+7	jelentését	jelentés	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-102|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-103
+9	abban	az	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-104
+10	az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-105
+11	áll	áll	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-106|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-107
+13	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-108
+14	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-109
+15	jelenlegi	jelenlegi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-110
+16	tendenciák	tendencia	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-111
+17	alapján	alapján	ADP	_	_	_	_	_	tokId=w-112
+18	háromszáz	háromszáz	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-113
+19	esztendő	esztendő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-114
+20	múlva	múlva	ADP	_	_	_	_	_	tokId=w-115
+21	már	már	ADV	_	_	_	_	_	tokId=w-116
+22	csak	csak	ADV	_	_	_	_	_	tokId=w-117
+23	540	540	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-118
+24	ezer	ezer	NUM	_	Case=Nom|Number=Sing|NumType=Card	_	_	_	tokId=w-119
+25	magyar	magyar	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-120
+26	él	él	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-121
+27	majd	majd	ADV	_	_	_	_	_	tokId=w-122
+28	–	–	X	_	_	_	_	_	tokId=w-123
+29	tette	tesz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-124
+30	hozzá	hozzá	ADV	_	_	_	_	_	tokId=w-125
+31	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-126
+32	Fidesz	Fidesz	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-127|NE=name[ORG]_7
+33	országgyűlési	országgyűlési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-128
+34	képviselője	képviselő	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-129|SpaceAfter=No
+35	,	,	PUNCT	_	_	_	_	_	tokId=w-130
+36	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-131
+37	város	város	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-132
+38	korábbi	korábbi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-133
+39	polgármestre	polgármester	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-134|SpaceAfter=No
+40	.	.	PUNCT	_	_	_	_	_	tokId=w-135
+
+# sent_id = w392_s-6
+# text = A maga eszközeivel teremtette meg ezt az egységet, amely nem a politikai erők mutyizásából, nem az elvtelen kompromisszumokból állt, hanem értékrendből – tette hozzá.
+1	A	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-136
+2	maga	maga	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	tokId=w-137
+3	eszközeivel	eszköz	NOUN	_	Case=Ins|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-138
+4	teremtette	teremt	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-139
+5	meg	meg	PART	_	_	_	_	_	tokId=w-140
+6	ezt	ez	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-141
+7	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-142
+8	egységet	egység	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-143|SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-144
+10	amely	amely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	_	_	_	tokId=w-145
+11	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-146
+12	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-147
+13	politikai	politikai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-148
+14	erők	erő	NOUN	_	Case=Nom|Number=Plur	_	_	_	tokId=w-149
+15	mutyizásából	mutyizás	NOUN	_	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-150|SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	tokId=w-151
+17	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-152
+18	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-153
+19	elvtelen	elvtelen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-154
+20	kompromisszumokból	kompromisszum	NOUN	_	Case=Ela|Number=Plur	_	_	_	tokId=w-155
+21	állt	áll	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-156|SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-157
+23	hanem	hanem	CCONJ	_	_	_	_	_	tokId=w-158
+24	értékrendből	értékrend	NOUN	_	Case=Ela|Number=Sing	_	_	_	tokId=w-159
+25	–	–	X	_	_	_	_	_	tokId=w-160
+26	tette	tesz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-161
+27	hozzá	hozzá	ADV	_	_	_	_	_	tokId=w-162|SpaceAfter=No
+28	.	.	PUNCT	_	_	_	_	_	tokId=w-163
+
+# sent_id = w392_s-7
+# text = “ Ma Magyarország jövője nem képzelhető el más szövetségi rendszerben.
+1	“	“	PUNCT	_	_	_	_	_	tokId=w-164
+2	Ma	ma	ADV	_	_	_	_	_	tokId=w-165
+3	Magyarország	Magyarország	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-166|NE=name[LOC]_8
+4	jövője	jövő	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-167
+5	nem	nem	ADV	_	PronType=Neg	_	_	_	tokId=w-168
+6	képzelhető	képzelhető	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-169
+7	el	el	ADV	_	_	_	_	_	tokId=w-170
+8	más	más	DET	_	Definite=Ind|PronType=Ind	_	_	_	tokId=w-171
+9	szövetségi	szövetségi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-172
+10	rendszerben	rendszer	NOUN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-173|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-174
+
+# sent_id = w392_s-8
+# text = Az ellenzéki képviselő kiemelte: Kövér Lászlónak, az Országgyűlés elnökének azután mondták vissza a meghívását a Jeruzsálemben tartandó Raoul Wallenberg-emlékkonferenciára, hogy a házelnök részt vett Nyirő József újratemetésén, majd ezután“ Áder János elment térden csúszva a konferenciára ”.
+1	Az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-175
+2	ellenzéki	ellenzéki	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-176
+3	képviselő	képviselő	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-177
+4	kiemelte	kiemel	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-178|SpaceAfter=No
+5	:	:	PUNCT	_	_	_	_	_	tokId=w-179
+6	Kövér	Kövér	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-180|NE=name[PER]_9
+7	Lászlónak	László	PROPN	_	Case=Gen|Number=Sing	_	_	_	tokId=w-181|NE=name[PER]_9|SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-182
+9	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-183
+10	Országgyűlés	Országgyűlés	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-184|NE=name[ORG]_10
+11	elnökének	elnök	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-185
+12	azután	azután	ADV	_	_	_	_	_	tokId=w-186
+13	mondták	mond	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-187
+14	vissza	vissza	ADV	_	Degree=Pos	_	_	_	tokId=w-188
+15	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-189
+16	meghívását	meghívás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-190
+17	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-191
+18	Jeruzsálemben	Jeruzsálem	PROPN	_	Case=Ine|Number=Sing	_	_	_	tokId=w-192|NE=name[LOC]_11
+19	tartandó	tartandó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-193
+20	Raoul	Raoul	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-194|NE=name[MISC]_12
+21	Wallenberg-emlékkonferenciára	Wallenberg-emlékkonferencia	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-195|NE=name[MISC]_12|SpaceAfter=No
+22	,	,	PUNCT	_	_	_	_	_	tokId=w-196
+23	hogy	hogy	SCONJ	_	_	_	_	_	tokId=w-197
+24	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-198
+25	házelnök	házelnök	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-199
+26	részt	rész	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-200
+27	vett	vesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-201
+28	Nyirő	Nyirő	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-202|NE=name[PER]_13
+29	József	József	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-203|NE=name[PER]_13
+30	újratemetésén	újratemetés	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	_	_	_	tokId=w-204|SpaceAfter=No
+31	,	,	PUNCT	_	_	_	_	_	tokId=w-205
+32	majd	majd	CCONJ	_	_	_	_	_	tokId=w-206
+33	ezután	ezután	ADV	_	_	_	_	_	tokId=w-207|SpaceAfter=No
+34	“	“	PUNCT	_	_	_	_	_	tokId=w-208
+35	Áder	Áder	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-209|NE=name[PER]_14
+36	János	János	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-210|NE=name[PER]_14
+37	elment	elmegy	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-211
+38	térden	térd	NOUN	_	Case=Sup|Number=Sing	_	_	_	tokId=w-212
+39	csúszva	csúszva	ADV	_	VerbForm=Conv	_	_	_	tokId=w-213
+40	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-214
+41	konferenciára	konferencia	NOUN	_	Case=Sbl|Number=Sing	_	_	_	tokId=w-215
+42	”	”	PUNCT	_	_	_	_	_	tokId=w-216|SpaceAfter=No
+43	.	.	PUNCT	_	_	_	_	_	tokId=w-217
+
+# sent_id = w392_s-9
+# text = Szávay István úgy fogalmazott: ez a“ szolgalelkű, szervilis, nyomorult hozzáállás jellemzi az egész magyar diplomáciát. ”
+1	Szávay	Szávay	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-218|NE=name[PER]_15
+2	István	István	PROPN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-219|NE=name[PER]_15
+3	úgy	úgy	ADV	_	PronType=Dem	_	_	_	tokId=w-220
+4	fogalmazott	fogalmaz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-221|SpaceAfter=No
+5	:	:	PUNCT	_	_	_	_	_	tokId=w-222
+6	ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	_	_	_	tokId=w-223
+7	a	a	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-224|SpaceAfter=No
+8	“	“	PUNCT	_	_	_	_	_	tokId=w-225
+9	szolgalelkű	szolgalelkű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-226|SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	tokId=w-227
+11	szervilis	szervilis	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-228|SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	tokId=w-229
+13	nyomorult	nyomorult	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-230
+14	hozzáállás	hozzáállás	NOUN	_	Case=Nom|Number=Sing	_	_	_	tokId=w-231
+15	jellemzi	jellemez	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	tokId=w-232
+16	az	az	DET	_	Definite=Def|PronType=Art	_	_	_	tokId=w-233
+17	egész	egész	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-234
+18	magyar	magyar	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	tokId=w-235
+19	diplomáciát	diplomácia	NOUN	_	Case=Acc|Number=Sing	_	_	_	tokId=w-236|SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	tokId=w-237
+21	”	”	PUNCT	_	_	_	_	_	tokId=w-238
+
