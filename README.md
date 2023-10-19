@@ -5,7 +5,7 @@
 | Language: |  Hungarian |
 | Annotations: | lemma, upos, xpos, xlemma, feats, ner |
 | Source: | [NYTK](https://github.com/nytud/NYTK-NerKor.git") |
-| UDMorph: | [hun-nerkor](https://quest.ms.mff.cuni.cz/teitok-new/teitok/udmorph/hun-nerkor/) |
+| UDMorph: | [hun-nerkor](https://lindat.mff.cuni.cz/services/teitok-live/udmorph/hun-nerkor/) |
 
 ## License and Citation
 
